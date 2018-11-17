@@ -1,7 +1,0 @@
-# K4-B
-# Name: Job Scheduling
-# Background
-# Learning objectives
-# Outcomes
-  *  how workload managers control the unattended background execution of programs or jobs respectively by the help of job queues 
-  *  typical scheduling principles (e.g. first come first served, shortest job first) to achieve objectives like minimizing the averaged elapsed program runtimes, and maximizing the utilization of the available HPC resources 

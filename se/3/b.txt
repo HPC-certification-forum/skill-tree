@@ -1,7 +1,0 @@
-# SE3-B
-# Name: Software Configuration Management
-# Background
-# Learning objectives
-# Outcomes
-  *  the purpose and importance of software configuration management, especially in the context of high performance computing 
-  *  the basic concepts, terms and processes of SCM 

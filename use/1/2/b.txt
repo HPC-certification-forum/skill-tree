@@ -1,7 +1,0 @@
-# USE1.2-B
-# Name: Using Shell Scripts
-# Background
-# Learning objectives
-# Outcomes
-  *  use and write shell scripts 
-  *  use troubleshooting, e.g. to handle syntactic and logical errors in scripts 

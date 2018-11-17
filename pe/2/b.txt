@@ -1,6 +1,0 @@
-# PE2-B
-# Name: Measuring System Performance
-# Background
-# Learning objectives
-# Outcomes
-  *  measure the system performance by the help of standard tools and by profiling in order to assess the runtime behavior of parallel programs 

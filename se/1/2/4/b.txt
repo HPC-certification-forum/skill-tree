@@ -1,7 +1,0 @@
-# SE1.2.4-B
-# Name: Load Balancing
-# Background
-# Learning objectives
-# Outcomes
-  *  apply domain decomposition strategies 
-  *  apply simple scheduling algorithms like task farming to achieve an appropriate distribution of the workloads across the multiple computing resources of the HPC system 

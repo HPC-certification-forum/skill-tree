@@ -1,6 +1,0 @@
-# PE4-B
-# Name: Tuning
-# Background
-# Learning objectives
-# Outcomes
-  *  tune a parallel program in order to achieve better runtimes and to optimize the usage of the HPC resources 

@@ -1,7 +1,0 @@
-# SE1.2.1-B
-# Name: Parallel Algorithms
-# Background
-# Learning objectives
-# Outcomes
-  *  understand that some algorithms are embarrassingly (i.e. trivially) parallelizable while their parallelization will vary from easy to hard in practice 
-  *  determine the computational complexity of algorithms 

@@ -1,7 +1,0 @@
-# SE2.3-B
-# Name: Programming Idioms
-# Background
-  *  This skill conveys programming idioms in general and for specific programming languages in order to help developers to solve recurring programming problems. 
-# Learning objectives
-# Outcomes
-  *  programming idioms for a specific programming language, e.g. FORTRAN, Python, C, C++ 

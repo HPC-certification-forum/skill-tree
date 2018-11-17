@@ -1,7 +1,0 @@
-# K3.4-B
-# Name: Domain Decomposition
-# Background
-# Learning objectives
-# Outcomes
-  *  typical decomposition strategies to split a domain into subdomains to make it suited for parallel processing 
-  *  measures like surface to volume ratio 

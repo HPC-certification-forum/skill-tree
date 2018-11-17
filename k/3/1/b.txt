@@ -1,6 +1,0 @@
-# K3.1-B
-# Name: Parallelization Without Modifying the Source Code
-# Background
-# Learning objectives
-# Outcomes
-  *  the auto parallelization capabilities of current compilers (e.g. to automatically parallelize suitable loops), which are applicable at the intra-node level 

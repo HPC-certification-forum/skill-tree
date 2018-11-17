@@ -1,6 +1,0 @@
-# K-B
-# Name: HPC Knowledge
-# Background
-# Learning objectives
-# Outcomes
-  *  the field of High Performance Computing 

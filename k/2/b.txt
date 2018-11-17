@@ -1,7 +1,0 @@
-# K2-B
-# Name: Performance Modeling
-# Background
-  *  HPC systems are massively parallel and therefore sophisticated parallel programs are required to exploit their performance potential as much as possible. 
-# Learning objectives
-# Outcomes
-  *  how the performance of parallel programs may be assessed 

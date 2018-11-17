@@ -1,8 +1,0 @@
-# SE2-B
-# Name: Programming Best Practices for HPC
-# Background
-  *  This skill provides knowledge about software development best practices that will help scientists to develop high-quality scientific software. 
-# Learning objectives
-# Outcomes
-  *  the best practices from software engineering regarding programming 
-  *  apply programming best practices in order to develop robust and maintainable programs 

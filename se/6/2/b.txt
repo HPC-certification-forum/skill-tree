@@ -1,6 +1,0 @@
-# SE6.2-B
-# Name: Object-Oriented Design
-# Background
-# Learning objectives
-# Outcomes
-  *  understand and use the main concepts of object-orientation (classes, interfaces, polymorphism) to design and implement a program 

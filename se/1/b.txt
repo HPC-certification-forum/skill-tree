@@ -1,9 +1,0 @@
-# SE1-B
-# Name: Programming Concepts for HPC
-# Background
-# Learning objectives
-# Outcomes
-  *  develop programs for HPC 
-  *  develop parallel programs for shared memory systems as well as for message passing systems 
-  *  efficient algorithms and data structures 
-  *  assess the efficiency and suitability of algorithms and data structures for the respective application 

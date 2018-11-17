@@ -1,0 +1,9 @@
+# SE1.2.3-B
+# Name: Programming Message Passing Systems
+# Background
+# Learning objectives
+# Outcomes
+  *  the various communication modes (e.g. blocking vs. non-blocking, point-to-point vs. collective) 
+  *  develop programs using MPI as the de-facto standard for parallelizing programs in distributed environments like HPC cluster systems 
+  *  understand how race conditions and deadlocks may occur in MPI parallelized programs and how they can be avoided, namely by reordering send and receive operations or using non-blocking communication combined with waiting for completion of the communication operations concerned 
+  *  assess the impact of communication and synchronization on the performance of a parallel program 

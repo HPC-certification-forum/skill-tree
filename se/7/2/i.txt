@@ -1,0 +1,8 @@
+# SE7.2-I
+# Name: Software Architecture and Software Design Documentation
+# Background
+  *  In order to preserve knowledge about the main components of the software and the related decisions about why the software have been designed this specific way, it is important to document them. This skill covers how software architecture and design can appropriately be documented, e.g. using templates. 
+# Learning objectives
+# Outcomes
+  *  document the different views of the software architecture according to a specific documentation framework, e.g. 4+1 views, Views and Beyond, architecture decision frameworks (e.g. Taylor, Olaf Zimmermann) 
+  *  apply a modeling language for documenting the design and the architecture, e.g. Unified Modeling Language 

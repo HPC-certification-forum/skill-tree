@@ -1,0 +1,9 @@
+# SE3.2-I
+# Name: Version Control
+# Background
+# Learning objectives
+# Outcomes
+  *  apply Git as a version control system 
+  *  apply SVN as a version control system 
+  *  advanced git concepts, such as pull requests, branches, tags, submodules etc. 
+  *  different types of workflows, such as Feature Branch Workflow, Gitflow Workflow, Centralized Workflow, Forking Worfklow 

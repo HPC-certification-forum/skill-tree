@@ -1,0 +1,7 @@
+# SE7.1-B
+# Name: Requirements Documentation
+# Background
+# Learning objectives
+# Outcomes
+  *  understand which information needs to be captured in a requirements document 
+  *  the IEEE standard for software requirements specification for a structured requirement specification 

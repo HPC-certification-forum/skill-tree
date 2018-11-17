@@ -1,0 +1,7 @@
+# PE3-B
+# Name: Benchmarking
+# Background
+# Learning objectives
+# Outcomes
+  *  assess speedups and efficiencies as the key measures for benchmarks of a parallel program 
+  *  benchmark the runtime behavior of parallel programs, performing controlled experiments by providing varying HPC resources (e.g. 1, 2, 4, 8, ... cores on shared memory systems or 1, 2, 4, 8, ... nodes on distributed systems for the benchmarks) 

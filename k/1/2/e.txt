@@ -1,0 +1,8 @@
+# K1.2-E
+# Name: Hardware Architectures
+# Background
+# Learning objectives
+# Outcomes
+  *  parallelization techniques at the instruction level of a processing element (e.g. pipelining, SIMD processing) 
+  *  hybrid approaches, e.g. combining CPUs with GPUs or FPGAs 
+  *  typical network topologies and architectures used for HPC systems, like fat trees based on switched fabrics using e.g. fast Ethernet (1 or 10 Gbit) or InfiniBand 

@@ -1,0 +1,6 @@
+# SE5-E
+# Name: Software Quality
+# Background
+# Learning objectives
+# Outcomes
+  *  assess and improve the quality of the software especially with respect to functionality and maintainability 

@@ -1,0 +1,13 @@
+# USE2-E
+# Name: Running of Parallel Programs
+# Background
+# Learning objectives
+# Outcomes
+  *  use the command line interface 
+  *  write robust job scripts, e.g. to simplify job submissions by the help of automated job chaining 
+  *  select the appropriate software environment 
+  *  consider cost aspects 
+  *  measure system performance as a basis for benchmarking a parallel program 
+  *  benchmark a parallel program 
+  *  tune a parallel program from the outside via runtime options 
+  *  apply the workflow for tuning 

@@ -1,0 +1,5 @@
+# SE2-I
+# Name: Programming Best Practices for HPC
+# Background
+# Learning objectives
+# Outcomes

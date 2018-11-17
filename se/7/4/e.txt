@@ -1,0 +1,7 @@
+# SE7.4-E
+# Name: Documentation for Reproducibility
+# Background
+# Learning objectives
+# Outcomes
+  *  software engineering methods and practices especially in the context of high performance computing 
+  *  develop parallel programs and to apply software engineering methods and best practices 

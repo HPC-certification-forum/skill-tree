@@ -1,0 +1,5 @@
+# SE3-I
+# Name: Software Configuration Management
+# Background
+# Learning objectives
+# Outcomes

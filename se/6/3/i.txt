@@ -1,0 +1,12 @@
+# SE6.3-I
+# Name: Software Architecture
+# Background
+# Learning objectives
+# Outcomes
+  *  describe the software architecture of a scientific applications, what the most critical architecture decisions are, what the main structures of the system are, what the interfaces of the systems are, how they are designed and how components communicate with each other 
+  *  understand which software architecture patterns are typical for a specific type of scientific application and which aspects (e.g. quality attributes) they address 
+  *  apply design patterns to HPC, e.g. patterns for coding of parallel algorithms and their mapping to various architectures 
+  *  reference architectures for scientific applications 
+  *  architectural tactics for performance, scalability etc. 
+  *  apply software architecture principles during architecture design 
+  *  the characteristics and the architectural challenges of data-intensive and compute-intensive software systems and how they can be appropriately addressed 

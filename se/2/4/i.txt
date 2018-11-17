@@ -1,0 +1,8 @@
+# SE2.4-I
+# Name: Logging
+# Background
+# Learning objectives
+# Outcomes
+  *  logging demands and challenges especially for distributed systems 
+  *  choose the most appropriate log format for the context 
+  *  apply structured logging and text logging 

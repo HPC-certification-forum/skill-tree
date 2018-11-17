@@ -1,0 +1,6 @@
+# SE1.1-E
+# Name: Programming Languages
+# Background
+# Learning objectives
+# Outcomes
+  *  use program language extensions used in HPC environments, such as HPX, Cilk 

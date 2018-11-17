@@ -1,0 +1,6 @@
+# K3.2-I
+# Name: Level of Parallelization
+# Background
+# Learning objectives
+# Outcomes
+  *  parallelization techniques at the intra-node level (e.g. based on advanced OpenMP features and GPU-computing) 

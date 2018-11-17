@@ -1,0 +1,11 @@
+# SE6.3-E
+# Name: Software Architecture
+# Background
+# Learning objectives
+# Outcomes
+  *  design the application as a plugin architecture so that the functionality can be extended more easily 
+  *  design the software architecture of the system based on software architecture patterns 
+  *  develop an HPC application according to a reference architecture and adhering to the standards/guidelines given by the reference architecture 
+  *  component-based software architecture for scientific applications and ability to apply component-based architecture design 
+  *  architecture bad smells 
+  *  identify sub-optimal design decisions in architecture designs (e.g. sub-optimal communication between components) 

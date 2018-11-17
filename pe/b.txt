@@ -1,0 +1,6 @@
+# PE-B
+# Name: Performance Engineering
+# Background
+# Learning objectives
+# Outcomes
+  *  use systematic approaches (e.g. benchmarking and tuning, cost models) to meet performance requirements in a cost-effective way, i.e. by reducing the runtimes of parallel programs and using the resources of the HPC system appropriately for that purpose 

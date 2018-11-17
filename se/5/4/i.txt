@@ -1,0 +1,8 @@
+# SE5.4-I
+# Name: Code Reviews
+# Background
+# Learning objectives
+# Outcomes
+  *  define checklists for code reviews 
+  *  conduct code reviews in pairs or in a team 
+  *  document code review results and resulting tasks in an issue tracking system (for example Jira) 

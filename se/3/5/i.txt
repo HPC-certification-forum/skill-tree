@@ -1,0 +1,9 @@
+# SE3.5-I
+# Name: Deployment Management
+# Background
+# Learning objectives
+# Outcomes
+  *  the basics of dependency management for different programming languages 
+  *  use advanced software building environments like Scons and Waf 
+  *  to undestand challenges for Portability e.g. for the source code of programs and job scripts to avoid typical compiler-, linker-, and MPI-issues. 
+  *  use a software build and installation framework like EasyBuild 

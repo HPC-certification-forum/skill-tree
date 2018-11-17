@@ -1,0 +1,6 @@
+# SE4.3-B
+# Name: SCRUM
+# Background
+# Learning objectives
+# Outcomes
+  *  the concepts of SCRUM, e.g. Sprint, Backlog, Planning, Daily meetings/Stand up meeting, project velocity 

@@ -1,0 +1,6 @@
+# SE4.2-I
+# Name: Extreme Programming
+# Background
+# Learning objectives
+# Outcomes
+  *  apply the principles in the context of an HPC project 

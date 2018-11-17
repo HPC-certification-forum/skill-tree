@@ -1,0 +1,7 @@
+# SE5.4-E
+# Name: Code Reviews
+# Background
+# Learning objectives
+# Outcomes
+  *  use a review system like Gerrit to organize the code reviews 
+  *  document code review results and resulting tasks in an issue tracking system (for example Jira) 

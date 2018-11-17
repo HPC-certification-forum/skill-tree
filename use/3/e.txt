@@ -1,0 +1,10 @@
+# USE3-E
+# Name: Building of Parallel Programs
+# Background
+# Learning objectives
+# Outcomes
+  *  run parallel programs in an HPC environment 
+  *  use a linker and to assess the effects of advanced linker specific options and environment variables (e.g. LIBRARY_PATH) 
+  *  configure the relevant settings (e.g. by setting compiler and linker options), which determine how the application ought to be build with regard to advanced parallelization technique(s) used (e.g. CUDA) 
+  *  use the profile guided optimization (PGO) technique 
+  *  use software building environments like Scons, Waf, make, Autotools, CMake 

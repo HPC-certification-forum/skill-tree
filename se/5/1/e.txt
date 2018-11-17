@@ -1,0 +1,6 @@
+# SE5.1-E
+# Name: Coding Standards
+# Background
+# Learning objectives
+# Outcomes
+  *  define and establish coding standards and conventions in a project 

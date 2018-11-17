@@ -1,0 +1,9 @@
+# PE4.3-E
+# Name: Tuning via Reprogramming
+# Background
+  *  The potential for tuning via reprogramming exists on the hardware as well as on the software level. At the software level, performance improvements are achievable by using more efficient algorithms. This is explained by the help of popular practice-relevant examples. 
+# Learning objectives
+# Outcomes
+  *  run parallel programs in an HPC environment 
+  *  reprogram appropriate parallel code for improved performance on the processing element level e.g. by using functional units (for executing fused multiply-add instructions and variants thereof), by using vectorization techniques with SIMD instructions, etc. 
+  *  assess how appropriate computationally intensive functions (which have been identified earlier by profiling the parallel program) can be ported to many core archictures like GPUs to achieve further speedups 

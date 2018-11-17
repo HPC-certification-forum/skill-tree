@@ -1,0 +1,5 @@
+# SE1.2-I
+# Name: Parallel Programming
+# Background
+# Learning objectives
+# Outcomes

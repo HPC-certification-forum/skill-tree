@@ -1,0 +1,6 @@
+# K4-I
+# Name: Job Scheduling
+# Background
+# Learning objectives
+# Outcomes
+  *  advanced scheduling principles (e.g. backfilling) to achieve objectives like minimizing the averaged elapsed program runtimes, and maximizing the utilization of the available HPC resources 

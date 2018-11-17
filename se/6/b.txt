@@ -1,0 +1,6 @@
+# SE6-B
+# Name: Software Design and Software Architecture
+# Background
+# Learning objectives
+# Outcomes
+  *  design and develop programs on a higher level of abstraction by applying software architecture and object-oriented design 

@@ -1,0 +1,6 @@
+# K2.2-I
+# Name: Bounds for a Parallel Program
+# Background
+# Learning objectives
+# Outcomes
+  *  how performance bounds of the various components of the HPC system (e.g. network, I/O) can limit the overall performance of a parallel program 

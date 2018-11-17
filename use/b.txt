@@ -1,0 +1,6 @@
+# USE-B
+# Name: Use of the HPC Environment
+# Background
+# Learning objectives
+# Outcomes
+  *  use a cluster operating system as well as to run, build, and develop parallel programs 

@@ -1,0 +1,11 @@
+# PE2.2-B
+# Name: Profiling
+# Background
+  *  Profiling is explained for the CPU level, where it can be supported by hardware performance counters and by sampling techniques. 
+  *  Sampling is used to see, by examining the program counter, what routines and source code lines of a program are responsible for which portions of the total runtime. 
+  *  Automatically adding trace code to a parallel program by so-called instrumentation to record its execution in a strict chronology is explained and the difference to profiling is emphasized. 
+  *  Similar techniques are explained for profiling the network level (e.g. based on InfiniBand counters and I/O server states). 
+# Learning objectives
+# Outcomes
+  *  detect performance issues and bottlenecks caused, for example, by inefficient programming, memory accesses, I/O operations, cache-misses, page-faults, and parallelization overheads 
+  *  use environment variables like $I_MPI_STATS to control the built-in performance analysis functionality in MPI 

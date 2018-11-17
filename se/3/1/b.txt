@@ -1,0 +1,7 @@
+# SE3.1-B
+# Name: Terminology (IEEE Standard)
+# Background
+# Learning objectives
+# Outcomes
+  *  the basics of SCM from the IEEE standards (e.g. IEEE-Standard 729-1983, IEEE 828: Software Configuration Management Plans, IEEE 1042: Guide to Software Configuration Management 
+  *  terms like Configuration Item, Baseline, SCM Directories, Version, Revision, Release 

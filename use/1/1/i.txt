@@ -1,0 +1,7 @@
+# USE1.1-I
+# Name: Use of the Command Line Interface
+# Background
+# Learning objectives
+# Outcomes
+  *  use regular expressions to select or filter several items at once (e.g. file content) 
+  *  access local and remote files using enhanced features (e.g. via SSHFS) in remote sessions 

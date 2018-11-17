@@ -1,0 +1,7 @@
+# SE1.2.4-I
+# Name: Load Balancing
+# Background
+# Learning objectives
+# Outcomes
+  *  apply domain decomposition strategies 
+  *  apply more sophisticated approaches e.g. based on tree structures like divide-and-conquer or work-stealing to achieve an appropriate distribution of the workloads across the multiple computing resources of the HPC system 

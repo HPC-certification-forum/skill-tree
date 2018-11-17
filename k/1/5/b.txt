@@ -1,0 +1,7 @@
+# K1.5-B
+# Name: Supercomputing and Big Data
+# Background
+  *  In the recent past, Supercomputing as well as the analysis of Big Data are increasingly growing in importance for scientific research. 
+# Learning objectives
+# Outcomes
+  *  Supercomputing and Big Data 

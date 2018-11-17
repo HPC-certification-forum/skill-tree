@@ -1,0 +1,7 @@
+# PE1-E
+# Name: Cost Awareness
+# Background
+# Learning objectives
+# Outcomes
+  *  assess the costs related to the runtimes of parallel programs against the background of cost models 
+  *  assess the ratio of personnel costs to resource costs against the background of break-even considerations and time to solution constraints 

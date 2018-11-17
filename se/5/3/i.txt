@@ -1,0 +1,7 @@
+# SE5.3-I
+# Name: Refactoring
+# Background
+# Learning objectives
+# Outcomes
+  *  apply common code refactorings in order to improve code quality, such as extract method, extract class, rename class and when it is suitable to apply which refactoring 
+  *  apply refactoring that are specific to programming languages (e.g. Fortran) 

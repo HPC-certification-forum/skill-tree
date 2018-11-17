@@ -1,0 +1,8 @@
+# K1-B
+# Name: Supercomputers
+# Background
+# Learning objectives
+# Outcomes
+  *  various system-, hardware-, and I/O-architectures used for supercomputers, i.e. computers that led the world in terms of processing capacity, and particularly in speed of calculations, at the time of their introduction, or share key architectural aspects with these computers 
+  *  typical operation of data and computing centers 
+  *  the differentiation between Supercomputing and Big Data 

@@ -1,0 +1,7 @@
+# SE2.4-E
+# Name: Logging
+# Background
+# Learning objectives
+# Outcomes
+  *  develop, maintain, and document a consistent logging concept for a program 
+  *  implement a logging concept for a program in a specific programming language, e.g. FORTRAN, C, C++ 

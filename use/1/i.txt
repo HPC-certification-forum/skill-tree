@@ -1,0 +1,6 @@
+# USE1-I
+# Name: Use of the Cluster Operating System
+# Background
+# Learning objectives
+# Outcomes
+  *  use and write shell scripts e.g. to automatically execute several commands in a row in order to automate more complex tasks 

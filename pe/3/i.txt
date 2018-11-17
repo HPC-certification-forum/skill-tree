@@ -1,0 +1,8 @@
+# PE3-I
+# Name: Benchmarking
+# Background
+# Learning objectives
+# Outcomes
+  *  assess speedups and efficiencies as the key measures for benchmarks of a parallel program 
+  *  differentiate between strong and weak scaling 
+  *  assess the performance characteristics of parallel programs with regard to CPU usage, memory accesses (e.g. latencies for random access, cache sizes, strided access patterns, and bandwidth), I/O operations (e.g. record length, IOPs, latency, bandwidth, throughput, and multi-stream processing), and communication (message sizes, network bandwidth and latency) 

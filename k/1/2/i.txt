@@ -1,0 +1,6 @@
+# K1.2-I
+# Name: Hardware Architectures
+# Background
+# Learning objectives
+# Outcomes
+  *  special or application-specific hardware (e.g. TPUs) 

@@ -1,0 +1,8 @@
+# SE1.2-B
+# Name: Parallel Programming
+# Background
+  *  Parallel programming of shared memory systems and message passing systems as well as load balancing is addressed. 
+# Learning objectives
+# Outcomes
+  *  assess the parallel nature of algorithms 
+  *  develop parallel programs 

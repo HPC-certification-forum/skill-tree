@@ -1,0 +1,8 @@
+# SE2.5-I
+# Name: Exception Handling
+# Background
+# Learning objectives
+# Outcomes
+  *  use best practices for exception handling 
+  *  understand how exception handling is supported in a specific programming language, e.g. FORTRAN, C (e.g. <errno.h>), C++ (i.e. try, catch, throw) 
+  *  apply appropriate exception handling in a specific programming language 

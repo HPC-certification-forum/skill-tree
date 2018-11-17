@@ -1,0 +1,13 @@
+# SE3.4-B
+# Name: Release Management
+# Background
+  *  The benefits of release management are explained. Moreover, it is covered how software releases are managed according to a well-defined and consistent process. 
+# Learning objectives
+# Outcomes
+  *  the basics of release management and what the benefits are of applying a release management process in the context of high performance computing "fault", "failure", and "error" 
+  *  the differences between Major Release, Minor Release, Emergency Fix (and potentially other types of releases) and what should be contained in each of them 
+  *  the tasks and steps of release management 
+  *  the steps of the deployment process of the release version and the required dependencies 
+  *  best practices of making releases identifiable via version numbers using appropriate version numbering scheme (e.g. using the version control system) 
+  *  the lifecycle of a release (including states such as stable, unstable) 
+  *  different frameworks of release planning and management, e.g. SCRUM release planning or ITIL 

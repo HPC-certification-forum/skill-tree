@@ -1,0 +1,7 @@
+# SE1.1-I
+# Name: Programming Languages
+# Background
+# Learning objectives
+# Outcomes
+  *  program in advanced languages typically used in HPC environments, such as C++, Python 
+  *  use interoperability between languages, for example by calling C or C++ from FORTRAN and vice versa 

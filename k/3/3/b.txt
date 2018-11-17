@@ -1,0 +1,7 @@
+# K3.3-B
+# Name: Parallelization Overheads
+# Background
+# Learning objectives
+# Outcomes
+  *  the various overheads, i.e. overheads for communication, synchronization 
+  *  the problems of load imbalances 

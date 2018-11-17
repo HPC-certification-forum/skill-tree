@@ -1,0 +1,6 @@
+# SE4.2-B
+# Name: Extreme Programming
+# Background
+# Learning objectives
+# Outcomes
+  *  the principles of extreme programming and when to apply it 

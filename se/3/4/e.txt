@@ -1,0 +1,6 @@
+# SE3.4-E
+# Name: Release Management
+# Background
+# Learning objectives
+# Outcomes
+  *  apply frameworks of release planning and management like SCRUM release planning or ITIL 

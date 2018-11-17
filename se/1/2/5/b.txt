@@ -1,0 +1,6 @@
+# SE1.2.5-B
+# Name: I/O Programming
+# Background
+# Learning objectives
+# Outcomes
+  *  assess general concepts of HPC I/O systems (e.g. parallel file systems) and how to map the data model to the storage system, e.g. by using appropriate I/O libraries and middleware architectures 

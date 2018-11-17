@@ -1,0 +1,6 @@
+# SE2.3-E
+# Name: Programming Idioms
+# Background
+# Learning objectives
+# Outcomes
+  *  recognize where programming idioms are violated and to refactor the code to comply to a specific programming idom 

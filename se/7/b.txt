@@ -1,0 +1,8 @@
+# SE7-B
+# Name: Documentation
+# Background
+# Learning objectives
+# Outcomes
+  *  appropriately document the entire software system 
+  *  to provide a user documentation 
+  *  provide a documentation for developers (e.g. describing the software architecture, for extending the software etc.) 

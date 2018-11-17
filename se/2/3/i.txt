@@ -1,0 +1,6 @@
+# SE2.3-I
+# Name: Programming Idioms
+# Background
+# Learning objectives
+# Outcomes
+  *  apply programming idioms for a specific programming language, e.g. FORTRAN, Python, C, C++ 

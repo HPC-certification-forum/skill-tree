@@ -1,0 +1,8 @@
+# PE2.2-E
+# Name: Profiling
+# Background
+# Learning objectives
+# Outcomes
+  *  detect performance issues and bottlenecks caused, for example, by inefficient programming, memory accesses, I/O operations, cache-misses, page-faults, and parallelization overheads 
+  *  use advanced performance analysis tools like Vampir 
+  *  use the standard MPI profiling interface (PMPI) to control the built-in performance analysis functionality in MPI 

@@ -1,0 +1,7 @@
+# K3.2-B
+# Name: Level of Parallelization
+# Background
+# Learning objectives
+# Outcomes
+  *  parallelization techniques at the intra-node level (e.g. based on basic OpenMP features) 
+  *  the message passing paradigm based on environments like MPI, which is the de-facto standard at the inter-node level for parallelizing programs using more than a single node 

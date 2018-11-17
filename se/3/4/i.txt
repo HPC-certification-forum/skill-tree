@@ -1,0 +1,9 @@
+# SE3.4-I
+# Name: Release Management
+# Background
+# Learning objectives
+# Outcomes
+  *  classify releases according to release categories (e.g. major, minor, emergency fix) 
+  *  plan and manage releases of scientific software and to document the release including the release notes 
+  *  apply best practices to make a release identifiable via version numbers using appropriate version numbering scheme (e.g. using the version control system) 
+  *  find the best release management process for the team (e.g. dependending on team size etc.) 

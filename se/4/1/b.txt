@@ -1,0 +1,9 @@
+# SE4.1-B
+# Name: Test-driven Development and Agile Testing
+# Background
+# Learning objectives
+# Outcomes
+  *  the challenges of testing scientific applications 
+  *  understand test-driven and test-first concepts and understanding the benefits 
+  *  understand what constitutes a test strategy 
+  *  understand that there are different test types, e.g. given by the test pyramid 

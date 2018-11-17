@@ -1,0 +1,8 @@
+# USE1-B
+# Name: Use of the Cluster Operating System
+# Background
+  *  HPC systems are usually accessed via a command line interface (CLI). The user acquires skills to use a – generally Linux based – CLI to interact with the HPC system. 
+# Learning objectives
+# Outcomes
+  *  use and write shell scripts e.g. to automatically execute several commands in a row that otherwise would have to be entered manually one by one and to automate simple tasks 
+  *  select the right environment setting to build programs with the proper compiler, linker, and libraries versions or to run programs 

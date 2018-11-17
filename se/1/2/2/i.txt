@@ -1,0 +1,9 @@
+# SE1.2.2-I
+# Name: Programming Shared Memory Systems
+# Background
+# Learning objectives
+# Outcomes
+  *  assess parallel concepts typically used for shared memory systems, e.g. to exploit temporal locality by data reuse with an efficient utilization of the memory hierarchy 
+  *  assess concepts like software pipelining, and vectorization principles 
+  *  assess the influence of control dependencies by jumps, branches, and function calls, e.g. on pipeline filling 
+  *  assess the applicability of parallel language extensions like OpenACC, and C++ AMP 

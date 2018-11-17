@@ -1,0 +1,6 @@
+# SE6.2-E
+# Name: Object-Oriented Design
+# Background
+# Learning objectives
+# Outcomes
+  *  apply design patterns for HPC 

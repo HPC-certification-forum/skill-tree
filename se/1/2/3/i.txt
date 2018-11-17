@@ -1,0 +1,6 @@
+# SE1.2.3-I
+# Name: Programming Message Passing Systems
+# Background
+# Learning objectives
+# Outcomes
+  *  assess the impact of communication and synchronization on the performance of a parallel program 

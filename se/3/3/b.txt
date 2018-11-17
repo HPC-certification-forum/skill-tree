@@ -1,0 +1,7 @@
+# SE3.3-B
+# Name: Issue Tracking and Bug Tracking
+# Background
+# Learning objectives
+# Outcomes
+  *  concepts of issue/bug tracking systems and their basic concepts like task, sub-task, new feature, story, release planning, sprint planning in order to structure and organize the development process (e.g. assigning tasks to developers, reporting bugs, writing user stories, managing the stages of an issue (to do, in progress, in review, done) etc.) 
+  *  different issue tracking systems, like Jira or Redmine 

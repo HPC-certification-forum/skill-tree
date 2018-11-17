@@ -1,0 +1,7 @@
+# K1.3-I
+# Name: I/O Architectures
+# Background
+# Learning objectives
+# Outcomes
+  *  standard file systems like Ext3, Ext4, XFS, and Btrfs and distributed file systems like Lustre, and BeeGFS 
+  *  when to use data compression 

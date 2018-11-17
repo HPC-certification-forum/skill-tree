@@ -1,0 +1,7 @@
+# SE6.1-B
+# Name: Requirements Elicitation and Analysis
+# Background
+  *  Requirements elicitation, analysis and documentation are important, but often neglected, stages in developing scientific computing software. That is why the user will learn how to follow a systematic approach in order to appropriately collect and analyse requirements for the application and how to capture assumptions and constraints. Following this approach will help the user to significantly improve quality of scientific software. 
+# Learning objectives
+# Outcomes
+  *  the role of requirements elicitation and analysis during software development 

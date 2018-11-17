@@ -1,0 +1,7 @@
+# K3.3-I
+# Name: Parallelization Overheads
+# Background
+# Learning objectives
+# Outcomes
+  *  the overheads caused by redundant computations 
+  *  the problems of execution speed noise (OS jitter, cache contention, thermal throttling, etc.), and typical trade-offs (e.g. reducing the synchronization overhead by increasing the communication overhead) 

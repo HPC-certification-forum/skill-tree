@@ -1,0 +1,7 @@
+# SE5-I
+# Name: Software Quality
+# Background
+  *  The benefits of software quality (functional and non-functional) are presented. Additionally, codings standards are covered helping developers to increase the quality of the code for better maintainability. 
+# Learning objectives
+# Outcomes
+  *  have the awareness of technical debt during software development and how to pay technical debt 

@@ -1,0 +1,6 @@
+# SE5.1-I
+# Name: Coding Standards
+# Background
+# Learning objectives
+# Outcomes
+  *  adhere to coding standards and conventions in a project 

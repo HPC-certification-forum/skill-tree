@@ -1,0 +1,6 @@
+# SE1.3-B
+# Name: Efficient Algorithms and Data Structures
+# Background
+# Learning objectives
+# Outcomes
+  *  assess the efficiency of algorithms and data structures, especially with respect to their suitability for typical (scientific) (parallel) programs, e.g. by the help of popular practice-relevant examples 

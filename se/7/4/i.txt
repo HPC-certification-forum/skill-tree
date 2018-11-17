@@ -1,0 +1,8 @@
+# SE7.4-I
+# Name: Documentation for Reproducibility
+# Background
+# Learning objectives
+# Outcomes
+  *  document all necessary information for end-users so that they are able to reproduce the results 
+  *  document the software stack, build instructions, input data, results etc. 
+  *  use tools for literate programming like activepapers knitr, or jupyter to document all necessary information for end-users so that they are able to reproduce the results especially in the context of concurrency 

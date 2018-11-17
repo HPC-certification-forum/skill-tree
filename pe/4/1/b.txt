@@ -1,0 +1,6 @@
+# PE4.1-B
+# Name: Tuning without Building a Parallel Program
+# Background
+# Learning objectives
+# Outcomes
+  *  select appropriate tasks sizes (big vs. small) that may have positive performance impacts on the workflow, and to run several (smaller) tasks by the help of job chaining 

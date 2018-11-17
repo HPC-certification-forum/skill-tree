@@ -1,0 +1,8 @@
+# SE5.2-E
+# Name: Code Quality
+# Background
+  *  The user learns how to use practices and methods from software engineering that are especially important for high performance engineering. 
+# Learning objectives
+# Outcomes
+  *  software engineering methods and practices especially in the context of high performance computing 
+  *  develop parallel programs and to apply software engineering methods and best practices 

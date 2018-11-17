@@ -1,0 +1,8 @@
+# SE6.2-I
+# Name: Object-Oriented Design
+# Background
+# Learning objectives
+# Outcomes
+  *  design patterns for HPC 
+  *  write modular, reusable code by applying software design principles like Separation of concerns, loose coupling, information hiding, DRY, KISS etc. (following best practices like Clean Code by Robert C. Martin) 
+  *  apply object-oriented design and programming to scientific applications 

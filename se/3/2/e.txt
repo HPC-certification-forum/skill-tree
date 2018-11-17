@@ -1,0 +1,7 @@
+# SE3.2-E
+# Name: Version Control
+# Background
+# Learning objectives
+# Outcomes
+  *  apply a specific workflow, such as Feature Branch Workflow, Gitflow Workflow, Centralized Workflow, Forking Worfklow 
+  *  apply advanced git concepts and commands 

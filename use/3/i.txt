@@ -1,0 +1,11 @@
+# USE3-I
+# Name: Building of Parallel Programs
+# Background
+# Learning objectives
+# Outcomes
+  *  run parallel programs in an HPC environment 
+  *  use a compiler and to asses the effects of optimization switches available for compilers commercially available (e.g. PGI, NAG) 
+  *  use efficient open source libraries (e.g. OpenBLAS, FFTW) or highly optimized vendor libraries (e.g. Intel-MKL, IBM-ESSL) 
+  *  configure the relevant settings (e.g. by setting compiler and linker options), which determine how the application ought to be build with regard to the parallelization technique(s) used (e.g. OpenACC, C++ AMP) 
+  *  use the profile guided optimization (PGO) technique 
+  *  use software building environments like Scons, Waf, make, Autotools, CMake 

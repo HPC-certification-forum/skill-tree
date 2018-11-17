@@ -1,0 +1,7 @@
+# SE7.3-B
+# Name: Source Code Documentation
+# Background
+# Learning objectives
+# Outcomes
+  *  appropriately document source code using documentation generators like doxygen, pydoc, or sphinx 
+  *  produce a consistent source code documentation according to guidelines and best practices 

@@ -1,0 +1,12 @@
+# SE1.2.2-B
+# Name: Programming Shared Memory Systems
+# Background
+  *  The parallel concepts of threads and processes are introduced and their impacts on performance are outlined. 
+# Learning objectives
+# Outcomes
+  *  understand race conditions and to use synchronization mechanisms to avoid them 
+  *  understand the problems that may result from erroneous use of synchronization mechanisms (e.g. deadlocks) 
+  *  assess data dependency situations, i.e. an instruction reading the data written by a preceding instruction in the source code, and anti dependencies, i.e. an instruction having to read data before a succeeding instruction overwrites it, and output dependencies, i.e. instructions writing to the same memory location 
+  *  use data parallelism, e.g. applying parallel streams of identical instructions to different elements of appropriate data structures such as arrays 
+  *  the concept of functional parallelism, i.e. executing a set of distinct functions possibly using the same data 
+  *  assess the applicability of parallel language extensions like OpenMP 

@@ -5,5 +5,5 @@
 # Outcomes
   *  the definitions for key terms like speedup, efficiency, and scalability 
   *  the key measure floating point operations per second (FLOPS) for the performance of HPC systems and its pitfalls 
-  *  Moore’s law and its significance for performance frontiers in modern HPC 
+  *  Moore’s law and the Gustafson–Barsis's law and their significance for performance frontiers in modern HPC 
   *  Amdahl’s law and its significance for performance frontiers in modern HPC 

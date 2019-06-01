@@ -3,5 +3,6 @@
 # Background
 # Aim
 # Outcomes
-  *  various system-, hardware-, and I/O-architectures used for supercomputers, i.e. shared memory systems, distributed systems, and cluster systems 
-  *  the typical architecture of cluster systems consisting of nodes with different roles (e.g. so-called head, login, compute, interactive, visualization nodes, etc.) 
+  * various system-, hardware-, and I/O-architectures used for supercomputers, i.e. shared memory systems, distributed systems, and cluster systems
+  * physical hardware; chassis/rack, computer system units, interconnect, power., compute node architecture with memory, local disk, and sockets
+  * typical architecture of cluster systems consisting of nodes with different roles (e.g. so-called head, login, compute, interactive, visualization nodes, etc.) 

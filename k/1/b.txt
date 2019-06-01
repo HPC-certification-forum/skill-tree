@@ -3,6 +3,7 @@
 # Background
 # Aim
 # Outcomes
-  *  various system-, hardware-, and I/O-architectures used for supercomputers, i.e. computers that led the world in terms of processing capacity, and particularly in speed of calculations, at the time of their introduction, or share key architectural aspects with these computers 
-  *  typical operation of data and computing centers 
-  *  the differentiation between Supercomputing and Big Data 
+  * various system-, hardware-, and I/O-architectures used for supercomputers, i.e. computers that led the world in terms of processing capacity, and particularly in speed of calculations, at the time of their introduction, or share key architectural aspects with these computers
+  * typical operation of data and computing centers 
+  * differentiation between supercomputers, high-performance computers, clusters, research computing.
+  * different metrics to calculate supercomputing performance (e.g., Linpack, HPCChallenge, GreenHPC etc)

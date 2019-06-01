@@ -1,7 +1,7 @@
 # SE1.2.3-B
 # Name: Programming Message Passing Systems
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  the various communication modes (e.g. blocking vs. non-blocking, point-to-point vs. collective) 
   *  develop programs using MPI as the de-facto standard for parallelizing programs in distributed environments like HPC cluster systems 

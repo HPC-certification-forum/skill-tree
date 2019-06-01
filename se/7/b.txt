@@ -1,7 +1,7 @@
 # SE7-B
 # Name: Documentation
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  appropriately document the entire software system 
   *  to provide a user documentation 

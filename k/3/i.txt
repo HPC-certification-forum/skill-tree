@@ -1,5 +1,5 @@
 # K3-I
 # Name: Program Parallelization
 # Background
-# Learning objectives
+# Aim
 # Outcomes

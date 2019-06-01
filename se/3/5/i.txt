@@ -1,7 +1,7 @@
 # SE3.5-I
 # Name: Deployment Management
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  the basics of dependency management for different programming languages 
   *  use advanced software building environments like Scons and Waf 

@@ -1,7 +1,7 @@
 # SE1.2.2-I
 # Name: Programming Shared Memory Systems
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  assess parallel concepts typically used for shared memory systems, e.g. to exploit temporal locality by data reuse with an efficient utilization of the memory hierarchy 
   *  assess concepts like software pipelining, and vectorization principles 

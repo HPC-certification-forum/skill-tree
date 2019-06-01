@@ -1,7 +1,7 @@
 # PE3-I
 # Name: Benchmarking
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  assess speedups and efficiencies as the key measures for benchmarks of a parallel program 
   *  differentiate between strong and weak scaling 

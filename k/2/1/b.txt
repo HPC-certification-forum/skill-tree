@@ -1,7 +1,7 @@
 # K2.1-B
 # Name: Performance Frontiers
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  the definitions for key terms like speedup, efficiency, and scalability 
   *  the key measure floating point operations per second (FLOPS) for the performance of HPC systems and its pitfalls 

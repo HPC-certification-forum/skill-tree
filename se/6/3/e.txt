@@ -1,7 +1,7 @@
 # SE6.3-E
 # Name: Software Architecture
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  design the application as a plugin architecture so that the functionality can be extended more easily 
   *  design the software architecture of the system based on software architecture patterns 

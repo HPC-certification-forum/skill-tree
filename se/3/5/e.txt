@@ -1,7 +1,7 @@
 # SE3.5-E
 # Name: Deployment Management
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  setup the production, testing, and development environments 
   *  clearly define and preserve reproducible software stacks to make computational results reproducible, e.g. by applying virtualization environments like VirtualBox, Docker, rkt, or BioContainers or tools for defining scientific workflows like Nextflow, or Singularity 

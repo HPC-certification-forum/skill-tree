@@ -1,6 +1,6 @@
 # SE3-E
 # Name: Software Configuration Management
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  apply steps of SCM in a HPC project 

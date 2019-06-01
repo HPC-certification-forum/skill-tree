@@ -1,7 +1,7 @@
 # USE3-B
 # Name: Building of Parallel Programs
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  build parallel programs, e.g. via open sources packages 
   *  run parallel programs in an HPC environment 

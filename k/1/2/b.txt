@@ -1,7 +1,7 @@
 # K1.2-B
 # Name: Hardware Architectures
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  elementary processing elements like CPUs, GPUs, many core architectures 
   *  vector systems, and FPGAs 

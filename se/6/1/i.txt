@@ -1,7 +1,7 @@
 # SE6.1-I
 # Name: Requirements Elicitation and Analysis
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  identify functional and non-functional requirements of the software to be implemented 
   *  capture a common terminology, constraints, and assumptions 

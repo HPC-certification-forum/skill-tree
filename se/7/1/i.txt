@@ -1,6 +1,6 @@
 # SE7.1-I
 # Name: Requirements Documentation
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  document requirements using a specified template 

@@ -2,7 +2,7 @@
 # Name: Deployment Management
 # Background
   *  This skill conveys how dependencies are managed, how and why to setup different environments for development, testing, and production, how and why to automate the deployment process and the importance of preserving and documenting reproducible software stacks that can be used by other users/researchers in order to reliably reproduce the results. 
-# Learning objectives
+# Aim
 # Outcomes
   *  the basics of dependency management 
   *  understand that different environments for testing, development, production, and staging are necessary 

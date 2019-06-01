@@ -1,5 +1,5 @@
 # SE1-E
 # Name: Programming Concepts for HPC
 # Background
-# Learning objectives
+# Aim
 # Outcomes

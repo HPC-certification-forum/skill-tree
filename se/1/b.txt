@@ -1,7 +1,7 @@
 # SE1-B
 # Name: Programming Concepts for HPC
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  develop programs for HPC 
   *  develop parallel programs for shared memory systems as well as for message passing systems 

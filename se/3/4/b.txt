@@ -2,7 +2,7 @@
 # Name: Release Management
 # Background
   *  The benefits of release management are explained. Moreover, it is covered how software releases are managed according to a well-defined and consistent process. 
-# Learning objectives
+# Aim
 # Outcomes
   *  the basics of release management and what the benefits are of applying a release management process in the context of high performance computing "fault", "failure", and "error" 
   *  the differences between Major Release, Minor Release, Emergency Fix (and potentially other types of releases) and what should be contained in each of them 

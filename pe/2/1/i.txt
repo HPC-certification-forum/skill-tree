@@ -2,5 +2,5 @@
 # Name: Using Standard Tools to Measure System Performance
 # Background
   *  Tools used in Linux-based environemnts like htop, iostat, and perf are sketched. 
-# Learning objectives
+# Aim
 # Outcomes

@@ -1,7 +1,7 @@
 # USE4-I
 # Name: Developing Parallel Programs
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  build parallel programs 
   *  develop parallel software 

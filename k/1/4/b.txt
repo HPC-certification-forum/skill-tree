@@ -1,7 +1,7 @@
 # K1.4-B
 # Name: Operation of an HPC System
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  the typical infrastructure of data and computing centers 
   *  the typical infrastructure of data and computing centers, also against the background of economic and business aspects 

@@ -1,5 +1,4 @@
-# SE1.3-B
-# Name: Efficient Algorithms and Data Structures
+# SE1.3-B Efficient Algorithms and Data Structures
 # Background
 # Aim
 # Outcomes

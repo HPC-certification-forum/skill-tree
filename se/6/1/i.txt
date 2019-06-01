@@ -1,5 +1,4 @@
-# SE6.1-I
-# Name: Requirements Elicitation and Analysis
+# SE6.1-I Requirements Elicitation and Analysis
 # Background
 # Aim
 # Outcomes

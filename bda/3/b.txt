@@ -1,5 +1,4 @@
-# BDA-3-B
-# Name: Integrating BDA and HPC workflows
+# BDA-3-B Integrating BDA and HPC workflows
 # Background
 The setup of BDA tools on an HPC system is not trivial, particularly the integration of HPC and big data workflows.
 

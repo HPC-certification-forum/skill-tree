@@ -1,5 +1,4 @@
-# SE1-B
-# Name: Programming Concepts for HPC
+# SE1-B Programming Concepts for HPC
 # Background
 # Aim
 # Outcomes
@@ -7,3 +6,8 @@
   *  develop parallel programs for shared memory systems as well as for message passing systems 
   *  efficient algorithms and data structures 
   *  assess the efficiency and suitability of algorithms and data structures for the respective application 
+
+# Subskills
+  * [[skill-tree:se:1:1:b]]
+  * [[skill-tree:se:1:2:b]]
+  * [[skill-tree:se:1:3:b]]

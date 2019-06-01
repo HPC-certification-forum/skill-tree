@@ -1,5 +1,4 @@
-# K3.1-B
-# Name: Parallelization Without Modifying the Source Code
+# K3.1-B Parallelization Without Modifying the Source Code
 # Background
 # Aim
 # Outcomes

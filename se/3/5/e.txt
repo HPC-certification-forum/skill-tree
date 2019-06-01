@@ -1,5 +1,4 @@
-# SE3.5-E
-# Name: Deployment Management
+# SE3.5-E Deployment Management
 # Background
 # Aim
 # Outcomes

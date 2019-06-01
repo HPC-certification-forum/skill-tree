@@ -1,5 +1,4 @@
-# SE1.1-B
-# Name: Programming Languages
+# SE1.1-B Programming Languages
 # Background
   *  The user learns how to complete programming tasks and gets a short overview of machine- and assembly-languages toward so-called high-level programming languages. 
   *  The focus lies on the programming languages that are in widespread use within the HPC community. 

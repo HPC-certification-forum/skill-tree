@@ -1,5 +1,4 @@
-# SE3.3-B
-# Name: Issue Tracking and Bug Tracking
+# SE3.3-B Issue Tracking and Bug Tracking
 # Background
 # Aim
 # Outcomes

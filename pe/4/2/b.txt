@@ -1,5 +1,4 @@
-# PE4.2-B
-# Name: Tuning without Modifying the Source Code
+# PE4.2-B Tuning without Modifying the Source Code
 # Background
 # Aim
 # Outcomes

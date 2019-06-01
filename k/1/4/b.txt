@@ -1,5 +1,4 @@
-# K1.4-B
-# Name: Operation of an HPC System
+# K1.4-B Operation of an HPC System
 # Background
 # Aim
 # Outcomes

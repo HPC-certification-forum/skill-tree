@@ -1,5 +1,4 @@
-# USE4-I
-# Name: Developing Parallel Programs
+# USE4-I Developing Parallel Programs
 # Background
 # Aim
 # Outcomes

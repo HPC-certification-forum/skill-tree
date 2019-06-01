@@ -1,5 +1,4 @@
-# SE4.1-B
-# Name: Test-driven Development and Agile Testing
+# SE4.1-B Test-driven Development and Agile Testing
 # Background
 # Aim
 # Outcomes

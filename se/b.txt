@@ -1,5 +1,4 @@
-# SE-B
-# Name: Software Engineering for HPC
+# SE-B Software Engineering for HPC
 # Background
 
 Software engineering is often neglected in computational science.
@@ -11,3 +10,12 @@ However, it bears potential to increase productivity by providing scaffolding fo
 # Outcomes
   * Explain agile software engineering methods and practices relevant in high-performance computing
   * Apply software engineering methods and best practices when developing parallel applications
+
+# Subskills
+  * [[skill-tree:se:1:b]]
+  * [[skill-tree:se:2:b]]
+  * [[skill-tree:se:3:b]]
+  * [[skill-tree:se:4:b]]
+  * [[skill-tree:se:5:b]]
+  * [[skill-tree:se:6:b]]
+  * [[skill-tree:se:7:b]]

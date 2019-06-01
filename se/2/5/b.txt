@@ -1,5 +1,4 @@
-# SE2.5-B
-# Name: Exception Handling
+# SE2.5-B Exception Handling
 # Background
   *  The skill conveys general concepts about exception handling, how exception handling can be implemented in a specific programming language and how a consistent exception handling policy can be defined and thoroughly followed during implementation. 
 # Aim

@@ -1,5 +1,4 @@
-# SE6.3-B
-# Name: Software Architecture
+# SE6.3-B Software Architecture
 # Background
 # Aim
 # Outcomes

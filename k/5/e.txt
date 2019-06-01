@@ -1,5 +1,4 @@
-# K5-E
-# Name: Modeling Costs
+# K5-E Modeling Costs
 # Background
 # Aim
 # Outcomes

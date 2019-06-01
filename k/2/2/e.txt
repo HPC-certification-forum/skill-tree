@@ -1,5 +1,4 @@
-# K2.2-E
-# Name: Bounds for a Parallel Program
+# K2.2-E Bounds for a Parallel Program
 # Background
 # Aim
 # Outcomes

@@ -1,5 +1,4 @@
-# K3.4-E
-# Name: Domain Decomposition
+# K3.4-E Domain Decomposition
 # Background
 # Aim
 # Outcomes

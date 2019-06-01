@@ -1,5 +1,4 @@
-# SE2.5-I
-# Name: Exception Handling
+# SE2.5-I Exception Handling
 # Background
 # Aim
 # Outcomes

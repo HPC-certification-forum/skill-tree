@@ -1,5 +1,4 @@
-# K2.1-B
-# Name: Performance Frontiers
+# K2.1-B Performance Frontiers
 # Background
 # Aim
 # Outcomes

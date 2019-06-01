@@ -1,5 +1,4 @@
-# K5-B
-# Name: Modeling Costs
+# K5-B Modeling Costs
 # Background
   *  The user's awareness of the costs related to the operation of an HPC system is raised. 
   *  For the resources of an HPC system, a distinction is made between costs for the computing elements of the supercomputer and costs for the storage system. 

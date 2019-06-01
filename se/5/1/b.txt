@@ -1,2 +1,1 @@
-# SE5-1
-# Name: Coding Standards
+# SE5-1 Coding Standards

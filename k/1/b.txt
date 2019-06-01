@@ -1,5 +1,4 @@
-# K1-B
-# Name: Supercomputers
+# K1-B Supercomputers
 # Background
 # Aim
 # Outcomes
@@ -7,3 +6,10 @@
   * typical operation of data and computing centers 
   * differentiation between supercomputers, high-performance computers, clusters, research computing.
   * different metrics to calculate supercomputing performance (e.g., Linpack, HPCChallenge, GreenHPC etc)
+
+# Subskills
+  * [[skill-tree:k:1:1:b]]
+  * [[skill-tree:k:1:2:b]]
+  * [[skill-tree:k:1:3:b]]
+  * [[skill-tree:k:1:4:b]]
+  * [[skill-tree:k:1:5:b]]

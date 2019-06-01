@@ -1,5 +1,9 @@
-# USE1-E
-# Name: Use of the Cluster Operating System
+# USE1-E Use of the Cluster Operating System
 # Background
 # Aim
 # Outcomes
+
+# Subskills
+  * [[skill-tree:use:1:1:e]]
+  * [[skill-tree:use:1:2:e]]
+  * [[skill-tree:use:1:3:e]]

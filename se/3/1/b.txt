@@ -1,5 +1,4 @@
-# SE3.1-B
-# Name: Terminology (IEEE Standard)
+# SE3.1-B Terminology (IEEE Standard)
 # Background
 # Aim
 # Outcomes

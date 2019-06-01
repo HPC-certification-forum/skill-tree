@@ -1,5 +1,4 @@
-# K1.5-E
-# Name: Supercomputing and Big Data
+# K1.5-E Supercomputing and Big Data
 # Background
 # Aim
 # Outcomes

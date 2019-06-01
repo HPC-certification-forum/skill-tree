@@ -1,5 +1,4 @@
-# K1.1-B
-# Name: System Architectures
+# K1.1-B System Architectures
 # Background
 # Aim
 # Outcomes

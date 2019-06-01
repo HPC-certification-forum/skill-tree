@@ -1,8 +1,13 @@
-# SE7-B
-# Name: Documentation
+# SE7-B Documentation
 # Background
 # Aim
 # Outcomes
   *  appropriately document the entire software system 
   *  to provide a user documentation 
   *  provide a documentation for developers (e.g. describing the software architecture, for extending the software etc.) 
+
+# Subskills
+  * [[skill-tree:se:7:1:b]]
+  * [[skill-tree:se:7:2:b]]
+  * [[skill-tree:se:7:3:b]]
+  * [[skill-tree:se:7:4:b]]

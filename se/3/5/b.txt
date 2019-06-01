@@ -1,5 +1,4 @@
-# SE3.5-B
-# Name: Deployment Management
+# SE3.5-B Deployment Management
 # Background
   *  This skill conveys how dependencies are managed, how and why to setup different environments for development, testing, and production, how and why to automate the deployment process and the importance of preserving and documenting reproducible software stacks that can be used by other users/researchers in order to reliably reproduce the results. 
 # Aim

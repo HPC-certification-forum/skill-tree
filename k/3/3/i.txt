@@ -1,5 +1,4 @@
-# K3.3-I
-# Name: Parallelization Overheads
+# K3.3-I Parallelization Overheads
 # Background
 # Aim
 # Outcomes

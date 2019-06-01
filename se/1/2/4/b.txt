@@ -1,5 +1,4 @@
-# SE1.2.4-B
-# Name: Load Balancing
+# SE1.2.4-B Load Balancing
 # Background
 # Aim
 # Outcomes

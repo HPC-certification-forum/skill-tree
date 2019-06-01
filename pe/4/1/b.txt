@@ -1,5 +1,4 @@
-# PE4.1-B
-# Name: Tuning without Building a Parallel Program
+# PE4.1-B Tuning without Building a Parallel Program
 # Background
 # Aim
 # Outcomes

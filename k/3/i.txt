@@ -1,5 +1,10 @@
-# K3-I
-# Name: Program Parallelization
+# K3-I Program Parallelization
 # Background
 # Aim
 # Outcomes
+
+# Subskills
+  * [[skill-tree:k:3:1:i]]
+  * [[skill-tree:k:3:2:i]]
+  * [[skill-tree:k:3:3:i]]
+  * [[skill-tree:k:3:4:i]]

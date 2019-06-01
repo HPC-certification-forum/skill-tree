@@ -1,5 +1,4 @@
-# SE2.4-I
-# Name: Logging
+# SE2.4-I Logging
 # Background
 # Aim
 # Outcomes

@@ -1,5 +1,4 @@
-# K1.2-E
-# Name: Hardware Architectures
+# K1.2-E Hardware Architectures
 # Background
 # Aim
 # Outcomes

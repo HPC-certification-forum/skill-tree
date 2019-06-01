@@ -1,5 +1,9 @@
-# PE4-E
-# Name: Tuning
+# PE4-E Tuning
 # Background
 # Aim
 # Outcomes
+
+# Subskills
+  * [[skill-tree:pe:4:1:e]]
+  * [[skill-tree:pe:4:2:e]]
+  * [[skill-tree:pe:4:3:e]]

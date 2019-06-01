@@ -1,6 +1,11 @@
-# SE5-E
-# Name: Software Quality
+# SE5-E Software Quality
 # Background
 # Aim
 # Outcomes
   *  assess and improve the quality of the software especially with respect to functionality and maintainability 
+
+# Subskills
+  * [[skill-tree:se:5:1:e]]
+  * [[skill-tree:se:5:2:e]]
+  * [[skill-tree:se:5:3:e]]
+  * [[skill-tree:se:5:4:e]]

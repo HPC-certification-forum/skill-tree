@@ -1,5 +1,4 @@
-# SE5.2-E
-# Name: Code Quality
+# SE5.2-E Code Quality
 # Background
   *  The user learns how to use practices and methods from software engineering that are especially important for high performance engineering. 
 # Aim

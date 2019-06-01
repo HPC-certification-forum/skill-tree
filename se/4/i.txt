@@ -1,5 +1,9 @@
-# SE4-I
-# Name: Agile Software Development
+# SE4-I Agile Software Development
 # Background
 # Aim
 # Outcomes
+
+# Subskills
+  * [[skill-tree:se:4:1:i]]
+  * [[skill-tree:se:4:2:i]]
+  * [[skill-tree:se:4:3:i]]

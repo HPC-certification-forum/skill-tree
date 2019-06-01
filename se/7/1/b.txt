@@ -1,5 +1,4 @@
-# SE7.1-B
-# Name: Requirements Documentation
+# SE7.1-B Requirements Documentation
 # Background
 # Aim
 # Outcomes

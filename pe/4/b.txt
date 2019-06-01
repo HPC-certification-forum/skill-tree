@@ -1,6 +1,10 @@
-# PE4-B
-# Name: Tuning
+# PE4-B Tuning
 # Background
 # Aim
 # Outcomes
   *  tune a parallel program in order to achieve better runtimes and to optimize the usage of the HPC resources 
+
+# Subskills
+  * [[skill-tree:pe:4:1:b]]
+  * [[skill-tree:pe:4:2:b]]
+  * [[skill-tree:pe:4:3:b]]

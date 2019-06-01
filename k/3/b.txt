@@ -1,7 +1,7 @@
 # K3-B
 # Name: Program Parallelization
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  the typical parallelization techniques used at the intra- and inter-node level of cluster systems 
   *  the causes of parallelization overheads, which eventually prevent efficient use of an increasing number of processing elements 

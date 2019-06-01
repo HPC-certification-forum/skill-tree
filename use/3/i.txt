@@ -1,7 +1,7 @@
 # USE3-I
 # Name: Building of Parallel Programs
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  run parallel programs in an HPC environment 
   *  use a compiler and to asses the effects of optimization switches available for compilers commercially available (e.g. PGI, NAG) 

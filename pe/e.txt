@@ -1,5 +1,5 @@
 # PE-E
 # Name: Performance Engineering
 # Background
-# Learning objectives
+# Aim
 # Outcomes

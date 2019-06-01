@@ -1,6 +1,6 @@
 # K5-I
 # Name: Modeling Costs
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  how to assess runtime costs for jobs 

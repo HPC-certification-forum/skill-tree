@@ -1,7 +1,7 @@
 # K1.2-E
 # Name: Hardware Architectures
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  parallelization techniques at the instruction level of a processing element (e.g. pipelining, SIMD processing) 
   *  hybrid approaches, e.g. combining CPUs with GPUs or FPGAs 

@@ -1,7 +1,7 @@
 # USE2-B
 # Name: Running of Parallel Programs
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  run parallel programs in an HPC environment 
   *  use the command line interface 

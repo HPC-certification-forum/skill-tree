@@ -3,7 +3,7 @@
 # Background
   *  This skill covers how to apply version and configuration management to the development of (parallel) programs in order to track and control changes in the sources and how to establish and maintain consistency of the program or software system throughout its life, and facilitate cooperative development. 
   *  Systems like Revision Control System (RCS), Subversion (SVN), and GIT are presented. 
-# Learning objectives
+# Aim
 # Outcomes
   *  the basics of version control systems, e.g. what is version control 
   *  the benefits of using version control for software development especially in a team; what is branching and merging 

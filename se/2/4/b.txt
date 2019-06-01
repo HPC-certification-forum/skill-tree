@@ -2,7 +2,7 @@
 # Name: Logging
 # Background
   *  Logging is necessary in order to comprehend when, where, and why an error occurs during the execution. Parallel programs are prone to failures and errors during operation. Knowledge about logging concepts, the ability to apply them appropriately, and to purposefully analyze the log files is therefore essential in the context of high performance computing. 
-# Learning objectives
+# Aim
 # Outcomes
   *  logging in general like log levels etc. (e.g. ERROR, WARN, INFO, DEBUG, TRACE) 
   *  different logging formats 

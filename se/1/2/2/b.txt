@@ -2,7 +2,7 @@
 # Name: Programming Shared Memory Systems
 # Background
   *  The parallel concepts of threads and processes are introduced and their impacts on performance are outlined. 
-# Learning objectives
+# Aim
 # Outcomes
   *  understand race conditions and to use synchronization mechanisms to avoid them 
   *  understand the problems that may result from erroneous use of synchronization mechanisms (e.g. deadlocks) 

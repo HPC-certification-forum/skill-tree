@@ -1,0 +1,15 @@
+# ADM-B
+# Name: Administration
+# Background
+The administration of HPC environments requires to integrate (sometimes bleeding edge) hardware and software providing effective user environments while managing them efficiently.
+
+# Aim
+  * To convey principles, theory, and tools that enables effective HPC administration in a modern environment
+
+# Outcomes
+  * Distinguish hardware options
+  * Manage software on an HPC system efficiently
+  * Manage users
+  * Monitor the system and software usage
+  * Provide an effective user environment 
+  * Describing support structures

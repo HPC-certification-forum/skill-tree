@@ -1,7 +1,7 @@
 # USE1.2-I
 # Name: Using Shell Scripts
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  use flow control, e.g. for conditional and/or repeated execution of statements in scripts 
   *  use shell functions to break large, complex tasks into a series of small, simple tasks 

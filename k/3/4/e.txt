@@ -1,6 +1,6 @@
 # K3.4-E
 # Name: Domain Decomposition
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  how to map domains to machines 

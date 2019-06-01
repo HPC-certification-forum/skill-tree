@@ -1,7 +1,7 @@
 # SE6.3-B
 # Name: Software Architecture
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  the importance and impact of software architecture during software development 
   *  software architecture principles 

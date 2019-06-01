@@ -1,7 +1,7 @@
 # USE2-I
 # Name: Running of Parallel Programs
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  use the command line interface 
   *  write robust job scripts, e.g. to simplify job submissions by the help of automated job chaining 

@@ -1,6 +1,6 @@
 # SE2.2-I
 # Name: Debugging
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  use sophisticated debuggers such as DDT and TotalView 

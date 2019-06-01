@@ -1,7 +1,7 @@
 # SE5.4-I
 # Name: Code Reviews
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  define checklists for code reviews 
   *  conduct code reviews in pairs or in a team 

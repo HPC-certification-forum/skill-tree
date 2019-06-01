@@ -1,7 +1,7 @@
 # USE3-E
 # Name: Building of Parallel Programs
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  run parallel programs in an HPC environment 
   *  use a linker and to assess the effects of advanced linker specific options and environment variables (e.g. LIBRARY_PATH) 

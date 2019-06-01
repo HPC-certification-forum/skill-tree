@@ -1,7 +1,7 @@
 # SE3.3-I
 # Name: Issue Tracking and Bug Tracking
 # Background
-# Learning objectives
+# Aim
 # Outcomes
   *  apply issue tracking in order to manage tasks, bug reports, and other issues occuring during development and enabling task assignment in the team 
   *  apply different issue tracking systems, like Jira or Redmine, to the development project 

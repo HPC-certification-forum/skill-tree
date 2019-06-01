@@ -1,0 +1,12 @@
+# BDA-3-B
+# Name: Integrating BDA and HPC workflows
+# Background
+The setup of BDA tools on an HPC system is not trivial, particularly the integration of HPC and big data workflows.
+
+# Aim
+  * To setup BDA tools and configure HPC workflows to use them
+
+# Outcomes
+  * Setup BDA tools to be used on an HPC environment
+  * Execute data science workflows on an HPC environment
+  * Construct HPC workflows that utilize BDA tools

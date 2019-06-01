@@ -1,6 +1,18 @@
 # USE-B
 # Name: Use of the HPC Environment
 # Background
+HPC environments are different from local systems and cloud environments.
+Practitioners typically face initial challenges to utilize such a system efficiently.
+Moreover, often, data centers deploy a specific solution to setup and execute parallel applications.
+That means users must be trained in the particular solution to efficiently utilize a supercomputer.
+Various user roles are covered as part of this subtree. Practitioners that aim to deploy existing parallel applications as well as testers that just run already deployed applications, and developers that create new applications.
+
 # Aim
+  * To apply the cluster operating system efficiently in order to develop, build, run, and monitor applications
+  * To automatize repetitive tasks on an HPC system
+
 # Outcomes
-  *  use a cluster operating system as well as to run, build, and develop parallel programs 
+  * Apply tools provided by the operating system to navigate and manage files and executables
+  * Apply the software environment to build existing and develop novel parallel applications effectively
+  * Construct workflows that utilize remote (distributed) environments to execute a parallel workflow
+  * Design and deploy scripts that automatize repetitive tasks

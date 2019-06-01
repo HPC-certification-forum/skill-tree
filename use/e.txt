@@ -1,5 +1,0 @@
-# USE-E
-# Name: Use of the HPC Environment
-# Background
-# Aim
-# Outcomes

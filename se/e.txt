@@ -1,5 +1,0 @@
-# SE-E
-# Name: Software Engineering for HPC
-# Background
-# Aim
-# Outcomes

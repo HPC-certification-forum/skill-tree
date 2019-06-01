@@ -1,8 +1,13 @@
 # SE-B
 # Name: Software Engineering for HPC
 # Background
-  *  The user learns how to use practices and methods from software engineering that are especially important for high performance engineering. 
+
+Software engineering is often neglected in computational science.
+However, it bears potential to increase productivity by providing scaffolding for the collaborative programming, reducing the coding errors and increasing the manageability of software.
+
 # Aim
+  * To apply practices and methods from software engineering that are relevant for high performance engineering
+
 # Outcomes
-  *  software engineering methods and practices especially in the context of high performance computing 
-  *  develop parallel programs and to apply software engineering methods and best practices 
+  * Explain agile software engineering methods and practices relevant in high-performance computing
+  * Apply software engineering methods and best practices when developing parallel applications

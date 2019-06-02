@@ -4,6 +4,9 @@
 # Outcomes
 
 # Subskills
+  * [[skill-tree:sd:2:6:i]]
+  * [[skill-tree:sd:2:7:i]]
+  * [[skill-tree:sd:2:8:i]]
   * [[skill-tree:sd:2:1:i]]
   * [[skill-tree:sd:2:2:i]]
   * [[skill-tree:sd:2:3:i]]

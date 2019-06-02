@@ -5,7 +5,7 @@
   *  develop programs for HPC 
   *  develop parallel programs for shared memory systems as well as for message passing systems 
   *  efficient algorithms and data structures 
-  *  assess the efficiency and suitability of algorithms and data structures for the respective application 
+  *  assess the efficiency and suitability of algorithms and data structures for the respective application
 
 # Subskills
   * [[skill-tree:sd:1:1:b]]

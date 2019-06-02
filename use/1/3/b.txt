@@ -4,4 +4,6 @@
   *  Package managers like Spack are sketched. 
 # Aim
 # Outcomes
-  *  select the appropriate versions for deployment to the session environment, e.g. via the so-called environment modules system 
+  *  select the appropriate versions for deployment to the session environment, e.g. via the so-called environment modules system
+
+# Subskills

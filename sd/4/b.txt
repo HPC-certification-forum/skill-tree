@@ -3,7 +3,7 @@
   *  Practices of agile software development are covered in order to convey skills about collaborative, and self-organizing software development advocating adaptive planning, evolutionary development, and encouring rapid and flexible response to change. 
 # Aim
 # Outcomes
-  *  understand and apply agile development practices in the context of HPC 
+  *  understand and apply agile development practices in the context of HPC
 
 # Subskills
   * [[skill-tree:sd:4:1:b]]

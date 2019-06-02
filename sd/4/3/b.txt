@@ -2,4 +2,6 @@
 # Background
 # Aim
 # Outcomes
-  *  the concepts of SCRUM, e.g. Sprint, Backlog, Planning, Daily meetings/Stand up meeting, project velocity 
+  *  the concepts of SCRUM, e.g. Sprint, Backlog, Planning, Daily meetings/Stand up meeting, project velocity
+
+# Subskills

@@ -5,4 +5,6 @@
   *  typical I/O systems used in HPC environments 
   *  different types of media (e.g. tape, disk, and SSD) 
   *  the differentiation between standard file systems and distributed file systems 
-  *  when to use local and global storage 
+  *  when to use local and global storage
+
+# Subskills

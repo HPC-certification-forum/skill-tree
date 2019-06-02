@@ -12,3 +12,8 @@ The administration of HPC environments requires to integrate (sometimes bleeding
   * Monitor the system and software usage
   * Provide an effective user environment 
   * Describing support structures
+
+# Subskills
+  * [[skill-tree:adm:1:b]]
+  * [[skill-tree:adm:2:b]]
+  * [[skill-tree:adm:3:b]]

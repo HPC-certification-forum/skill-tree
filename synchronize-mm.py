@@ -11,11 +11,56 @@ import os
 root = ET.parse('skill-tree.mm').getroot()
 
 type = "B"
-file_extension = "/" + type.lower() + ".txt"
+typeL = type.lower()
+file_extension = "/" + typeL + ".txt"
 modify_tree = True
 verbose = False
 
-def update(file, parents, txt):
+
+def extractSkillPath(parents, txt):
+  m = re.match("([A-Z0-9.]+): (.*)", txt)
+  if m == None:
+    return (None, None)
+
+  e = m.group(1)
+  title = m.group(2)
+  m2 = re.match("([A-Z]+)([0-9]+[^:]*)?", e)
+  if m2:
+    if m2.group(2) != None:
+      p = [m2.group(1)]
+      p.extend(m2.group(2).split("."))
+    else:
+      p = [m2.group(1)]
+  else:
+    p = parents.copy()
+    p.append(e)
+  return (p, title)
+
+def addSubskills(data, parents, node):
+  pos = data.find("# Subskills")
+  if pos == -1:
+    pos = len(data)
+  head = data[0:pos].strip() + "\n\n# Subskills\n"
+  rest = data[len(head):].strip("\n")
+
+  for c in reversed(node):
+    if not "TEXT" in c.attrib:
+      continue
+    txt = c.attrib["TEXT"]
+    (path, title) = extractSkillPath(parents, txt)
+    # get child identifier
+    if path == None:
+      continue
+
+    path.append(typeL)
+    link = ("[[skill-tree:%s]]" % ":".join(path)).lower()
+    if rest.find(link) == -1:
+      rest = "  * %s\n%s" % (link, rest)
+      print("L " + "/".join(parents) + " ADDING " + link)
+  data = head + rest
+  return data
+
+def update(file, node, parents, txt):
   fd = open(file, "r")
   data = fd.readline()
   fd.close()
@@ -23,18 +68,21 @@ def update(file, parents, txt):
   # compare the content with the expected head
   head = "%s%s-%s %s" % (parents[0], ".".join(parents[1:]), type, txt)
   filehead = data[2:].strip()
-  if filehead == head:
-    return
-  print("M" + "  " * len(parents) + head)
-  print("F" + "  " * len(parents) + data[2:].strip())
+  if filehead != head:
+    print("M" + "  " * len(parents) + head)
+    print("F" + "  " * len(parents) + data[2:].strip())
+
   if modify_tree:
     fd = open(file, "r")
     data = fd.read()
     fd.close()
     data = data.replace(filehead, head)
-    fd = open(file, "w")
-    fd.write(data)
-    fd.close()
+
+    datanew = addSubskills(data, parents, node)
+    if data != datanew:
+      fd = open(file, "w")
+      fd.write(datanew)
+      fd.close()
 
 def create(file, parents, txt):
   print("CREATED " + file + " - " + txt)
@@ -45,12 +93,7 @@ def create(file, parents, txt):
     os.makedirs(dir)
 
   fd = open(file, "w")
-  fd.write("""# %s-%s %s
-# Background
-
-# Aim
-
-# Outcomes""" % (head, type, txt))
+  fd.write("# %s-%s %s\n# Background\n\n# Aim\n\n# Outcomes" % (head, type, txt))
   fd.close()
 
 def traverse(parents, node):
@@ -59,33 +102,23 @@ def traverse(parents, node):
     if not "TEXT" in child.attrib:
       continue
     txt = child.attrib["TEXT"]
-    m = re.match("([A-Z0-9.]+): (.*)", txt)
-    if m == None:
+    (path, title) = extractSkillPath(parents, txt)
+    if path == None:
       continue
 
-    e = m.group(1)
-    title = m.group(2)
-    m2 = re.match("([A-Z]+)([0-9]+[^:]*)?", e)
-    if m2:
-      if m2.group(2) != None:
-        p = [m2.group(1)]
-        p.extend(m2.group(2).split("."))
-      else:
-        p = [m2.group(1)]
-    else:
-      p = parents.copy()
-      p.append(e)
-
-    # now check if the files exist
-    file = "/".join(p).lower()
+    file = "/".join(path).lower()
     if verbose:
       print(prefix + txt)
 
-    if os.path.isfile(file + file_extension):
-      update(file + file_extension, p, title)
-    elif modify_tree:
-      create(file + file_extension, p, title)
+    # now check if the expected file exist
+    if not os.path.isfile(file + file_extension):
+      if modify_tree:
+        create(file + file_extension, path, title)
+      else:
+        update(file + file_extension, child, path, title)
+    else:
+      update(file + file_extension, child, path, title)
 
-    traverse(p, child)
+    traverse(path, child)
 
 traverse([], root[0])

@@ -4,4 +4,6 @@
   *  The focus lies on the programming languages that are in widespread use within the HPC community. 
 # Aim
 # Outcomes
-  *  program in languages typically used in HPC environments, such as C, FORTRAN 
+  *  program in languages typically used in HPC environments, such as C, FORTRAN
+
+# Subskills

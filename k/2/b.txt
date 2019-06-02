@@ -3,7 +3,7 @@
   *  HPC systems are massively parallel and therefore sophisticated parallel programs are required to exploit their performance potential as much as possible. 
 # Aim
 # Outcomes
-  *  how the performance of parallel programs may be assessed 
+  *  how the performance of parallel programs may be assessed
 
 # Subskills
   * [[skill-tree:k:2:1:b]]

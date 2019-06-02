@@ -4,7 +4,7 @@
 # Aim
 # Outcomes
   *  assess the parallel nature of algorithms 
-  *  develop parallel programs 
+  *  develop parallel programs
 
 # Subskills
   * [[skill-tree:sd:1:2:1:b]]

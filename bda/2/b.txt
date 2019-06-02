@@ -9,3 +9,5 @@ There is a vast number of tools in different categories available that aid big d
   * Distinguish the benefit and drawback of various big data tools in the HPC environment
   * Apply a data science workflow on existing data using various big data tools
   * Construct simple data science workflows
+
+# Subskills

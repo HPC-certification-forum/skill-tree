@@ -6,4 +6,6 @@
   *  use wildcards to select or filter e.g. files 
   *  login remotely to cluster nodes using e.g. SSH with password or SSH key authentication 
   *  access local and remote files in remote sessions 
-  *  check disk quotas commonly used to limit the amount of disk space available for the user 
+  *  check disk quotas commonly used to limit the amount of disk space available for the user
+
+# Subskills

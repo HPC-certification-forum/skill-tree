@@ -5,4 +5,6 @@
 # Outcomes
   *  the differences between the terms "mistake", "fault", "failure", and "error" 
   *  exception handling concepts in general (e.g. Errors vs. Exceptions) 
-  *  understand why it helps to write software that is robust 
+  *  understand why it helps to write software that is robust
+
+# Subskills

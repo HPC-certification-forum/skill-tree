@@ -4,9 +4,12 @@
 # Aim
 # Outcomes
   *  the best practices from software engineering regarding programming 
-  *  apply programming best practices in order to develop robust and maintainable programs 
+  *  apply programming best practices in order to develop robust and maintainable programs
 
 # Subskills
+  * [[skill-tree:sd:2:6:b]]
+  * [[skill-tree:sd:2:7:b]]
+  * [[skill-tree:sd:2:8:b]]
   * [[skill-tree:sd:2:1:b]]
   * [[skill-tree:sd:2:2:b]]
   * [[skill-tree:sd:2:3:b]]

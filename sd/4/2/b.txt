@@ -2,4 +2,6 @@
 # Background
 # Aim
 # Outcomes
-  *  the principles of extreme programming and when to apply it 
+  *  the principles of extreme programming and when to apply it
+
+# Subskills

@@ -2,4 +2,7 @@
 # Background
 # Aim
 # Outcomes
-  *  assess general concepts of HPC I/O systems (e.g. parallel file systems) and how to map the data model to the storage system, e.g. by using appropriate I/O libraries and middleware architectures 
+  *  assess general concepts of HPC I/O systems (e.g. parallel file systems) and how to map the data model to the storage system, e.g. by using appropriate I/O libraries and middleware architectures
+
+# Subskills
+  * [[skill-tree:k:1:3:b]]

@@ -3,4 +3,6 @@
 # Aim
 # Outcomes
   *  understand that some algorithms are embarrassingly (i.e. trivially) parallelizable while their parallelization will vary from easy to hard in practice 
-  *  determine the computational complexity of algorithms 
+  *  determine the computational complexity of algorithms
+
+# Subskills

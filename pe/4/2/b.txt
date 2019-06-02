@@ -3,4 +3,6 @@
 # Aim
 # Outcomes
   *  speed up program execution by using optimized libraries and setting appropriate compiler/linker options 
-  *  speed up program execution by setting package specific options (e.g. selected by environment variables and command line arguments) 
+  *  speed up program execution by setting package specific options (e.g. selected by environment variables and command line arguments)
+
+# Subskills

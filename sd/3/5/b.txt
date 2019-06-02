@@ -8,4 +8,6 @@
   *  the differences between different deployment environments, and what specific requirements are for each 
   *  use software building environments like make, Autotools, CMake 
   *  continuous integration, delivery, and deployment and the differences between them 
-  *  the benefits, drawbacks, and tradeoffs of continuous integration, delivery, and deployment 
+  *  the benefits, drawbacks, and tradeoffs of continuous integration, delivery, and deployment
+
+# Subskills

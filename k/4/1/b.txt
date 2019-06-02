@@ -14,3 +14,5 @@ To enable practitioners to comprehend and describe the basic architecture and co
   * comprehend accounting principles
   * explain the generic steps to run and monitor a single job
   * comprehend scheduling principles (first come first served, shortest job first, backfilling) to achieve objectives like minimizing the averaged elapsed program runtimes, and maximizing the utilization of the available HPC resources
+
+# Subskills

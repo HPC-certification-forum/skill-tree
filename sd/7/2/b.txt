@@ -1,1 +1,3 @@
 # SD7.2-B Software Architecture and Software Design Documentation
+
+# Subskills

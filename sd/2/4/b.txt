@@ -7,4 +7,6 @@
   *  different logging formats 
   *  choose appropriate information that should be logged e.g. timestamp, pid, thread, level, loggername) in order to be able to identify the problem 
   *  differentiate between structured logging and text logging 
-  *  logging implementations/libraries for a specific programming language like FORTRAN, C, C++ 
+  *  logging implementations/libraries for a specific programming language like FORTRAN, C, C++
+
+# Subskills

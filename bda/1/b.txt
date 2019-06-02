@@ -11,3 +11,5 @@ Big data analytics is a fuzzy area that covers many concepts.
   * List ethical constraints
   * Illustrate the typical data science workflow
   * Categorize the different types of diagrams used for visualization
+
+# Subskills

@@ -15,3 +15,5 @@ SLURM is a widely used open-source workload manager providing various advanced f
   * comprehend how variables are prioritized when using command line and a script
   * change a provided job template and embed them into shell scripts to run a variety of parallel applications
   * analyze the output generated from submitting to the job scheduler and typically generated errors
+
+# Subskills

@@ -3,4 +3,6 @@
 # Aim
 # Outcomes
   *  parallelization techniques at the intra-node level (e.g. based on basic OpenMP features) 
-  *  the message passing paradigm based on environments like MPI, which is the de-facto standard at the inter-node level for parallelizing programs using more than a single node 
+  *  the message passing paradigm based on environments like MPI, which is the de-facto standard at the inter-node level for parallelizing programs using more than a single node
+
+# Subskills

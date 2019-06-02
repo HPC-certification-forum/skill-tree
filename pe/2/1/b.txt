@@ -3,4 +3,6 @@
   *  This includes information about utilization of resources like CPU as well as elapsed runtimes of a program, its unshared and shared memory usage, input and output statistics for devices and file systems, and page faults, with tools like /usr/bin/time, ps, top, and vmstat in Linux-based environments. 
 # Aim
 # Outcomes
-  *  use standard tools of the operating system to get information about the behavior of parallel programs in terms of their resource utilization 
+  *  use standard tools of the operating system to get information about the behavior of parallel programs in terms of their resource utilization
+
+# Subskills

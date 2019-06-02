@@ -3,4 +3,6 @@
   *  The workflow is represented by an optimization cycle with the steps benchmarking, gathering system performance data (e.g. via profiling), analyzing, and tuning. 
 # Aim
 # Outcomes
-  *  apply the full workflow for tuning a parallel program 
+  *  apply the full workflow for tuning a parallel program
+
+# Subskills

@@ -3,4 +3,6 @@
   *  This skill conveys programming idioms in general and for specific programming languages in order to help developers to solve recurring programming problems. 
 # Aim
 # Outcomes
-  *  programming idioms for a specific programming language, e.g. FORTRAN, Python, C, C++ 
+  *  programming idioms for a specific programming language, e.g. FORTRAN, Python, C, C++
+
+# Subskills

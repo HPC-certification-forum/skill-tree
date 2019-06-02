@@ -13,7 +13,6 @@ Performance engineering is the field of systematic approaches for measuring and 
   * List typical errors when measuring performance
   * Execute benchmarks to obtain performance baselines for systems and applications
   * Comprehend tunable settings in applications and system that influence performance
-  
 
 # Subskills
   * [[skill-tree:pe:1:b]]

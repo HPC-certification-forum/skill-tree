@@ -3,7 +3,7 @@
 # Aim
 # Outcomes
   *  the purpose and importance of software configuration management, especially in the context of high performance computing 
-  *  the basic concepts, terms and processes of SCM 
+  *  the basic concepts, terms and processes of SCM
 
 # Subskills
   * [[skill-tree:sd:3:1:b]]

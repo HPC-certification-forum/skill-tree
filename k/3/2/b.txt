@@ -3,4 +3,6 @@
 # Aim
 # Outcomes
   *  the various overheads, i.e. overheads for communication, synchronization 
-  *  the problems of load imbalances 
+  *  the problems of load imbalances
+
+# Subskills

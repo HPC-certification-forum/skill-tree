@@ -3,4 +3,8 @@
 # Aim
 # Outcomes
   *  build parallel programs 
-  *  develop parallel software 
+  *  develop parallel software
+
+# Subskills
+  * [[skill-tree:use:3:b]]
+  * [[skill-tree:sd:b]]

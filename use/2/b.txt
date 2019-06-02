@@ -13,3 +13,6 @@
   *  benchmark a parallel program 
   *  tune a parallel program from the outside via runtime options 
   *  apply the workflow for tuning 
+
+# Subskills
+[[skill-tree:k:4:b|K4-B: Job Scheduling]]

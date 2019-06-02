@@ -1,5 +1,4 @@
-# K4-B
-# Name: Job Scheduling
+# K4-B: Job Scheduling
 # Background
 # Aim
 # Outcomes

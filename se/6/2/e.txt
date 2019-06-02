@@ -1,5 +1,4 @@
-# SE6.2-E
-# Name: Object-Oriented Design
+# SE6.2-E Object-Oriented Design
 # Background
 # Aim
 # Outcomes

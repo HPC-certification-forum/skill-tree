@@ -1,5 +1,4 @@
-# SE7.3-B
-# Name: Source Code Documentation
+# SE7.3-B Source Code Documentation
 # Background
 # Aim
 # Outcomes

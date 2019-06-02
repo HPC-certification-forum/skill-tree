@@ -1,0 +1,17 @@
+# K4.2-B SLURM Workload manager
+# Background
+SLURM is a widely used open-source workload manager providing various advanced features.
+# Aim
+  * To enable practitioners to comprehend and describe the basic architecture of SLURM and the suite of tools
+  * To use relevant tools to run and monitor (parallel) applications
+
+# Outcomes
+  * run interactive jobs with salloc, a batch job with sbatch
+  * explain the architecture of SLURM, i.e., the role of slurmd, srun and the injection of environment variables
+  * explain the function of the tools: sacct, sbatch, salloc, srun, scancel, squeue, sinfo
+  * explain time limits and the benefit of a backfill scheduler
+  * comprehend that environment variables are set when running a job
+  * comprehend and describe the expected behavior of a simple job scripts
+  * comprehend how variables are prioritized when using command line and a script
+  * change a provided job template and embed them into shell scripts to run a variety of parallel applications
+  * analyze the output generated from submitting to the job scheduler and typically generated errors

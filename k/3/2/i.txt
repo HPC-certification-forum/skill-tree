@@ -1,5 +1,4 @@
-# K3.2-I
-# Name: Level of Parallelization
+# K3.2-I Level of Parallelization
 # Background
 # Aim
 # Outcomes

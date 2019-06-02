@@ -1,5 +1,4 @@
-# SE7.4-I
-# Name: Documentation for Reproducibility
+# SE7.4-I Documentation for Reproducibility
 # Background
 # Aim
 # Outcomes

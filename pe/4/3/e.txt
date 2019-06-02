@@ -1,5 +1,4 @@
-# PE4.3-E
-# Name: Tuning via Reprogramming
+# PE4.3-E Tuning via Reprogramming
 # Background
   *  The potential for tuning via reprogramming exists on the hardware as well as on the software level. At the software level, performance improvements are achievable by using more efficient algorithms. This is explained by the help of popular practice-relevant examples. 
 # Aim

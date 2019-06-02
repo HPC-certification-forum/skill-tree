@@ -1,5 +1,4 @@
-# SE1.1-I
-# Name: Programming Languages
+# SE1.1-I Programming Languages
 # Background
 # Aim
 # Outcomes

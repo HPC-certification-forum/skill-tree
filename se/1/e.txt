@@ -1,5 +1,9 @@
-# SE1-E
-# Name: Programming Concepts for HPC
+# SE1-E Programming Concepts for HPC
 # Background
 # Aim
 # Outcomes
+
+# Subskills
+  * [[skill-tree:se:1:1:e]]
+  * [[skill-tree:se:1:2:e]]
+  * [[skill-tree:se:1:3:e]]

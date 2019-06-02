@@ -1,5 +1,4 @@
-# PE2.2-B
-# Name: Profiling
+# PE2.2-B Profiling
 # Background
   *  Profiling is explained for the CPU level, where it can be supported by hardware performance counters and by sampling techniques. 
   *  Sampling is used to see, by examining the program counter, what routines and source code lines of a program are responsible for which portions of the total runtime. 

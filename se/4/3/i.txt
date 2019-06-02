@@ -1,5 +1,4 @@
-# SE4.3-I
-# Name: SCRUM
+# SE4.3-I SCRUM
 # Background
 # Aim
 # Outcomes

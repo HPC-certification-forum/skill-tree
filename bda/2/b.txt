@@ -1,5 +1,4 @@
-# BDA-2-B
-# Name: Big Data Tools in HPC
+# BDA-2-B Big Data Tools in HPC
 # Background
 There is a vast number of tools in different categories available that aid big data analytics -- but only some are production relevant in an HPC environment.
 

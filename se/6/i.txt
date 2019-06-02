@@ -1,5 +1,9 @@
-# SE6-I
-# Name: Software Design and Software Architecture
+# SE6-I Software Design and Software Architecture
 # Background
 # Aim
 # Outcomes
+
+# Subskills
+  * [[skill-tree:se:6:1:i]]
+  * [[skill-tree:se:6:2:i]]
+  * [[skill-tree:se:6:3:i]]

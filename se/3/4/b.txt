@@ -1,5 +1,4 @@
-# SE3.4-B
-# Name: Release Management
+# SE3.4-B Release Management
 # Background
   *  The benefits of release management are explained. Moreover, it is covered how software releases are managed according to a well-defined and consistent process. 
 # Aim

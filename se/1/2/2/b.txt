@@ -1,5 +1,4 @@
-# SE1.2.2-B
-# Name: Programming Shared Memory Systems
+# SE1.2.2-B Programming Shared Memory Systems
 # Background
   *  The parallel concepts of threads and processes are introduced and their impacts on performance are outlined. 
 # Aim

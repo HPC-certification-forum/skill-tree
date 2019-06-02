@@ -1,5 +1,4 @@
-# USE2-E
-# Name: Running of Parallel Programs
+# USE2-E Running of Parallel Programs
 # Background
 # Aim
 # Outcomes

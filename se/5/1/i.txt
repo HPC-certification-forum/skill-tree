@@ -1,5 +1,4 @@
-# SE5.1-I
-# Name: Coding Standards
+# SE5.1-I Coding Standards
 # Background
 # Aim
 # Outcomes

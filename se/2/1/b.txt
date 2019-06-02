@@ -1,5 +1,4 @@
-# SE2.1-B
-# Name: Integrated Development Environments
+# SE2.1-B Integrated Development Environments
 # Background
 # Aim
 # Outcomes

@@ -1,5 +1,4 @@
-# USE1.2-E
-# Name: Using Shell Scripts
+# USE1.2-E Using Shell Scripts
 # Background
 # Aim
 # Outcomes

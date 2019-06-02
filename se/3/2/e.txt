@@ -1,5 +1,4 @@
-# SE3.2-E
-# Name: Version Control
+# SE3.2-E Version Control
 # Background
 # Aim
 # Outcomes

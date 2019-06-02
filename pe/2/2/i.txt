@@ -1,5 +1,4 @@
-# PE2.2-I
-# Name: Profiling
+# PE2.2-I Profiling
 # Background
 # Aim
 # Outcomes

@@ -1,5 +1,4 @@
-# K1.1-E
-# Name: System Architectures
+# K1.1-E System Architectures
 # Background
 # Aim
 # Outcomes

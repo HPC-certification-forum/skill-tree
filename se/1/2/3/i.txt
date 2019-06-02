@@ -1,5 +1,4 @@
-# SE1.2.3-I
-# Name: Programming Message Passing Systems
+# SE1.2.3-I Programming Message Passing Systems
 # Background
 # Aim
 # Outcomes

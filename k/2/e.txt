@@ -1,5 +1,8 @@
-# K2-E
-# Name: Performance Modeling
+# K2-E Performance Modeling
 # Background
 # Aim
 # Outcomes
+
+# Subskills
+  * [[skill-tree:k:2:1:e]]
+  * [[skill-tree:k:2:2:e]]

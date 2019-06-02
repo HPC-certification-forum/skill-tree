@@ -1,0 +1,16 @@
+# K4.1-B Introduction to job scheduling
+# Background
+This skill provides an overview into the scheduling of jobs on a supercomputer.
+It covers generic and widely used concepts that serve the purpose to maximize the efficiency of a supercomputer.
+
+# Aim
+To enable practitioners to comprehend and describe the basic architecture and concepts of resource allocation for an HPC system
+
+# Outcomes
+  * comprehend the exclusive and shared usage model in HPC
+  * differentiate batch and interactive job submission
+  * comprehend the generic concepts and architecture of resource manager, scheduler, job and job script
+  * explain environment variables as a means to communicate
+  * comprehend accounting principles
+  * explain the generic steps to run and monitor a single job
+  * comprehend scheduling principles (first come first served, shortest job first, backfilling) to achieve objectives like minimizing the averaged elapsed program runtimes, and maximizing the utilization of the available HPC resources

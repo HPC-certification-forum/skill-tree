@@ -1,5 +1,4 @@
-# SE5.4-E
-# Name: Code Reviews
+# SE5.4-E Code Reviews
 # Background
 # Aim
 # Outcomes

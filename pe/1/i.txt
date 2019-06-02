@@ -1,5 +1,4 @@
-# PE1-I
-# Name: Cost Awareness
+# PE1-I Cost Awareness
 # Background
 # Aim
 # Outcomes

@@ -1,5 +1,4 @@
-# SE5.3-I
-# Name: Refactoring
+# SE5.3-I Refactoring
 # Background
 # Aim
 # Outcomes

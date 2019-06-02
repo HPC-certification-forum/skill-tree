@@ -1,5 +1,4 @@
-# SE1.2.2-I
-# Name: Programming Shared Memory Systems
+# SE1.2.2-I Programming Shared Memory Systems
 # Background
 # Aim
 # Outcomes

@@ -1,5 +1,4 @@
-# USE3-E
-# Name: Building of Parallel Programs
+# USE3-E Building of Parallel Programs
 # Background
 # Aim
 # Outcomes

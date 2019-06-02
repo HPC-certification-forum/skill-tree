@@ -1,5 +1,4 @@
-# SE5.2-I
-# Name: Code Quality
+# SE5.2-I Code Quality
 # Background
 # Aim
 # Outcomes

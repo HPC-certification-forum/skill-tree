@@ -1,5 +1,4 @@
-# SE4.2-B
-# Name: Extreme Programming
+# SE4.2-B Extreme Programming
 # Background
 # Aim
 # Outcomes

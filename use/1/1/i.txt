@@ -1,5 +1,4 @@
-# USE1.1-I
-# Name: Use of the Command Line Interface
+# USE1.1-I Use of the Command Line Interface
 # Background
 # Aim
 # Outcomes

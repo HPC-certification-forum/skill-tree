@@ -1,5 +1,4 @@
-# SE2.3-I
-# Name: Programming Idioms
+# SE2.3-I Programming Idioms
 # Background
 # Aim
 # Outcomes

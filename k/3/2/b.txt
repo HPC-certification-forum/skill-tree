@@ -1,5 +1,4 @@
-# K3.2-B
-# Name: Level of Parallelization
+# K3.2-B Level of Parallelization
 # Background
 # Aim
 # Outcomes

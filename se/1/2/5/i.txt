@@ -1,5 +1,4 @@
-# SE1.2.5-I
-# Name: I/O Programming
+# SE1.2.5-I I/O Programming
 # Background
 # Aim
 # Outcomes

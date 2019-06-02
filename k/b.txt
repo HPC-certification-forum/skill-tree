@@ -1,5 +1,4 @@
-# K-B
-# Name: HPC Knowledge
+# K-B HPC Knowledge
 # Background
 The theoretic knowledge behind HPC provides the background to understand how supercomputers and HPC environments operate.
 This enables practitioners to effectively use such environments.
@@ -14,3 +13,10 @@ This enables practitioners to effectively use such environments.
   * Compare different paradigms for the parallelization of applications
   * Construct and execute an HPC workflow on an HPC system
   * Apply a cost model to compute the costs for running a workflow on an HPC system
+
+# Subskills
+  * [[skill-tree:k:1:b]]
+  * [[skill-tree:k:2:b]]
+  * [[skill-tree:k:3:b]]
+  * [[skill-tree:k:4:b]]
+  * [[skill-tree:k:5:b]]

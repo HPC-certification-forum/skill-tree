@@ -1,1 +1,9 @@
-# skills
+# SkillTree
+
+# Subskills
+  * [[skill-tree:adm:b]]
+  * [[skill-tree:bda:b]]
+  * [[skill-tree:k:b]]
+  * [[skill-tree:pe:b]]
+  * [[skill-tree:se:b]]
+  * [[skill-tree:use:b]]

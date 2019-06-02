@@ -1,5 +1,4 @@
-# SE3.2-B
-# Name: Version Control
+# SE3.2-B Version Control
 # Background
   *  This skill covers how to apply version and configuration management to the development of (parallel) programs in order to track and control changes in the sources and how to establish and maintain consistency of the program or software system throughout its life, and facilitate cooperative development. 
   *  Systems like Revision Control System (RCS), Subversion (SVN), and GIT are presented. 

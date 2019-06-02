@@ -1,5 +1,4 @@
-# SE1.2.1-I
-# Name: Parallel Algorithms
+# SE1.2.1-I Parallel Algorithms
 # Background
 # Aim
 # Outcomes

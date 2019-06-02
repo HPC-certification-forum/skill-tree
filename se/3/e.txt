@@ -1,6 +1,12 @@
-# SE3-E
-# Name: Software Configuration Management
+# SE3-E Software Configuration Management
 # Background
 # Aim
 # Outcomes
   *  apply steps of SCM in a HPC project 
+
+# Subskills
+  * [[skill-tree:se:3:1:e]]
+  * [[skill-tree:se:3:2:e]]
+  * [[skill-tree:se:3:3:e]]
+  * [[skill-tree:se:3:4:e]]
+  * [[skill-tree:se:3:5:e]]

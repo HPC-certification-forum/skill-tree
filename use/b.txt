@@ -1,5 +1,4 @@
-# USE-B
-# Name: Use of the HPC Environment
+# USE-B Use of the HPC Environment
 # Background
 HPC environments are different from local systems and cloud environments.
 Practitioners typically face initial challenges to utilize such a system efficiently.
@@ -16,3 +15,9 @@ Various user roles are covered as part of this subtree. Practitioners that aim t
   * Apply the software environment to build existing and develop novel parallel applications effectively
   * Construct workflows that utilize remote (distributed) environments to execute a parallel workflow
   * Design and deploy scripts that automatize repetitive tasks
+
+# Subskills
+  * [[skill-tree:use:1:b]]
+  * [[skill-tree:use:2:b]]
+  * [[skill-tree:use:3:b]]
+  * [[skill-tree:use:4:b]]

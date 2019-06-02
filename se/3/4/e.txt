@@ -1,5 +1,4 @@
-# SE3.4-E
-# Name: Release Management
+# SE3.4-E Release Management
 # Background
 # Aim
 # Outcomes

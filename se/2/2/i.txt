@@ -1,5 +1,4 @@
-# SE2.2-I
-# Name: Debugging
+# SE2.2-I Debugging
 # Background
 # Aim
 # Outcomes

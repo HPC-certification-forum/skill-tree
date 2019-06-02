@@ -1,5 +1,4 @@
-# K1.3-B
-# Name: I/O Architectures
+# K1.3-B I/O Architectures
 # Background
 # Aim
 # Outcomes

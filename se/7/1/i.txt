@@ -1,5 +1,4 @@
-# SE7.1-I
-# Name: Requirements Documentation
+# SE7.1-I Requirements Documentation
 # Background
 # Aim
 # Outcomes

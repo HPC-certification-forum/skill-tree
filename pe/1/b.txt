@@ -1,5 +1,4 @@
-# PE1-B
-# Name: Cost Awareness
+# PE1-B Cost Awareness
 # Background
 # Aim
 # Outcomes

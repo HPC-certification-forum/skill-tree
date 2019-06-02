@@ -1,5 +1,4 @@
-# ADM-B
-# Name: Administration
+# ADM-B Administration
 # Background
 The administration of HPC environments requires to integrate (sometimes bleeding edge) hardware and software providing effective user environments while managing them efficiently.
 

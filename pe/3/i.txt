@@ -1,5 +1,4 @@
-# PE3-I
-# Name: Benchmarking
+# PE3-I Benchmarking
 # Background
 # Aim
 # Outcomes

@@ -1,5 +1,4 @@
-# SE1.2.1-B
-# Name: Parallel Algorithms
+# SE1.2.1-B Parallel Algorithms
 # Background
 # Aim
 # Outcomes

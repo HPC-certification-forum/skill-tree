@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# K4-B: Job Scheduling
+=======
 # K4-B Job Scheduling
+>>>>>>> 0ff94211cd1008930eb638a0d31137d420c95c81
 # Background
 Parallel computers are operated differently than a normal PC, all users must share the system. Therefore, various operative procedures are in place. Users must understand these concepts and procedures to be able to use the available resources of a system to run a parallel application.
 A workload manager/job scheduler controls how available hardware resources are distributed among the user requests (jobs).

@@ -1,9 +1,0 @@
-# SE1-I Programming Concepts for HPC
-# Background
-# Aim
-# Outcomes
-
-# Subskills
-  * [[skill-tree:se:1:1:i]]
-  * [[skill-tree:se:1:2:i]]
-  * [[skill-tree:se:1:3:i]]

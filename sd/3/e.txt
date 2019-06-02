@@ -1,0 +1,12 @@
+# SD3-E Software Configuration Management
+# Background
+# Aim
+# Outcomes
+  *  apply steps of SCM in a HPC project 
+
+# Subskills
+  * [[skill-tree:sd:3:1:e]]
+  * [[skill-tree:sd:3:2:e]]
+  * [[skill-tree:sd:3:3:e]]
+  * [[skill-tree:sd:3:4:e]]
+  * [[skill-tree:sd:3:5:e]]

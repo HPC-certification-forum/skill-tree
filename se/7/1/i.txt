@@ -1,5 +1,0 @@
-# SE7.1-I Requirements Documentation
-# Background
-# Aim
-# Outcomes
-  *  document requirements using a specified template 

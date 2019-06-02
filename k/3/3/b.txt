@@ -1,6 +1,6 @@
-# K3.3-B Parallelization Overheads
+# K3.3-B Domain Decomposition
 # Background
 # Aim
 # Outcomes
-  *  the various overheads, i.e. overheads for communication, synchronization 
-  *  the problems of load imbalances 
+  *  typical decomposition strategies to split a domain into subdomains to make it suited for parallel processing 
+  *  measures like surface to volume ratio 

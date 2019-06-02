@@ -5,5 +5,5 @@
   * [[skill-tree:bda:b]]
   * [[skill-tree:k:b]]
   * [[skill-tree:pe:b]]
-  * [[skill-tree:se:b]]
+  * [[skill-tree:sd:b]]
   * [[skill-tree:use:b]]

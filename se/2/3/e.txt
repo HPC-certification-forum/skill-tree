@@ -1,5 +1,0 @@
-# SE2.3-E Programming Idioms
-# Background
-# Aim
-# Outcomes
-  *  recognize where programming idioms are violated and to refactor the code to comply to a specific programming idom 

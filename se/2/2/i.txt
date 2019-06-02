@@ -1,5 +1,0 @@
-# SE2.2-I Debugging
-# Background
-# Aim
-# Outcomes
-  *  use sophisticated debuggers such as DDT and TotalView 

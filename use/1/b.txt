@@ -1,4 +1,4 @@
-# USE1-B Use of the Cluster Operating System
+# USE1-B Cluster Operating System
 # Background
   *  HPC systems are usually accessed via a command line interface (CLI). The user acquires skills to use a – generally Linux based – CLI to interact with the HPC system. 
 

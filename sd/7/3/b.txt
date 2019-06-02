@@ -1,0 +1,6 @@
+# SD7.3-B Source Code Documentation
+# Background
+# Aim
+# Outcomes
+  *  appropriately document source code using documentation generators like doxygen, pydoc, or sphinx 
+  *  produce a consistent source code documentation according to guidelines and best practices 

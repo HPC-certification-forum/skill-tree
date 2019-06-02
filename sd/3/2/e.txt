@@ -1,0 +1,6 @@
+# SD3.2-E Version Control
+# Background
+# Aim
+# Outcomes
+  *  apply a specific workflow, such as Feature Branch Workflow, Gitflow Workflow, Centralized Workflow, Forking Worfklow 
+  *  apply advanced git concepts and commands 

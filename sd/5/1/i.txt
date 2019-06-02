@@ -1,0 +1,5 @@
+# SD5.1-I Coding Standards
+# Background
+# Aim
+# Outcomes
+  *  adhere to coding standards and conventions in a project 

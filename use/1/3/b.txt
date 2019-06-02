@@ -1,4 +1,4 @@
-# USE1.3-B Selecting the Software Environment
+# USE1.3-B Software Environment
 # Background
   *  HPC systems have generally installed multiple versions of a number of key software tools and software environments. 
   *  Package managers like Spack are sketched. 

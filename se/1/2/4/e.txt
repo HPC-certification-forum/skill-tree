@@ -1,5 +1,0 @@
-# SE1.2.4-E Load Balancing
-# Background
-# Aim
-# Outcomes
-  *  apply domain decomposition strategies 

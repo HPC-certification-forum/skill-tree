@@ -1,5 +1,0 @@
-# SE1.2.1-I Parallel Algorithms
-# Background
-# Aim
-# Outcomes
-  *  assess that there are algorithms having a so-called sequential nature that have been notoriously difficult to parallelize, for example alpha-beta game-tree search 

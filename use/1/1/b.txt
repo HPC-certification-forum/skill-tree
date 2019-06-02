@@ -1,4 +1,4 @@
-# USE1.1-B Use of the Command Line Interface
+# USE1.1-B Command Line Interface
 # Background
 # Aim
 # Outcomes

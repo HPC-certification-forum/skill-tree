@@ -1,4 +1,4 @@
-# BDA-1-B Theoretic principles of BDA
+# BDA1-B Theoretic principles of BDA
 # Background
 Big data analytics is a fuzzy area that covers many concepts.
 

@@ -1,6 +1,6 @@
-# K3.2-B Level of Parallelization
+# K3.2-B Parallelization Overheads
 # Background
 # Aim
 # Outcomes
-  *  parallelization techniques at the intra-node level (e.g. based on basic OpenMP features) 
-  *  the message passing paradigm based on environments like MPI, which is the de-facto standard at the inter-node level for parallelizing programs using more than a single node 
+  *  the various overheads, i.e. overheads for communication, synchronization 
+  *  the problems of load imbalances 

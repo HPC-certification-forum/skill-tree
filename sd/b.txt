@@ -1,0 +1,21 @@
+# SD-B Software Development
+# Background
+
+Software engineering is often neglected in computational science.
+However, it bears potential to increase productivity by providing scaffolding for the collaborative programming, reducing the coding errors and increasing the manageability of software.
+
+# Aim
+  * To apply practices and methods from software engineering that are relevant for high performance engineering
+
+# Outcomes
+  * Explain agile software engineering methods and practices relevant in high-performance computing
+  * Apply software engineering methods and best practices when developing parallel applications
+
+# Subskills
+  * [[skill-tree:sd:1:b]]
+  * [[skill-tree:sd:2:b]]
+  * [[skill-tree:sd:3:b]]
+  * [[skill-tree:sd:4:b]]
+  * [[skill-tree:sd:5:b]]
+  * [[skill-tree:sd:6:b]]
+  * [[skill-tree:sd:7:b]]

@@ -1,7 +1,0 @@
-# SE5 Software Quality
-
-# Subskills
-  * [[skill-tree:se:5:1:b]]
-  * [[skill-tree:se:5:2:b]]
-  * [[skill-tree:se:5:3:b]]
-  * [[skill-tree:se:5:4:b]]

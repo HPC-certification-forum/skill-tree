@@ -1,0 +1,7 @@
+# SD5.4-I Code Reviews
+# Background
+# Aim
+# Outcomes
+  *  define checklists for code reviews 
+  *  conduct code reviews in pairs or in a team 
+  *  document code review results and resulting tasks in an issue tracking system (for example Jira) 

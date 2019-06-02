@@ -1,6 +1,5 @@
-# K3.4-B Domain Decomposition
+# K3.4-B Autoparallelization
 # Background
 # Aim
 # Outcomes
-  *  typical decomposition strategies to split a domain into subdomains to make it suited for parallel processing 
-  *  measures like surface to volume ratio 
+  *  the auto parallelization capabilities of current compilers (e.g. to automatically parallelize suitable loops), which are applicable at the intra-node level 

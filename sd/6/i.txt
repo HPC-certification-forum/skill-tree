@@ -1,0 +1,9 @@
+# SD6-I Software Design and Software Architecture
+# Background
+# Aim
+# Outcomes
+
+# Subskills
+  * [[skill-tree:sd:6:1:i]]
+  * [[skill-tree:sd:6:2:i]]
+  * [[skill-tree:sd:6:3:i]]

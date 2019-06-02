@@ -1,5 +1,0 @@
-# SE4.2-B Extreme Programming
-# Background
-# Aim
-# Outcomes
-  *  the principles of extreme programming and when to apply it 

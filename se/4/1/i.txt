@@ -1,7 +1,0 @@
-# SE4.1-I Test-driven Development and Agile Testing
-# Background
-# Aim
-# Outcomes
-  *  apply unit testing in a specific programming language using an appropriate unit testing framework, e.g. pfUnit for Fortran, glib testing framework for C 
-  *  develop (agile) testing strategies 
-  *  write different test types for the test pyramid 

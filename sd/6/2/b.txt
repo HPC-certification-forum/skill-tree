@@ -1,0 +1,5 @@
+# SD6.2-B Object-Oriented Design
+# Background
+# Aim
+# Outcomes
+  *  understand and use the main concepts of object-orientation (classes, interfaces, polymorphism) to design and implement a program 

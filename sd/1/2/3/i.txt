@@ -1,0 +1,5 @@
+# SD1.2.3-I Programming Message Passing Systems
+# Background
+# Aim
+# Outcomes
+  *  assess the impact of communication and synchronization on the performance of a parallel program 

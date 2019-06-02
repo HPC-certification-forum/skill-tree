@@ -1,6 +1,0 @@
-# SE1.2.2-E Programming Shared Memory Systems
-# Background
-# Aim
-# Outcomes
-  *  assess concepts like software pipelining, e.g. to optimize loops by out-of-order execution 
-  *  assess the applicability of parallel language extensions like CUDA as well as their interoperability (e.g. combining OpenACC and CUDA) 

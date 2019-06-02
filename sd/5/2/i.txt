@@ -1,0 +1,7 @@
+# SD5.2-I Code Quality
+# Background
+# Aim
+# Outcomes
+  *  assess code quality using different metrics, e.g. length of functions, length of files, lines of code, complexity metrics, code coverage 
+  *  use static code analysis tools in order to calculate the metrics (e.g. http://cppcheck.sourceforge.net/) 
+  *  identify bad code structures (known as bad smells) in order to assess the quality of the code design 

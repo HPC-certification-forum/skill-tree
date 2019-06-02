@@ -1,0 +1,5 @@
+# SD2.3-I Programming Idioms
+# Background
+# Aim
+# Outcomes
+  *  apply programming idioms for a specific programming language, e.g. FORTRAN, Python, C, C++ 

@@ -6,13 +6,16 @@ Performance engineering is the field of systematic approaches for measuring and 
 # Aim
   * To understand performance of applications and systems
   * To enable practitioners to optimize runtime settings and applications
+  * To raise user awareness for efficient utilization of the HPC resources
 
 # Outcomes
   * Describe the optimization cycle
   * Apply a cost model to compute the costs for running a workflow on an HPC system
-  * List typical errors when measuring performance
+  * List typical pitfalls when measuring performance
   * Execute benchmarks to obtain performance baselines for systems and applications
+  * Comprehend profiling in order to assess the runtime behavior of parallel programs and to detect bottlenecks
   * Comprehend tunable settings in applications and system that influence performance
+  * Comprehend how to use optimized libraries to speed up program execution
 
 # Subskills
   * [[skill-tree:pe:1:b]]

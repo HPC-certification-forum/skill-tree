@@ -6,13 +6,18 @@ This enables practitioners to effectively use such environments.
 # Aim
   * To provide background knowledge that is relevant for all other branches.
   * To provide theoretic background to judge the behavior and efficiency of systems.
+  * To provide technical understanding of HPC systems
 
 # Outcomes
   * Explain the hardware, software, and operation of HPC systems
   * Construct and judge simple performance models for systems and applications
+  * Comprehend that there are perfomance frontiers
+  * Explain why it is a special challenge to achieve good speedups and good efficiencies if the number of processing elements is steadily increased
   * Compare different paradigms for the parallelization of applications
   * Construct and execute an HPC workflow on an HPC system
+  * Comprehend job scheduling principles
   * Apply a cost model to compute the costs for running a workflow on an HPC system
+
 
 # Subskills
   * [[skill-tree:k:1:b]]

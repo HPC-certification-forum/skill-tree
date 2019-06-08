@@ -7,14 +7,16 @@ That means users must be trained in the particular solution to efficiently utili
 Various user roles are covered as part of this subtree. Practitioners that aim to deploy existing parallel applications as well as testers that just run already deployed applications, and developers that create new applications.
 
 # Aim
-  * To apply the cluster operating system efficiently in order to develop, build, run, and monitor applications
+  * To use the cluster operating system efficiently in order to develop, build, run, and monitor parallel applications
   * To automatize repetitive tasks on an HPC system
 
 # Outcomes
   * Apply tools provided by the operating system to navigate and manage files and executables
-  * Apply the software environment to build existing and develop novel parallel applications effectively
+  * Select the software environment to build existing and develop novel parallel applications effectively
+  * Use a workload manager to allocate HPC resources
   * Construct workflows that utilize remote (distributed) environments to execute a parallel workflow
   * Design and deploy scripts that automatize repetitive tasks
+
 
 # Subskills
   * [[skill-tree:use:5:b]]

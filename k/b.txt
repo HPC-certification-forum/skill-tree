@@ -1,17 +1,17 @@
 # K-B HPC Knowledge
 # Background
-The theoretic knowledge behind HPC provides the background to understand how supercomputers and HPC environments operate.
+The theoretical knowledge of HPC provides the background to understand how supercomputers and HPC environments operate.
 This enables practitioners to effectively use such environments.
 
-# Aim
+# Aims
   * To provide background knowledge that is relevant for all other branches.
-  * To provide theoretic background to judge the behavior and efficiency of systems.
+  * To provide theoretical background to judge the behavior and efficiency of systems.
   * To provide technical understanding of HPC systems
 
 # Outcomes
   * Explain the hardware, software, and operation of HPC systems
   * Construct and judge simple performance models for systems and applications
-  * Comprehend that there are performance frontiers
+  * Understand that there are performance frontiers
   * Explain why it is a special challenge to achieve good speedups and good efficiencies if the number of processing elements is steadily increased
   * Compare different paradigms for the parallelization of applications
   * Construct and execute an HPC workflow on an HPC system

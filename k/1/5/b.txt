@@ -1,8 +1,11 @@
 # K1.5-B Supercomputing and Big Data
 # Background
   *  In the recent past, Supercomputing as well as the analysis of Big Data are increasingly growing in importance for scientific research. 
-# Aim
+# Aims
+
 # Outcomes
-  *  Supercomputing and Big Data
+  * Increases in datasets whether by volume, velocity, or variety.
+  * Relationship between dataset increases and bottle-necks in desktop computing improvements.
+  * Difference between high performance and high throughput and architectural design.
 
 # Subskills

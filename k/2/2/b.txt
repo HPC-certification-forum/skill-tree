@@ -1,3 +1,9 @@
 # K2.2-B Bounds for a Parallel Program
+# Background
+# Aim
+# Outcomes
+  *  how performance bounds of the various components of the HPC system (e.g. CPU, caches, memory) can limit the overall performance of a parallel program 
+  * how performance bounds of the various components of the HPC system (e.g. network, I/O) can limit the overall performance of a parallel program 
+
 
 # Subskills

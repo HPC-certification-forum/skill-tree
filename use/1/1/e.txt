@@ -1,4 +1,4 @@
-# USE1.1-I Use of the Command Line Interface
+# USE1.1-E Use of the Command Line Interface
 # Background
 
 TODO

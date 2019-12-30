@@ -13,12 +13,20 @@ Typically, several elementary programs are installed that allows to access and m
 
 # Outcomes
   * Describe the organization in a hierarchical file system
-  * Explain the basic UNIX permission model
-  * Describe the core components of the Filesystem Hierarchy Standard
+  * Explain the basic UNIX permission model and metatada of files
+  * Describe the Filesystem Hierarchy Standard and the relevance of the directories
+    - etc
+    - home
+    - opt
+    - lib and /usr/lib
+    - bin and /usr/bin
+    - sbin and /usr/sbin
+    - tmp
   * Utilize tools to navigate and traverse the file system
-    - ls
+    - ls (-R, -l)
     - cd
     - pushd/popd
+    - stat
   * Use tools to read files
     - cat
     - head/tail

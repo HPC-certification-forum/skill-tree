@@ -12,6 +12,8 @@ Part of this module are the general principles of the interaction with a shell; 
 
 # Outcomes
   * Utilize the bash shell to execute individual programs with arguments
+  * Describing the meaning of the exit code of a program
+  * Running multiple programs after another depending on the exit code ;, &&, ||
   * List the set of basic programs and their tasks:
     - pwd
     - whoami

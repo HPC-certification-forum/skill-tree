@@ -6,17 +6,18 @@ The shell provides a programming language that allows you to write programs (kno
 Despite initially seeming cumbersome and inefficient to many, the real power of shell scripting quickly becomes apparent to those who use it.
 An everyday use is to automate repetitive tasks which would otherwise be time-consuming to complete.
 
+This skill covers the bash shell.
+
 # Aim
-
   * To automatize and bundle repetitive tasks in form of shell scripts.
-  * To find and solve issues (``bugs'').
-*  access local and remote files using enhanced features (e.g. via SSHFS) in remote sessions
-
-  *  check disk quotas commonly used to limit the amount of disk space available for the user
-
 
 # Outcomes
-  *  use and write shell scripts
-  *  use troubleshooting, e.g. to handle syntactic and logical errors in scripts
+  * Create a basic shell script that executes a sequence of programs
+  * Design a script using the bash construct "if" that handle conditional execution based on
+    - performing a test for the existing of a file/directory
+    - testing for the presence of certain text in a file
+  * Design a script that performs a task repeatedly using the bash "for" or "while" loop
+  * Utilize debugging options for the troubleshooting of shell programs
+    - Options to bash: -e, -x
 
 # Subskills

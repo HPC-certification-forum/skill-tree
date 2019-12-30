@@ -1,13 +1,22 @@
 # USE1.2-B Shell Scripts
 # Background
+
+The shell provides a programming language that allows you to write programs (known as shell scripts) which allows to combine commands into more complex programs.
+
+Despite initially seeming cumbersome and inefficient to many, the real power of shell scripting quickly becomes apparent to those who use it.
+An everyday use is to automate repetitive tasks which would otherwise be time-consuming to complete.
+
 # Aim
 
   * To automatize and bundle repetitive tasks in form of shell scripts.
   * To find and solve issues (``bugs'').
+*  access local and remote files using enhanced features (e.g. via SSHFS) in remote sessions
+
+  *  check disk quotas commonly used to limit the amount of disk space available for the user
 
 
 # Outcomes
-  *  use and write shell scripts 
+  *  use and write shell scripts
   *  use troubleshooting, e.g. to handle syntactic and logical errors in scripts
 
 # Subskills

@@ -4,5 +4,8 @@
 # Aim
 
 # Outcomes
+  *  login remotely to cluster nodes using e.g. SSH with password or SSH key authentication
+  *  access local and remote files in remote sessions
+  * screen / tmux
 
 # Subskills

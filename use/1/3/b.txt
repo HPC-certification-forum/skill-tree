@@ -1,11 +1,36 @@
-# USE1.3-B Software Environment
+# USE1.4-B UNIX File System Tree
 # Background
-  *  HPC systems have generally installed multiple versions of a number of key software tools and software environments. 
-  *  Package managers like Spack are sketched. 
+
+The UNIX file system is organized hierarchically according to the Filesystem Hierarchy Standard.
+
+UNIX follows the philosophy that everything is a file: Directories are indicated with a “/” separator and start from the root directory “/” and different devices are linked into this tree.
+Files or directories can be referred to either using absolute or relative file names.
+
+Typically, several elementary programs are installed that allows to access and manipulate files and directories.
+
 # Aim
+  * To understand the file system layout and perform typical file operations to access and manipulate the file system.
+
 # Outcomes
-  *  select the appropriate versions for deployment to the session environment, e.g. via the so-called environment modules system
+  * Describe the organization in a hierarchical file system
+  * Explain the basic UNIX permission model
+  * Describe the core components of the Filesystem Hierarchy Standard
+  * Utilize tools to navigate and traverse the file system
+    - ls
+    - cd
+    - pushd/popd
+  * Use tools to read files
+    - cat
+    - head/tail
+    - less/more
+    - cmp
+  * Utilize tools to manipulate the file system
+    - mkdir/rmdir
+    - touch
+    - cp/mv
+    - ln
+  * Utilize tools to identify and manipulate permissions
+    - chmod
+    - chown/chgrp
 
 # Subskills
-  * [[skill-tree:use:1:3:1:b]]
-  * [[skill-tree:use:1:3:2:b]]

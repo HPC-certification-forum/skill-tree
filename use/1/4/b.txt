@@ -1,9 +1,11 @@
-# USE1.4-B UNIX File System Tree
+# USE1.3-B Software Environment
 # Background
-
+  *  HPC systems have generally installed multiple versions of a number of key software tools and software environments. 
+  *  Package managers like Spack are sketched. 
 # Aim
-
 # Outcomes
+  *  select the appropriate versions for deployment to the session environment, e.g. via the so-called environment modules system
 
 # Subskills
-  * [[skill-tree:fhs:b]]
+  * [[skill-tree:use:1:3:1:b]]
+  * [[skill-tree:use:1:3:2:b]]

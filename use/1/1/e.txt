@@ -1,0 +1,10 @@
+# USE1.1-I Use of the Command Line Interface
+# Background
+
+TODO
+
+# Aim
+
+# Outcomes
+  * Use tools to search for relevant information
+    - awk

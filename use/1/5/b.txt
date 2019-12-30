@@ -7,5 +7,15 @@
   *  login remotely to cluster nodes using e.g. SSH with password or SSH key authentication
   *  access local and remote files in remote sessions
   * screen / tmux
+  * To find and solve issues (``bugs'').
+*  access local and remote files using enhanced features (e.g. via SSHFS) in remote sessions
+
+  *  check disk quotas commonly used to limit the amount of disk space available for the user
+
+  *  use flow control, e.g. for conditional and/or repeated execution of statements in scripts
+  *  use shell functions to break large, complex tasks into a series of small, simple tasks
+  *  write robust job scripts, e.g. to simplify job submissions by the help of automated job chaining
+  *  read keyboard input to add interactivity to scripts
+
 
 # Subskills

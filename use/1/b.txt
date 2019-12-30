@@ -8,6 +8,8 @@
   *  select the right environment setting to build programs with the proper compiler, linker, and libraries versions or to run programs
 
 # Subskills
+  * [[skill-tree:use:1:4:b]]
+  * [[skill-tree:use:1:5:b]]
   * [[skill-tree:use:1:1:b]]
   * [[skill-tree:use:1:2:b]]
   * [[skill-tree:use:1:3:b]]

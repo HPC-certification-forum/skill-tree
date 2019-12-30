@@ -1,0 +1,9 @@
+# USE1.4-B UNIX File System Tree
+# Background
+
+# Aim
+
+# Outcomes
+
+# Subskills
+  * [[skill-tree:fhs:b]]

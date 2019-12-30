@@ -21,9 +21,8 @@ However, it bears potential to increase productivity by providing scaffolding fo
   * Apply unit testing in a specific programming language using an appropriate unit testing framework
   * Appropriately document the entire software system
 
-
-
 # Subskills
+s
   * [[skill-tree:sd:1:b]]
   * [[skill-tree:sd:2:b]]
   * [[skill-tree:sd:3:b]]

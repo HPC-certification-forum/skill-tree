@@ -17,7 +17,6 @@ Various user roles are covered as part of this subtree. Practitioners that aim t
   * Construct workflows that utilize remote (distributed) environments to execute a parallel workflow
   * Design and deploy scripts that automatize repetitive tasks
 
-
 # Subskills
   * [[skill-tree:use:5:b]]
   * [[skill-tree:use:6:b]]

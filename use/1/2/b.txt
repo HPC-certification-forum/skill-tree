@@ -19,5 +19,6 @@ This skill covers the bash shell.
   * Design a script that performs a task repeatedly using the bash "for" or "while" loop
   * Utilize debugging options for the troubleshooting of shell programs
     - Options to bash: -e, -x
+  * Use shell functions to break large, complex sequences, into a series of small functions
 
 # Subskills

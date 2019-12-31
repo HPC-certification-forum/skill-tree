@@ -1,4 +1,0 @@
-# USE1.2-I Using Shell Scripts
-# Background
-# Aim
-# Outcomes

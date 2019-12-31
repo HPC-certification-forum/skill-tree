@@ -1,0 +1,4 @@
+
+  *  check disk quotas commonly used to limit the amount of disk space available for the user
+  *  write robust job scripts, e.g. to simplify job submissions by the help of automated job chaining
+  *  read keyboard input to add interactivity to scripts

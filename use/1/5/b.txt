@@ -1,20 +1,21 @@
 # USE1.5-B Remote Access
 # Background
 
+A HPC system is accessed remotely and has its own file systems that contain data and programs to execute.
+Learning the ways of general interaction with the remote system and tools involved is essential for newcomers.
+
+Users must connect to the system typically using the Secure Shell (ssh) which then starts a shell and allows for interactive access.
+When the user disconnects such a session is terminated.
+Starting of a server-sided session that persists after disconnection enables to execute long-running programs remotely and allows to seamlessly continue on a  previous session.
+Data transfer between a users system (e.g., desktop or laptop) and remote system requires special tools and allows even for interactive access.
+
 # Aim
+  * To understand how to access a remote server and transfer data.
 
 # Outcomes
   *  login remotely to cluster nodes using e.g. SSH with password or SSH key authentication
   *  access local and remote files in remote sessions
   * screen / tmux
-  * To find and solve issues (``bugs'').
-*  access local and remote files using enhanced features (e.g. via SSHFS) in remote sessions
-
-  *  check disk quotas commonly used to limit the amount of disk space available for the user
-
-  *  use flow control, e.g. for conditional and/or repeated execution of statements in scripts
-  *  use shell functions to break large, complex tasks into a series of small, simple tasks
-  *  write robust job scripts, e.g. to simplify job submissions by the help of automated job chaining
-  *  read keyboard input to add interactivity to scripts
+  *  access local and remote files using enhanced features (e.g. via SSHFS) in remote sessions
 
 # Subskills

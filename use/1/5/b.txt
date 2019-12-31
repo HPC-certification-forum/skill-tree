@@ -4,18 +4,32 @@
 A HPC system is accessed remotely and has its own file systems that contain data and programs to execute.
 Learning the ways of general interaction with the remote system and tools involved is essential for newcomers.
 
-Users must connect to the system typically using the Secure Shell (ssh) which then starts a shell and allows for interactive access.
+Users must connect to a HPC system typically using the Secure Shell (SSH) which then starts a shell and allows for interactive access.
 When the user disconnects such a session is terminated.
 Starting of a server-sided session that persists after disconnection enables to execute long-running programs remotely and allows to seamlessly continue on a  previous session.
-Data transfer between a users system (e.g., desktop or laptop) and remote system requires special tools and allows even for interactive access.
+Data transfer between a local users system (e.g., desktop or laptop) and remote system requires special tools and allows even for interactive access.
+
+Tools discussed are generally valid for user systems using Linux, Mac, and Windows but also mobile devices.
 
 # Aim
   * To understand how to access a remote server and transfer data.
 
 # Outcomes
-  *  login remotely to cluster nodes using e.g. SSH with password or SSH key authentication
-  *  access local and remote files in remote sessions
-  * screen / tmux
-  *  access local and remote files using enhanced features (e.g. via SSHFS) in remote sessions
+  * Describe how SSH-authentication works
+    - Password authentication
+    - Public-Key authentication
+    - The role of an authentication agent and the security implications
+  * Generate an SSH public/private key under Linux
+  * Registering a key for public-key authentication using ssh-copy-id
+  * Perform a remote login from Linux using SSH
+  * Utilize tools to transfer data between local and remote system
+    - scp
+    - sftp
+    - rsync (-avz)
+  * Describing how SSHFS allows to mount a remote directory to a local directory for interactive usage (Mac/Linux only)
+  * Utilizing screen and tmux to preserve a session between logins
+    - creation of a session
+    - detaching from the current session
+    - resuming a previous session
 
 # Subskills

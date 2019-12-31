@@ -1,5 +1,6 @@
 # USE1-B Cluster Operating System
 # Background
+
 HPC systems are usually accessed via a Linux-based Command Line Interface (CLI).
 Via the CLI, users can run programs to manipulate files, load additional software, or execute programs.
 While there are many similarities to single-user Linux systems, HPC systems differ widely in the management of provided Software packages and users must pay attention to the locality of data.

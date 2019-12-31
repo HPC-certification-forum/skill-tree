@@ -69,7 +69,7 @@ def update(file, node, parents, txt):
   head = "%s%s-%s %s" % (parents[0], ".".join(parents[1:]), type, txt)
   filehead = data[2:].strip()
   if filehead != head:
-    print("M" + "  " * len(parents) + head)
+    print("M" + "  " * len(parents) + "\"" + head + "\" expected in " + file)
     print("F" + "  " * len(parents) + data[2:].strip())
 
   if modify_tree:

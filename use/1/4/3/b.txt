@@ -1,4 +1,4 @@
-# USE1.4.2-B Environment Modules
+# USE1.4.3-B Spack
 # Background
 
 # Aim

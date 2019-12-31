@@ -1,4 +1,4 @@
-# USE1.4-B UNIX File System Tree
+# USE1.3-B UNIX File System Tree
 # Background
 
 The UNIX file system is organized hierarchically according to the Filesystem Hierarchy Standard.

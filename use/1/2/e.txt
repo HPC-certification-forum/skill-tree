@@ -2,4 +2,3 @@
 # Background
 # Aim
 # Outcomes
-  *  read keyboard input to add interactivity to scripts 

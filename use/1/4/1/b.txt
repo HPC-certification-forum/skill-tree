@@ -19,9 +19,9 @@ Understanding these variables helps to understand system behavior and to debug i
   * Using the export command to print shell variables
   * Understand shell variables relevant for executing software and for building software
     - PATH for executables
-    - LD_LIBRARY_PATH for libraries
+    - LD\_LIBRARY\_PATH for libraries
     - MANPATH for manual pages (man command)
-    - PKG_CONFIG_PATH for pkg-config
+    - PKG\_CONFIG\_PATH for pkg-config
   * Manipulate shell variables to include additional software
     - Setting shell variables for a single program by prefixing or by using export
 

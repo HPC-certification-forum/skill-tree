@@ -1,0 +1,21 @@
+# USE1.4.3-B Spack
+
+# Background
+
+The intermediate level of Spack deals with the setup of software using Spack.
+This can be performed by users and empowers them to manage the appropriate software on supercomputers.
+
+# Aim
+  * To manage a software repository using Spack.
+
+# Outcomes
+
+  * Installation of Spack
+  * Building of software using Spack
+    - Setup of compilers
+    - Showing installed compilers
+    - Configuration of variants
+  * Managing the installation directories
+  * Describing relevant directories for the Spack installation
+
+# Subskills

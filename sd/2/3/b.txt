@@ -6,3 +6,7 @@
   *  programming idioms for a specific programming language, e.g. FORTRAN, Python, C, C++
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/sd/2/3/b|Submit a proposal for an examination question]]

@@ -6,3 +6,7 @@
   *  the IEEE standard for software requirements specification for a structured requirement specification
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/sd/7/1/b|Submit a proposal for an examination question]]

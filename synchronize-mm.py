@@ -40,8 +40,9 @@ def addSubskills(data, parents, node):
   pos = data.find("# Subskills")
   if pos == -1:
     pos = len(data)
-  head = data[0:pos].strip() + "\n\n# Subskills\n"
-  rest = data[len(head):].strip("\n")
+  head = data[0:pos]
+  rest = data[len(head) + len("# Subskills"):].strip("\n")
+  head = head.strip() + "\n\n# Subskills\n"
 
   for c in reversed(node):
     if not "TEXT" in c.attrib:
@@ -58,7 +59,30 @@ def addSubskills(data, parents, node):
       rest = "  * %s\n%s" % (link, rest)
       print("L " + "/".join(parents) + " ADDING " + link)
   data = head + rest
+
   return data
+
+def removeSection(data, section):
+  pos = data.find("# " + section)
+  if pos == -1:
+    return data
+  head = data[0:pos]
+  rest = data[pos + 2:]
+
+  pos = rest.find("# ")
+  if pos == -1:
+    return head
+
+  return head + rest[pos:]
+
+
+
+def addLinks(parents, type):
+  data = ["# Links"]
+  str = ("/".join(parents) + "/" + type).lower()
+  data.append("  * [[https://www.hpc-certification.org/contribute-question/%s|Submit a proposal for an examination question]]" % str)
+
+  return "\n\n" + "\n".join(data) + "\n"
 
 def update(file, node, parents, txt):
   fd = open(file, "r")
@@ -77,8 +101,10 @@ def update(file, node, parents, txt):
     data = fd.read()
     fd.close()
     data = data.replace(filehead, head)
+    data = removeSection(data, "Links")
 
     datanew = addSubskills(data, parents, node)
+    datanew = datanew + addLinks(parents, type)
     if data != datanew:
       fd = open(file, "w")
       fd.write(datanew)

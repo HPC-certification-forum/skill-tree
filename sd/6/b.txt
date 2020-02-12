@@ -8,3 +8,6 @@
   * [[skill-tree:sd:6:1:b]]
   * [[skill-tree:sd:6:2:b]]
   * [[skill-tree:sd:6:3:b]]
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/sd/6/b|Submit a proposal for an examination question]]

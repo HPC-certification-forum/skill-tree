@@ -17,3 +17,7 @@ SLURM is a widely used open-source workload manager providing various advanced f
   * analyze the output generated from submitting to the job scheduler and typically generated errors
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/k/4/2/b|Submit a proposal for an examination question]]

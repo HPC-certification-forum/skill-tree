@@ -6,3 +6,7 @@
   *  the role of requirements elicitation and analysis during software development
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/sd/6/1/b|Submit a proposal for an examination question]]

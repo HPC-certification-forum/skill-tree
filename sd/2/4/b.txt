@@ -10,3 +10,7 @@
   *  logging implementations/libraries for a specific programming language like FORTRAN, C, C++
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/sd/2/4/b|Submit a proposal for an examination question]]

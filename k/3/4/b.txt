@@ -5,3 +5,7 @@
   *  the auto parallelization capabilities of current compilers (e.g. to automatically parallelize suitable loops), which are applicable at the intra-node level
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/k/3/4/b|Submit a proposal for an examination question]]

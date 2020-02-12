@@ -17,3 +17,6 @@ The administration of HPC environments requires to integrate (sometimes bleeding
   * [[skill-tree:adm:1:b]]
   * [[skill-tree:adm:2:b]]
   * [[skill-tree:adm:3:b]]
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/adm/b|Submit a proposal for an examination question]]

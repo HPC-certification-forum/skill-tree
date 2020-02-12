@@ -11,3 +11,7 @@ The setup of BDA tools on an HPC system is not trivial, particularly the integra
   * Construct HPC workflows that utilize BDA tools
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/bda/3/b|Submit a proposal for an examination question]]

@@ -5,3 +5,7 @@
   *  the concepts of SCRUM, e.g. Sprint, Backlog, Planning, Daily meetings/Stand up meeting, project velocity
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/sd/4/3/b|Submit a proposal for an examination question]]

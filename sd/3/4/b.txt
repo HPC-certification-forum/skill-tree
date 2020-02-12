@@ -12,3 +12,7 @@
   *  different frameworks of release planning and management, e.g. SCRUM release planning or ITIL
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/sd/3/4/b|Submit a proposal for an examination question]]

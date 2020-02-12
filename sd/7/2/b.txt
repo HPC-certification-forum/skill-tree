@@ -1,3 +1,7 @@
 # SD7.2-B Software Architecture and Software Design Documentation
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/sd/7/2/b|Submit a proposal for an examination question]]

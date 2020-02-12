@@ -18,3 +18,6 @@ To enable practitioners to comprehend and describe the basic architecture and co
 # Subskills
   * [[skill-tree:k:4:1:b]]
   * [[skill-tree:k:4:2:b]]
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/k/4/b|Submit a proposal for an examination question]]

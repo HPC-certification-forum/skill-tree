@@ -6,3 +6,7 @@
   *  software architecture principles
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/sd/6/3/b|Submit a proposal for an examination question]]

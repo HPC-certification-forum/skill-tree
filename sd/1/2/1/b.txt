@@ -6,3 +6,7 @@
   *  determine the computational complexity of algorithms
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/sd/1/2/1/b|Submit a proposal for an examination question]]

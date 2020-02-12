@@ -6,3 +6,7 @@
   *  the message passing paradigm based on environments like MPI, which is the de-facto standard at the inter-node level for parallelizing programs using more than a single node
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/k/3/1/b|Submit a proposal for an examination question]]

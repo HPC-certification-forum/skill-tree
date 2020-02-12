@@ -9,3 +9,7 @@
   *  typical network architectures used for HPC systems, like fast Ethernet (1 or 10 Gbit) or InfiniBand
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/k/1/2/b|Submit a proposal for an examination question]]

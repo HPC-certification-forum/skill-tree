@@ -27,3 +27,6 @@ Parallel computers are operated differently than a normal PC, all users must sha
   * [[skill-tree:pe:2:b]]
   * [[skill-tree:pe:3:b]]
   * [[skill-tree:k:4:b]]
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/use/2/b|Submit a proposal for an examination question]]

@@ -22,3 +22,7 @@ This skill covers the bash shell.
   * Use shell functions to break large, complex sequences, into a series of small functions
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/use/1/2/b|Submit a proposal for an examination question]]

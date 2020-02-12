@@ -11,3 +11,6 @@
 
 # Subskills
   * [[skill-tree:use:2:b]]
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/use/3/b|Submit a proposal for an examination question]]

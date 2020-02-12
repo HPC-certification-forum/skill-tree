@@ -7,3 +7,7 @@
   * typical architecture of cluster systems consisting of nodes with different roles (e.g. so-called head, management, login, compute, interactive, visualization nodes, etc.)
 
 # Subskills
+
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/k/1/1/b|Submit a proposal for an examination question]]

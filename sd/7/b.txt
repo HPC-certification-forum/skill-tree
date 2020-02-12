@@ -11,3 +11,6 @@
   * [[skill-tree:sd:7:2:b]]
   * [[skill-tree:sd:7:3:b]]
   * [[skill-tree:sd:7:4:b]]
+
+# Links
+  * [[https://www.hpc-certification.org/contribute-question/sd/7/b|Submit a proposal for an examination question]]

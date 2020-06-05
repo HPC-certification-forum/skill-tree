@@ -4,6 +4,6 @@
 # Outcomes
 
 # Subskills
-  * [[skill-tree:pe:4:1:i]]
-  * [[skill-tree:pe:4:2:i]]
-  * [[skill-tree:pe:4:3:i]]
+  * [[skill-tree:pe:4:1:b]]
+  * [[skill-tree:pe:4:2:b]]
+  * [[skill-tree:pe:4:3:b]]

@@ -22,6 +22,7 @@ Tools discussed are generally valid for user systems using Linux, Mac, and Windo
   * Generate an SSH public/private key under Linux
   * Registering a key for public-key authentication using ssh-copy-id
   * Perform a remote login from Linux using SSH
+  * Know when to use and how to create a config file
   * Utilize tools to transfer data between local and remote system
     - scp
     - sftp

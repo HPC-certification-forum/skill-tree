@@ -1,9 +1,18 @@
 # PE3-B Benchmarking
+
 # Background
+  *  Benchmarking is the activity to measure performance reliably and to assess the obtained performance.
+  *  A benchmark is the act of running a computer program, a set of programs, or other operations, in order to assess the relative performance of an object, normally by running a number of standard tests and trials against it.
+
 # Aim
+  *  Provide a basic understanding of benchmarking or performance measurement, so one can quantify successes and failures and use that information to improve the application performance.
+  *  Prepare a method of comparing the performance of various subsystems across different chip/system architectures.
+
 # Outcomes
-  *  assess speedups and efficiencies as the key measures for benchmarks of a parallel program 
-  *  benchmark the runtime behavior of parallel programs, performing controlled experiments by providing varying HPC resources (e.g. 1, 2, 4, 8, ... cores on shared memory systems or 1, 2, 4, 8, ... nodes on distributed systems for the benchmarks)
+  *  Consider not only the speed of computational performance, but also the qualities of service, the total cost of ownership and facilities burden (space, power, and cooling).
+  *  Differentiate types of benchmarks.
+  *  assess speedups and efficiencies as the key measures for benchmarks of a parallel program
+  *  benchmark the runtime behaviour of parallel programs, performing controlled experiments by providing varying HPC resources (e.g. 1, 2, 4, 8, ... cores on shared memory systems or 1, 2, 4, 8, ... nodes on distributed systems for the benchmarks)
 
 # Subskills
   * [[skill-tree:k:2:1:b]]

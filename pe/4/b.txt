@@ -1,7 +1,14 @@
 # PE4-B Tuning
+
 # Background
+  *  Tuning means to change some system variables/configurations (without changing the program itself) in order to optimize the performance.
+
 # Aim
+  *  Use subroutine profiling to focus the efforts on tuning specific procedures and improve the program's performance.
+
 # Outcomes
+  *  Use profiling tools such as prof, gprof and line-by-line profilers.
+  *  Define Amdahl's Law.
   *  tune a parallel program in order to achieve better runtimes and to optimize the usage of the HPC resources
 
 # Subskills

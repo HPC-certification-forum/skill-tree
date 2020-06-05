@@ -20,3 +20,4 @@ Spack creates unique configurations for software.
   * Describe the spec syntax to specify package configurations
 
 # Subskills
+  * [[skill-tree:use:1:4:3:i]]

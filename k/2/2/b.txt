@@ -7,6 +7,3 @@
 
 # Subskills
 s
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/k/2/2/b|Submit a proposal for an examination question]]

@@ -11,7 +11,3 @@
   *  assess the applicability of parallel language extensions like OpenMP
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/sd/1/2/2/b|Submit a proposal for an examination question]]

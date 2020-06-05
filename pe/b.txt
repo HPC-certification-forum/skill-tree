@@ -23,6 +23,3 @@ Performance engineering is the field of systematic approaches for measuring and 
   * [[skill-tree:pe:3:b]]
   * [[skill-tree:pe:4:b]]
   * [[skill-tree:pe:5:b]]
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/pe/b|Submit a proposal for an examination question]]

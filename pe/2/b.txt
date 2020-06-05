@@ -7,6 +7,3 @@
 # Subskills
   * [[skill-tree:pe:2:1:b]]
   * [[skill-tree:pe:2:2:b]]
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/pe/2/b|Submit a proposal for an examination question]]

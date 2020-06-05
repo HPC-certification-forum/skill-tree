@@ -20,6 +20,3 @@ The widely available software tools are:
   * [[skill-tree:use:1:4:1:b]]
   * [[skill-tree:use:1:4:2:b]]
   * [[skill-tree:use:1:4:3:b]]
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/use/1/4/b|Submit a proposal for an examination question]]

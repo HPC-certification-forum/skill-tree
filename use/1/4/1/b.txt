@@ -26,7 +26,3 @@ Understanding these variables helps to understand system behavior and to debug i
     - Setting shell variables for a single program by prefixing or by using export
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/use/1/4/1/b|Submit a proposal for an examination question]]

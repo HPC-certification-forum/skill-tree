@@ -104,7 +104,7 @@ def update(file, node, parents, txt):
     data = removeSection(data, "Links")
 
     datanew = addSubskills(data, parents, node)
-    datanew = datanew + addLinks(parents, type)
+    #datanew = datanew + addLinks(parents, type)
     if data != datanew:
       fd = open(file, "w")
       fd.write(datanew)

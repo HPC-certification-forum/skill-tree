@@ -5,7 +5,3 @@
   *  configure and use integrated development environments (IDEs) like Eclipse, e.g. to seamlessly perform the typical development cycle with the steps edit, build (compile and link), and test
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/sd/2/1/b|Submit a proposal for an examination question]]

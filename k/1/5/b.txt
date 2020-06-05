@@ -9,7 +9,3 @@
   * Difference between high performance and high throughput and architectural design.
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/k/1/5/b|Submit a proposal for an examination question]]

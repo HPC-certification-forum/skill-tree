@@ -5,7 +5,3 @@
   *  assess the costs related to the runtimes of parallel programs against the background of cost models
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/pe/1/b|Submit a proposal for an examination question]]

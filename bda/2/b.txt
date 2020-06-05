@@ -11,7 +11,3 @@ There is a vast number of tools in different categories available that aid big d
   * Construct simple data science workflows
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/bda/2/b|Submit a proposal for an examination question]]

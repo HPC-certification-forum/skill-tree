@@ -8,7 +8,3 @@
   *  Amdahl’s law and its significance for performance frontiers in modern HPC
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/k/2/1/b|Submit a proposal for an examination question]]

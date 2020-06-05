@@ -1,7 +1,3 @@
 # SD5.3-B Refactoring
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/sd/5/3/b|Submit a proposal for an examination question]]

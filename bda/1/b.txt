@@ -13,7 +13,3 @@ Big data analytics is a fuzzy area that covers many concepts.
   * Categorize the different types of diagrams used for visualization
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/bda/1/b|Submit a proposal for an examination question]]

@@ -5,7 +5,3 @@
   *  assess the efficiency of algorithms and data structures, especially with respect to their suitability for typical (scientific) (parallel) programs, e.g. by the help of popular practice-relevant examples
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/sd/1/3/b|Submit a proposal for an examination question]]

@@ -42,7 +42,3 @@ Typically, several elementary programs are installed that allows to access and m
     - chown/chgrp
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/use/1/3/b|Submit a proposal for an examination question]]

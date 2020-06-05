@@ -9,6 +9,3 @@
   * [[skill-tree:k:2:3:b]]
   * [[skill-tree:k:2:1:b]]
   * [[skill-tree:k:2:2:b]]
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/k/2/b|Submit a proposal for an examination question]]

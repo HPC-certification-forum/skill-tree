@@ -16,7 +16,3 @@ To enable practitioners to comprehend and describe the basic architecture and co
   * comprehend scheduling principles (first come first served, shortest job first, backfilling) to achieve objectives like minimizing the averaged elapsed program runtimes, and maximizing the utilization of the available HPC resources
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/k/4/1/b|Submit a proposal for an examination question]]

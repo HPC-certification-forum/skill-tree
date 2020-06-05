@@ -6,7 +6,3 @@
   *  the problems of load imbalances
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/k/3/2/b|Submit a proposal for an examination question]]

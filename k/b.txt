@@ -24,6 +24,3 @@ This enables practitioners to effectively use such environments.
   * [[skill-tree:k:3:b]]
   * [[skill-tree:k:4:b]]
   * [[skill-tree:k:5:b]]
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/k/b|Submit a proposal for an examination question]]

@@ -1,7 +1,3 @@
 # SD7.4-B Documentation for Reproducibility
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/sd/7/4/b|Submit a proposal for an examination question]]

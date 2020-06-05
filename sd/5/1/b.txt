@@ -1,7 +1,3 @@
 # SD5.1-B Coding Standards
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/sd/5/1/b|Submit a proposal for an examination question]]

@@ -5,7 +5,3 @@
   *  select appropriate tasks sizes (big vs. small) that may have positive performance impacts on the workflow, and to run several (smaller) tasks by the help of job chaining
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/pe/4/1/b|Submit a proposal for an examination question]]

@@ -6,7 +6,3 @@
   *  speed up program execution by setting package specific options (e.g. selected by environment variables and command line arguments)
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/pe/4/2/b|Submit a proposal for an examination question]]

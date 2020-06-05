@@ -21,7 +21,3 @@ It comes with an integration into the shell.
   * Describing the MODULEPATH variable
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/use/1/4/2/b|Submit a proposal for an examination question]]

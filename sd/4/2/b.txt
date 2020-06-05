@@ -5,7 +5,3 @@
   *  the principles of extreme programming and when to apply it
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/sd/4/2/b|Submit a proposal for an examination question]]

@@ -6,7 +6,3 @@
   *  use standard tools of the operating system to get information about the behavior of parallel programs in terms of their resource utilization
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/pe/2/1/b|Submit a proposal for an examination question]]

@@ -36,7 +36,3 @@ Part of this module are the general principles of the interaction with a shell; 
     - [,-]
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/use/1/1/b|Submit a proposal for an examination question]]

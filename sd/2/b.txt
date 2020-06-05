@@ -15,6 +15,3 @@
   * [[skill-tree:sd:2:3:b]]
   * [[skill-tree:sd:2:4:b]]
   * [[skill-tree:sd:2:5:b]]
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/sd/2/b|Submit a proposal for an examination question]]

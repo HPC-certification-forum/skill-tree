@@ -7,7 +7,3 @@
   *  the impact of a cluster nodes type (e.g. CPU type, main memory expansion, or GPU extensions) and of the storage media type (SSD, disk, or e.g. tape for long term archiving (LTA) purposes) on its costs
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/k/5/b|Submit a proposal for an examination question]]

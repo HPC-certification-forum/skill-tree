@@ -5,7 +5,3 @@
   *  understand and use the main concepts of object-orientation (classes, interfaces, polymorphism) to design and implement a program
 
 # Subskills
-
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/sd/6/2/b|Submit a proposal for an examination question]]

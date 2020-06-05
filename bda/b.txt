@@ -18,6 +18,3 @@ AI can be used inside simulations or to steer workflows, while data science can 
   * [[skill-tree:bda:1:b]]
   * [[skill-tree:bda:2:b]]
   * [[skill-tree:bda:3:b]]
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/bda/b|Submit a proposal for an examination question]]

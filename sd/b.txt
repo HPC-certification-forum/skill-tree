@@ -30,6 +30,3 @@ s
   * [[skill-tree:sd:5:b]]
   * [[skill-tree:sd:6:b]]
   * [[skill-tree:sd:7:b]]
-
-# Links
-  * [[https://www.hpc-certification.org/contribute-question/sd/b|Submit a proposal for an examination question]]

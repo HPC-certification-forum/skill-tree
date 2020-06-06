@@ -12,7 +12,7 @@
   *  Consider not only the speed of computational performance, but also the qualities of service, the total cost of ownership and facilities burden (space, power, and cooling).
   *  Differentiate types of benchmarks.
   *  Assess speedups and efficiencies as the key measures for benchmarks of a parallel program
-  *  Benchmark the runtime behaviour of parallel programs, performing controlled experiments by providing varying HPC resources (e.g. 1, 2, 4, 8, ... cores on shared memory systems or 1, 2, 4, 8, ... nodes on distributed systems for the benchmarks)
+  *  benchmark the runtime behaviour of parallel programs, performing controlled experiments by providing varying HPC resources (e.g. 1, 2, 4, 8, ... cores on shared memory systems or 1, 2, 4, 8, ... nodes on distributed systems for the benchmarks)
 
 # Subskills
   * [[skill-tree:k:2:1:b]]

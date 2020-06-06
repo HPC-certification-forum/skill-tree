@@ -2,11 +2,11 @@
 # Background
 # Aim
 # Outcomes
-  *  typical I/O systems used in HPC environments
-  *  different types of media (e.g. tape, disk, and SSD)
-  *  the differentiation between standard file systems and distributed file systems
+  *  typical I/O systems used in HPC environments 
+  *  different types of media (e.g. tape, disk, and SSD) 
+  *  the differentiation between standard file systems and distributed file systems 
   *  when to use local and global storage
 
 # Subskills
-  * [[skill-tree:k:1:3:1:b]]
   * [[skill-tree:k:1:3:2:b]]
+  * [[skill-tree:k:1:3:1:b]]

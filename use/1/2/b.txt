@@ -1,10 +1,10 @@
 # USE1.2-B Shell Scripts
 # Background
 
-The shell provides a programming language that allows you to write programs (known as shell scripts) which allows to combine commands into more complex programs.
+The shell provides a programming language that allows you to write programs (known as shell scripts), which helps to combine commands into more complex applications.
 
 Despite initially seeming cumbersome and inefficient to many, the real power of shell scripting quickly becomes apparent to those who use it.
-An everyday use is to automate repetitive tasks which would otherwise be time-consuming to complete.
+Everyday use is to automate repetitive tasks, which would otherwise be time-consuming to complete.
 
 This skill covers the bash shell.
 
@@ -13,11 +13,11 @@ This skill covers the bash shell.
 
 # Outcomes
   * Create a basic shell script that executes a sequence of programs
-  * Design a script using the bash construct "if" that handle conditional execution based on
-    - performing a test for the existing of a file/directory
-    - testing for the presence of certain text in a file
+  * Design a script using the bash construct "if" that handles conditional execution based on
+    - Performing a test for the existing of a file/directory
+    - Testing for the presence of certain text in a file
   * Design a script that performs a task repeatedly using the bash "for" or "while" loop
-  * Utilize debugging options for the troubleshooting of shell programs
+  * Utilize debugging options for troubleshooting of shell programs
     - Options to bash: -e, -x
   * Use shell functions to break large, complex sequences, into a series of small functions
 

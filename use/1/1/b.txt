@@ -1,10 +1,11 @@
 # USE1.1-B Command Line Interface
 # Background
 HPC systems are usually accessed via a Linux-based Command Line Interface (CLI) that is provided by a shell.
-At its core, a shell is simply a convenient tool which you can use to execute commands on a Linux computer.
-The shell provides a textual interface allowing to interact with the operating system and performing all possible operations, i.e., accessing and manipulating files and running programs.
 
-Part of this module are the general principles of the interaction with a shell; they are illustrated on the widely available bash shell.
+At its core, a shell is simply a convenient tool that you can use to execute commands on a Linux computer.
+The shell provides a textual interface allowing to interact with the operating system and performing all possible operations, i.e., accessing and manipulating files, and running programs.
+
+Part of this module is the general principles of the interaction with a shell. They are illustrated on the widely available bash shell.
 
 # Aim
   * To describe the key principles of a shell.
@@ -12,8 +13,8 @@ Part of this module are the general principles of the interaction with a shell; 
 
 # Outcomes
   * Utilize the bash shell to execute individual programs with arguments
-  * Describing the meaning of the exit code of a program
-  * Running multiple programs after another depending on the exit code ;, &&, ||
+  * Describe the meaning of the exit code of a program
+  * Run multiple programs after another depending on the exit code ;, &&, ||
   * List the set of basic programs and their tasks:
     - pwd
     - whoami
@@ -28,7 +29,7 @@ Part of this module are the general principles of the interaction with a shell; 
     - CTRL-C
     - CTRL-Z
     - using kill -9
-  * Using the shell history to search and execute previous executed commands
+  * Use the shell history to search and execute previous executed commands
   * Identify potential special characters that must be handled with care
   * Utilize escaping to ensure correct handling of arguments
   * Understand wildcard characters to select a group of files/directories

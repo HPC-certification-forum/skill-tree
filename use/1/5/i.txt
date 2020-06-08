@@ -9,19 +9,19 @@ Also, sometimes users need more background to understand encountered issues.
   * To debug basic issues of remote access.
 
 # Outcomes
-  * Describing the meaning of the files in the $HOME/.ssh directory
+  * Describe the meaning of the files in the $HOME/.ssh directory
     - authorized_keys
     - config
     - id_*, *.pub
     - known_hosts
-  * Forwarding a remote port to a local port to access remote services
-  * Creating a SSH configuration file
+  * Forward a remote port to a local port to access remote services
+  * Create a SSH configuration file
     - Username, system name
     - Utilizing automatically an intermediate proxy system via ProxyJump
     - Keep-alive configuration
-  * Utilizing advanced features of screen and tmux
+  * Utilize advanced features of screen and tmux
     - providing multiple virtual terminals
     - switching between virtual terminals
-  * Utilizing the -v option for SSH to receive debugging output
+  * Utilize the -v option for SSH to receive debugging output
 
 # Subskills

@@ -1,7 +1,7 @@
 # USE1.4-B Software Environment
 # Background
-HPC systems have generally installed multiple versions of a number of key software tools and software environments.
-Package management tools provide access to this rich variety of software.
+HPC systems have generally installed multiple versions of several essential software tools and software environments.
+Package management tools provide access to this wide variety of software.
 A user has to load the software for the current shell session to make commands available.
 
 The widely available software tools are:
@@ -12,9 +12,9 @@ The widely available software tools are:
   * To utilize different package management tools to make software available
 
 # Outcomes
-  * Understand shell variables relevant for executing software and for building software
-  * Query available software using package manager
-  * Select the appropriate versions for deployment to the session environment
+  * Understand shell variables relevant for executing and building software
+  * Query available software using the package manager
+  * Select the appropriate versions for deployment in the session environment
 
 # Subskills
   * [[skill-tree:use:1:4:1:b]]

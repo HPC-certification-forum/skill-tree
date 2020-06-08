@@ -2,22 +2,22 @@
 # Background
 
 The Environment Modules package is a widely used tool for managing information (modulefiles) about installed software.
-It comes with an integration into the shell.
+It comes with integration into the shell.
 
 # Aim
   * To be able to use the module command to load software.
 
 # Outcomes
 
-  * Querying information about packages
+  * Query information about packages
     - list
     - avail
     - whatis
     - search
-  * Loading/Unload software modules
+  * Load/Unload software modules
     - load/unload
     - purge
     - swap
-  * Describing the MODULEPATH variable
+  * Describe the MODULEPATH variable
 
 # Subskills

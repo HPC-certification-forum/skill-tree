@@ -3,16 +3,18 @@
 
 HPC systems are usually accessed via a Linux-based Command Line Interface (CLI).
 Via the CLI, users can run programs to manipulate files, load additional software, or execute programs.
-While there are many similarities to single-user Linux systems, HPC systems differ widely in the management of provided Software packages and users must pay attention to the locality of data.
+
+While there are many similarities to single-user Linux systems, HPC systems differ widely in the management of provided Software packages, and users must pay attention to the locality of data.
 
 # Aim
-To access and manipulate data, and to execute programs on a cluster environment.
+  * To access and manipulate data.
+  * To execute programs in a cluster environment.
 
 # Outcomes
   * Describe the command line interface and the bash shell
   * Sketch the organization of the typical file system tree
-  * Utilize basic tools to navigate and manage files
-  * Utilize package management tools that provide access to a rich variety of software
+  * Utilize essential tools to navigate and manage files
+  * Utilize package management tools that provide access to a wide variety of software
   * Use and write basic shell scripts, e.g., to automate the execution of several commands
   * Utilize tools to transfer data between a desktop/laptop system and a remote HPC system
 

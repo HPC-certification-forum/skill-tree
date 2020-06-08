@@ -1,10 +1,12 @@
 # USE-B Use of the HPC Environment
 # Background
 HPC environments are different from local systems and cloud environments.
+
 Practitioners typically face initial challenges to utilize such a system efficiently.
-Moreover, often, data centers deploy a specific solution to setup and execute parallel applications.
-That means users must be trained in the particular solution to efficiently utilize a supercomputer.
-Various user roles are covered as part of this subtree. Practitioners that aim to deploy existing parallel applications as well as testers that just run already deployed applications, and developers that create new applications.
+Moreover, often, data centers deploy a specific solution to set up and execute parallel applications.
+That means users must be trained in a particular solution to utilize a supercomputer efficiently.
+
+Various user roles are covered as part of this subtree: practitioners that aim to deploy existing parallel applications as well as testers that just run already deployed applications, and also developers that create new applications.
 
 # Aim
   * To use the cluster operating system efficiently in order to develop, build, run, and monitor parallel applications

@@ -3,16 +3,17 @@
 
 The UNIX file system is organized hierarchically according to the Filesystem Hierarchy Standard.
 
-UNIX follows the philosophy that everything is a file: Directories are indicated with a “/” separator and start from the root directory “/” and different devices are linked into this tree.
-Files or directories can be referred to either using absolute or relative file names.
+UNIX follows the philosophy that everything is a file. Directories are indicated with a "/" separator and start from the root directory "/" and different devices are linked to this tree.
 
-Typically, several elementary programs are installed that allows to access and manipulate files and directories.
+Files and directories can be referred to either using absolute or relative file names.
+
+Typically, several elementary programs are pre-installed and allow access and manipulation of files and directories.
 
 # Aim
   * To understand the file system layout and perform typical file operations to access and manipulate the file system.
 
 # Outcomes
-  * Describe the organization in a hierarchical file system
+  * Describe the organization of a hierarchical file system
   * Explain the basic UNIX permission model and metatada of files
   * Describe the Filesystem Hierarchy Standard and the relevance of the directories
     - etc

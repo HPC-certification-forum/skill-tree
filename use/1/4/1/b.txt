@@ -1,14 +1,14 @@
 # USE1.4.1-B Overview
 # Background
 
-Understanding the general principles of a package manager is the foundation to utilize package managers.
+Understanding the general principles of a package manager is the foundation to utilize them.
 The package manager provides a repository of software stored in a dedicated file system location -- even for different versions.
-A specific software and version may depend on another software or libraries forming a tree of dependencies.
-Software might be incompatible with another software, too.
+Specific software and version may depend on other software or libraries forming a tree of dependencies.
+The software might be incompatible with another software, too.
 
-The user can query available software via commands and loads software using a program of the package manager via the shell command line interface.
+The user can query available software via commands and load software using a program of the package manager via the shell command-line interface.
 A package manager then makes it available by manipulating shell variables.
-Understanding these variables helps to understand system behavior and to debug issues.
+Understanding these variables is crucial to understand the system behavior and to debug issues.
 
 # Aim
   * To describe the principles of a package manager and how it interfaces with the shell.
@@ -16,8 +16,8 @@ Understanding these variables helps to understand system behavior and to debug i
 # Outcomes
   * Describe the general dependency structure of software
   * Describe how a package manager makes software available
-  * Using the export command to print shell variables
-  * Understand shell variables relevant for executing software and for building software
+  * Use the export command to print shell variables
+  * Understand shell variables relevant for executing and building software
     - PATH for executables
     - LD\_LIBRARY\_PATH for libraries
     - MANPATH for manual pages (man command)

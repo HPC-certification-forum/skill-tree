@@ -15,9 +15,9 @@ A shell provides advanced capabilities such as variables, redirection of I/O and
   * Redirect input and output from/to files
     - <<, <, >, >>, &
   * Design a pipeline for the processing of data using the pipe (|) symbol
-  * Assigning and using shell variables and the export command
-  * Performing arithmetic operations on variables
-  * Replacing the beginning or end of text in the shell using the ${} notation
+  * Assign and using shell variables and the export command
+  * Perform arithmetic operations on variables
+  * Replace the beginning or end of text in the shell using the ${} notation
   * Use widely available tools to understand and manage program execution
     - top
     - ps (-a, -u, -x)

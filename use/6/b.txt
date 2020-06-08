@@ -1,4 +1,5 @@
-# USE6-B Integration into distributed workflows
+# USE6-B Integration into Distributed Workflow
+s
 # Background
 
 # Aim

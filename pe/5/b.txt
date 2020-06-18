@@ -6,3 +6,4 @@
   *  apply the full workflow for tuning a parallel program
 
 # Subskills
+  * [[skill-tree:pe:5:1:b]]

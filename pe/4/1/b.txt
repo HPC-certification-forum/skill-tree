@@ -5,3 +5,4 @@
   *  select appropriate tasks sizes (big vs. small) that may have positive performance impacts on the workflow, and to run several (smaller) tasks by the help of job chaining
 
 # Subskills
+  * [[skill-tree:pe:4:1:1:b]]

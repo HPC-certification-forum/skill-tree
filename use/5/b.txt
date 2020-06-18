@@ -1,5 +1,4 @@
-# USE5-B Automatizing Common Task
-s
+# USE5-B Automatizing Common Tasks
 # Background
 
 # Aim

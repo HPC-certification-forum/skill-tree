@@ -20,6 +20,7 @@ Various user roles are covered as part of this subtree: practitioners that aim t
   * Design and deploy scripts that automatize repetitive tasks
 
 # Subskills
+  * [[skill-tree:use:7:b]]
   * [[skill-tree:use:1:b]]
   * [[skill-tree:use:2:b]]
   * [[skill-tree:use:3:b]]

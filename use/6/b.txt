@@ -1,4 +1,4 @@
-# USE6-B Integration into Distributed Workflow
+# USE6-B Workflows
 s
 # Background
 
@@ -7,3 +7,5 @@ s
 # Outcomes
 
 # Subskills
+  * [[skill-tree:use:6:1:b]]
+  * [[skill-tree:use:6:2:b]]

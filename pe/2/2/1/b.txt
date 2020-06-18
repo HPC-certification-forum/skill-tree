@@ -1,0 +1,9 @@
+# PE2.2.1-B Input/Output analysis
+# Background
+
+# Aim
+
+# Outcomes
+
+# Subskills
+  * [[skill-tree:pe:2:2:1:1:b]]

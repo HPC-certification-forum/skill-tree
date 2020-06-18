@@ -10,3 +10,4 @@
   *  use environment variables like $I_MPI_STATS to control the built-in performance analysis functionality in MPI
 
 # Subskills
+  * [[skill-tree:pe:2:2:1:b]]

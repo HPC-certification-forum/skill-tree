@@ -7,3 +7,4 @@
   * typical architecture of cluster systems consisting of nodes with different roles (e.g. so-called head, management, login, compute, interactive, visualization nodes, etc.)
 
 # Subskills
+  * [[skill-tree:k:1:1:1:b]]

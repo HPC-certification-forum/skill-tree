@@ -2,5 +2,5 @@
 # Background
 # Aim
 # Outcomes
-  *  standard file systems like Ext3, Ext4, XFS, and Btrfs and distributed file systems like Lustre, and BeeGFS 
-  *  when to use data compression 
+  *  Standard file systems like Ext3, Ext4, XFS, and Btrfs and distributed file systems like Lustre, and BeeGFS 
+  *  When to use data compression 

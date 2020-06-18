@@ -9,5 +9,5 @@ The hardware/software organization/structure in a data center/supercomputer.
   *  When to use local and global storage
 
 # Subskills
-  * [[skill-tree:k:1:3:2:b]]
+  * [[skill-tree:k:1:3:i]]
   * [[skill-tree:k:1:3:1:b]]

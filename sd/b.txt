@@ -1,5 +1,5 @@
 # SD-B Software Development
-t
+
 # Background
 
 Software engineering is often neglected in computational science.
@@ -23,7 +23,7 @@ However, it bears potential to increase productivity by providing scaffolding fo
   * Appropriately document the entire software system
 
 # Subskills
-s
+
   * [[skill-tree:sd:1:b]]
   * [[skill-tree:sd:2:b]]
   * [[skill-tree:sd:3:b]]

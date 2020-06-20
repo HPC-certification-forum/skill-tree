@@ -6,6 +6,7 @@ Via the CLI, users can run programs to manipulate files, load additional softwar
 
 While there are many similarities to single-user Linux systems, HPC systems differ widely in the management of provided Software packages, and users must pay attention to the locality of data.
 
+
 # Aim
   * To access and manipulate data.
   * To execute programs in a cluster environment.

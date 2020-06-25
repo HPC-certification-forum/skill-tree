@@ -6,7 +6,7 @@ This enables practitioners to effectively use such environments.
 # Aims
   * To provide background knowledge that is relevant for all other branches.
   * To provide theoretical background to judge the behavior and efficiency of systems.
-  * To provide technical understanding of HPC systems
+  * To provide technical understanding of HPC systems.
 
 # Outcomes
   * Explain the hardware, software, and operation of HPC systems

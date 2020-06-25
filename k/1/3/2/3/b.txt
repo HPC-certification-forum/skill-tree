@@ -1,9 +1,13 @@
 # K1.3.2.3-B File systems
 # Background
+Before starting to use an HPC system it is important to basically understand file system architectures used in clusters.
+
 
 # Aim
+  * To provide knowledge about I/O architectures used in HPC environments: local, distributed, parallel and hierarchical file systems
 
 # Outcomes
+
 
 # Subskills
   * [[skill-tree:k:1:3:2:3:1:b]]

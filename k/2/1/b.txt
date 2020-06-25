@@ -1,10 +1,41 @@
 # K2.1-B Performance Frontiers
 # Background
 # Aim
+  * To provide knowledge about FLOPS (floating point operations per second) which is the key measurement unit for the performance of HPC systems, and its pitfalls
+  * To provide knowledge about Moore’s law and the Gustafson–Barsis's law and their significance for performance frontiers in modern HPC
+  * To provide knowledge about the definitions for key terms: speedup, efficiency, and scalability 
+  * To provide knowledge about Amdahl’s law and its significance for performance frontiers in modern HPC
+
 # Outcomes
-  *  the definitions for key terms like speedup, efficiency, and scalability
-  *  the key measure floating-point operations per second (FLOPS) for the performance of HPC systems and its pitfalls
-  *  Moore’s law and the Gustafson–Barsis's law and their significance for performance frontiers in modern HPC
-  *  Amdahl’s law and its significance for performance frontiers in modern HPC.
+  *  Comprehend that **FLOPS** (Floating Point Operations per Second) as a key measurement is used in two distict ways
+    * To measure the computing power of a computer
+    * To measure the performance of applications
+  * Comprehend that there are Pitfalls when measuring FLOPScomputing power of a computer
+    * Many scientific applications are memory bound, not CPU bound so the memory buses will become the bottleneck of the application
+    * FLOPS say nothing about the performance of the network or the file system
+    * FLOP utilization says nothing about the quality of code
+  * Comprehend that **Moore’s law** from 1965, revised in 1975, states (in simple terms) that the complexity of integrated circuits and thus the computing power of CPUs for HPC systems, respectively, doubles approximately every two years
+    * In the past that was true
+    * However, for some time it has been observed that this increase in performance gain is no longer achieved through improvements of processor technology in a sequantial sense
+      * CPU clock rates, for instance, have not been increased notably for several years
+    *  It is rather achieved by using many cores for processing a task in parallel
+    * Therefore parallel computing and HPC systems will become increasingly relevant in the future.
+  * Comprehend that **Speedup** defines the relation between the sequential and parallel runtime of a program
+  * Comprehend that **Efficiency** defines the relation between the Speedup of a program and the number of processors used to achieve it
+  * Comprehend that a good **Scalability** is achieved, when the efficiency remains high while the number of processors is being increased
+  * Comprehend that the parallelization of different problems can have different degrees of difficulty
+    * Some problems can be parallelized trivially, e.g. rendering (independent) computer animation images
+    * However, there are algorithms having a so-called sequential nature, e.g. some tree-search algorithms that have been notoriously difficult to parallelize
+    * Typical problems in the field of scientific computing are somewhere in-between these extremes
+  * Comprehend that it is an important aspect to use the best known sequential algorithm for speedup comparisons in order to get fair speedup results
+    * Conventional Speedup: use the same version of an algorithm (the same program) to measure runtimes T(sequential) and T(parallel)
+    * Fair Speedup: use best known sequential algorithm to measure T(sequential)
+  * Comprehend that **Amdahl's Law** from 1967, states (in simple terms) that there is an upper limit for the maximum speedup achievable with a parallel program which is determined
+    * by its sequential, i.e. non-parallelizable part (e.g. for initialization and I/O operations)
+    * or more generally, by synchronization (e.g. due to unbalanced load) and communication overheads (e.g. for data exchange)
+  * Comprehend the general Amdahl formula and that in practice it represents a simplified upper limit for the speedup
+    * e.g. if the parallelizable part of a program is 99.9% the speedup is in theory limited to 1000
+    * but in practice even speedups above 100 might hardly be achieved in this case if it is additionally considered that overheads for communication and synchronization will also increase when the number of processes is increased
+
 
 # Subskills

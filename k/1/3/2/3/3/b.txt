@@ -1,8 +1,11 @@
 # K1.3.2.3.3-B Network file systems
 # Background
+Distributed (or network) file systems are provided by a file server which is integrated into the cluster. These file systems are available on all nodes.
+A classic distributed file system is the Network File System (NFS).
 
 # Aim
 
 # Outcomes
+  * Comprehend that Network file systems are not designed for (very) high I/O loads.
 
 # Subskills

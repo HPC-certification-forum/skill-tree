@@ -2,6 +2,8 @@
 # Background
 The hardware/software organization/structure in a data center/supercomputer.
 # Aim
+
+
 # Outcomes
   *  Typical I/O systems used in HPC environments 
   *  Different types of media (e.g. tape, disk, and SSD) 

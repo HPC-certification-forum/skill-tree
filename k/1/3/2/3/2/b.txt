@@ -1,8 +1,13 @@
 # K1.3.2.3.2-B Parallel file system
 # Background
+Parallel (or cluster) file systems are global file systems like distributed file systems, i.e. they can be used on any node in the cluster. 
+They are designed to deliver high I/O bandwidth and provide large disk space.
 
 # Aim
 
 # Outcomes
+  * Comprehend that the parallel or cluster aspect is twofold
+    * Firstly, the hardware is parallel itself (the file system is provided by several servers that operate in a coordinated way)
+    * Secondly, parallel I/O is enabled, i.e. more than one process can consistently write to the same file at the same time
 
 # Subskills

@@ -10,6 +10,8 @@ Part of this module is the general principles of the interaction with a shell. T
 # Aim
   * To describe the key principles of a shell.
   * To execute basic programs and manipulate their input/output.
+  * To login remotely with public key authentication.
+  * To use text editors (first steps).
 
 # Outcomes
   * Utilize the bash shell to execute individual programs with arguments
@@ -35,5 +37,7 @@ Part of this module is the general principles of the interaction with a shell. T
   * Understand wildcard characters to select a group of files/directories
     - *
     - [,-]
+  * Use text editors
+
 
 # Subskills

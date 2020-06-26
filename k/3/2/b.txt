@@ -1,8 +1,21 @@
 # K3.2-B Parallelization Overheads
 # Background
+Parallelization of a program always introduces some extra work in addition to the work done by the sequential version of the program. The main sources of parallelization overhead are data communication (between processes) and synchronization (of processes and threads).
+Other sources are additional operations that are introduced at the algorithmic level (for example in global reduction operations) or at a lower software level (for example by address calculations).
+
 # Aim
+  * To provide knowledge about overheads for communication and synchronization that are introduced by parallelization
+  * To provide knowledge about other sources of parallel inefficiency: load imbalances, hardware effects
+
 # Outcomes
-  *  the various overheads, i.e. overheads for communication, synchronization 
-  *  the problems of load imbalances
+  * Comprehend that **Data communication** is necessary in programs that are parallelized for distributed memory computers (if data communication is not necessary the program is called trivially or embarrassingly parallel)
+  * Comprehend that **Synchronization** plays an important role with shared memory parallelization
+  * Comprehend that there are also other sources of parallel inefficiency like
+    * parts of a program that were not parallelized and still run serially 
+    * unbalanced loads 
+  * Comprehend that there are two harware effects that can reduce the efficiency of the execution of shared memory parallel programs
+    * **NUMA** can lead to a noticeable performance degradation if data locality is bad (i.e. if too much data that a thread needs is not in its NUMA domain)
+    * **False sharing** occurs if threads process data that is in the same data cache line, which can lead to serial execution or even take longer than explicitly serial execution of the affected piece of code
+
 
 # Subskills

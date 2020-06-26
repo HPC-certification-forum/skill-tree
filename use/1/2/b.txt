@@ -20,5 +20,10 @@ This skill covers the bash shell.
   * Utilize debugging options for troubleshooting of shell programs
     - Options to bash: -e, -x
   * Use shell functions to break large, complex sequences, into a series of small functions
+  * Learn how to manipulate filenames
+  * Learn to manage temporary files
+    * choose an adequate file system (or top directory) for temporary files
+    * automatically generate a unique folder name for temporary files
+    * automatically delete temporary folder whenever the script exits
 
 # Subskills

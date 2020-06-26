@@ -8,16 +8,22 @@ It comes with integration into the shell.
   * To be able to use the module command to load software.
 
 # Outcomes
+  * Comprehend that Modules can have dependencies and conflicts
+    * a Module can enforce that other Modules that it depends on must be loaded before the Module itself can be loaded
+    * conflicting modules must not be loaded at the same time (e.g. two version of a compiler)
 
   * Query information about packages
     - list
     - avail
     - whatis
     - search
+    - display
+    - help
   * Load/Unload software modules
     - load/unload
     - purge
     - swap
+    - switch
   * Describe the MODULEPATH variable
 
 # Subskills

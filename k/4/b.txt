@@ -3,17 +3,48 @@
 Parallel computers are operated differently than a normal PC, all users must share the system. Therefore, various operative procedures are in place. Users must understand these concepts and procedures to be able to use the available resources of a system to run a parallel application.
 A workload manager/job scheduler controls how available hardware resources are distributed among the user requests (jobs).
 
+Users of compute centers typically compete for the expensive HPC resources of cluster systems.
+HPC resources can be distinguished as 
+  * shared resources (e.g. a parallel file system that is often shared across all cluster nodes and therefore shared between all users),
+  * not-shared resources (e.g. cluster nodes dedicated to a particular parallel program of an individual user).
+
+The configuration of the cluster system matters as well: a cluster node can also be a resource that is shared between several users.
+
+A major aspect of job scheduling is to manage these resources in a way that users are treated fairly. 
+Accounting for users or user groups can additionally support this.
+
 # Aim
-To enable practitioners to comprehend and describe the basic architecture and concepts of resource allocation for an HPC system
+  * To enable practitioners to comprehend and describe the basic architecture and concepts of resource allocation for an HPC system
+  * To provide knowlegde about how workload managers control the unattended background execution of programs or jobs, respectively, by the help of job queues
+  * To provide knowlegde about typical scheduling principles (e.g. first come first served, shortest job first) to achieve objectives like minimizing the averaged elapsed program runtimes, and maximizing the utilization of the available HPC resources
 
 # Outcomes
+  * comprehend the differences between **Batch Systems** and **Time Sharing Systems**
   * explain the concepts and procedures for resource allocation and job execution in an HPC environment
   * run interactive jobs and batch jobs
   * comprehend and describe the expected behavior of job scripts
   * change provided job scripts and embed them into shell scripts to run a variety of parallel applications
   * analyze the output generated from a job scheduler and describe the cause of typically generated errors
   * comprehend accounting principles (billing for the jobs)
+  * comprehend the set of terms for performance criteria like
+    * Resource Utilization
+    * Throughput
+    * Waiting Time
+    * Execution Time
+    * Turnaround Time
   * comprehend scheduling strategies that increase productivity
+  * comprehend that typical goals of job scheduling are
+    * maximization of resource utilization
+    * maximization of throughput
+    * minimization of waiting time
+    * minimization of turnaround time
+  * comprehend that there is a variety of scheduling algorithms from rather simple to more complex like
+    * First-Come-First-Served (FCFS)
+    * Shortest-Job-First (SJF)
+    * Priority based
+    * Fair-Share
+    * Backfilling
+
 
 # Subskills
   * [[skill-tree:k:4:1:b]]

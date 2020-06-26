@@ -4,9 +4,17 @@
   *  Benchmarking is the activity to measure performance reliably and to assess the obtained performance.
   *  A benchmark is the act of running a computer program, a set of programs, or other operations, in order to assess the relative performance of an object, normally by running a number of standard tests and trials against it.
 
+Such a controlled experiment is named a benchmark, but the term is also used – apparent from the context – for the program that is, or set of programs that are used for benchmarking.
+
+For HPC users measuring the performance behavior of the parallel program(s) they use is of primary importance in order to make optimal use of HPC hardware.
+
 # Aim
   *  Provide a basic understanding of benchmarking or performance measurement, so one can quantify successes and failures and use that information to improve the application performance.
   *  Prepare a method of comparing the performance of various subsystems across different chip/system architectures.
+  * To assess speedups and efficiencies as the key measures for benchmarks of a parallel program.
+  * To differentiate between strong and weak scaling
+  * To assess the performance impact of certain features of current CPU architectures (temperature and dynamic CPU frequencies)
+
 
 # Outcomes
   *  Consider not only the speed of computational performance, but also the qualities of service, the total cost of ownership and facilities burden (space, power, and cooling).

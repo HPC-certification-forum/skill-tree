@@ -2,6 +2,7 @@
 # Background
 
 # Aim
+  * Provide an overview of relevant Input/Output layers
 
 # Outcomes
 

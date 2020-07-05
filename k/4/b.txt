@@ -45,7 +45,6 @@ Accounting for users or user groups can additionally support this.
     * Fair-Share
     * Backfilling
 
-
 # Subskills
   * [[skill-tree:k:4:1:b]]
   * [[skill-tree:k:4:2:b]]

@@ -28,6 +28,5 @@ nodes.
     * enabling high speed data communication for parallel applications running on multiple nodes
     * providing a high speed connection to the disk systems in the cluster
 
-
 # Subskills
   * [[skill-tree:k:1:1:1:b]]

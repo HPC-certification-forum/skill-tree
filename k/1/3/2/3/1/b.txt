@@ -11,5 +11,4 @@ There are Local file Systems, Distributed (or network) file systems, and Paralle
     * for an overall view data has to be collected from all the nodes it is stored on 
     * disks are a major source of failures (so many clusters have diskless nodes)
 
-
 # Subskills

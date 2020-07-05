@@ -1,9 +1,0 @@
-# SD1-E Programming Concepts for HPC
-# Background
-# Aim
-# Outcomes
-
-# Subskills
-  * [[skill-tree:sd:1:1:e]]
-  * [[skill-tree:sd:1:2:e]]
-  * [[skill-tree:sd:1:3:e]]

@@ -37,5 +37,4 @@
     * e.g. if the parallelizable part of a program is 99.9% the speedup is in theory limited to 1000
     * but in practice even speedups above 100 might hardly be achieved in this case if it is additionally considered that overheads for communication and synchronization will also increase when the number of processes is increased
 
-
 # Subskills

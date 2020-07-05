@@ -1,9 +1,0 @@
-# SD6-E Software Design and Software Architecture
-# Background
-# Aim
-# Outcomes
-
-# Subskills
-  * [[skill-tree:sd:6:1:e]]
-  * [[skill-tree:sd:6:2:e]]
-  * [[skill-tree:sd:6:3:e]]

@@ -23,7 +23,6 @@ However, it bears potential to increase productivity by providing scaffolding fo
   * Appropriately document the entire software system
 
 # Subskills
-
   * [[skill-tree:sd:1:b]]
   * [[skill-tree:sd:2:b]]
   * [[skill-tree:sd:3:b]]

@@ -16,7 +16,6 @@ The widely available software tools are:
   * Query available software using the package manager
   * Select the appropriate versions for deployment in the session environment
 
-
 # Subskills
   * [[skill-tree:use:1:4:1:b]]
   * [[skill-tree:use:1:4:2:b]]

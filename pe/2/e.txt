@@ -1,8 +1,0 @@
-# PE2-E Measuring System Performance
-# Background
-# Aim
-# Outcomes
-
-# Subskills
-  * [[skill-tree:pe:2:1:e]]
-  * [[skill-tree:pe:2:2:e]]

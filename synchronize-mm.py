@@ -158,13 +158,12 @@ def find_skills():
         if(f[-4:] == ".txt"):
           data[root[2:]] = True
           #print("%s" % ())
+  del data[""]
   return data
 
 exist = find_skills()
 
 traverse([], root[0], exist)
-
-del exist[""]
 
 if len(exist) > 0:
   print("Skills in directory tree but not in mindmap:")

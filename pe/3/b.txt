@@ -55,6 +55,5 @@ For HPC users measuring the performance behavior of the parallel program(s) they
     * **Reproducibility**
       * There are parallel algorithms which may produce non deterministic results, due to inherent effects of concurrency which in turn may lead to different (but generally equivalent) results but also to strongly differing runtimes of repeated runs
 
-
 # Subskills
   * [[skill-tree:k:2:1:b]]

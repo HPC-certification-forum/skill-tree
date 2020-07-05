@@ -17,5 +17,4 @@ Other sources are additional operations that are introduced at the algorithmic l
     * **NUMA** can lead to a noticeable performance degradation if data locality is bad (i.e. if too much data that a thread needs is not in its NUMA domain)
     * **False sharing** occurs if threads process data that is in the same data cache line, which can lead to serial execution or even take longer than explicitly serial execution of the affected piece of code
 
-
 # Subskills

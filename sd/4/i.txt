@@ -1,9 +1,0 @@
-# SD4-I Agile Software Development
-# Background
-# Aim
-# Outcomes
-
-# Subskills
-  * [[skill-tree:sd:4:1:i]]
-  * [[skill-tree:sd:4:2:i]]
-  * [[skill-tree:sd:4:3:i]]

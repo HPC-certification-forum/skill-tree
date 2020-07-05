@@ -1,8 +1,0 @@
-# K2-I Performance Modeling
-# Background
-# Aim
-# Outcomes
-
-# Subskills
-  * [[skill-tree:k:2:1:i]]
-  * [[skill-tree:k:2:2:i]]

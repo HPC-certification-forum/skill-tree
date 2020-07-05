@@ -39,5 +39,4 @@ Part of this module is the general principles of the interaction with a shell. T
     - [,-]
   * Use text editors
 
-
 # Subskills

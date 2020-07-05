@@ -1,5 +1,0 @@
-# K1.5-E Supercomputing and Big Data
-# Background
-# Aim
-# Outcomes
-  *  the differentiation between Supercomputing and Big Data 

@@ -1,7 +1,0 @@
-# K3.1-E Level of Parallelization
-n
-# Background
-# Aim
-# Outcomes
-  *  hybrid parallelization approaches, combining for instance OpenMP and GPU-Computing 
-  *  multi-level approaches (e.g. combining OpenMP and MPI) 

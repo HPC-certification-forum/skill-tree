@@ -1,5 +1,0 @@
-# SD5.1-E Coding Standards
-# Background
-# Aim
-# Outcomes
-  *  define and establish coding standards and conventions in a project 

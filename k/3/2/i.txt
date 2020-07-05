@@ -1,6 +1,0 @@
-# K3.1-I Level of Parallelization
-n
-# Background
-# Aim
-# Outcomes
-  *  parallelization techniques at the intra-node level (e.g. based on advanced OpenMP features and GPU-computing) 

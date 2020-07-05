@@ -1,5 +1,0 @@
-# K1.1-E System Architectures
-# Background
-# Aim
-# Outcomes
-  *  storage and compute deployments for cluster systems 

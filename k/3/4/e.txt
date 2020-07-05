@@ -1,5 +1,0 @@
-# K3.4-E Domain Decomposition
-# Background
-# Aim
-# Outcomes
-  *  how to map domains to machines 

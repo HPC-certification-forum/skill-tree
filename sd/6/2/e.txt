@@ -1,5 +1,0 @@
-# SD6.2-E Object-Oriented Design
-# Background
-# Aim
-# Outcomes
-  *  apply design patterns for HPC 

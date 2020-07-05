@@ -122,7 +122,7 @@ def create(file, parents, txt):
   fd.write("# %s-%s %s\n# Background\n\n# Aim\n\n# Outcomes" % (head, type, txt))
   fd.close()
 
-def traverse(parents, node):
+def traverse(parents, node, exist):
   prefix = "  " * len(parents)
   for child in node:
     if not "TEXT" in child.attrib:
@@ -136,6 +136,9 @@ def traverse(parents, node):
     if verbose:
       print(prefix + txt)
 
+    if(file in exist):
+      del exist[file]
+
     # now check if the expected file exist
     if not os.path.isfile(file + file_extension):
       if modify_tree:
@@ -145,6 +148,25 @@ def traverse(parents, node):
     else:
       update(file + file_extension, child, path, title)
 
-    traverse(path, child)
+    traverse(path, child, exist)
 
-traverse([], root[0])
+
+def find_skills():
+  data = {}
+  for root, dirs, files in os.walk("."):
+      for f in files:
+        if(f[-4:] == ".txt"):
+          data[root[2:]] = True
+          #print("%s" % ())
+  return data
+
+exist = find_skills()
+
+traverse([], root[0], exist)
+
+del exist[""]
+
+if len(exist) > 0:
+  print("Skills in directory tree but not in mindmap:")
+  for k in exist:
+    print(k)

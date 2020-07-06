@@ -1,4 +1,4 @@
-# USE1.1-I Use of the Command Line Interface
+# USE1.1-I Command Line Interface
 # Background
 
 A shell provides advanced capabilities such as variables, redirection of I/O and setup of pipelines and the management of jobs.

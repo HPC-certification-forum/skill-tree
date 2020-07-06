@@ -3,7 +3,7 @@
 The theoretical knowledge of HPC provides the background to understand how supercomputers and HPC environments operate.
 This enables practitioners to effectively use such environments.
 
-# Aims
+# Aim
   * To provide background knowledge that is relevant for all other branches.
   * To provide theoretical background to judge the behavior and efficiency of systems.
   * To provide technical understanding of HPC systems.

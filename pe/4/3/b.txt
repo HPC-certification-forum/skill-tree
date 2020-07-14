@@ -1,7 +1,9 @@
 # PE4.3-B Tuning via Reprogramming
 
 # Background
-  *  The potential for tuning via reprogramming exists on the hardware as well as on the software level. At the software level, performance improvements are achievable by using more efficient algorithms. This is explained by the help of popular practice-relevant examples. 
+
+The potential for tuning via reprogramming exists on the hardware as well as on the software level. At the software level, performance improvements are achievable by using more efficient algorithms. This is explained by the help of popular practice-relevant examples. 
+
 # Aim
 # Outcomes
   *  run parallel programs in an HPC environment 

@@ -1,4 +1,4 @@
-# K1.3.5-B Access pattern
+# K1.3.5-B Access Pattern
 # Background
 
 # Aim

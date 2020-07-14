@@ -1,4 +1,4 @@
-# BDA4-B Data-driven workflows
+# BDA4-B Data-driven Workflows
 # Background
 
 # Aim

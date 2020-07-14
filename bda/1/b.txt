@@ -1,9 +1,9 @@
-# BDA1-B Theoretic principles of BDA
+# BDA1-B Theoretic Principles of BDA
 # Background
 Big data analytics is a fuzzy area that covers many concepts.
 
 # Aim
-  * To convey the theory on an application level that allows the effective application of BDA in HPC
+  * To convey the theory on an application-level that allows the effective application of BDA in HPC
 
 # Outcomes
   * Describe the key concepts of artificial intelligence and data science

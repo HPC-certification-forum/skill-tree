@@ -1,4 +1,4 @@
-# K1.3.4-B Data management
+# K1.3.4-B Data Management
 # Background
 
 # Aim

@@ -1,4 +1,4 @@
-# K1.3.2.5-B MPIIO
+# K1.3.2.5-B MPI-I/O
 # Background
 
 # Aim

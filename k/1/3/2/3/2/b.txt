@@ -1,4 +1,4 @@
-# K1.3.2.3.2-B Parallel file system
+# K1.3.2.3.2-B Parallel File System
 # Background
 Parallel (or cluster) file systems are global file systems like distributed file systems, i.e. they can be used on any node in the cluster. 
 They are designed to deliver high I/O bandwidth and provide large disk space.

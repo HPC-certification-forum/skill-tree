@@ -1,8 +1,10 @@
 # PE3-B Benchmarking
 
 # Background
-  *  Benchmarking is the activity to measure performance reliably and to assess the obtained performance.
-  *  A benchmark is the act of running a computer program, a set of programs, or other operations, in order to assess the relative performance of an object, normally by running a number of standard tests and trials against it.
+
+Benchmarking is the activity to measure performance reliably and to assess the obtained performance.
+
+A benchmark is an act of running a computer program, a set of programs, or other operations, in order to assess the relative performance of an object, normally by running a number of standard tests and trials against it.
 
 Such a controlled experiment is named a benchmark, but the term is also used – apparent from the context – for the program that is, or set of programs that are used for benchmarking.
 

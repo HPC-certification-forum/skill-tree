@@ -1,4 +1,4 @@
-# PE2.2.1-B Input/Output analysis
+# PE2.2.1-B Input/Output Analysis
 # Background
 
 # Aim

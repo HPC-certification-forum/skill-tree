@@ -1,4 +1,4 @@
-# K1.3.2.3-B File systems
+# K1.3.2.3-B File Systems
 # Background
 Before starting to use an HPC system it is important to basically understand file system architectures used in clusters.
 

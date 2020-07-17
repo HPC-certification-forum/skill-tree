@@ -1,0 +1,24 @@
+# SD1.2.5.1.1.4-B NetCDF Fortran-90 API
+# Background
+
+The Fortran-90 library provides current Fortran support for modelers and scientists.
+
+The Fortran-90 interface is significantly simpler than either the C or Fortran-77 interfaces because of its use of overloaded functions and optional arguments.
+
+# Aim
+
+  * To use Fortran-90 for working with NetCDF data
+  * To apply the main information available in the NetCDF Fortran-90 Users Guide
+  * To exploit the strengths of the NetCDF Fortran-90 API
+    * Overloaded functions and optional arguments
+    * Fewer arguments to functions
+    * Improved error checking
+    * Support for arbitrary array sections
+
+# Outcomes
+
+  * Write a two-dimensional array of sample data and read data from this file
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file
+
+# Subskills

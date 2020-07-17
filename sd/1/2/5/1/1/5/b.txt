@@ -1,0 +1,26 @@
+# SD1.2.5.1.1.5-B NetCDF Python API
+# Background
+
+Python is an interpreted, object-oriented language that is supported on a wide range of hardware and operating systems. There are now several netCDF interfaces for Python.
+
+netcdf4-python is a Python interface to the netCDF C library. It is implemented on top of HDF5. This module can read and write files in both the new NetCDF 4 and the old NetCDF 3 format, and can create files that are readable by HDF5 clients. xray is a higher-level interface that uses netcdf4-python internally to implement a pandas-like package for N-D labelled arrays for scientific data.
+
+pycdf is a recent Python interface to the netCDF library. It provides an almost complete coverage of the netCDF C API, wrapping it  inside easy to use python classes. netCDF arrays are handled using array objects provided either by the python numpy, Numeric or numarray packages.
+
+PyNIO is a Python package that allows read and/or write access to a variety of data formats using an interface modelled on netCDF. Currently supported formats include netCDF, HDF4, GRIB1 and GRIB2 (read only), and HDF-EOS 2 Grid and Swath data (read only).
+
+PyPnetCDF is a Python interface to PnetCDF. It allows access to NetCDF files using MPI and the library PnetCDF. The tools can read and write in a parallel way.
+
+Pupynere (PUre PYthon NEtcdf REader) allows read-access to netCDF files using the same syntax as the Scientific.IO.NetCDF Python module. Even though it's written in Python, the module is up to 40% faster than Scientific.IO.NetCDF and pynetcdf.
+
+# Aim
+
+  * To use Python for working with NetCDF data
+
+# Outcomes
+
+  * Write a two-dimensional array of sample data and read data from this file
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file
+
+# Subskills

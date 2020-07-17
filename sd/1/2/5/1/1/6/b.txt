@@ -1,0 +1,18 @@
+# SD1.2.5.1.1.6-B NetCDF Matlab API
+# Background
+
+MATLAB is a commercial integrated technical computing environment that combines numeric computation, advanced graphics and visualization, and a high-level programming language. Versions 7.7 and later of MATLAB have built-in support for reading and writing netCDF data.
+
+Several freely-available software packages that implement a MATLAB/netCDF interface are available: MEXNC, MexEPS, and the CSIRO MATLAB/netCDF interface. It's also possible to call netCDF Java library methods from MATLAB, so using it provides the advantages of the Java interface.
+
+# Aim
+
+  * To use Matlab for working with NetCDF data
+
+# Outcomes
+
+  * Write a two-dimensional array of sample data and read data from this file
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file
+
+# Subskills

@@ -1,8 +1,31 @@
 # K1.3.2.4.1-B NetCDF
 # Background
 
+NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. It is commonly used in climatology, meteorology, oceanography applications (e.g., weather forecasting, climate change) and GIS applications.
+NetCDF allows the user to describe multidimensional data and include metadata which further characterizes the data.
+
+The notation used to describe a NetCDF object is called CDL (network Common Data form Language), which provides a convenient way of describing NetCDF datasets. The NetCDF system includes utilities for producing human-oriented CDL text files from binary NetCDF datasets and vice-versa.
+
+This skill focuses on the data modeling aspect and basic tools that aid understanding NetCDF.
+
 # Aim
+
+  * To create, analyze, and visualize a data model for NetCDF data.
+  * To utilize the core software ecosystem of NetCDF.
 
 # Outcomes
 
+  * Describe the Classic NetCDF Model characteristics and limitations
+  * Describe how a 3D-variable’s data values can be represented in a visualization tool
+  * Discuss features of the Enhanced Data Model (NetCDF-4): groups, multiple unlimited dimensions, and new types, including user-defined types
+  * Analyze the implications of using NetCDF-4 compression on data
+  * Justify when to model data using variables or attributes based on characteristics
+  * Design and implement a NetCDF data model in CDL text notation for simple datasets using dimensions, variables, attributes, and coordinate variables
+  * Apply the in-built NetCDF utilities to create and analyze NetCDF files:
+    * Examine the CDL data model and the data of a file using ncdump
+    * Generate a NetCDF file from a CDL text file using ncgen
+    * Convert a NetCDF file from one binary format to another, optionally changing compression and chunksize settings using nccopy
+
 # Subskills
+
+  * [[skill-tree:sd:1.3.5.1.1-B]]

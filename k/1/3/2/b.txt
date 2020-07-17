@@ -1,4 +1,4 @@
-# K1.3.2-B I/O layers
+# K1.3.2-B I/O Layers
 # Background
 
 # Aim

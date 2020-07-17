@@ -30,7 +30,6 @@ Languages such as C++, Fortran-77, Fortran-90, Perl, Python, Ruby, Matlab, among
   * Create short programs that use the netcdf4-python module to create and read files in NetCDF-4 format for a given NetCDF data model
 
 # Subskills
-
   * [[skill-tree:k:1.3.2.4.1.B]]
   * [[skill-tree:sd:1.2.5.1.1.1-B]]
   * [[skill-tree:sd:1.2.5.1.1.2-B]]

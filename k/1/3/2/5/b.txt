@@ -1,4 +1,4 @@
-# K1.3.2.5-B MPI-I/O
+# K1.3.2.5-B Parallel I/O
 # Background
 
 # Aim
@@ -6,3 +6,4 @@
 # Outcomes
 
 # Subskills
+  * [[skill-tree:k:1:3:2:5:1:b]]

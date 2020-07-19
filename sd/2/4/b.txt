@@ -6,11 +6,11 @@ Knowledge about logging concepts, the ability to apply them appropriately, and t
 
 # Aim
 # Outcomes
-  * Describe logging in general like log levels etc. (e.g. ERROR, WARN, INFO, DEBUG, TRACE)
-  * Different logging formats
-  * Select appropriate information that should be logged e.g. timestamp, pid, thread, level, loggername) in order to be able to identify the problem
-  * Differentiate between structured logging and text logging
-  * Apply logging implementations/libraries for a specific programming language like Fortran, C, C++
+  * Describe logging in general like log levels etc. (e.g. ERROR, WARN, INFO, DEBUG, TRACE).
+  * Different logging formats.
+  * Select appropriate information that should be logged e.g. timestamp, pid, thread, level, loggername) in order to be able to identify the problem.
+  * Differentiate between structured logging and text logging.
+  * Apply logging implementations/libraries for a specific programming language like Fortran, C, C++.
 
 # Subskills
   * [[skill-tree:sd:2:4:i]]

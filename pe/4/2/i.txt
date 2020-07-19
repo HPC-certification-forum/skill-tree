@@ -2,4 +2,4 @@
 # Background
 # Aim
 # Outcomes
-  *  speed up program execution by setting appropriate compiler/linker options for the PGO workflow 
+  * Facilitate the speed up of program execution by setting appropriate compiler/linker options for the PGO workflow.

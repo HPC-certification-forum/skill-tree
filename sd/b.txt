@@ -3,7 +3,7 @@
 # Background
 
 Software engineering is often neglected in computational science.
-However, it bears potential to increase productivity by providing scaffolding for the collaborative programming, reducing the coding errors and increasing the manageability of software.
+However, it bears the potential to increase productivity by providing scaffolding for collaborative programming, reducing the coding errors and increasing the manageability of software.
 
 # Aim
   * To apply practices and methods from software engineering that are relevant for high-performance computing.
@@ -15,7 +15,7 @@ However, it bears potential to increase productivity by providing scaffolding fo
   * Apply design patterns for HPC.
   * Configure and use integrated development environments (IDEs) to seamlessly perform the typical development cycle with the steps edit, build (compile and link), and test.
   * Use sophisticated debuggers for parallel programs.
-  * Recognize where (parallel) programming idioms are violated and refactor the code to comply to a specific programming idom.
+  * Recognize where (parallel) programming idioms are violated and refactor the code to comply with a specific programming idiom.
   * Define and establish coding standards and conventions in a project.
   * Apply version and configuration management to the development of (parallel) programs in order to track and control changes in the sources and to establish and maintain consistency of the program or software system throughout its life.
   * Configure an environment for continuous integration with basic processing steps like compiling and automated testing.

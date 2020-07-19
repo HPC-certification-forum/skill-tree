@@ -5,18 +5,17 @@ Such a technique is needed on distributed memory systems.
 On distributed memory systems the computational work and, in general, the data have to be decomposed to enable parallel computations that employ several compute processes (which implies the possibility to run on multiple compute nodes).
 
 # Aim
-  * To provide knowledge about the typical strategy for decomposing work into parallel tasks that is used for parallelizing simulation programs in science end engineering
-  * To provide knowledge about the surface to volume ratio which is important to understand the performance impact of a decomposition
+  * To provide knowledge about the typical strategy for decomposing work into parallel tasks that are used for parallelizing simulation programs in science end engineering.
+  * To provide knowledge about the surface to volume ratio which is important to understand the performance impact of a decomposition.
 
 
 # Outcomes
-  *  typical decomposition strategies to split a domain into subdomains to make it suited for parallel processing
-  *  measures like surface to volume ratio
-
+  * Describe typical decomposition strategies to split a domain into subdomains to make it suited for parallel processing.
+  * Discuss measures like surface to volume ratio.
   * Comprehend that in a domain decomposition a region is decomposed, e.g. box is split into smaller ones and a mesh is decomposed into smaller parts, in order to assign these subdomains to processes.
   * Comprehend that in order to update a variable that is defined on a site of a mesh, or for a particle, in general data from neighbouring sites or particles is needed.
   * Comprehend that some neighbour regions expand beyond the sub-domain of their process, i.e. neighbour regions are partly stored on remote processes (Halo regions) and must be made available on the local process before updating can begin.
-  * Comprehend that the halo exchange needed in parallel computer simulations is one kind of parallel overhead and has a performance impact, that everybody, who is running such simulations, should know about.
+  * Comprehend that the halo exchange needed in parallel computer simulations is one kind of parallel overhead and has a performance impact, that everybody, who is running such simulations, should know about:
     * Relative overhead is approximately proportional to the surface (Halo exchange) to volume (amount of work) ratio of a sub-domain.
 
 # Subskills

@@ -2,10 +2,10 @@
 # Background
 # Aim
 # Outcomes
-  *  get the base data for tuning the performance of parallel programs by profiling
-  *  detect performance issues and bottlenecks caused, for example, by inefficient programming, memory accesses, I/O operations, cache-misses, page-faults, and parallelization overheads
-  *  assess how different views of the profiling data (e.g. timeline graphs and communication matrices to illustrate the traffic between processes) can give insights in the runtime behavior of the program
-  *  use performance analysis tools like ScoreP, Scalasca
+  * Manage the base data for tuning the performance of parallel programs by profiling.
+  * Detect performance issues and bottlenecks caused, for example, by inefficient programming, memory accesses, I/O operations, cache-misses, page-faults, and parallelization overheads.
+  * Assess how different views of the profiling data (e.g. timeline graphs and communication matrices to illustrate the traffic between processes) can give insights into the runtime behavior of the program.
+  * Use performance analysis tools like ScoreP, and Scalasca.
 
 # Subskills
-    * [[skill-tree:pe:2:2:e]]
+  * [[skill-tree:pe:2:2:e]]

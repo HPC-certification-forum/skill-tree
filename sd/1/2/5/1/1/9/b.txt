@@ -3,9 +3,9 @@
 
 R is a language and environment for statistical computing and graphics.
 Three R NetCDF interfaces are available:
-  * ncdf4 package
-  * RNetCDF
-  * ncvar
+  * ncdf4 package.
+  * RNetCDF.
+  * ncvar.
 
 # Aim
 
@@ -13,8 +13,8 @@ Three R NetCDF interfaces are available:
 
 # Outcomes
 
-  * Write a two-dimensional array of sample data and read data from this file.
-  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
-  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
+  * Write a two-dimensional array of sample data and read data from this file.
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
 
 # Subskills

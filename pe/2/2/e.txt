@@ -2,6 +2,6 @@
 # Background
 # Aim
 # Outcomes
-  *  detect performance issues and bottlenecks caused, for example, by inefficient programming, memory accesses, I/O operations, cache-misses, page-faults, and parallelization overheads 
-  *  use advanced performance analysis tools like Vampir 
-  *  use the standard MPI profiling interface (PMPI) to control the built-in performance analysis functionality in MPI 
+  * Detect performance issues and bottlenecks caused, for example, by inefficient programming, memory accesses, I/O operations, cache-misses, page-faults, and parallelization overheads.
+  * Use advanced performance analysis tools like Vampir.
+  * Use the standard MPI profiling interface (PMPI) to control the built-in performance analysis functionality in MPI.

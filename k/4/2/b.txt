@@ -12,7 +12,7 @@ SLURM is a widely used open-source workload manager providing various advanced f
   * Explain the function of the tools: sacct, sbatch, salloc, srun, scancel, squeue, sinfo.
   * Explain time limits and the benefit of a backfill scheduler.
   * Comprehend that environment variables are set when running a job.
-  * Comprehend and describe the expected behavior of a simple job scripts.
+  * Comprehend and describe the expected behavior of simple job scripts.
   * Comprehend how variables are prioritized when using the command line and a script.
   * Change a provided job template and embed them into shell scripts to run a variety of parallel applications.
   * Analyze the output generated from submitting to the job scheduler and typically generated errors.

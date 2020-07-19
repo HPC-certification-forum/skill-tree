@@ -2,7 +2,7 @@
 # Background
 # Aim
 # Outcomes
-  *  how to assess runtime costs for jobs
+  * Describe how to assess runtime costs for jobs.
 
 # Subskills
   * [[skill-tree:k:5:e]]

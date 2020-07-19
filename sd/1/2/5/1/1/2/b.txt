@@ -9,18 +9,18 @@ The API is implemented as a layer over the NetCDF-4 C interface, which means bug
 
   * To use C++ for working with NetCDF data.
   * To apply the main information available in the NetCDF C++ Interface Guide.
-  * To exploit the strengths of the NetCDF C++ API:
-    * Object-oriented interface
-    * Type safety: better than the C interface.
-    * Less code than an equivalent C program, and it's object-oriented.
-    * Short argument lists, because there are no IDs for variables, dimensions, or attributes.
-    * Easier memory management, because space for blocks of data is allocated by the library.
-    * Hides "define mode", so no calls are needed to enter or leave define mode for changing the schema of a NetCDF file (adding variables, dimensions, or attributes).
+  * To exploit the strengths of the NetCDF C++ API:
+    * Object-oriented interface.
+    * Type safety: better than the C interface.
+    * Less code than an equivalent C program, and it's object-oriented.
+    * Short argument lists, because there are no IDs for variables, dimensions, or attributes.
+    * Easier memory management, because space for blocks of data is allocated by the library.
+    * Hides "define mode", so no calls are needed to enter or leave define mode for changing the schema of a NetCDF file (adding variables, dimensions, or attributes).
 
 # Outcomes
 
-  * Write a two-dimensional array of sample data and read data from this file.
-  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
-  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
+  * Write a two-dimensional array of sample data and read data from this file.
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
 
 # Subskills

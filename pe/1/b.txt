@@ -2,7 +2,7 @@
 # Background
 # Aim
 # Outcomes
-  *  assess the costs related to the runtimes of parallel programs against the background of cost models
+  * Assess the costs related to the runtimes of parallel programs against the background of cost models.
 
 # Subskills
   * [[skill-tree:pe:1:i]]

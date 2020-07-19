@@ -2,4 +2,4 @@
 # Background
 # Aim
 # Outcomes
-  *  how performance bounds of the various components of the HPC system (e.g. CPU, caches, memory) can limit the overall performance of a parallel program 
+  * Explain how performance bounds of the various components of the HPC system (e.g. CPU, caches, memory) can limit the overall performance of a parallel program.

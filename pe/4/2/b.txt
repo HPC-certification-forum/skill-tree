@@ -2,8 +2,8 @@
 # Background
 # Aim
 # Outcomes
-  *  speed up program execution by using optimized libraries and setting appropriate compiler/linker options
-  *  speed up program execution by setting package specific options (e.g. selected by environment variables and command line arguments)
+  * Facilitate the speed up of program execution by using optimized libraries and setting appropriate compiler/linker options.
+  * Facilitate the speed up of program execution by setting package specific options (e.g. selected by environment variables and command-line arguments).
 
 # Subskills
   * [[skill-tree:pe:4:2:i]]

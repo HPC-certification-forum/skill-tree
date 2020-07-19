@@ -1,10 +1,10 @@
 # PE-B Performance Engineering
 # Background
 In High-Performance Computing, the performant and efficient execution is important to obtain results in a timely fashion but also to reduce the costs involved when running workflows on expensive supercomputers.
-Performance engineering is the field of systematic approaches for measuring and analyzing performance of systems and applications, that modifies compile and runtime settings to increase performance (tuning), and that optimizes applications and systems.
+Performance engineering is the field of systematic approaches for measuring and analyzing the performance of systems and applications, that modifies compile and runtime settings to increase performance (tuning), and that optimizes applications and systems.
 
 # Aim
-  * To understand performance of applications and systems.
+  * To understand the performance of applications and systems.
   * To enable practitioners to optimize runtime settings and applications.
   * To raise user awareness for efficient utilization of the HPC resources.
 

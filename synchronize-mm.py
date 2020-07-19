@@ -7,6 +7,9 @@ import os
 # This program compares the directory tree with the markdown and the MindMap, it:
 # 1) prints the differences
 # 2) creates new directories for the markdown
+# 3) prints files that are not existing in the mindmap
+
+print("The program synchronizes the tree for the basic version only!")
 
 root = ET.parse('skill-tree.mm').getroot()
 

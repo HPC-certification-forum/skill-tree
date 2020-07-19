@@ -1,9 +1,9 @@
 # SD1.2.5.1.1.2-B NetCDF C++ API
 # Background
 
-The netCDF-4 C++ API was developed by Lynton Appel, of the Culham Centre for Fusion Energy (CCFE) in Oxfordshire, for use in managing fusion research data from CCFE's innovative MAST (Mega Amp Spherical Tokamak) experiment.
+The NetCDF-4 C++ API was developed by Lynton Appel, of the Culham Centre for Fusion Energy (CCFE) in Oxfordshire, for use in managing fusion research data from CCFE's innovative MAST (Mega Amp Spherical Tokamak) experiment.
 
-The new API is implemented as a layer over the netCDF-4 C interface, which means bug fixes and performance enhancements in the C interface will be immediately available to C++ developers as well.
+The new API is implemented as a layer over the NetCDF-4 C interface, which means bug fixes and performance enhancements in the C interface will be immediately available to C++ developers as well.
 
 # Aim
 
@@ -15,7 +15,7 @@ The new API is implemented as a layer over the netCDF-4 C interface, which means
     * Less code than an equivalent C program, and it's object-oriented.
     * Short argument lists, because there are no IDs for variables, dimensions, or attributes.
     * Easier memory management, because space for blocks of data is allocated by the library.
-    * Hides "define mode", so no calls are needed to enter or leave define mode for changing the schema of a netCDF file (adding variables, dimensions, or attributes).
+    * Hides "define mode", so no calls are needed to enter or leave define mode for changing the schema of a NetCDF file (adding variables, dimensions, or attributes).
 
 # Outcomes
 

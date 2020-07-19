@@ -1,7 +1,7 @@
 # SD1.2.5.1.1.9-B NetCDF R API
 # Background
 
-R is a language and environment for statistical computing and graphics. Three R netCDF interfaces are available: the ncdf4 package, RNetCDF, and ncvar.
+R is a language and environment for statistical computing and graphics. Three R NetCDF interfaces are available: the ncdf4 package, RNetCDF, and ncvar.
 
 # Aim
 

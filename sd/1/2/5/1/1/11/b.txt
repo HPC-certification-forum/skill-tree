@@ -1,7 +1,7 @@
 # SD1.2.5.1.1.11-B NetCDF Perl API
 # Background
 
-There are two Perl APIs for netCDF:
+There are two Perl APIs for NetCDF:
   * PDL::NetCDF, an object-oriented interface between NetCDF files and PDL objects.
   * NetCDFPerl, developed at Unidata, but now in maintenance mode only, and no further development is currently planned.
 
@@ -9,7 +9,7 @@ There are two Perl APIs for netCDF:
 
 * To use PERL for working with NetCDF data
 * To exploit the strengths of the PDL::NetCDF
-  * Newer, based on netCDF-4
+  * Newer, based on NetCDF-4
   * Uses PDL (the Perl Data Language) with capabilities similar to Matlab and IDL
   * Installation is straightforward
   * perldl, a simple interactive shell for PDL, is available for interactive prototyping of scripts
@@ -17,7 +17,7 @@ There are two Perl APIs for netCDF:
 * To exploit the strengths of the NetCDFPerl
   * Installation on RedHat systems easy from RPMs
   * The NetCDFPerl documentation is fairly complete
-  * The ncmanipulate package is available for modifying the schema of a netCDF file (adding, deleting, or renaming dimensions, variables, and attributes)
+  * The ncmanipulate package is available for modifying the schema of a NetCDF file (adding, deleting, or renaming dimensions, variables, and attributes)
 
 # Outcomes
 

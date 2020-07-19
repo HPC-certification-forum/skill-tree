@@ -42,3 +42,5 @@ Languages such as C++, Fortran-77, Fortran-90, Perl, Python, Ruby, Matlab, among
   * [[skill-tree:sd:1:2:5:1:1:10:b]]
   * [[skill-tree:sd:1:2:5:1:1:11:b]]
   * [[skill-tree:k:1.3.2.4.1.B]]
+  * [[skill-tree:k:1.3.2.5.2.B]]
+  

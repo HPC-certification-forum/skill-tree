@@ -2,6 +2,6 @@
 # Background
 # Aim
 # Outcomes
-  *  apply issue tracking in order to manage tasks, bug reports, and other issues occuring during development and enabling task assignment in the team 
-  *  apply different issue tracking systems, like Jira or Redmine, to the development project 
-  *  define a consistent workflow in the development team for issue tracking 
+  * Apply issue tracking in order to manage tasks, bug reports, and other issues occuring during development and enabling task assignment in the team.
+  * Apply different issue tracking systems, like Jira or Redmine, to the development project.
+  * Define a consistent workflow in the development team for issue tracking.

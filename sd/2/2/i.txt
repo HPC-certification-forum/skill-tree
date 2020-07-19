@@ -2,4 +2,4 @@
 # Background
 # Aim
 # Outcomes
-  *  use sophisticated debuggers such as DDT and TotalView 
+  * Use sophisticated debuggers such as DDT and TotalView.

@@ -1,3 +1,7 @@
 # SD7.2-B Software Architecture and Software Design Documentation
+# Background
+# Aim
+# Outcomes
 
 # Subskills
+  * [[skill-tree:sd:7:1:i]]

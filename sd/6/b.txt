@@ -2,7 +2,7 @@
 # Background
 # Aim
 # Outcomes
-  *  design and develop programs on a higher level of abstraction by applying software architecture and object-oriented design
+  * Design and develop programs on a higher level of abstraction by applying software architecture and object-oriented design.
 
 # Subskills
   * [[skill-tree:sd:6:1:b]]

@@ -2,4 +2,7 @@
 # Background
 # Aim
 # Outcomes
-  *  apply programming idioms for a specific programming language, e.g. FORTRAN, Python, C, C++ 
+  * Apply programming idioms for a specific programming language, e.g. Fortran, Python, C, C++.
+
+# Subskills
+  * [[skill-tree:sd:2:3:e]]

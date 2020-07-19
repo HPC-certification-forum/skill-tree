@@ -1,7 +1,10 @@
 # SD5.2-E Code Quality
 # Background
-  *  The user learns how to use practices and methods from software engineering that are especially important for high performance engineering. 
+The user learns how to use practices and methods from software engineering that are especially important for high-performance engineering.
+
 # Aim
 # Outcomes
-  *  software engineering methods and practices especially in the context of high performance computing 
-  *  develop parallel programs and to apply software engineering methods and best practices 
+  * Apply software engineering methods and practices especially in the context of high-performance computing.
+  * Develop parallel programs and to apply software engineering methods and best practices.
+
+# Subskills

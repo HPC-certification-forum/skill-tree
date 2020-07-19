@@ -1,9 +1,11 @@
-# K1.3.2-B I/O layers
+# K1.3.2-B I/O Layers
 # Background
 
 # Aim
 
 # Outcomes
+  *  standard file systems like Ext3, Ext4, XFS, and Btrfs and distributed file systems like Lustre, and BeeGFS
+  *  when to use data compression
 
 # Subskills
   * [[skill-tree:k:1:3:2:1:b]]

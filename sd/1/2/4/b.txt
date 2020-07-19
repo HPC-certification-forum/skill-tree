@@ -2,8 +2,9 @@
 # Background
 # Aim
 # Outcomes
-  *  apply domain decomposition strategies 
-  *  apply simple scheduling algorithms like task farming to achieve an appropriate distribution of the workloads across the multiple computing resources of the HPC system
+  * Apply domain decomposition strategies.
+  * Apply simple scheduling algorithms like task farming to achieve an appropriate distribution of the workloads across the multiple computing resources of the HPC system.
 
 # Subskills
+  * [[skill-tree:sd:1:2:4:i]]
   * [[skill-tree:k:3:3:b]]

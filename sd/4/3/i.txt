@@ -2,4 +2,4 @@
 # Background
 # Aim
 # Outcomes
-  *  apply practices of SCRUM 
+  * Apply practices of SCRUM.

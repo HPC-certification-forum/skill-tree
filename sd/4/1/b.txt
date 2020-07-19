@@ -2,9 +2,10 @@
 # Background
 # Aim
 # Outcomes
-  *  the challenges of testing scientific applications 
-  *  understand test-driven and test-first concepts and understanding the benefits 
-  *  understand what constitutes a test strategy 
-  *  understand that there are different test types, e.g. given by the test pyramid
+  * Describe the challenges of testing scientific applications.
+  * Discuss test-driven and test-first concepts and understanding the benefits.
+  * Characterize what constitutes a test strategy.
+  * Explain that there are different test types, e.g. given by the test pyramid.
 
 # Subskills
+  * [[skill-tree:sd:4:1:i]]

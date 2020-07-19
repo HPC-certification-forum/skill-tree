@@ -2,5 +2,7 @@
 # Background
 # Aim
 # Outcomes
-  *  use a review system like Gerrit to organize the code reviews 
-  *  document code review results and resulting tasks in an issue tracking system (for example Jira) 
+  * Use a review system like Gerrit to organize the code reviews.
+  * Document code review results and resulting tasks in an issue tracking system (for example Jira).
+
+# Subskills

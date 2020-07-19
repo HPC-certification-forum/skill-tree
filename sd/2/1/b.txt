@@ -2,6 +2,6 @@
 # Background
 # Aim
 # Outcomes
-  *  configure and use integrated development environments (IDEs) like Eclipse, e.g. to seamlessly perform the typical development cycle with the steps edit, build (compile and link), and test
+  * Configure and use integrated development environments (IDEs) like Eclipse, e.g. to seamlessly perform the typical development cycle with the steps edit, build (compile and link), and test.
 
 # Subskills

@@ -1,4 +1,4 @@
-# ADM1-B Cluster infrastructure
+# ADM1-B Cluster Infrastructure
 
 
 
@@ -12,8 +12,4 @@
 
 # Outcomes
 
-
-
 # Subskills
-
-The prerequisite is to 

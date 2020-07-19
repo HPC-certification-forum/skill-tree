@@ -2,6 +2,9 @@
 # Background
 # Aim
 # Outcomes
-  *  logging demands and challenges especially for distributed systems 
-  *  choose the most appropriate log format for the context 
-  *  apply structured logging and text logging 
+  * Recognize logging demands and challenges especially for distributed systems.
+  * Select the most appropriate log format for the context.
+  * Apply structured logging and text logging.
+
+# Subskills
+  * [[skill-tree:sd:2:4:e]]

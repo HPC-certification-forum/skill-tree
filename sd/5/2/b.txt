@@ -1,3 +1,8 @@
 # SD5.2-B Code Quality
+# Background
+# Aim
+# Outcomes
 
 # Subskills
+  * [[skill-tree:sd:5:2:i]]
+  * [[skill-tree:sd:5:2:e]]

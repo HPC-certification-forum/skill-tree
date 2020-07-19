@@ -1,8 +1,29 @@
 # SD1.2.5.1.2-B XIOS
 # Background
 
+XIOS, or XML-IO-Server, is a library dedicated to I/O management in climate codes targeted for large core simulation (> 10 000) on climate coupled models.
+
+XIOS manages output of diagnostics and other data produced by climate component codes into files and offers temporal and spatial post-processing operations on this data. 
+
+XIOS aims at simplifying the I/O management by minimizing the number of subroutines to be called and by supporting a maximum of on-line processing of the data.
+
 # Aim
 
+  * To explore the use of XIOS to address three main challenges for climate data production:
+    * Flexibility in management of I/O and data definition
+    * I/O performance
+    * Post-treatment
+
 # Outcomes
+
+  * Describe the XIOS-XML terminology and structuration.
+  * Test XIOS on a specific architecture.
+  * Use one or more processes dedicated exclusively to the I/O management to obtain:
+    * Simultaneous writing and computing by asynchronous call
+    * Asynchronous transfer of data from clients to servers
+    * Asynchronous data writing by each server
+  * Use of parallel file system ability via Netcdf4-HDF5 file format to obtain:
+    * Simultaneous writing in a same single file by all servers
+    * No more post-processing rebuilding of the files
 
 # Subskills

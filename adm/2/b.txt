@@ -1,4 +1,4 @@
-# ADM2-B Software stack
+# ADM2-B Software Stack
 # Background
 
 # Aim

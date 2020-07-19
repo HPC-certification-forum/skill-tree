@@ -1,0 +1,28 @@
+# SD1.2.5.1.1.11-B NetCDF Perl API
+# Background
+
+There are two Perl APIs for NetCDF:
+  * PDL::NetCDF, an object-oriented interface between NetCDF files and PDL objects.
+  * NetCDFPerl, developed at Unidata, but now in maintenance mode only, and no further development is currently planned.
+
+# Aim
+
+* To use PERL for working with NetCDF data.
+* To exploit the strengths of the PDL::NetCDF:
+  * Newer, based on NetCDF-4
+  * Uses PDL (the Perl Data Language) with capabilities similar to Matlab and IDL
+  * Installation is straightforward
+  * perldl, a simple interactive shell for PDL, is available for interactive prototyping of scripts
+  * Fast when dealing with large multidimensional arrays
+* To exploit the strengths of the NetCDFPerl:
+  * Installation on RedHat systems easy from RPMs
+  * The NetCDFPerl documentation is fairly complete
+  * The ncmanipulate package is available for modifying the schema of a NetCDF file (adding, deleting, or renaming dimensions, variables, and attributes)
+
+# Outcomes
+
+  * Write a two-dimensional array of sample data and read data from this file.
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
+
+# Subskills

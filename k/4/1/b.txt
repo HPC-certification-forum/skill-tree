@@ -3,24 +3,22 @@
 This skill provides an overview of the scheduling of jobs on a supercomputer.
 It covers generic and widely used concepts that serve the purpose to maximize the efficiency of a supercomputer.
 
-Batch jobs submitted to a job queue define the workloads in batch systems. A workload
-manager of a cluster system typically deals with
+Batch jobs submitted to a job queue define the workloads in batch systems.
+A workload manager of a cluster system typically deals with:
   * Job Control to provide a user interface for submitting jobs to job queues, monitoring their state during processing (e.g. to check their estimated starting time), and intervening in their execution (e.g. to abort them manually)
   * Scheduling and Resource Management to select a waiting job for execution and to allocate nodes to the job meeting all its other demands for computing resources (memory, special processing elements like GPUs, etc.)
   * Accounting to record historical data about how many computing resources (e.g. computing time) have been consumed by a job
 
-
-
 # Aim
-To enable practitioners to comprehend and describe the basic architecture and concepts of resource allocation for an HPC system
+To enable practitioners to comprehend and describe the basic architecture and concepts of resource allocation for an HPC system.
 
 # Outcomes
-  * Comprehend the exclusive and shared usage model in HPC
-  * Differentiate batch and interactive job submission
-  * Comprehend the generic concepts and architecture of resource manager, scheduler, job and job script
-  * Explain environment variables as a means to communicate
-  * Comprehend accounting principles
-  * Explain the generic steps to run and monitor a single job
-  * Comprehend scheduling principles (first come first served, shortest job first, backfilling) to achieve objectives like minimizing the averaged elapsed program runtimes, and maximizing the utilization of the available HPC resources
+  * Comprehend the exclusive and shared usage model in HPC.
+  * Differentiate batch and interactive job submission.
+  * Comprehend the generic concepts and architecture of resource manager, scheduler, job and job script.
+  * Explain environment variables as a means to communicate.
+  * Comprehend accounting principles.
+  * Explain the generic steps to run and monitor a single job.
+  * Comprehend scheduling principles (first come first served, shortest job first, backfilling) to achieve objectives like minimizing the averaged elapsed program runtimes, and maximizing the utilization of the available HPC resources.
 
 # Subskills

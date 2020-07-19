@@ -2,8 +2,9 @@
 # Background
 # Aim
 # Outcomes
-  *  measure the system performance by the help of standard tools and by profiling in order to assess the runtime behavior of parallel programs
+  * Measure the system performance by the help of standard tools and by profiling in order to assess the runtime behavior of parallel programs.
 
 # Subskills
   * [[skill-tree:pe:2:1:b]]
   * [[skill-tree:pe:2:2:b]]
+  * [[skill-tree:pe:2:3:b]]

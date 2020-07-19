@@ -21,3 +21,5 @@ Parallel I/O in the Unidata NetCDF library has been supported since release 4.0,
     * Record variables (ones with an unlimited dimension)
   * Store and retrieve data in PNetCDF
   * Show basic API use and error checking
+
+# Subskills

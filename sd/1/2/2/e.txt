@@ -1,4 +1,4 @@
-# SD1.2.2-E Programming Shared Memory Systems
+# SD1.2.2-E Shared Memory Systems
 # Background
 # Aim
 # Outcomes

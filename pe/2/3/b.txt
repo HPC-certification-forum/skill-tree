@@ -13,15 +13,15 @@ Therefore, the observable I/O performance depends on more than the capabilities 
 
 # Aim
 
-  * To develop general considerations about what influences the I/O performance.
-  * To analyze access pattern and define how it defines the performance of the I/O subsystems.
-  * To apply I/O strategies to improve the access pattern.
-  * To identify options for the deployed optimization strategies in a specific parallel file system.
+  * To develop general considerations about what influences the I/O performance.
+  * To analyze access pattern and define how it defines the performance of the I/O subsystems.
+  * To apply I/O strategies to improve the access pattern.
+  * To identify options for the deployed optimization strategies in a specific parallel file system.
 
 # Outcomes  
 
   * Select performance models to assess and optimize the application I/O performance.
-  * Identify tools capable of predicting the behavior of applications in HPC.
-  * Apply methods to manipulate workloads to improve achievable performance.
+  * Identify tools capable of predicting the behavior of applications in HPC.
+  * Apply methods to manipulate workloads to improve achievable performance.
 
 # Subskills

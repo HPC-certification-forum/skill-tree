@@ -1,4 +1,4 @@
-# SD1.2.5.1.1.3.1-B Remote Data Access
+# SD1.2.5.1.1.3.1-B NetCDF Remote Data Access
 # Background
 
 The goal of Unidata's Thematic Real-time Environmental Distributed Data Services (THREDDS) is to provide students, educators and researchers with coherent access to a large collection of real-time and archived datasets from a variety of environmental data sources at a number of distributed server sites.

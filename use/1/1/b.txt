@@ -13,29 +13,30 @@ Part of this module is the general principles of the interaction with a shell. T
 
 
 # Outcomes
-  * Utilize the bash shell to execute individual programs with arguments
-  * Describe the meaning of the exit code of a program
-  * Run multiple programs after another depending on the exit code ;, &&, ||
+  * Utilize the bash shell to execute individual programs with arguments.
+  * Describe the meaning of the exit code of a program.
+  * Run multiple programs after another depending on the exit code ;, &&, ||.
   * List the set of basic programs and their tasks:
-    - pwd
-    - whoami
-    - sleep
-    - kill
-    - echo
-    - clear
-    - man
-    - exit
-  * Utilize the available help of a program (--help argument and the man pages)
-  * Interrupt or abort a program execution
-    - CTRL-C
-    - CTRL-Z
-    - using kill -9
-  * Use the shell history to search and execute previous executed commands
-  * Identify potential special characters that must be handled with care
-  * Utilize escaping to ensure correct handling of arguments
-  * Understand wildcard characters to select a group of files/directories
-    - *
-    - [,-]
-  * Use text editors
+    * pwd
+    * whoami
+    * sleep
+    * kill
+    * echo
+    * clear
+    * man
+    * exit
+  * Utilize the available help of a program (--help argument and the man pages).
+  * Interrupt or abort a program execution:
+    * CTRL-C
+    * CTRL-Z
+    * using kill -9
+  * Use the shell history to search and execute previously executed commands.
+  * Identify potential special characters that must be handled with care.
+  * Utilize escaping to ensure correct handling of arguments.
+  * Understand wildcard characters to select a group of files/directories:
+    * *
+    * [,-]
+  * Use text editors.
 
 # Subskills
+  * [[skill-tree:use:1:1:i]]

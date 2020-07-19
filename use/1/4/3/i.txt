@@ -10,12 +10,12 @@ This activity can be performed by users and empowers them to manage the appropri
 
 # Outcomes
 
-  * Installation of Spack
-  * Build software using Spack
-    - Setup of compilers
-    - Show installed compilers
-    - Configuration of variants
-  * Manage the installation directories
-  * Describe relevant directories for the Spack installation
+  * Installation of Spack.
+  * Build software using Spack:
+    * Setup of compilers.
+    * Show installed compilers.
+    * Configuration of variants.
+  * Manage the installation directories.
+  * Describe relevant directories for the Spack installation.
 
 # Subskills

@@ -1,4 +1,4 @@
-# USE7-B Post-processing tools
+# USE7-B Post-processing Tools
 # Background
 
 # Aim

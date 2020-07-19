@@ -9,12 +9,12 @@ The widely available software tools are:
   * Spack
 
 # Aim
-  * To utilize different package management tools to make software available
+  * To utilize different package management tools to make software available.
 
 # Outcomes
-  * Understand shell variables relevant for executing and building software
-  * Query available software using the package manager
-  * Select the appropriate versions for deployment in the session environment
+  * Understand shell variables relevant for executing and building software.
+  * Query available software using the package manager.
+  * Select the appropriate versions for deployment in the session environment.
 
 # Subskills
   * [[skill-tree:use:1:4:1:b]]

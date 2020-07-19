@@ -4,4 +4,4 @@
 # Outcomes
 
 # Subskills
-  * [[skill-tree:sd:7:1:i]]
+  * [[skill-tree:sd:7:2:i]]

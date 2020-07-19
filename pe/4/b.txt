@@ -10,7 +10,7 @@ Tuning means to change some system variables/configurations (without changing th
 # Outcomes
   *  Use profiling tools such as prof, gprof and line-by-line profilers.
   *  Define Amdahl's Law.
-  *  Tune a parallel program in order to achieve better runtimes and to optimize the usage of the HPC resources
+  *  Tune a parallel program in order to achieve better runtimes and to optimize the usage of the HPC resources.
 
 # Subskills
   * [[skill-tree:pe:4:1:b]]

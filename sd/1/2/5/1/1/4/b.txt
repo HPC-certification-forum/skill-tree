@@ -7,18 +7,18 @@ The Fortran-90 interface is significantly simpler than either the C or Fortran-7
 
 # Aim
 
-  * To use Fortran-90 for working with NetCDF data
-  * To apply the main information available in the NetCDF Fortran-90 Users Guide
-  * To exploit the strengths of the NetCDF Fortran-90 API
-    * Overloaded functions and optional arguments
-    * Fewer arguments to functions
-    * Improved error checking
-    * Support for arbitrary array sections
+  * To use Fortran-90 for working with NetCDF data.
+  * To apply the main information available in the NetCDF Fortran-90 Users Guide.
+  * To exploit the strengths of the NetCDF Fortran-90 API.
+    * Overloaded functions and optional arguments.
+    * Fewer arguments to functions.
+    * Improved error checking.
+    * Support for arbitrary array sections.
 
 # Outcomes
 
-  * Write a two-dimensional array of sample data and read data from this file
-  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file
-  * Write some four-dimensional variables using a record dimension and read from the variables from this file
+  * Write a two-dimensional array of sample data and read data from this file.
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
 
 # Subskills

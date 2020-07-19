@@ -2,5 +2,5 @@
 # Background
 # Aim
 # Outcomes
-  *  apply domain decomposition strategies 
-  *  apply more sophisticated approaches e.g. based on tree structures like divide-and-conquer or work-stealing to achieve an appropriate distribution of the workloads across the multiple computing resources of the HPC system 
+  * Apply domain decomposition strategies
+  * Apply more sophisticated approaches e.g. based on tree structures like divide-and-conquer or work-stealing to achieve an appropriate distribution of the workloads across the multiple computing resources of the HPC system.

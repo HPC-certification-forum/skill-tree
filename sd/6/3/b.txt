@@ -2,7 +2,9 @@
 # Background
 # Aim
 # Outcomes
-  *  the importance and impact of software architecture during software development 
-  *  software architecture principles
+  * Describe the importance and impact of software architecture during software development.
+  * Analyze software architecture principles.
 
 # Subskills
+  * [[skill-tree:sd:6:3:i]]
+  * [[skill-tree:sd:6:3:e]]

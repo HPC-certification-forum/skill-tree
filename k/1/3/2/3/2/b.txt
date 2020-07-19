@@ -9,8 +9,8 @@ Parallel file systems and programming environments have typically solved the pro
 # Aim
 
 # Outcomes
-  * Comprehend that the parallel or cluster aspect is twofold
-    * Firstly, the hardware is parallel itself (the file system is provided by several servers that operate in a coordinated way)
-    * Secondly, parallel I/O is enabled, i.e. more than one process can consistently write to the same file at the same time
+  * Comprehend that the parallel or cluster aspect is twofold:
+    * Firstly, the hardware is parallel itself (the file system is provided by several servers that operate in a coordinated way).
+    * Secondly, parallel I/O is enabled, i.e. more than one process can consistently write to the same file at the same time.
 
 # Subskills

@@ -2,4 +2,4 @@
 # Background
 # Aim
 # Outcomes
-  *  assess that there are algorithms having a so-called sequential nature that have been notoriously difficult to parallelize, for example alpha-beta game-tree search 
+  * Assess that there are algorithms having a so-called sequential nature that have been notoriously difficult to parallelize, for example alpha-beta game-tree search.

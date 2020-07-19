@@ -1,9 +1,13 @@
 # SD1.1-B Programming Languages
 # Background
-  *  The user learns how to complete programming tasks and gets a short overview of machine- and assembly-languages toward so-called high-level programming languages. 
-  *  The focus lies on the programming languages that are in widespread use within the HPC community. 
+The user learns how to complete programming tasks and gets a short overview of machine- and assembly-languages toward so-called high-level programming languages.
+
+The focus lies on the programming languages that are in widespread use within the HPC community.
+
 # Aim
 # Outcomes
-  *  program in languages typically used in HPC environments, such as C, FORTRAN
+  *  Program in languages typically used in HPC environments such as C, and Fortran.
 
 # Subskills
+  * [[skill-tree:sd:1:1:i]]
+  * [[skill-tree:sd:1:1:e]]

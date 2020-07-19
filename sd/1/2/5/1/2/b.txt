@@ -16,8 +16,8 @@ XIOS aims at simplifying the I/O management by minimizing the number of subrouti
 
 # Outcomes
 
-  * Describe the XIOS-XML terminology and structuration
-  * Test XIOS on a specific architecture
+  * Describe the XIOS-XML terminology and structuration.
+  * Test XIOS on a specific architecture.
   * Use one or more processes dedicated exclusively to the I/O management to obtain:
     * Simultaneous writing and computing by asynchronous call
     * Asynchronous transfer of data from clients to servers

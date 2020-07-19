@@ -2,6 +2,9 @@
 # Background
 # Aim
 # Outcomes
-  *  assess code quality using different metrics, e.g. length of functions, length of files, lines of code, complexity metrics, code coverage 
-  *  use static code analysis tools in order to calculate the metrics (e.g. http://cppcheck.sourceforge.net/) 
-  *  identify bad code structures (known as bad smells) in order to assess the quality of the code design 
+  * Assess code quality using different metrics, e.g. length of functions, length of files, lines of code, complexity metrics, code coverage.
+  * Use static code analysis tools in order to calculate the metrics (e.g. http://cppcheck.sourceforge.net/).
+  * Identify bad code structures (known as bad smells) in order to assess the quality of the code design.
+
+# Subskills
+  * [[skill-tree:sd:5:2:e]]

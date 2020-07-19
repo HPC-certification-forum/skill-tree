@@ -2,4 +2,4 @@
 # Background
 # Aim
 # Outcomes
-  *  use program language extensions used in HPC environments, such as HPX, Cilk 
+  * Use program language extensions used in HPC environments, such as HPX, and Cilk.

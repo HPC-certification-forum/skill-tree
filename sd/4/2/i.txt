@@ -2,4 +2,4 @@
 # Background
 # Aim
 # Outcomes
-  *  apply the principles in the context of an HPC project 
+  * Apply the principles in the context of an HPC project.

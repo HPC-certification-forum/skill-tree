@@ -1,12 +1,17 @@
 # SD2.4-B Logging
 # Background
-  *  Logging is necessary in order to comprehend when, where, and why an error occurs during the execution. Parallel programs are prone to failures and errors during operation. Knowledge about logging concepts, the ability to apply them appropriately, and to purposefully analyze the log files is therefore essential in the context of high performance computing. 
+Logging is necessary in order to comprehend when, where, and why an error occurs during the execution.
+Parallel programs are prone to failures and errors during operation.
+Knowledge about logging concepts, the ability to apply them appropriately, and to purposefully analyze the log files is therefore essential in the context of high-performance computing.
+
 # Aim
 # Outcomes
-  *  logging in general like log levels etc. (e.g. ERROR, WARN, INFO, DEBUG, TRACE) 
-  *  different logging formats 
-  *  choose appropriate information that should be logged e.g. timestamp, pid, thread, level, loggername) in order to be able to identify the problem 
-  *  differentiate between structured logging and text logging 
-  *  logging implementations/libraries for a specific programming language like FORTRAN, C, C++
+  * Describe logging in general like log levels etc. (e.g. ERROR, WARN, INFO, DEBUG, TRACE)
+  * Different logging formats
+  * Select appropriate information that should be logged e.g. timestamp, pid, thread, level, loggername) in order to be able to identify the problem
+  * Differentiate between structured logging and text logging
+  * Apply logging implementations/libraries for a specific programming language like Fortran, C, C++
 
 # Subskills
+  * [[skill-tree:sd:2:4:i]]
+  * [[skill-tree:sd:2:4:e]]

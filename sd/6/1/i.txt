@@ -2,8 +2,10 @@
 # Background
 # Aim
 # Outcomes
-  *  identify functional and non-functional requirements of the software to be implemented 
-  *  capture a common terminology, constraints, and assumptions 
-  *  evaluate the identified requirements against the background of Software Quality 
-  *  use the identified requirements to validate them by tests 
-  *  use a predefined template in order to capture the requirements 
+  * Identify functional and non-functional requirements of the software to be implemented.
+  * Capture a common terminology, constraints, and assumptions.
+  * Evaluate the identified requirements against the background of Software Quality.
+  * Use the identified requirements to validate them by tests.
+  * Use a predefined template in order to capture the requirements.
+
+# Subskills

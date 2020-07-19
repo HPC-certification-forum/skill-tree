@@ -2,13 +2,12 @@
 # Background
 
 The C library is the core implementation on which non-Java interfaces are built.
-
 It provides reliability, performance, and portability.
 
 # Aim
 
-  * To use C for working with NetCDF data
-  * To apply the main information available in the NetCDF C Interface Guide
+  * To use C for working with NetCDF data.
+  * To apply the main information available in the NetCDF C Interface Guide.
   * To exploit the strengths of the NetCDF C API:
     * Comprehensively tested: many tests are run when the NetCDF C library is installed from source
     * Well supported: answers for many common support questions are readily available
@@ -18,9 +17,9 @@ It provides reliability, performance, and portability.
 
 # Outcomes
 
-  * Write a two-dimensional array of sample data and read data from this file
-  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file
-  * Write some four-dimensional variables using a record dimension and read from the variables from this file
-  * Employ ncgen to generate the C code needed to create the corresponding NetCDF file from a CDL text file
+  * Write a two-dimensional array of sample data and read data from this file.
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
+  * Employ ncgen to generate the C code needed to create the corresponding NetCDF file from a CDL text file.
 
 # Subskills

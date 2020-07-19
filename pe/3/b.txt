@@ -23,7 +23,7 @@ For HPC users measuring the performance behavior of the parallel program(s) they
   *  Differentiate types of benchmarks
     * The Linpack benchmark is used, for example, to build the TOP 500 list of the currently fastest supercomputers, which is updated twice a year
     * For HPC users, however, synthetic tests to benchmark HPC cluster hardware (like the Linpack benchmark) are of less importance, because the emphasis lies on the determination of speedups and efficiencies of the parallel program they want to use
-  * Comrephend that benchmarking is very essential in the HPC environment and can be applied to a variety of issues
+  * Comprehend that benchmarking is very essential in the HPC environment and can be applied to a variety of issues
     * What is the scalability of my program?
     * How many cluster nodes can be maximally used, before the efficiency drops to values which are unacceptable?
     * How does the same program perform in different cluster environments?

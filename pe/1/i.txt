@@ -1,0 +1,6 @@
+# PE1-I Cost Awareness
+# Background
+# Aim
+# Outcomes
+# Subskills
+  * [[skill-tree:pe:1:e]]

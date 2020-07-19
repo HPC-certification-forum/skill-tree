@@ -2,6 +2,7 @@
 # Background
 # Aim
 # Outcomes
-  *  the principles of extreme programming and when to apply it
+  * Discuss the principles of extreme programming and when to apply it.
 
 # Subskills
+  * [[skill-tree:sd:4:2:i]]

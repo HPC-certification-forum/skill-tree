@@ -2,19 +2,20 @@
 # Background
 
 HPC computer architectures are parallel computer architectures. A parallel computer is built out of
-  * compute units,
-  * main memory,
-  * and a high speed network.
+  * Compute units,
+  * Main memory, and
+  * A high speed network.
 
 # Aim
-  * To provide knowledge about parallel computer architectures, in particular: the distinction between shared and distributed memory systems 
+  * To provide knowledge about parallel computer architectures, in particular: the distinction between shared and distributed memory systems.
 
 # Outcomes
-  *  elementary processing elements like CPUs, GPUs, many core architectures 
-  *  vector systems, and FPGAs 
-  *  the NUMA architecture used for symmetric multiprocessing systems where the memory access time depends on the memory location relative to the processor 
-  *  network demands for HPC systems (e.g. high bandwidth and low latency) 
+  *  elementary processing elements like CPUs, GPUs, many core architectures
+  *  vector systems, and FPGAs
+  *  the NUMA architecture used for symmetric multiprocessing systems where the memory access time depends on the memory location relative to the processor
+  *  network demands for HPC systems (e.g. high bandwidth and low latency)
   *  typical network architectures used for HPC systems, like fast Ethernet (1 or 10 Gbit) or InfiniBand
+
   *  Comprehend that in traditional **CPUs** - although CPU stands for Central Processing Unit - there is no central, i.e. single, processing unit any more, because today all CPUs have multiple compute cores which all have the same functionality
   * Comprehend that **GPUs** (Graphical Processing Units) or **GPGPUs** (General Purpose Graphical Processing Units) were originally used for image processing and displaying images on screens before people started to utilize the compute power of GPUs for other purposes
   * Comprehend that **FPGAs** (Field-Programmable Gate Arrays) are devices that have configurable hardware and configurations are specified by hardware description languages
@@ -27,3 +28,5 @@ HPC computer architectures are parallel computer architectures. A parallel compu
   * Comprehend that in general, the effort for programming parallel applications for distributed systems is higher than for shared memory systems
 
 # Subskills
+  * [[skill-tree:k:1:2:i]]
+  * [[skill-tree:k:1:2:e]]

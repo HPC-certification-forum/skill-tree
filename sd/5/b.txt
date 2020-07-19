@@ -1,7 +1,11 @@
 # SD5-B Software Quality
+# Background
+# Aim
+# Outcomes
 
 # Subskills
   * [[skill-tree:sd:5:1:b]]
   * [[skill-tree:sd:5:2:b]]
   * [[skill-tree:sd:5:3:b]]
   * [[skill-tree:sd:5:4:b]]
+  * [[skill-tree:sd:5:i]]

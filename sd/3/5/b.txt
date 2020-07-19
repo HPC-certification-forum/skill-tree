@@ -1,13 +1,16 @@
 # SD3.5-B Deployment Management
 # Background
-  *  This skill conveys how dependencies are managed, how and why to setup different environments for development, testing, and production, how and why to automate the deployment process and the importance of preserving and documenting reproducible software stacks that can be used by other users/researchers in order to reliably reproduce the results. 
+This skill conveys how dependencies are managed, how and why to setup different environments for development, testing, and production, how and why to automate the deployment process and the importance of preserving and documenting reproducible software stacks that can be used by other users/researchers in order to reliably reproduce the results.
+
 # Aim
 # Outcomes
-  *  the basics of dependency management 
-  *  understand that different environments for testing, development, production, and staging are necessary 
-  *  the differences between different deployment environments, and what specific requirements are for each 
-  *  use software building environments like make, Autotools, CMake 
-  *  continuous integration, delivery, and deployment and the differences between them 
-  *  the benefits, drawbacks, and tradeoffs of continuous integration, delivery, and deployment
+  * Describe the basics of dependency management.
+  * Discuss why different environments for testing, development, production, and staging are necessary.
+  * Compare the differences between different deployment environments, and what are their specific requirements.
+  * Use software building environments like make, Autotools, CMake.
+  * Correlate continuous integration, delivery, and deployment and the differences between them.
+  * Analyze the benefits, drawbacks, and tradeoffs of continuous integration, delivery, and deployment.
 
 # Subskills
+    * [[skill-tree:sd:3:5:i]]
+    * [[skill-tree:sd:3:5:e]]

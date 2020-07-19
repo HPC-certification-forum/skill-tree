@@ -2,7 +2,10 @@
 # Background
 # Aim
 # Outcomes
-  *  the basics of dependency management for different programming languages 
-  *  use advanced software building environments like Scons and Waf 
-  *  to undestand challenges for Portability e.g. for the source code of programs and job scripts to avoid typical compiler-, linker-, and MPI-issues. 
-  *  use a software build and installation framework like EasyBuild 
+  * Describe the basics of dependency management for different programming languages.
+  * Use advanced software building environments like Scons and Waf.
+  * Discuss the challenges for Portability, e.g. for the source code of programs and job scripts to avoid typical compiler-, linker-, and MPI-issues.
+  * Use a software build and installation framework like EasyBuild.
+
+# Subskills
+  * [[skill-tree:sd:3:5:e]]

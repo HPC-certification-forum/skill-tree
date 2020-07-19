@@ -1,14 +1,14 @@
 # SD1.2.5.1.1.2-B NetCDF C++ API
 # Background
 
-The NetCDF-4 C++ API was developed by Lynton Appel, of the Culham Centre for Fusion Energy (CCFE) in Oxfordshire, for use in managing fusion research data from CCFE's innovative MAST (Mega Amp Spherical Tokamak) experiment.
+The NetCDF-4 C++ API was for using in managing fusion research data from CCFE's innovative MAST (Mega Amp Spherical Tokamak) experiment.
 
-The new API is implemented as a layer over the NetCDF-4 C interface, which means bug fixes and performance enhancements in the C interface will be immediately available to C++ developers as well.
+The API is implemented as a layer over the NetCDF-4 C interface, which means bug fixes and performance enhancements in the C interface will be immediately available to C++ developers as well.
 
 # Aim
 
-  * To use C++ for working with NetCDF data
-  * To apply the main information available in the NetCDF C++ Interface Guide
+  * To use C++ for working with NetCDF data.
+  * To apply the main information available in the NetCDF C++ Interface Guide.
   * To exploit the strengths of the NetCDF C++ API:
     * Object-oriented interface
     * Type safety: better than the C interface.
@@ -19,8 +19,8 @@ The new API is implemented as a layer over the NetCDF-4 C interface, which means
 
 # Outcomes
 
-  * Write a two-dimensional array of sample data and read data from this file
-  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file
-  * Write some four-dimensional variables using a record dimension and read from the variables from this file
+  * Write a two-dimensional array of sample data and read data from this file.
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
 
 # Subskills

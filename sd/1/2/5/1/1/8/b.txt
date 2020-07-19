@@ -1,16 +1,17 @@
 # SD1.2.5.1.1.8-B NetCDF NCL API
 # Background
 
-NCL (NCAR Command Language) is a free interpreted language designed specifically for scientific data processing and visualization. In addition to common programming features, NCL also handles manipulation of metadata, configuration of the visualizations, import of data from a variety of data formats (including NetCDF, HDF4, HDF4-EOS, GRIB1, GRIB2) via a single function, and an algebra that supports array operations.
+NCL (NCAR Command Language) is a free interpreted language designed specifically for scientific data processing and visualization.
+In addition to common programming features, NCL also handles manipulation of metadata, configuration of the visualizations, import of data from a variety of data formats (including NetCDF, HDF4, HDF4-EOS, GRIB1, GRIB2) via a single function, and an algebra that supports array operations.
 
 # Aim
 
-  * To use NCL for working with NetCDF data
+  * To use NCL for working with NetCDF data.
 
 # Outcomes
 
-  * Write a two-dimensional array of sample data and read data from this file
-  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file
-  * Write some four-dimensional variables using a record dimension and read from the variables from this file
+  * Write a two-dimensional array of sample data and read data from this file.
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
 
 # Subskills

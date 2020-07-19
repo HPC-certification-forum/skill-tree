@@ -3,23 +3,25 @@
 
 Running the same application with different I/O configurations gives the possibility to tune the I/O system according to the application access pattern.
 
-One way to predict application performance in HPC systems with different I/O configurations is using modelling and simulation techniques. Modeling the system allows assessing obtained performance and therewith estimate the performance potentially gained by optimizations.
+One way to predict application performance in HPC systems with different I/O configurations is using modelling and simulation techniques.
+Modeling the system allows assessing obtained performance and therewith estimate the performance potentially gained by optimizations.
 
 There are several aspects involved in delivering high I/O performance to parallel applications, from hardware characteristics to methods that manipulate workloads to improve achievable performance.
 
-File systems are implemented in the operating system which deploys strategies to improve performance such as scheduling, caching and aggregation. Therefore, the observable I/O performance depends on more than the capabilities of the raw block device.
+File systems are implemented in the operating system which deploys strategies to improve performance such as scheduling, caching and aggregation.
+Therefore, the observable I/O performance depends on more than the capabilities of the raw block device.
 
 # Aim
 
-  * To develop general considerations about what influences the I/O performance
-  * To analyze access pattern and define how it defines the performance of the I/O subsystems
-  * To apply I/O strategies to improve the access pattern
-  * To identify options for the deployed optimization strategies in a specific parallel file system
+  * To develop general considerations about what influences the I/O performance.
+  * To analyze access pattern and define how it defines the performance of the I/O subsystems.
+  * To apply I/O strategies to improve the access pattern.
+  * To identify options for the deployed optimization strategies in a specific parallel file system.
 
 # Outcomes  
 
-  * Select performance models to assess and optimize the application I/O performance
-  * Identify tools capable of predicting the behavior of applications in HPC
-  * Apply methods to manipulate workloads to improve achievable performance
+  * Select performance models to assess and optimize the application I/O performance.
+  * Identify tools capable of predicting the behavior of applications in HPC.
+  * Apply methods to manipulate workloads to improve achievable performance.
 
 # Subskills

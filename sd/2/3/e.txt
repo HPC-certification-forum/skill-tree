@@ -2,4 +2,4 @@
 # Background
 # Aim
 # Outcomes
-  *  recognize where programming idioms are violated and to refactor the code to comply to a specific programming idom 
+  * Recognize where programming idioms are violated and to refactor the code to comply to a specific programming idiom.

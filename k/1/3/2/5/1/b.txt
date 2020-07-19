@@ -17,8 +17,8 @@ Non-contiguous operations and collective calls have been defined in MPI-IO which
 
 # Outcomes
 
-  * Employ MPI derived datatypes for expressing the data layout in the file as well as the partitioning of the file data among the communicator processes
-  * Specify high level information about I/O to the system rather than low-level system dependent information
-  * Collect statistics on the actual read/write operations performed to validate the MPI-IO performance
+  * Employ MPI derived datatypes for expressing the data layout in the file as well as the partitioning of the file data among the communicator processes.
+  * Specify high level information about I/O to the system rather than low-level system dependent information.
+  * Collect statistics on the actual read/write operations performed to validate the MPI-IO performance.
 
 # Subskills

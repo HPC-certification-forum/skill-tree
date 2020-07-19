@@ -2,4 +2,4 @@
 # Background
 # Aim
 # Outcomes
-  *  apply frameworks of release planning and management like SCRUM release planning or ITIL 
+  * Apply frameworks of release planning and management like SCRUM release planning or ITIL.

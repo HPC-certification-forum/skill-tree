@@ -15,11 +15,11 @@ Parallel I/O in the Unidata NetCDF library has been supported since release 4.0,
 
 # Outcomes
 
-  * Interpret the PNetCDF files structure
+  * Interpret the PNetCDF files structure:
     * Header
     * Non-record variables (all dimensions specified)
     * Record variables (ones with an unlimited dimension)
-  * Store and retrieve data in PNetCDF
-  * Show basic API use and error checking
+  * Store and retrieve data in PNetCDF.
+  * Show basic API use and error checking.
 
 # Subskills

@@ -2,5 +2,5 @@
 # Background
 # Aim
 # Outcomes
-  *  assess the impact of communication and synchronization on the performance of a parallel program 
-  *  the concept of overlay networks 
+  * Assess the impact of communication and synchronization on the performance of a parallel program.
+  * Apply the concept of overlay networks.

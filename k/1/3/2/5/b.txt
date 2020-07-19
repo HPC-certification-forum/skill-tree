@@ -17,12 +17,12 @@ In HPC, increasing demands in the I/O system can cause bottlenecks. Parallel I/O
 
 # Outcomes
 
-  * Use parallel I/O libraries
-  * Assess the implications of parallel I/O on application efficiency
-  * Implement an application that utilizes parallel I/O to store, retrieve and analyze data
-  * Improve the I/O throughput with a parallel I/O file system
-  * List I/O system simulators developed for parallel I/O
+  * Use parallel I/O libraries.
+  * Assess the implications of parallel I/O on application efficiency.
+  * Implement an application that utilizes parallel I/O to store, retrieve and analyze data.
+  * Improve the I/O throughput with a parallel I/O file system.
+  * List I/O system simulators developed for parallel I/O.
 
 # Subskills
-  * [[skill-tree:k:1:3:2:5:2:b]]
   * [[skill-tree:k:1:3:2:5:1:b]]
+  * [[skill-tree:k:1:3:2:5:2:b]]

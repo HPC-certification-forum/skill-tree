@@ -2,5 +2,5 @@
 # Background
 # Aim
 # Outcomes
-  *  apply a specific workflow, such as Feature Branch Workflow, Gitflow Workflow, Centralized Workflow, Forking Worfklow 
-  *  apply advanced git concepts and commands 
+  * Apply a specific workflow, such as Feature Branch Workflow, Gitflow Workflow, Centralized Workflow, Forking Worfklow.
+  * Apply advanced git concepts and commands.

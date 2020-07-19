@@ -5,7 +5,7 @@ The Climate and Forecast (CF) conventions are metadata conventions for earth sci
 
 The purpose of the CF conventions is to require conforming datasets to contain sufficient metadata that they are self-describing in the sense that each variable in the file has an associated description of what it represents, including physical units if appropriate, and that each value can be located in space (relative to earth-based coordinates) and time.
 
-The CF conventions enable users of data from different sources to decide which data are comparable, and allows building applications with powerful extraction, regridding, and display capabilities. The CF conventions are framed as a NetCDF standard, but most ideas relate to metadata design in general and not specifically to NetCDF, and hence can be contained in other formats such as XML.
+The CF conventions enable users of data from different sources to decide which data are comparable and allows building applications with powerful extraction, regridding, and display capabilities. The CF conventions are framed as a NetCDF standard, but most ideas relate to metadata design in general and not specifically to NetCDF, and hence can be contained in other formats such as XML.
 
 # Aim
 

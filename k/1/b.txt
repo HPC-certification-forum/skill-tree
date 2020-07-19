@@ -1,20 +1,20 @@
 # K1-B Supercomputers
 
 # Background
-Supercomputers are computers that led the world in terms of processing capacity, and particularly in speed of calculations.
+Supercomputers are computers that led the world in terms of processing capacity, and particularly in the speed of calculations.
 
 # Aim
-  * Describe typical operation of data in computing centers
+  * Describe the typical operation of data in computing centers.
 
 # Outcomes
-  * various system-, hardware-, and I/O-architectures used for supercomputers, i.e. computers that led the world in terms of processing capacity, and particularly in speed of calculations, at the time of their introduction, or share key architectural aspects with these computers
+  * various system-, hardware-, and I/O-architectures used for supercomputers, i.e. computers that led the world in terms of processing capacity, and particularly in the speed of calculations, at the time of their introduction, or share key architectural aspects with these computers
   * typical operation of data and computing centers
   * differentiation between supercomputers, high-performance computers, clusters, research computing
   * different metrics to calculate supercomputing performance (e.g., Linpack, HPCChallenge, GreenHPC etc)
 
-  * List typical computing centers
-  * Differentiate among supercomputers, high-performance computers, clusters, and research computing
-  * Characterize different metrics to calculate supercomputing performance (e.g., Linpack, HPCChallenge, GreenHPC, etc)
+  * List typical computing centers.
+  * Differentiate among supercomputers, high-performance computers, clusters, and research computing.
+  * Characterize different metrics to calculate supercomputing performance (e.g., Linpack, HPCChallenge, GreenHPC, etc).
 
 # Subskills
   * [[skill-tree:k:1:1:b]]

@@ -3,13 +3,13 @@
 Big data analytics is a fuzzy area that covers many concepts.
 
 # Aim
-  * To convey the theory on an application-level that allows the effective application of BDA in HPC
+  * To convey the theory on an application-level that allows the effective application of BDA in HPC.
 
 # Outcomes
-  * Describe the key concepts of artificial intelligence and data science
-  * Describe the general approach of big data tools
-  * List ethical constraints
-  * Illustrate the typical data science workflow
-  * Categorize the different types of diagrams used for visualization
+  * Describe the key concepts of artificial intelligence and data science.
+  * Describe the general approach of big data tools.
+  * List ethical constraints.
+  * Illustrate the typical data science workflow.
+  * Categorize the different types of diagrams used for visualization.
 
 # Subskills

@@ -9,10 +9,10 @@ In HPC, increasing demands in the I/O system can cause bottlenecks. Parallel I/O
 # Aim
 
   * Establish the elements of a parallel I/O system:
-    * Collective operations
-    * User-defined datatypes to describe both memory and file layout
-    * Communicators to separate application-level message passing from I/O-related message passing
-    * Non-blocking operations
+    * Collective operations.
+    * User-defined datatypes to describe both memory and file layout.
+    * Communicators to separate application-level message passing from I/O-related message passing.
+    * Non-blocking operations.
   * Use proper parallel I/O to overcome I/O bottlenecks in HPC environments.
 
 # Outcomes

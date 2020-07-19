@@ -2,7 +2,7 @@
 # Background
 
 # Aim
-  * Provide an overview of relevant Input/Output layers
+  * Provide an overview of relevant Input/Output (I/O) layers.
 
 # Outcomes
 

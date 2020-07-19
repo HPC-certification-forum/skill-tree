@@ -6,7 +6,7 @@ NetCDF allows the user to describe multidimensional data and include metadata wh
 
 The notation used to describe a NetCDF object is called CDL (network Common Data form Language), which provides a convenient way of describing NetCDF datasets. The NetCDF system includes utilities for producing human-oriented CDL text files from binary NetCDF datasets and vice-versa.
 
-This skill focuses on the data modeling aspect and basic tools that aid understanding NetCDF.
+This skill focuses on the data modeling aspect and basic tools that aid in understanding NetCDF.
 
 # Aim
 
@@ -24,7 +24,7 @@ This skill focuses on the data modeling aspect and basic tools that aid understa
   * Apply the in-built NetCDF utilities to create and analyze NetCDF files:
     * Examine the CDL data model and the data of a file using ncdump.
     * Generate a NetCDF file from a CDL text file using ncgen.
-    * Convert a NetCDF file from one binary format to another, optionally changing compression and chunksize settings using nccopy.
+    * Convert a NetCDF file from one binary format to another, optionally changing compression and chunk size settings using nccopy.
 
 # Subskills
   * [[skill-tree:sd:1.3.5.1.1-B]]

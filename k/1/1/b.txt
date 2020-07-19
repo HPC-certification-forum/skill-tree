@@ -1,7 +1,7 @@
 # K1.1-B System Architectures
 # Background
 
-An HPC cluster is built out of a few to many servers that are connected by a high-performance communication network.
+An HPC cluster is built out of a few up to many servers that are connected by a high-performance communication network.
 The servers are called nodes.
 HPC clusters use batch systems for running compute jobs.
 Interactive access is usually limited to a few nodes.
@@ -26,8 +26,8 @@ Interactive access is usually limited to a few nodes.
     * Quantitatively, parallel file systems offer higher I/O performance than classic network file systems
     * Qualitatively, they allow several processes to write into the same file
   * Comprehend the two purposes of the communication network
-    * Enabling high speed data communication for parallel applications running on multiple nodes
-    * Providing a high speed connection to the disk systems in the cluster
+    * Enabling high-speed data communication for parallel applications running on multiple nodes
+    * Providing a high-speed connection to the disk systems in the cluster
 
 # Subskills
   * [[skill-tree:k:1:1:1:b]]

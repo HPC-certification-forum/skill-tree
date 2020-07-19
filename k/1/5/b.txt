@@ -1,6 +1,6 @@
 # K1.5-B Supercomputing and Big Data
 # Background
-  *  In the recent past, Supercomputing as well as the analysis of Big Data are increasingly growing in importance for scientific research.
+  *  In the recent past, Supercomputing, as well as the analysis of Big Data, are increasingly growing in importance for scientific research.
 
 # Aim
 

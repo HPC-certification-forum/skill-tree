@@ -3,23 +3,22 @@
 
 Parallel-NetCDF (or PNetCDF) is a high-performance parallel I/O library for accessing Unidata's NetCDF. It is built upon MPI-IO, the I/O extension to MPI communications. Using the high-level NetCDF data structures, the Parallel-NetCDF libraries can make use of optimizations to efficiently distribute the file read and write applications between multiple processors.
 
-In addition to the conventional NetCDF read and write APIs, PNetCDF provides a new set of non-blocking APIs. Non-blocking APIs allow users to post multiple read and write requests first, and let PNetCDF to aggregate them into a large request, hence to achieve a better performance.
+In addition to the conventional NetCDF read and write APIs, PNetCDF provides a new set of non-blocking APIs. Non-blocking APIs allow users to post multiple read and write requests first and let PNetCDF aggregate them into a large request, hence to achieve better performance.
 Through full use of existing optimizations available in MPI-IO implementation, PNetCDF has been demonstrated to be able to deliver high-performance parallel I/O.
 
 Parallel I/O in the Unidata NetCDF library has been supported since release 4.0, for HDF5 data files. Since version 4.1.1 the Unidata NetCDF C library supports parallel I/O to classic and 64-bit offset files using the Parallel-NetCDF library, but with the NetCDF API.
 
 # Aim
-
-  * To apply a parallel I/O library for applications to access NetCDF formats on parallel computers. 
-  * To achieve high I/O performance.
+  * To apply a parallel I/O library for applications to access NetCDF formats on parallel computers. 
+  * To achieve high I/O performance.
 
 # Outcomes
 
-  * Interpret the PNetCDF files structure:
-    * Header
-    * Non-record variables (all dimensions specified)
-    * Record variables (ones with an unlimited dimension)
-  * Store and retrieve data in PNetCDF.
-  * Show basic API use and error checking.
+  * Interpret the PNetCDF files structure:
+    * Header
+    * Non-record variables (all dimensions specified)
+    * Record variables (ones with an unlimited dimension)
+  * Store and retrieve data in PNetCDF.
+  * Show basic API use and error checking.
 
 # Subskills

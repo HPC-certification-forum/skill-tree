@@ -2,7 +2,7 @@
 # Background
 
 In a simple view, NetCDF is:
-    * A data mode.
+    * A data model.
     * A file format.
     * A set of APIs and libraries for various programming languages.
 

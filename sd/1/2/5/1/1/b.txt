@@ -16,12 +16,10 @@ Languages such as C++, Fortran-77, Fortran-90, Perl, Python, Ruby, Matlab, among
 In particular, NetCDF4-python is a Python interface to the NetCDF C library.
 
 # Aim
-
   * To describe the concepts of the NetCDF APIs and the libraries providing the API for C and Python.
   * To utilize the C-API to create basic NetCDF files.
 
 # Outcomes
-
   * Comply with the best practices for writing NetCDF files.
   * Identify protocols, servers, and clients for remote data access through NetCDF interfaces.
   * Discuss how features of the enhanced NetCDF-4 format can be applied:

@@ -9,12 +9,10 @@ The notation used to describe a NetCDF object is called CDL (network Common Data
 This skill focuses on the data modeling aspect and basic tools that aid in understanding NetCDF.
 
 # Aim
-
   * To create, analyze, and visualize a data model for NetCDF data.
   * To utilize the core software ecosystem of NetCDF.
 
 # Outcomes
-
   * Describe the Classic NetCDF Model characteristics and limitations.
   * Describe how a 3D-variable’s data values can be represented in a visualization tool.
   * Discuss features of the Enhanced Data Model (NetCDF-4): groups, multiple unlimited dimensions, and new types, including user-defined types.

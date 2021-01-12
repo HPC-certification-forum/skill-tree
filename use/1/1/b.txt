@@ -31,6 +31,7 @@ Part of this skill are the general principles of the interaction with a shell.
     * CTRL-Z
     * using kill -9
   * Use the shell history to search and execute previously executed commands.
+  * Set and print shell variables.
   * Identify potential special characters that must be handled with care.
   * Utilize escaping to ensure correct handling of arguments.
   * Understand wildcard characters to select a group of files/directories:

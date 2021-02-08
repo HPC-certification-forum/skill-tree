@@ -4,8 +4,11 @@ HPC systems are usually accessed via a Linux-based Command Line Interface (CLI) 
 
 At its core, a shell is simply a convenient tool that you can use to execute commands on a Linux computer.
 The shell provides a textual interface allowing to interact with the operating system and performing all possible operations, i.e., accessing and manipulating files, and running programs.
+However, there are various misconceptions that new users typically face when handling a shell such as the Bash.
+Particularly, dealing with control characters and the format expected when executing programs with arguments can be error-prone.
 
-Part of this skill are the general principles of the interaction with a shell.
+Part of this skill is the general principles of the interaction with a shell, to execute and to stop programs.
+
 
 # Aim
   * To describe the key principles of a shell.
@@ -32,12 +35,14 @@ Part of this skill are the general principles of the interaction with a shell.
     * using kill -9
   * Use the shell history to search and execute previously executed commands.
   * Set and print shell variables.
+  * Print all currently set variables
   * Identify potential special characters that must be handled with care.
+    * List strings that are included files/directories
   * Utilize escaping to ensure correct handling of arguments.
   * Understand wildcard characters to select a group of files/directories:
     * *
     * [,-]
-  * Use text editors.
+
 
 # Subskills
   * [[skill-tree:use:1:1:i]]

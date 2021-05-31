@@ -42,7 +42,8 @@ Part of this skill is the general principles of the interaction with a shell, to
   * Utilize escaping to ensure correct handling of arguments.
   * Understand wildcard characters to select a group of files/directories:
     * *
-    * [,-]
+    * ?
+    * [-,]
   * How to close popular command line text editors with/or without saving changes:
     * nano
     * vi

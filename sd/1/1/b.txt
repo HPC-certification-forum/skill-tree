@@ -9,5 +9,6 @@ The focus lies on the programming languages that are in widespread use within th
   *  Program in languages typically used in HPC environments such as C, and Fortran.
 
 # Subskills
+  * [[skill-tree:sd:1:1:1:b]]
   * [[skill-tree:sd:1:1:i]]
   * [[skill-tree:sd:1:1:e]]

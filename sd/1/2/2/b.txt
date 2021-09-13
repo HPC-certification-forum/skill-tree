@@ -12,5 +12,7 @@ The parallel concepts of threads and processes are introduced and their impacts 
   * Assess the applicability of parallel language extensions like OpenMP.
 
 # Subskills
+  * [[skill-tree:sd:1:2:2:1:b]]
+  * [[skill-tree:sd:1:2:2:2:b]]
   * [[skill-tree:sd:1:2:2:i]]
   * [[skill-tree:sd:1:2:2:e]]

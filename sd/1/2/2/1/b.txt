@@ -1,0 +1,8 @@
+# SD1.2.2.1-B Single Instruction Multiple Data (SIMD)
+# Background
+
+# Aim
+
+# Outcomes
+
+# Subskills

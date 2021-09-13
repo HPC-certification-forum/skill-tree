@@ -1,0 +1,12 @@
+# PE2.2.2-B Tools
+# Background
+
+# Aim
+
+# Outcomes
+
+# Subskills
+  * [[skill-tree:pe:2:2:2:1:b]]
+  * [[skill-tree:pe:2:2:2:2:b]]
+  * [[skill-tree:pe:2:2:2:3:b]]
+  * [[skill-tree:pe:2:2:2:4:b]]

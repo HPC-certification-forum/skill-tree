@@ -26,6 +26,20 @@ def find_section(data, section):
     return rest
   return rest[0:pos].strip()
 
+
+def removeSection(data, section):
+  pos = data.find("# " + section)
+  if pos == -1:
+    return data
+  head = data[0:pos]
+  rest = data[pos + 2:]
+
+  pos = rest.find("# ")
+  if pos == -1:
+    return head
+
+  return head + rest[pos:]
+
 def extract_outcomes(file):
   fd = open(file, "r")
   data = fd.read()
@@ -35,11 +49,24 @@ def extract_outcomes(file):
 
 exist = find_skills()
 
-print(extract_outcomes("use/6/1/b.txt"))
-
 for dir in exist:
-  for f in exist[dir]:
+  outcome_basic = ""
+  files = exist[dir]
+  files.sort()
+  for f in files:
     path = dir + "/" + f
     outcomes = extract_outcomes(path)
     if len(outcomes) < 5:
       print("Missing learning objectives: " + path)
+    if f == "b.txt":
+      outcome_basic = outcomes
+    else:
+      if outcomes == outcome_basic:
+        print("Same learning objectives as basic: " + path)
+
+      removeSection("Subskills")
+
+      if data != datanew:
+      fd = open(file, "w")
+      fd.write(datanew)
+      fd.close()

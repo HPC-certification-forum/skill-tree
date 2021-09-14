@@ -1,8 +1,21 @@
 # PE2.2.2.3-B Vampir
+#### Maintainer: Bert Wesarg, William (Bill) Williams, ZIH Tools Team @ TU Dresden
+
 # Background
 
+Once tracing data has been collected by a measurement system, the challenge of interpreting this data remains. Trace data may be post-processed in a variety of ways, or it may be visualized directly. Direct visualization allows an analyst to examine the full details of the event trace in a manual analysis. Vampir is a tool that focuses on providing quality visualization to support manual trace analysis. Users of Vampir need to understand both how to use the interface in order to focus on particular areas of interest in a given trace and how to understand the trace data. Ideally, this will allow them to either collect a more focused measurement or to perform successful optimization of their code.
+
+Vampir is a tool that focuses on providing quality visualization to support manual trace analysis. Users of Vampir need to understand both how to use the interface in order to focus on particular areas of interest in a given trace and how to understand the trace data. Ideally, this will allow them to either collect a more focused measurement or to perform successful optimization of their code.
+
 # Aim
+Students should be able to use Vampir on trace files that they have collected, and on sample trace files provided by the instructors. They should be able to use Vampir’s interface to systematically find and isolate performance problems. They should be able to explain their analysis: what specifically do they expect to find, and what does it mean?
 
 # Outcomes
+  * Able to launch Vampir both stand-alone and connected to a VampirServer instance if available
+  * Able to use the function summary to determine at a high level what parts of the code may not perform well
+  * Able to use the summary timeline to quickly identify changed behavior over time and determine next steps for investigation
+  * Able to identify when a small number of processes have divergent behavior from the rest of the application
+  * Able to use the performance radar and counter timelines to correlate performance metrics with the code that is executing
+  * Able to use the communication matrix to describe communication patterns and identify potential bottlenecks and/or imbalances
 
 # Subskills

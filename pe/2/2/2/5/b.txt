@@ -1,8 +1,24 @@
 # PE2.2.2.5-B PIKA
+#### Maintainer: Frank Winkler, ZIH Team @ TU Dresden
+
 # Background
+Analyzing application performance in HPC can be a very challenging task. It depends on both the performance analysis tools and the build system of your application. In most cases, applications need to be instrumented to enable performance measurements with the desired tool. PIKA provides HPC users with a first insight into the performance of their application without instrumenting the code. It supplies an interactive web interface for each HPC job that displays resource utilization for various performance metrics.
 
 # Aim
+Students should learn how to determine the efficiency of their HPC jobs using the PIKA web interface.
 
 # Outcomes
+  * Able to detect pathological performance behavior:
+    * Requested memory > used memory
+    * Requested compute resources (CPU cores, GPUs) > used compute resources
+  * Able to understand the resource utilization based on the application algorithm	
+  * Able to determine possible limitations by resources:
+    * memory-bound
+    * compute-bound
+    * GPU-bound
+    * IO-heavy
+    * network-heavy
+  * Able to find performance bottlenecks by correlating various performance metrics
+    * e.g.: blocking io operations result in lower FLOPS
 
 # Subskills

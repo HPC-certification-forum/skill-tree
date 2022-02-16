@@ -8,6 +8,8 @@ Parallel programming of shared memory systems and message passing systems as wel
   * Develop parallel programs.
 
 # Subskills
+  * [[skill-tree:sd:1:2:6:b]]
+  * [[skill-tree:sd:1:2:7:b]]
   * [[skill-tree:sd:1:2:1:b]]
   * [[skill-tree:sd:1:2:2:b]]
   * [[skill-tree:sd:1:2:3:b]]

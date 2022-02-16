@@ -1,6 +1,0 @@
-# SD1.2.3-E Programming Message Passing Systems
-# Background
-# Aim
-# Outcomes
-  * Assess the impact of communication and synchronization on the performance of a parallel program.
-  * Apply the concept of overlay networks.

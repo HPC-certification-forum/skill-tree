@@ -1,13 +1,11 @@
-# SD1.2.3-B Programming Message Passing Systems
+# SD1.2.3-B Message Passing Systems
 # Background
+
 # Aim
+
 # Outcomes
-  * Describe the various communication modes (e.g. blocking vs. non-blocking, point-to-point vs. collective).
-  * Develop programs using MPI as the de-facto standard for parallelizing programs in distributed environments like HPC cluster systems.
-  * Detect how race conditions and deadlocks may occur in MPI parallelized programs and how they can be avoided, namely by reordering send and receive operations or using non-blocking communication combined with waiting for completion of the communication operations concerned.
-  * Assess the impact of communication and synchronization on the performance of a parallel program.
 
 # Subskills
-  * [[skill-tree:sd:1:2:3:i]]
-  * [[skill-tree:sd:1:2:3:e]]
   * [[skill-tree:k:3:2:b]]
+  * [[skill-tree:sd:1:2:3:1:b]]
+  * [[skill-tree:sd:1:2:3:2:b]]

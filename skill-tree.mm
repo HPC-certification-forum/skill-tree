@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Skill Tree" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1507204831583"><hook NAME="MapStyle" zoom="1.099">
+<node TEXT="Skill Tree" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1507204831583"><hook NAME="MapStyle" zoom="1.77">
     <properties edgeColorConfiguration="#808080ff,#808080ff,#808080ff,#808080ff,#808080ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -362,7 +362,7 @@
 </node>
 </node>
 </node>
-<node TEXT="USE: Use of the HPC Environment" FOLDED="true" POSITION="right" ID="ID_1145091159" CREATED="1495114319728" MODIFIED="1549369443298" HGAP_QUANTITY="30.0 px" VSHIFT_QUANTITY="30.0 px">
+<node TEXT="USE: Use of the HPC Environment" POSITION="right" ID="ID_1145091159" CREATED="1495114319728" MODIFIED="1549369443298" HGAP_QUANTITY="30.0 px" VSHIFT_QUANTITY="30.0 px">
 <edge COLOR="#007c7c"/>
 <cloud COLOR="#ccffff" SHAPE="ARC"/>
 <node TEXT="1: Cluster Operating System" ID="ID_467546639" CREATED="1495114295449" MODIFIED="1592497231597">
@@ -422,14 +422,6 @@
 <node TEXT="USE1.4: Software Environment" ID="ID_1595572593" CREATED="1511266314833" MODIFIED="1577789882221">
 <icon BUILTIN="forward"/>
 </node>
-<node TEXT="Use of a Workload Manager" ID="ID_1032191665" CREATED="1495115238625" MODIFIED="1511266544952">
-<node TEXT="or" FOLDED="true" ID="ID_470217976" CREATED="1511266481248" MODIFIED="1511266500382">
-<font ITALIC="true"/>
-<node TEXT="SLURM" ID="ID_497577345" CREATED="1495116393607" MODIFIED="1511266557985"/>
-<node TEXT="TORQUE" ID="ID_466398707" CREATED="1495116396705" MODIFIED="1511266577378"/>
-</node>
-<node TEXT="Interactive Mode to Run a Parallel Program" ID="ID_59339554" CREATED="1511266879247" MODIFIED="1511267327370"/>
-</node>
 <node TEXT="Robust Job Scripts" ID="ID_655255945" CREATED="1495117386217" MODIFIED="1511266701948">
 <node TEXT="USE1.2: Shell Scripts" ID="ID_259426701" CREATED="1511266707303" MODIFIED="1511443389552">
 <icon BUILTIN="forward"/>
@@ -440,6 +432,9 @@
 <icon BUILTIN="forward"/>
 </node>
 <node TEXT="PE2: Measuring System Performance" ID="ID_214814173" CREATED="1511372332889" MODIFIED="1511372351000">
+<icon BUILTIN="forward"/>
+</node>
+<node TEXT="K4.1: Introduction to Job Scheduling" ID="ID_782696817" CREATED="1511270141112" MODIFIED="1645547887583">
 <icon BUILTIN="forward"/>
 </node>
 <node TEXT="PE3: Benchmarking" ID="ID_70619446" CREATED="1511270141112" MODIFIED="1511270153071">

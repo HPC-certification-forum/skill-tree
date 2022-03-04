@@ -19,6 +19,7 @@ This enables practitioners to effectively use such environments.
   * Apply a cost model to compute the costs for running a workflow on an HPC system.
 
 # Subskills
+  * [[skill-tree:k:6:b]]
   * [[skill-tree:k:1:b]]
   * [[skill-tree:k:2:b]]
   * [[skill-tree:k:3:b]]

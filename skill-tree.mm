@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Skill Tree" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1507204831583"><hook NAME="MapStyle" zoom="1.77">
+<node TEXT="Skill Tree" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1507204831583"><hook NAME="MapStyle" zoom="1.209">
     <properties edgeColorConfiguration="#808080ff,#808080ff,#808080ff,#808080ff,#808080ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -54,7 +54,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="11" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="13" RULE="ON_BRANCH_CREATION"/>
 <hook NAME="AlwaysUnfoldedNode"/>
 <node TEXT="K: HPC Knowledge" POSITION="right" ID="ID_934952477" CREATED="1495107713753" MODIFIED="1559723170624">
 <edge COLOR="#007c00"/>
@@ -308,7 +308,7 @@
 </node>
 <node TEXT="4: Autoparallelization" ID="ID_1763224856" CREATED="1559473533237" MODIFIED="1559473543108"/>
 </node>
-<node TEXT="4: Job Scheduling" ID="ID_341927186" CREATED="1495116129609" MODIFIED="1559472775013">
+<node TEXT="4: Job Scheduling" FOLDED="true" ID="ID_341927186" CREATED="1495116129609" MODIFIED="1559472775013">
 <node TEXT="1: Introduction to Job Scheduling" ID="ID_222546624" CREATED="1559473580248" MODIFIED="1595013590087">
 <node TEXT="Objectives" ID="ID_1657376526" CREATED="1511363922420" MODIFIED="1511363931591">
 <node TEXT="Minimizing Averaged Elapsed Runtimes" ID="ID_216754864" CREATED="1511363933485" MODIFIED="1511364001128"/>
@@ -361,8 +361,12 @@
 <node TEXT="Break-even Considerations" ID="ID_1307755204" CREATED="1511264543244" MODIFIED="1511264550098"/>
 </node>
 </node>
+<node TEXT="6: Data Management" ID="ID_1543984936" CREATED="1646396028907" MODIFIED="1646396032622">
+<node TEXT="1: Introduction" ID="ID_159295655" CREATED="1646396217851" MODIFIED="1646396222501"/>
+<node TEXT="2: Data Management Plan" ID="ID_416225123" CREATED="1646395994707" MODIFIED="1646396244382"/>
 </node>
-<node TEXT="USE: Use of the HPC Environment" POSITION="right" ID="ID_1145091159" CREATED="1495114319728" MODIFIED="1549369443298" HGAP_QUANTITY="30.0 px" VSHIFT_QUANTITY="30.0 px">
+</node>
+<node TEXT="USE: Use of the HPC Environment" FOLDED="true" POSITION="right" ID="ID_1145091159" CREATED="1495114319728" MODIFIED="1549369443298" HGAP_QUANTITY="30.0 px" VSHIFT_QUANTITY="30.0 px">
 <edge COLOR="#007c7c"/>
 <cloud COLOR="#ccffff" SHAPE="ARC"/>
 <node TEXT="1: Cluster Operating System" ID="ID_467546639" CREATED="1495114295449" MODIFIED="1592497231597">
@@ -631,7 +635,7 @@
 </node>
 </node>
 </node>
-<node TEXT="SD: Software Development" POSITION="left" ID="ID_551310687" CREATED="1283093380553" MODIFIED="1559723163786">
+<node TEXT="SD: Software Development" FOLDED="true" POSITION="left" ID="ID_551310687" CREATED="1283093380553" MODIFIED="1559723163786">
 <edge COLOR="#0000ff"/>
 <cloud COLOR="#f0f0f0" SHAPE="ARC"/>
 <node TEXT="1: Programming Concepts for HPC" ID="ID_1040681873" CREATED="1559477684579" MODIFIED="1559477691025">
@@ -842,7 +846,7 @@
 <node TEXT="4: Documentation for Reproducibility" ID="ID_1721604170" CREATED="1559478843198" MODIFIED="1559478849938"/>
 </node>
 </node>
-<node TEXT="BDA: Big Data Analytics" POSITION="right" ID="ID_146490119" CREATED="1549369246711" MODIFIED="1549369456121">
+<node TEXT="BDA: Big Data Analytics" FOLDED="true" POSITION="right" ID="ID_146490119" CREATED="1549369246711" MODIFIED="1549369456121">
 <edge COLOR="#808080"/>
 <cloud COLOR="#ff99ff" SHAPE="ARC"/>
 <node TEXT="1: Theoretic Principles of BDA" FOLDED="true" ID="ID_689501658" CREATED="1549369597821" MODIFIED="1595013684526">

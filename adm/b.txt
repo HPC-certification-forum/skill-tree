@@ -14,6 +14,7 @@ The administration of HPC environments requires to integrate (sometimes bleeding
   * Describe support structures.
 
 # Subskills
+  * [[skill-tree:adm:4:b]]
   * [[skill-tree:adm:1:b]]
   * [[skill-tree:adm:2:b]]
   * [[skill-tree:adm:3:b]]

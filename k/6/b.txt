@@ -4,3 +4,7 @@
 # Aim
 
 # Outcomes
+
+# Subskills
+  * [[skill-tree:k:6:1:b]]
+  * [[skill-tree:k:6:2:b]]

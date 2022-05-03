@@ -6,6 +6,7 @@
 # Outcomes
 
 # Subskills
+  * [[skill-tree:pe:2:2:2:6:b]]
   * [[skill-tree:pe:2:2:2:5:b]]
   * [[skill-tree:pe:2:2:2:1:b]]
   * [[skill-tree:pe:2:2:2:2:b]]

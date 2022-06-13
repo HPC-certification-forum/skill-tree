@@ -2,12 +2,12 @@
 # Background
 
 In HPC parallelization brings huge performance benefits and is omnipresent. That brings challenges when developing software. There are a lot of concepts that have to be considered to write parallel programs well.
-d
+
 # Aim
   * To enable practitioners to comprehend the concepts and procedures for developing parallel applications for HPC environments.
   * To debug and troubleshoot issues with parallel applications and parallelization.
   * To run and execute parallel applications on the HPC system.
-m
+
 # Outcomes
   * Develop parallel software.
   * Code parallel programs.

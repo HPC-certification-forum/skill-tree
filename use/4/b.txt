@@ -5,15 +5,15 @@ In HPC parallelization brings huge performance benefits and is omnipresent. That
 
 # Aim
   * To enable practitioners to comprehend the concepts and procedures for developing parallel applications for HPC environments.
-  * To debug and troubleshoot issues with parallel applications and parallelization.
-  * To run and execute parallel applications on the HPC system.
+  * To debug and troubleshoot issues with parallel applications and parallelization during their development.
+
 
 # Outcomes
   * Develop parallel software.
   * Code parallel programs.
-  * Debug parralel programs.
-  * Articulate the problems of synchronization Issues like Race Conditions, Deadlocks
-  * Back up your programming with an understanding of Amdahl‘s Law
+  * Analyze and debug parallel programs.
+  * Articulate the problems of synchronization issues like Race Conditions, Deadlocks.
+  * Analyze and optimize performance of parallel applications
 
 
 # Subskills

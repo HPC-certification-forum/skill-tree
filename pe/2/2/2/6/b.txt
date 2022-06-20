@@ -21,3 +21,5 @@ Able to sample applications and nodes including at least one specialized form of
   * Perf metrics	
   * Linux tracepoints
 Able to use Lo2s in application monitoring and system monitoring mode
+
+# Subskills

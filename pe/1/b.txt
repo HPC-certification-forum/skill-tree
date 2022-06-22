@@ -1,6 +1,9 @@
 # PE1-B Cost Awareness
 # Background
+In HPC while the resources are vastly superiour to a regular workstation they are still limited by the number of users and the scale of the projects, so the only ways to increase throughput is to either up the scale of the System or make it more efficient. The scale is either constricted by the Budged or Technology, while the efficiency is improved by the User writing more effective and optimized code. to incentivize this efficient usage the user has to know what are the costs of his code and what are the benefits of making these efficiency changes, for example a faster queue time or the ability to handle more complex tasks.
+
 # Aim
+
 # Outcomes
   * Assess the costs related to the runtimes of parallel programs against the background of cost models.
 

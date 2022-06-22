@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Skill Tree" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1651499905844"><hook NAME="MapStyle" zoom="0.908">
+<node TEXT="Skill Tree" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1651499905844"><hook NAME="MapStyle" zoom="1.099">
     <properties edgeColorConfiguration="#808080ff,#808080ff,#808080ff,#808080ff,#808080ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>

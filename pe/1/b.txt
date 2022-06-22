@@ -7,7 +7,7 @@ In HPC while the resources are vastly superiour to a regular workstation they ar
   * to raise awareness of the Costs related to running computations on a cluster
 
 # Outcomes
-  * Assess the costs related to the runtimes of parallel programs against the background of cost models.
+  * Describe the costs related to the runtimes of parallel programs against the background of cost models.
 
 # Subskills
   * [[skill-tree:pe:1:i]]

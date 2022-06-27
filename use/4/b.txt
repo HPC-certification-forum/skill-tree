@@ -15,7 +15,6 @@ In HPC parallelization brings huge performance benefits and is omnipresent. That
   * Articulate the problems of synchronization issues like Race Conditions, Deadlocks.
   * Analyze and optimize performance of parallel applications
 
-
 # Subskills
   * [[skill-tree:use:3:b]]
   * [[skill-tree:sd:b]]

@@ -20,5 +20,4 @@ Participants should be aware about the risk of dark data and the benefits of dat
   * Knowing what to consider when publishing data
   * Able to find suitable data repositories
 
-
 # Subskills

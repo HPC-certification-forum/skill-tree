@@ -1,4 +1,4 @@
-# ADM1.2-B Software Stack
+# ADM1.4.1.2-B Deploy Stateless Images
 # Background
 
 # Aim

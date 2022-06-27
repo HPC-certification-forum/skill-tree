@@ -1,4 +1,4 @@
-# ADM1.2-B Software Stack
+# ADM1.5-B Resource Management
 # Background
 
 # Aim

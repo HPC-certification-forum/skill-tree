@@ -1,4 +1,5 @@
-# USE5-B Automatizing Common Tasks
+# USE5-B Automating Common Tasks
+s
 # Background
 A lot of menial tasks in HPC can be automated. Cronjobs starting shell scripts that back up data, batches that execute several jobs in a scheduler or just simple scripts that do several things when executed, so the user doesnt have to. Automation makes your work more effective freeing up your time for more complex work.
 

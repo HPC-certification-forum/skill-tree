@@ -1,8 +1,18 @@
 # SD1.2.8.1-B OpenFPM
+
+
+**Maintainer: Pietro incardona, TU Dresden**
+
 # Background
+OpenFPM is a scalable and open C++ framework for particles and mesh simulation. With this Framework you can build scalable code on CPUs and GPUs for (i.e.) Molecular dynamic,SPH, Granular flow,Finite differences and Particle Mesh simulation.
 
 # Aim
 
 # Outcomes
 
+
 # Subskills
+
+
+# Resources
+[[http://openfpm.mpi-cbg.de/|OpenFPM Homepage]]

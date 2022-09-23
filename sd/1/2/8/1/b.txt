@@ -10,9 +10,6 @@ OpenFPM is a scalable and open C++ framework for particles and mesh simulation. 
 
 # Outcomes
 
-
 # Subskills
-
-
 # Resources
 [[http://openfpm.mpi-cbg.de/|OpenFPM Homepage]]

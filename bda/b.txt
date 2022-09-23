@@ -16,6 +16,7 @@ AI can be used inside simulations or to steer workflows, while data science can 
   * Compose a workflow consisting of HPC and big data tools to analyze the data.
 
 # Subskills
+  * [[skill-tree:bda:5:b]]
   * [[skill-tree:bda:1:b]]
   * [[skill-tree:bda:2:b]]
   * [[skill-tree:bda:3:b]]

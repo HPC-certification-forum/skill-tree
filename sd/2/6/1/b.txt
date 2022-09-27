@@ -1,0 +1,6 @@
+# SD2.6.1-B CUDA C/C++ Programming Fundamentals
+# Background
+
+# Aim
+
+# Outcomes

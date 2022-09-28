@@ -1,5 +1,6 @@
 #PE2.3-I I/O Performance
-Maintainer: Sebastian Oeste, ZIH Team @ TU Dresden
+**Maintainer: Sebastian Oeste, ZIH Team @ TU Dresden**
+
 # Background
 
 There are several metrics to assess the I/O performance of parallel

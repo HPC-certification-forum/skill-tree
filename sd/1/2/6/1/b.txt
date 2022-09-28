@@ -21,9 +21,8 @@ Students should learn the fundamental properties of the NVIDIA GPU architecture 
     * Use streams to fully utilize the GPU
     * Use streams to hide memory transfer times
 * Be able to query the status of a GPU & potential CUDA errors that occur during program execution
-
 # Subskills
-* PE2.2.2.6-B NVIDIA Nsight Systems
+* [[skill-tree:sd:1:2:6:1:b|PE2.2.2.6-B NVIDIA Nsight Systems]]
 
 # Links
 * [Official course description at nvidia.com](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-accelerated-computing-with-cuda/)

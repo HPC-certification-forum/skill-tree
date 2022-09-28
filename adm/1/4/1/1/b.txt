@@ -1,8 +1,16 @@
 # ADM1.4.1.1-B Deploy Stateful image
 # Background
+An HPC cluster consists of several central components such as storage, workload manager, subnet manager, etc., which sometimes run on dedicated servers. These servers must be deployed from the central management system. Usually these servers have local hard disks, so a stateful installation of these servers is necessary.
 
-# Aim
+#Aim
+Students should learn how to create stateful node images for HPC clusters. They should be able to use provisioning software to create and configure such images. They should know how to customize stateful node images.
 
-# Outcomes
+#Outcome
 
-# Subskills
+  * Able to prepare the head node to deploy stateful node images
+  * Customize stateful node images with custom partition layouts and software packages
+  * Setup network configuration of stateful nodes interfaces (Ethernet and High-Speed)
+  * Configure and start required services on stateful nodes
+  * Able to deploy stateful images to cluster nodes
+
+

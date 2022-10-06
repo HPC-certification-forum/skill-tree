@@ -13,3 +13,5 @@ Students should learn how to create stateless node images for HPC clusters. They
   * Setup network configuration of stateless nodes interfaces (Ethernet and High-Speed)
   * Configure and start required services on stateless nodes
   * Able to deploy stateless images to cluster nodes
+
+# Subskills

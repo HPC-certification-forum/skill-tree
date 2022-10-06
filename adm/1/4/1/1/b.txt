@@ -13,4 +13,4 @@ Students should learn how to create stateful node images for HPC clusters. They 
   * Configure and start required services on stateful nodes
   * Able to deploy stateful images to cluster nodes
 
-
+# Subskills

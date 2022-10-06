@@ -16,6 +16,3 @@ Students should learn how to use the NVIDIA Nsight Systems profiler for the anal
 
 # Subskills
 * [[skill-tree:pe:2:2:2:7:b|SD1.2.6.1-B CUDA C/C++ Programming Fundamentals]]
-
-# Links
-* [Official course description at nvidia.com](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-accelerated-computing-with-cuda/)

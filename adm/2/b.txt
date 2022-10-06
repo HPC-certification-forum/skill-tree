@@ -1,4 +1,4 @@
-# ADM2-B Software Stack
+# ADM2-B Cluster Infrastructure
 # Background
 
 # Aim

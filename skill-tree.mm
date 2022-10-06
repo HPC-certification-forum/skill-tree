@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Skill Tree" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1651499905844"><hook NAME="MapStyle" zoom="1.099">
+<node TEXT="Skill Tree" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1665063219212"><hook NAME="MapStyle" zoom="0.825">
     <properties edgeColorConfiguration="#808080ff,#808080ff,#808080ff,#808080ff,#808080ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -498,7 +498,7 @@
 <icon BUILTIN="forward"/>
 </node>
 </node>
-<node TEXT="5: Automatizing Common Tasks" ID="ID_1863896451" CREATED="1552389433933" MODIFIED="1592503726291">
+<node TEXT="5: Automating Common Tasks" ID="ID_1863896451" CREATED="1552389433933" MODIFIED="1665063339980">
 <node TEXT="USE1.2 Shell Scripts" ID="ID_676212405" CREATED="1552389517473" MODIFIED="1552389525368"/>
 <node TEXT="Python" ID="ID_319373690" CREATED="1552389560362" MODIFIED="1552389607552"/>
 </node>
@@ -648,7 +648,7 @@
 </node>
 </node>
 </node>
-<node TEXT="SD: Software Development" POSITION="left" ID="ID_551310687" CREATED="1283093380553" MODIFIED="1559723163786">
+<node TEXT="SD: Software Development" FOLDED="true" POSITION="left" ID="ID_551310687" CREATED="1283093380553" MODIFIED="1665063219211">
 <edge COLOR="#0000ff"/>
 <cloud COLOR="#f0f0f0" SHAPE="ARC"/>
 <node TEXT="1: Programming Concepts for HPC" ID="ID_1040681873" CREATED="1559477684579" MODIFIED="1559477691025">
@@ -955,7 +955,7 @@
 </node>
 <node TEXT="2: Cluster Infrastructure" ID="ID_408305809" CREATED="1549369348724" MODIFIED="1651503910928"/>
 <node TEXT="3: Cluster Management" ID="ID_120926077" CREATED="1651501903277" MODIFIED="1651503904196">
-<node TEXT="2:Tools" ID="ID_311750253" CREATED="1651502429824" MODIFIED="1651502675410">
+<node TEXT="1: Tools" ID="ID_311750253" CREATED="1651502429824" MODIFIED="1665063431395">
 <node TEXT="1: xCAT" ID="ID_586716139" CREATED="1651502199342" MODIFIED="1655731499056">
 <node TEXT="ADM1.4: Cluster Management" ID="ID_257626231" CREATED="1511269892969" MODIFIED="1651503589657">
 <icon BUILTIN="forward"/>

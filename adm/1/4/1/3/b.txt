@@ -11,3 +11,5 @@ Students should learn basics of HPC cluster administration. They should know how
   * Able to gather logs and debug information from nodes and node service processors
   * Control nodes using the node service processor (power on/off, set boot target)
   * Able to use the Serial-over-LAN connection for debugging purposes
+
+# Subskills

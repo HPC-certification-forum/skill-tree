@@ -1,4 +1,6 @@
 # ADM1.4.1.3-B Manage cluster nodes
+#### Maintainer: Markus Hilger, Peter Grossöhme, HPC Engineers @ Megware
+
 #Background
 During the operation of an HPC cluster, it is necessary to manually execute commands on several nodes or make temporary changes to the configuration for debugging or testing purposes. In case of problems, any logs or measurements must be collected. Furthermore, regular software updates are necessary.
 

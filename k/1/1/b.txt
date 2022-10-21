@@ -5,22 +5,24 @@ An HPC cluster is built out of a few up to many servers that are connected by a 
 The servers are called nodes.
 HPC clusters use batch systems for running compute jobs.
 Interactive access is usually limited to a few nodes.
-
-# Aim
-  * To provide knowledge about the hardware components of an HPC cluster and their functions.
-
-# Outcomes
+A typical cluster contains of these parts:
   * various system-, hardware-, and I/O-architectures used for supercomputers, i.e. shared memory systems, distributed systems, and cluster systems
   * physical hardware; chassis/rack, computer system units, interconnect, power., compute node architecture with memory, local disk, and sockets
   * typical architecture of cluster systems consisting of nodes with different roles (e.g. so-called head, management, login, compute, interactive, visualization nodes, etc.)
+Which are functioning as: 
 
-  * Comprehend there are nodes with several functions
-    * **Login or gateway nodes** where you are on after logging into the cluster and where you can work interactively
+* **Login or gateway nodes** where you are on after logging into the cluster and where you can work interactively
     * **Compute nodes** that are the workhorses of a cluster
     * **Admin or system nodes** that work in the background necessary for the operation of the cluster, e.g. for running the batch service, or starting and shutting down compute nodes
     * **Disk nodes** that provide global file systems, i.e. file systems that can be used on all other kinds of nodes
     * **Special nodes** e.g. for data movement, visualization, or pre- and post-processing of large data sets
     * **Head nodes** which can mean login or admin nodes used for management either by a user or an administrator
+# Aim
+  * To provide knowledge about the hardware components of an HPC cluster and their functions.
+
+# Outcomes
+
+  * Comprehend there are nodes with several functions
   * Comprehend that nodes are connected by a high-performance communication network
   * Comprehend that global file systems are available on all nodes of the cluster and are convenient because their files can be accessed directly on all nodes
     * Quantitatively, parallel file systems offer higher I/O performance than classic network file systems

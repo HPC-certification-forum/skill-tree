@@ -1,4 +1,6 @@
 # ADM3.1.1-B xCAT
+#### Maintainer: Markus Hilger, Peter Grossöhme, HPC Engineers @ Megware
+
 # Background
 
 # Aim

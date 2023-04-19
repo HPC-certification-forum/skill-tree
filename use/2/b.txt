@@ -10,7 +10,6 @@ Moreover, individual solutions can often be found in a specific system.
   * To use a workload manager like SLURM or TORQUE to allocate HPC resources (e.g. CPUs) and to submit a batch job.
   * To use the system to run and monitor the execution of parallel applications on the HPC system.
 
-
 # Outcomes
   * Run parallel programs in an HPC environment.
   * Use the command-line interface.
@@ -25,7 +24,6 @@ Moreover, individual solutions can often be found in a specific system.
 
 # Subskills
   * [[skill-tree:k:4:1:b]]
-  * [[skill-tree:use:2:1:b]]
   * [[skill-tree:use:2:i]]
   * [[skill-tree:use:1:1:b]]
   * [[skill-tree:use:1:3:b]]

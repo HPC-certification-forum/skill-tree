@@ -1,5 +1,5 @@
 # ADM3.4.1.2-B Stateless Images
-
+#### Maintainer: Markus Hilger, Peter Grossöhme, HPC Engineers @ Megware
 #Background
 To minimise costs and downtime, many HPC compute nodes do not have local disks, but only keep the operating system in RAM. This type of deployment requires special tools to create an image that can be loaded into the RAM of a compute node.
 

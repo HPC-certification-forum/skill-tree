@@ -1,4 +1,5 @@
 # ADM3.4.1.1-B Stateful image
+#### Maintainer: Markus Hilger, Peter Grossöhme, HPC Engineers @ Megware
 # Background
 An HPC cluster consists of several central components such as storage, workload manager, subnet manager, etc., which sometimes run on dedicated servers. These servers must be deployed from the central management system. Usually these servers have local hard disks, so a stateful installation of these servers is necessary.
 

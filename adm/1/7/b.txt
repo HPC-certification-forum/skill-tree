@@ -1,4 +1,4 @@
-# ADM1.7-B Cluster Infrastructure
+# ADM1.7-B Resource Management
 # Background
 
 # Aim

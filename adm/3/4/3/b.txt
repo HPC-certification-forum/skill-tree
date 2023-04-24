@@ -1,0 +1,16 @@
+# ADM3.4.3-B Manage Cluster Nodes
+#### Maintainer: Markus Hilger, Peter Grossöhme, HPC Engineers @ Megware
+#Background
+During the operation of an HPC cluster, it is necessary to manually execute commands on several nodes or make temporary changes to the configuration for debugging or testing purposes. In case of problems, any logs or measurements must be collected. Furthermore, regular software updates are necessary.
+
+#Aim
+Students should learn basics of HPC cluster administration. They should know how to execute commands on multiple nodes, collect logs, gather debug information and update operating system software components.
+
+#Outcomes
+  * Execute a commands on multiple nodes in parallel using the parallel shell
+  * Able to update software packages on nodes
+  * Able to gather logs and debug information from nodes and node service processors
+  * Control nodes using the node service processor (power on/off, set boot target)
+  * Able to use the Serial-over-LAN connection for debugging purposes
+
+# Subskills

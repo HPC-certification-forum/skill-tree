@@ -6,4 +6,8 @@
 # Outcomes
 
 # Subskills
+  * [[skill-tree:adm:3:4:2:b]]
+  * [[skill-tree:adm:3:4:3:b]]
+  * [[skill-tree:adm:3:4:4:b]]
+  * [[skill-tree:adm:3:4:5:b]]
   * [[skill-tree:adm:3:4:1:b]]

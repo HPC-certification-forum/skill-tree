@@ -1,0 +1,11 @@
+# ADM3.6-B Monitoring
+# Background
+
+# Aim
+
+# Outcomes
+
+# Subskills
+  * [[skill-tree:adm:3:6:1:b]]
+  * [[skill-tree:adm:3:6:2:b]]
+  * [[skill-tree:adm:3:6:3:b]]

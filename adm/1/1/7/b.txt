@@ -1,4 +1,4 @@
-# ADM1.1.7-B DMA
+# ADM1.1.7-B Virtualization
 # Background
 
 # Aim

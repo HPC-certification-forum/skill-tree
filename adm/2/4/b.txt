@@ -1,0 +1,13 @@
+# ADM2.4-B Power
+# Background
+
+# Aim
+
+# Outcomes
+
+# Subskills
+  * [[skill-tree:adm:2:4:1:b]]
+  * [[skill-tree:adm:2:4:2:b]]
+  * [[skill-tree:adm:2:4:3:b]]
+  * [[skill-tree:adm:2:4:4:b]]
+  * [[skill-tree:adm:2:4:5:b]]

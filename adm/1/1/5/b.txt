@@ -1,4 +1,4 @@
-# ADM1.1.5-B GPU
+# ADM1.1.5-B BMC
 # Background
 
 # Aim

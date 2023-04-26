@@ -1,4 +1,4 @@
-# ADM1.1.4-B Disks
+# ADM1.1.4-B DMA and RDMA
 # Background
 
 # Aim

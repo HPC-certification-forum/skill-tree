@@ -9,6 +9,7 @@
 # Outcomes
 
 # Subskills
+  * [[skill-tree:adm:1:10:b]]
   * [[skill-tree:adm:1:8:b]]
   * [[skill-tree:adm:1:9:b]]
   * [[skill-tree:adm:1:7:b]]

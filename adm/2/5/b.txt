@@ -1,0 +1,12 @@
+# ADM2.5-B Cooling Systems
+# Background
+
+# Aim
+
+# Outcomes
+
+# Subskills
+  * [[skill-tree:adm:2:5:1:b]]
+  * [[skill-tree:adm:2:5:2:b]]
+  * [[skill-tree:adm:2:5:3:b]]
+  * [[skill-tree:adm:2:5:4:b]]

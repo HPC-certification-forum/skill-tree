@@ -1,0 +1,15 @@
+# ADM1.8-B Security
+# Background
+
+# Aim
+
+# Outcomes
+
+# Subskills
+  * [[skill-tree:adm:1:8:1:b]]
+  * [[skill-tree:adm:1:8:2:b]]
+  * [[skill-tree:adm:1:8:3:b]]
+  * [[skill-tree:adm:1:8:4:b]]
+  * [[skill-tree:adm:1:8:5:b]]
+  * [[skill-tree:adm:1:8:6:b]]
+  * [[skill-tree:adm:1:8:7:b]]

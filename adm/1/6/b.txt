@@ -1,4 +1,4 @@
-# ADM1.6-B Security
+# ADM1.6-B Cluster Management
 # Background
 
 # Aim
@@ -6,3 +6,6 @@
 # Outcomes
 
 # Subskills
+  * [[skill-tree:adm:1:6:1:b]]
+  * [[skill-tree:adm:1:6:2:b]]
+  * [[skill-tree:adm:1:6:3:b]]

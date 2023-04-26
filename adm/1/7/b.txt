@@ -1,4 +1,4 @@
-# ADM1.7-B Cluster Infrastructure
+# ADM1.7-B Resource Management
 # Background
 
 # Aim
@@ -6,3 +6,6 @@
 # Outcomes
 
 # Subskills
+  * [[skill-tree:adm:1:7:1:b]]
+  * [[skill-tree:adm:1:7:2:b]]
+  * [[skill-tree:adm:1:7:3:b]]

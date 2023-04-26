@@ -1,4 +1,4 @@
-# ADM1.5-B Resource Management
+# ADM1.5-B Monitoring
 # Background
 
 # Aim
@@ -6,3 +6,7 @@
 # Outcomes
 
 # Subskills
+  * [[skill-tree:adm:1:5:4:b]]
+  * [[skill-tree:adm:1:5:1:b]]
+  * [[skill-tree:adm:1:5:2:b]]
+  * [[skill-tree:adm:1:5:3:b]]

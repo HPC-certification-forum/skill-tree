@@ -27,3 +27,10 @@ The file for the Skill tree  can be read using the open source software [freepla
 1. Required knowledge is added to a skill set, skill topic, or skill by linking to the required skill, or an overview node of a skill set or topic if required.
 1. Required knowledge for a skill topic is added to the overview leaf node.
 1. There are instances where the required knowledge may not be part of the skill tree (i.e. rudimentary c++). In that instant, an external requirement will be specified.
+
+### Further knowledge Axioms
+
+1. Knowledge beyond the scope of a skill topic can be added by linking the skill or the overview of a skill set or topic.
+1. Further knowledge is added to a skill topic by adding it as a leaf node, which includes the link (It has to be set as a subtopic style).
+1. Further knowledge can have the same name as a leaf node on the same mother node.
+

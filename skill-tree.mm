@@ -1,6 +1,6 @@
 <map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Skill Tree" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1665063219212"><hook NAME="MapStyle" zoom="0.604">
+<node TEXT="Skill Tree" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1665063219212"><hook NAME="MapStyle" zoom="0.785">
     <properties edgeColorConfiguration="#808080ff,#808080ff,#808080ff,#808080ff,#808080ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -1010,9 +1010,7 @@
 <node TEXT="USE: Use of the HPC Environment" POSITION="bottom_or_right" ID="ID_1145091159" CREATED="1495114319728" MODIFIED="1701961267699" HGAP_QUANTITY="27 px" VSHIFT_QUANTITY="4 px">
 <edge COLOR="#007c7c"/>
 <cloud COLOR="#ccffff" SHAPE="ARC"/>
-<node TEXT="1: Overview: Use of the HPC Environment (USE1)" ID="ID_1952733330" CREATED="1495126323320" MODIFIED="1706088111511" LINK="skill_sets/use/01_Overview_USE1.md">
-<node TEXT="&lt;a href=&quot;#&quot;&gt;&lt;/a&gt;" ID="ID_1101372713" CREATED="1705391206596" MODIFIED="1705401288297" HGAP_QUANTITY="58.25 pt" VSHIFT_QUANTITY="-164.25 pt"/>
-</node>
+<node TEXT="1: Overview: Use of the HPC Environment (USE1)" ID="ID_1952733330" CREATED="1495126323320" MODIFIED="1706088111511" LINK="skill_sets/use/01_Overview_USE1.md"/>
 <node TEXT="2: Cluster Operating System (USE2)" ID="ID_467546639" CREATED="1495114295449" MODIFIED="1706088147856" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/">
 <node TEXT="1: Overview: Cluster Operating System (USE2.1)" ID="ID_1558056574" CREATED="1495126323320" MODIFIED="1706088168084" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/01_Overview_USE2.1.md"/>
 <node TEXT="2: Command Line Interface (USE2.2)" ID="ID_278996541" CREATED="1495115268505" MODIFIED="1706088176492" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/02_Command_Line_Interface_USE2.2/">

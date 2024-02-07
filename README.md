@@ -1,6 +1,7 @@
 # Skill tree
 
 The file for the Skill tree  can be read using the open source software [freeplane](https://docs.freeplane.org/).
+The newest version of freeplane (1.11.10) is needed.
 
 ## Axioms
 

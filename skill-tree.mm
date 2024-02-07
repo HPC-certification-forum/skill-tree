@@ -1,12 +1,12 @@
-<map version="freeplane 1.9.13">
+<map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Skill Tree" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1665063219212"><hook NAME="MapStyle" zoom="0.605">
+<node TEXT="Skill Tree" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1665063219212"><hook NAME="MapStyle" zoom="0.785">
     <properties edgeColorConfiguration="#808080ff,#808080ff,#808080ff,#808080ff,#808080ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
 <font SIZE="24"/>
-<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="bottom_or_right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="default" ID="ID_988417806" MAX_WIDTH="600 px" COLOR="#000000" STYLE="as_parent">
 <arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_988417806" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false"/>
@@ -22,7 +22,7 @@
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#4e85f8" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#4e85f8"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="bottom_or_right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="styles.topic" COLOR="#18898b" STYLE="fork">
 <font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
 </stylenode>
@@ -36,7 +36,7 @@
 <icon BUILTIN="yes"/>
 </stylenode>
 </stylenode>
-<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="right" STYLE="bubble">
+<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="bottom_or_right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#000000">
 <font SIZE="18"/>
 </stylenode>
@@ -58,7 +58,7 @@
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="13" RULE="ON_BRANCH_CREATION"/>
 <hook NAME="AlwaysUnfoldedNode"/>
-<node TEXT="K: HPC Knowledge" POSITION="right" ID="ID_934952477" CREATED="1495107713753" MODIFIED="1559723170624">
+<node TEXT="K: HPC Knowledge" FOLDED="true" POSITION="bottom_or_right" ID="ID_934952477" CREATED="1495107713753" MODIFIED="1559723170624">
 <edge COLOR="#007c00"/>
 <cloud COLOR="#ccffcc" SHAPE="ARC"/>
 <node TEXT="1: Supercomputers" ID="ID_219568587" CREATED="1495108099737" MODIFIED="1559472765073">
@@ -368,160 +368,7 @@
 <node TEXT="2: Data Management Plan" ID="ID_416225123" CREATED="1646395994707" MODIFIED="1646396244382"/>
 </node>
 </node>
-<node TEXT="USE: Use of the HPC Environment" FOLDED="true" POSITION="right" ID="ID_1145091159" CREATED="1495114319728" MODIFIED="1651058090291" HGAP_QUANTITY="30 px" VSHIFT_QUANTITY="30 px">
-<edge COLOR="#007c7c"/>
-<cloud COLOR="#ccffff" SHAPE="ARC"/>
-<node TEXT="1: Cluster Operating System" ID="ID_467546639" CREATED="1495114295449" MODIFIED="1592497231597">
-<node TEXT="1: Command Line Interface" ID="ID_278996541" CREATED="1495115268505" MODIFIED="1559480899282">
-<node TEXT="Frequently Used Commands" ID="ID_1663142500" CREATED="1501859521820" MODIFIED="1511265503714">
-<node TEXT="Getting Help for Commands" ID="ID_1390587348" CREATED="1511265662164" MODIFIED="1511266132715"/>
-</node>
-<node TEXT="Regular Expressions" ID="ID_363933124" CREATED="1501859581175" MODIFIED="1511371456007">
-<node TEXT="Wildcards" ID="ID_1388276960" CREATED="1501859581175" MODIFIED="1511371463215"/>
-<node TEXT="Select/Filter Several Items at Once&#xa;(e.g. File Names)" ID="ID_671963834" CREATED="1511371464065" MODIFIED="1511371573008"/>
-</node>
-<node TEXT="File Access" ID="ID_1247705415" CREATED="1495121405408" MODIFIED="1511265937758">
-<node TEXT="Local" ID="ID_840254473" CREATED="1495196468447" MODIFIED="1511371677983"/>
-</node>
-<node TEXT="Shell definition" ID="ID_971845523" CREATED="1577731572811" MODIFIED="1577731576954"/>
-<node TEXT="Bash" ID="ID_721520289" CREATED="1577731589668" MODIFIED="1577731590942"/>
-</node>
-<node TEXT="2: Shell Scripts" ID="ID_1985138650" CREATED="1495115383882" MODIFIED="1559480902938">
-<node TEXT="Using Shell Scripts" ID="ID_1468611425" CREATED="1511371715841" MODIFIED="1511371739014"/>
-<node TEXT="Writing Shell Scripts" ID="ID_1816795261" CREATED="1511371724073" MODIFIED="1511371747479"/>
-</node>
-<node TEXT="3: UNIX File System Tree" ID="ID_25969559" CREATED="1577731349110" MODIFIED="1592497231597">
-<node TEXT="Navigate the File System" ID="ID_907117276" CREATED="1501859541484" MODIFIED="1511265640247"/>
-<node TEXT="Tools: Copy, Rename, and Delete Files" ID="ID_786575654" CREATED="1511265591048" MODIFIED="1577734501194"/>
-<node TEXT="View Content of Files" ID="ID_744666095" CREATED="1511265646549" MODIFIED="1511265660854"/>
-<node TEXT="Absolute filename" ID="ID_225546806" CREATED="1577734100602" MODIFIED="1577734104425"/>
-<node TEXT="Relative filename" ID="ID_1968900038" CREATED="1577734106037" MODIFIED="1577734109833"/>
-<node TEXT="Filesystem Hierarchy Standard" ID="ID_1534429527" CREATED="1577734115328" MODIFIED="1577734900540"/>
-<node TEXT="Permissions" ID="ID_846219067" CREATED="1592497429285" MODIFIED="1592497434896">
-<node TEXT="Access control lists?" ID="ID_1675474723" CREATED="1592497440175" MODIFIED="1592497446271"/>
-<node TEXT="UNIX permissions (user, group, world)" ID="ID_1689272127" CREATED="1592497449861" MODIFIED="1592497459294"/>
-</node>
-<node TEXT="Quotas" ID="ID_188659968" CREATED="1578307365349" MODIFIED="1578307378816"/>
-</node>
-<node TEXT="4: Software Environment" ID="ID_791965209" CREATED="1495115409673" MODIFIED="1577737133227">
-<node TEXT="1: Overview" ID="ID_1870066692" CREATED="1511371769411" MODIFIED="1577789499476"/>
-<node TEXT="2: Environment Modules" ID="ID_867808287" CREATED="1495115463009" MODIFIED="1577789503942"/>
-<node TEXT="3: Spack" ID="ID_981834139" CREATED="1552388450433" MODIFIED="1577789507416"/>
-</node>
-<node TEXT="5: Remote Access" ID="ID_140339595" CREATED="1577731525829" MODIFIED="1577731537587">
-<node TEXT="Remote Login" ID="ID_106143847" CREATED="1495121139673" MODIFIED="1511265860759">
-<node TEXT="SSH Key Pairs" ID="ID_633363300" CREATED="1495121433039" MODIFIED="1511265885968"/>
-<node TEXT="SSH Connections" ID="ID_1216288483" CREATED="1495121430138" MODIFIED="1511265896177"/>
-</node>
-<node TEXT="SCP" ID="ID_425810977" CREATED="1577731555715" MODIFIED="1577731561519"/>
-<node TEXT="SSHFS" ID="ID_469793243" CREATED="1495121469690" MODIFIED="1511371694575"/>
-<node TEXT="Passwords and security" ID="ID_999081126" CREATED="1577734167057" MODIFIED="1577734176315"/>
-<node TEXT="Shared cluster/network file systems" ID="ID_75726850" CREATED="1577736713436" MODIFIED="1577736727714">
-<node TEXT="Disk Quotas" ID="ID_1693502027" CREATED="1501858399623" MODIFIED="1511266166085"/>
-</node>
-</node>
-</node>
-<node TEXT="2: Running of Parallel Programs" ID="ID_739006785" CREATED="1504024427911" MODIFIED="1559480961501">
-<node TEXT="USE1.1: Command Line Interface" ID="ID_653762939" CREATED="1507221113612" MODIFIED="1511266340950">
-<icon BUILTIN="forward"/>
-</node>
-<node TEXT="USE1.4: Software Environment" ID="ID_1595572593" CREATED="1511266314833" MODIFIED="1577789882221">
-<icon BUILTIN="forward"/>
-</node>
-<node TEXT="Robust Job Scripts" ID="ID_655255945" CREATED="1495117386217" MODIFIED="1511266701948">
-<node TEXT="USE1.2: Shell Scripts" ID="ID_259426701" CREATED="1511266707303" MODIFIED="1511443389552">
-<icon BUILTIN="forward"/>
-</node>
-<node TEXT="Job Chaining" ID="ID_938344864" CREATED="1511278232646" MODIFIED="1511278238528"/>
-</node>
-<node TEXT="PE1: Cost Awareness" ID="ID_341186919" CREATED="1507220935341" MODIFIED="1511372312793">
-<icon BUILTIN="forward"/>
-</node>
-<node TEXT="PE2: Measuring System Performance" ID="ID_214814173" CREATED="1511372332889" MODIFIED="1511372351000">
-<icon BUILTIN="forward"/>
-</node>
-<node TEXT="K4.1: Introduction to Job Scheduling" ID="ID_782696817" CREATED="1511270141112" MODIFIED="1645547887583">
-<icon BUILTIN="forward"/>
-</node>
-<node TEXT="PE3: Benchmarking" ID="ID_70619446" CREATED="1511270141112" MODIFIED="1511270153071">
-<icon BUILTIN="forward"/>
-</node>
-</node>
-<node TEXT="3: Building of Parallel Programs" ID="ID_522009630" CREATED="1495117885585" MODIFIED="1559481041392">
-<node TEXT="USE2: Running of Parallel Programs" ID="ID_406344072" CREATED="1507221113612" MODIFIED="1511267818467">
-<icon BUILTIN="forward"/>
-</node>
-<node TEXT="Compiling" ID="ID_41114450" CREATED="1504024891055" MODIFIED="1511272565560">
-<node TEXT="Use of Compilers" ID="ID_1378649094" CREATED="1511272617194" MODIFIED="1511272622202">
-<node TEXT="GNU" ID="ID_1087097400" CREATED="1495127197267" MODIFIED="1511268678101"/>
-<node TEXT="Intel" ID="ID_1631152173" CREATED="1495127199217" MODIFIED="1511268681276"/>
-<node TEXT="PGI" ID="ID_367417537" CREATED="1495127201481" MODIFIED="1511268683989"/>
-<node TEXT="NAG" ID="ID_41975582" CREATED="1501860142687" MODIFIED="1511268686381"/>
-</node>
-<node TEXT="Optimization Switches" ID="ID_1868985761" CREATED="1511272574141" MODIFIED="1511374146039"/>
-</node>
-<node TEXT="Linking" ID="ID_1344202244" CREATED="1495120244985" MODIFIED="1511272592440">
-<node TEXT="Use of Linkers" ID="ID_1084729455" CREATED="1511374261849" MODIFIED="1511374349177"/>
-<node TEXT="Paths/Switches" ID="ID_305897347" CREATED="1495193172510" MODIFIED="1495193219846">
-<node TEXT="-L and $LIBRARY_PATH" ID="ID_710268082" CREATED="1495193205991" MODIFIED="1495193241102"/>
-<node TEXT="$LD_LIBRARY_PATH" ID="ID_912001878" CREATED="1495193223039" MODIFIED="1495193264933"/>
-<node TEXT="-rpath and $LD_RUN_PATH" ID="ID_368143727" CREATED="1495193446511" MODIFIED="1495193463186"/>
-</node>
-<node TEXT="Using Efficient Libraries" ID="ID_633071376" CREATED="1504024770495" MODIFIED="1511373858003">
-<node TEXT="OpenBLAS" ID="ID_1788539646" CREATED="1495127218616" MODIFIED="1511268789671"/>
-<node TEXT="FFTW" ID="ID_1151130761" CREATED="1495127221865" MODIFIED="1511268793513"/>
-<node TEXT="Highly Optimized from Vendor" ID="ID_1923364546" CREATED="1495127225185" MODIFIED="1511268797007">
-<node TEXT="Intel-MKL" ID="ID_361184129" CREATED="1495127257961" MODIFIED="1511268805807"/>
-<node TEXT="IBM-ESSL" ID="ID_669930047" CREATED="1495127262280" MODIFIED="1511268809235"/>
-</node>
-</node>
-</node>
-<node TEXT="Compiler and Linker Options with Regard&#xa;to the Parallelization Technique(s) Used" ID="ID_1294379581" CREATED="1511267937145" MODIFIED="1511375355596">
-<node TEXT="OpenMP" ID="ID_1484475864" CREATED="1495198088502" MODIFIED="1511268431857"/>
-<node TEXT="CUDA" ID="ID_1272058046" CREATED="1495198100751" MODIFIED="1511268434669"/>
-<node TEXT="OpenACC" ID="ID_141739196" CREATED="1495199960400" MODIFIED="1511268438001"/>
-<node TEXT="C++ AMP" ID="ID_1273796294" CREATED="1495199965303" MODIFIED="1511268441006"/>
-<node TEXT="MPI" ID="ID_1649055549" CREATED="1507221246556" MODIFIED="1511268443977"/>
-</node>
-<node TEXT="Profile Guided Optimization (PGO)&#xa;in PE4.1: Tuning without Modifying the Source Code" ID="ID_1640986202" CREATED="1508946253158" MODIFIED="1511375570430">
-<icon BUILTIN="forward"/>
-</node>
-<node TEXT="Usage of Third-Party Code Packages" ID="ID_835545041" CREATED="1495115889752" MODIFIED="1511268895627">
-<node TEXT="Autotools" ID="ID_1467268811" CREATED="1504021178384" MODIFIED="1511270199134"/>
-<node TEXT="CMAKE" ID="ID_282774005" CREATED="1504023890410" MODIFIED="1511270201950"/>
-</node>
-<node TEXT="  * Setup a setting to build programs with the proper compiler, linker, and libraries versions or to run programs" ID="ID_617773425" CREATED="1577735693971" MODIFIED="1577735697465"/>
-<node TEXT="Spack" ID="ID_1996328990" CREATED="1681916556297" MODIFIED="1681916559093"/>
-</node>
-<node TEXT="4: Developing Parallel Programs" ID="ID_989450551" CREATED="1510055803509" MODIFIED="1559481043975">
-<node TEXT="USE3: Building of Parallel Programs" ID="ID_142444669" CREATED="1510056347201" MODIFIED="1511268960018">
-<icon BUILTIN="forward"/>
-</node>
-<node TEXT="SD: Software Development" ID="ID_10203624" CREATED="1511269892969" MODIFIED="1511373727011">
-<icon BUILTIN="forward"/>
-</node>
-</node>
-<node TEXT="5: Automating Common Tasks" ID="ID_1863896451" CREATED="1552389433933" MODIFIED="1665063339980">
-<node TEXT="USE1.2 Shell Scripts" ID="ID_676212405" CREATED="1552389517473" MODIFIED="1552389525368"/>
-<node TEXT="Python" ID="ID_319373690" CREATED="1552389560362" MODIFIED="1552389607552"/>
-</node>
-<node TEXT="6: Workflows" ID="ID_1061455792" CREATED="1592498418464" MODIFIED="1592501791184">
-<node TEXT="1: Workflow Engines" ID="ID_238877955" CREATED="1592498574462" MODIFIED="1592503731268">
-<node TEXT="1: Cylc" ID="ID_595433015" CREATED="1592498601069" MODIFIED="1592498603229"/>
-</node>
-<node TEXT="2: Cloud Workflows" ID="ID_105584270" CREATED="1552389806541" MODIFIED="1592503733720">
-<node TEXT="Grid" ID="ID_1304541158" CREATED="1552389822421" MODIFIED="1552389836922"/>
-<node TEXT="Cloud" ID="ID_1991269666" CREATED="1552389840463" MODIFIED="1552389843028"/>
-</node>
-</node>
-<node TEXT="7: Post-processing Tools" ID="ID_935117899" CREATED="1592498777751" MODIFIED="1633284304539">
-<node TEXT="1: Visualization" ID="ID_936811350" CREATED="1592498794563" MODIFIED="1592498799530">
-<node TEXT="1: Paraview" ID="ID_1705830803" CREATED="1592498800105" MODIFIED="1592498812107"/>
-</node>
-<node TEXT="2: CDO" ID="ID_1784703623" CREATED="1592498784695" MODIFIED="1592498839351"/>
-</node>
-</node>
-<node TEXT="PE: Performance Engineering" FOLDED="true" POSITION="left" ID="ID_1493885149" CREATED="1283093380553" MODIFIED="1559723175239">
+<node TEXT="PE: Performance Engineering" FOLDED="true" POSITION="top_or_left" ID="ID_1493885149" CREATED="1283093380553" MODIFIED="1559723175239">
 <edge COLOR="#ff0000"/>
 <cloud COLOR="#ffcccc" SHAPE="ARC"/>
 <node TEXT="1: Cost Awareness" ID="ID_236304780" CREATED="1495116482945" MODIFIED="1559473875310">
@@ -651,7 +498,7 @@
 </node>
 </node>
 </node>
-<node TEXT="SD: Software Development" FOLDED="true" POSITION="left" ID="ID_551310687" CREATED="1283093380553" MODIFIED="1665063219211">
+<node TEXT="SD: Software Development" FOLDED="true" POSITION="top_or_left" ID="ID_551310687" CREATED="1283093380553" MODIFIED="1665063219211">
 <edge COLOR="#0000ff"/>
 <cloud COLOR="#f0f0f0" SHAPE="ARC"/>
 <node TEXT="1: Programming Concepts for HPC" ID="ID_1040681873" CREATED="1559477684579" MODIFIED="1559477691025">
@@ -874,7 +721,7 @@
 <node TEXT="4: Documentation for Reproducibility" ID="ID_1721604170" CREATED="1559478843198" MODIFIED="1559478849938"/>
 </node>
 </node>
-<node TEXT="BDA: Big Data Analytics" FOLDED="true" POSITION="right" ID="ID_146490119" CREATED="1549369246711" MODIFIED="1651499905843">
+<node TEXT="BDA: Big Data Analytics" FOLDED="true" POSITION="bottom_or_right" ID="ID_146490119" CREATED="1549369246711" MODIFIED="1651499905843">
 <edge COLOR="#808080"/>
 <cloud COLOR="#ff99ff" SHAPE="ARC"/>
 <node TEXT="1: Theoretic Principles of BDA" ID="ID_689501658" CREATED="1549369597821" MODIFIED="1595013684526">
@@ -931,7 +778,7 @@
 <node TEXT="Applications" ID="ID_1343755096" CREATED="1592497364105" MODIFIED="1651500411978"/>
 </node>
 </node>
-<node TEXT="ADM: Administration" POSITION="left" ID="ID_1626059254" CREATED="1549369259074" MODIFIED="1595013668150">
+<node TEXT="ADM: Administration" FOLDED="true" POSITION="top_or_left" ID="ID_1626059254" CREATED="1549369259074" MODIFIED="1595013668150">
 <edge COLOR="#808080"/>
 <cloud COLOR="#cccc00" SHAPE="ARC"/>
 <node TEXT="1: Theoretic Principles" ID="ID_1456336409" CREATED="1651503258947" MODIFIED="1682333002072">
@@ -1158,6 +1005,251 @@
 <node TEXT="Compilation" ID="ID_1064801441" CREATED="1681916501979" MODIFIED="1681916508487"/>
 </node>
 </node>
+</node>
+</node>
+<node TEXT="USE: Use of the HPC Environment" POSITION="bottom_or_right" ID="ID_1145091159" CREATED="1495114319728" MODIFIED="1701961267699" HGAP_QUANTITY="27 px" VSHIFT_QUANTITY="4 px">
+<edge COLOR="#007c7c"/>
+<cloud COLOR="#ccffff" SHAPE="ARC"/>
+<node TEXT="1: Overview: Use of the HPC Environment (USE1)" ID="ID_1952733330" CREATED="1495126323320" MODIFIED="1706088111511" LINK="skill_sets/use/01_Overview_USE1.md"/>
+<node TEXT="2: Cluster Operating System (USE2)" ID="ID_467546639" CREATED="1495114295449" MODIFIED="1706088147856" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/">
+<node TEXT="1: Overview: Cluster Operating System (USE2.1)" ID="ID_1558056574" CREATED="1495126323320" MODIFIED="1706088168084" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/01_Overview_USE2.1.md"/>
+<node TEXT="2: Command Line Interface (USE2.2)" ID="ID_278996541" CREATED="1495115268505" MODIFIED="1706088176492" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/02_Command_Line_Interface_USE2.2/">
+<node TEXT="1: Overview: Command Line Interface (USE2.2.1)" ID="ID_1766967729" CREATED="1495126323320" MODIFIED="1706088206364" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/02_Command_Line_Interface_USE2.2/01_Overview_USE2.2.1.md"/>
+<node TEXT="2: Bash (USE2.2.2)" ID="ID_721520289" CREATED="1577731589668" MODIFIED="1706088210985" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/02_Command_Line_Interface_USE2.2/02_Bash_USE2.2.2.md"/>
+<node TEXT="3: Unix file system (USE2.2.3)" ID="ID_1247705415" CREATED="1495121405408" MODIFIED="1706088214594" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/02_Command_Line_Interface_USE2.2/03_Unix_file_system_USE2.2.3/">
+<node TEXT="1: Overview: UNIX File System (USE2.2.3.1)" POSITION="bottom_or_right" ID="ID_907117276" CREATED="1501859541484" MODIFIED="1706088225177" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/02_Command_Line_Interface_USE2.2/03_Unix_file_system_USE2.2.3/01_Overview_USE2.2.3.1.md"/>
+<node TEXT="2: File tools (USE2.2.3.2)" POSITION="bottom_or_right" ID="ID_744666095" CREATED="1511265646549" MODIFIED="1706088228835" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/02_Command_Line_Interface_USE2.2/03_Unix_file_system_USE2.2.3/02_File_tools_USE2.2.3.2.md"/>
+<node TEXT="3: File System Tree (USE2.2.3.3)" POSITION="bottom_or_right" ID="ID_786575654" CREATED="1511265591048" MODIFIED="1706088232865" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/02_Command_Line_Interface_USE2.2/03_Unix_file_system_USE2.2.3/03_File_System_Tree_USE2.2.3.3.md"/>
+<node TEXT="4: Editors (USE2.2.3.4)" POSITION="bottom_or_right" ID="ID_225546806" CREATED="1577734100602" MODIFIED="1706088237297" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/02_Command_Line_Interface_USE2.2/03_Unix_file_system_USE2.2.3/04_Editors_USE2.2.3.4.md"/>
+</node>
+<node TEXT="4: Regular Expressions and Wildcards (USE2.2.4)" ID="ID_363933124" CREATED="1501859581175" MODIFIED="1706088218539" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/02_Command_Line_Interface_USE2.2/04_Regular_Expressions_and_Wildcards_USE2.2.4.md"/>
+</node>
+<node TEXT="3: Shell Scripts (USE2.3)" ID="ID_1985138650" CREATED="1495115383882" MODIFIED="1706088186283" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/03_Shell_Scripts_USE2.3.md"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Command Line Interface <a href="#ID_1766967729">USE2.2.1</a>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="4: Remote Access (USE2.4)" ID="ID_140339595" CREATED="1577731525829" MODIFIED="1706088194051" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/04_Remote_Access_USE2.4/">
+<node TEXT="1: Overview: Remote Access (USE2.4.1)" ID="ID_522609698" CREATED="1495126323320" MODIFIED="1706088248812" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/04_Remote_Access_USE2.4/01_Overview.md"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Command Line Interface <a href="#ID_1766967729">USE2.2.1</a>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="2: Remote Login (USE2.4.2)" ID="ID_106143847" CREATED="1495121139673" MODIFIED="1706088253123" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/04_Remote_Access_USE2.4/02_Remote_Login_USE2.4.2.md"/>
+<node TEXT="3: File transfer (USE2.4.3)" ID="ID_425810977" CREATED="1577731555715" MODIFIED="1706088256987" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/04_Remote_Access_USE2.4/03_File_transfer_USE2.4.3.md"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Unix file system <a href="#ID_907117276">USE2.2.3.1</a>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="5: Software Environment (USE2.5)" ID="ID_791965209" CREATED="1495115409673" MODIFIED="1706088198972" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/05_Software_Environment_USE2.5/">
+<node TEXT="1: Overview: Software Environment (USE2.5.1)" ID="ID_332273765" CREATED="1495126323320" MODIFIED="1706088264444" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/05_Software_Environment_USE2.5/01_Overview_USE2.5.1.md"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Command Line Interface <a href="#ID_1766967729">USE2.2.1</a>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="2: Modules and Spack (USE2.5.2)" ID="ID_867808287" CREATED="1495115463009" MODIFIED="1706088267931" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/05_Software_Environment_USE2.5/02_Modules_and_Spack_USE2.5.2.md"/>
+<node TEXT="3: Python env (USE2.5.3)" ID="ID_564286239" CREATED="1705399834204" MODIFIED="1706088271098" LINK="skill_sets/use/02_Cluster_Operating_System_USE2/05_Software_Environment_USE2.5/03_Python_env_USE2.5.3.md"/>
+</node>
+</node>
+<node TEXT="3: Running of Parallel Programs (USE3)" ID="ID_739006785" CREATED="1504024427911" MODIFIED="1706089040366" LINK="skill_sets/use/03_Running_of_Parallel_Programs_USE3/">
+<node TEXT="1: Overview: Running of Parallel Programs (USE3.1)" LOCALIZED_STYLE_REF="default" ID="ID_627929803" CREATED="1495126323320" MODIFIED="1706089046263" LINK="skill_sets/use/03_Running_of_Parallel_Programs_USE3/01_Overview_USE3.1.md"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Command Line Interface <a href="#ID_1766967729">USE2.2.1</a><br/>Software Environment <a href="#ID_332273765">USE2.5.1</a>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="2: Job Scheduling (USE3.2)" ID="ID_1060693579" CREATED="1705394208598" MODIFIED="1706089050682" LINK="skill_sets/use/03_Running_of_Parallel_Programs_USE3/02_Job_Scheduling_USE3.2.md"/>
+<node TEXT="3: Job Scripts (USE3.3)" ID="ID_655255945" CREATED="1495117386217" MODIFIED="1706089054758" LINK="skill_sets/use/03_Running_of_Parallel_Programs_USE3/03_Job_Scripts_USE3.3.md"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Shell Scripts <a href="#ID_1985138650">USE2.3</a><br/>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_823305018" CREATED="1705331592207" MODIFIED="1706088812893"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Benchmarking <a href="#ID_832474684">PE4.1</a>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1698626464" CREATED="1705331537375" MODIFIED="1706088819870"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Cost Awareness <a href="#ID_550192592">PE2.1</a>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_417817368" CREATED="1705394112791" MODIFIED="1706088826435"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Job Scheduling <a href="#ID_1194784044">K5.1</a>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1564871372" CREATED="1705331585967" MODIFIED="1706088835324"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Measuring System Performance <a href="#ID_159024525">PE3.1</a>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1972974518" CREATED="1705399108044" MODIFIED="1706088857580"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Program Parallelization <a href="#ID_1654302547">K4.1</a>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="4: Building of Parallel Programs (USE4)" ID="ID_522009630" CREATED="1495117885585" MODIFIED="1706089335837" LINK="skill_sets/use/04_Building_of_Parallel_Programs_USE4/">
+<node TEXT="1: Overview: Building of Parallel Programs (USE4.1)" ID="ID_823288267" CREATED="1495126323320" MODIFIED="1706089700679" LINK="skill_sets/use/04_Building_of_Parallel_Programs_USE4/01_Overview_USE4.1.md"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Running of Parallel Programs <a href="#ID_627929803">USE3.1</a><br/>Software Environment <a href="#ID_332273765">USE2.5.1</a>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="2: Compiling (USE4.2)" ID="ID_41114450" CREATED="1504024891055" MODIFIED="1706089704450" LINK="skill_sets/use/04_Building_of_Parallel_Programs_USE4/02_Compiling_USE4.2.md"/>
+<node TEXT="3: Linking (USE4.3)" ID="ID_1344202244" CREATED="1495120244985" MODIFIED="1706089708210" LINK="skill_sets/use/04_Building_of_Parallel_Programs_USE4/03_Linking_USE4.3.md"/>
+<node TEXT="4: Building Third-Party Code Packages (USE4.4)" ID="ID_835545041" CREATED="1495115889752" MODIFIED="1706089712122" LINK="skill_sets/use/04_Building_of_Parallel_Programs_USE4/04_Building_Third-Party_Code_Packages_USE4.4.md"/>
+<node TEXT="5: Using Efficient Libraries (USE4.5)" ID="ID_633071376" CREATED="1504024770495" MODIFIED="1706089715931" LINK="skill_sets/use/04_Building_of_Parallel_Programs_USE4/05_Using_Efficient_Libraries_USE4.5/">
+<node TEXT="1: Overview: Using Efficient Libraries (USE4.5.1)" ID="ID_787898417" CREATED="1495126323320" MODIFIED="1706089720354" LINK="skill_sets/use/04_Building_of_Parallel_Programs_USE4/05_Using_Efficient_Libraries_USE4.5/01_Overview_USE4.5.1.md"/>
+<node TEXT="2: OpenBLAS (USE4.5.2)" ID="ID_1788539646" CREATED="1495127218616" MODIFIED="1706089724248" LINK="skill_sets/use/04_Building_of_Parallel_Programs_USE4/05_Using_Efficient_Libraries_USE4.5/02_OpenBLAS_USE4.5.2.md"/>
+<node TEXT="3: FFTW (USE4.5.3)" ID="ID_1151130761" CREATED="1495127221865" MODIFIED="1706089727778" LINK="skill_sets/use/04_Building_of_Parallel_Programs_USE4/05_Using_Efficient_Libraries_USE4.5/03_FFTW_USE4.5.3.md"/>
+<node TEXT="4: Highly Optimized from Vendor (USE4.5.4)" ID="ID_1923364546" CREATED="1495127225185" MODIFIED="1706089731618" LINK="skill_sets/use/04_Building_of_Parallel_Programs_USE4/05_Using_Efficient_Libraries_USE4.5/04_Highly_Optimized_from_Vendor_USE4.5.4.md"/>
+<node TEXT="5: HDF5 (USE4.5.5)" ID="ID_1593744821" CREATED="1705311558529" MODIFIED="1706089734827" LINK="skill_sets/use/04_Building_of_Parallel_Programs_USE4/05_Using_Efficient_Libraries_USE4.5/05_HDF5_USE4.5.5.md"/>
+</node>
+<node LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_1354113626" CREATED="1705331845261" MODIFIED="1706089502890"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Tuning without Modifying the Source Code <a href="#ID_1328307774">PE5.3.1</a>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node LOCALIZED_STYLE_REF="styles.subtopic" ID="ID_844482215" CREATED="1705332032140" MODIFIED="1706089518275"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Parallel Programming <a href="#ID_899148747">SD2.3.1</a>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="5: Automating Common Tasks (USE5)" ID="ID_1863896451" CREATED="1552389433933" MODIFIED="1706089835713" LINK="skill_sets/use/05_Automating_Common_Tasks_USE5.md"><richcontent TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Running of Parallel Programs<a href="#ID_627929803">USE2.3.1</a>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="6: Workflows (USE6)" ID="ID_1061455792" CREATED="1592498418464" MODIFIED="1706090027649" LINK="skill_sets/use/06_Workflows_USE6/">
+<node TEXT="1: Overview: Workflows (USE6.1)" ID="ID_1088340595" CREATED="1495126323320" MODIFIED="1706090032613" LINK="skill_sets/use/06_Workflows_USE6/01_Overview_USE6.1.md"/>
+<node TEXT="2: Workflow Engines (USE6.2)" ID="ID_238877955" CREATED="1592498574462" MODIFIED="1706090036224" LINK="skill_sets/use/06_Workflows_USE6/02_Workflow_Engines_USE6.2.md"/>
+<node TEXT="3: Cloud Workflows (USE6.3)" ID="ID_105584270" CREATED="1552389806541" MODIFIED="1706090039700" LINK="skill_sets/use/06_Workflows_USE6/03_Cloud_Workflows_USE6.3.md"/>
+</node>
+<node TEXT="7: Post-processing Tools (USE7)" ID="ID_935117899" CREATED="1592498777751" MODIFIED="1706090241695" LINK="skill_sets/use/07_Post-processing_Tools_USE7/">
+<node TEXT="1: Overview: Post-processing Tools (USE7.1)" ID="ID_1747641610" CREATED="1495126323320" MODIFIED="1706090247847" LINK="skill_sets/use/07_Post-processing_Tools_USE7/01_Overview_USE7.1.md"/>
+<node TEXT="2: Visualization in Paraview (USE7.2)" ID="ID_936811350" CREATED="1592498794563" MODIFIED="1706090252397" LINK="skill_sets/use/07_Post-processing_Tools_USE7/02_Visualization_in_Paraview_USE7.2.md"/>
+<node TEXT="3: CDO (USE7.3)" ID="ID_1784703623" CREATED="1592498784695" MODIFIED="1706090255912" LINK="skill_sets/use/07_Post-processing_Tools_USE7/03_CDO_USE7.3.md"/>
 </node>
 </node>
 </node>

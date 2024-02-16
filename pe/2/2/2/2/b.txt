@@ -1,8 +1,26 @@
 # PE2.2.2.2-B Scalasca
+#### Maintainer: Marc-André Hermanns, HPC Group, IT Center, RWTH Aachen University
+
 # Background
+
+Analyzing detailed event traces and identifying performance problems and their root causes can be challenging.
+Scalasca automatically searches for patterns of inefficient behavior in OTF2 traces collected with Score-P and identifies the time a thread or process is waiting in an interaction with another thread or process.
+Furthermore, it helps in identifying the root causes of those waiting times by determining imbalances in the program, highlighting the part of the code and processes/threads that contribute the most to any waiting time found.
 
 # Aim
 
+Students should learn how to apply Scalasca to OTF2 tracing data as collected by Score-P.
+Moreover, they should learn how to identify waiting time in the application and their root causes, to create ideas on how to resolve them.
+
 # Outcomes
+
+* Able to automatically run Score-P instrumented measurements (including automatic
+  analysis) of applications containing
+  - MPI, and 
+  - OpenMP and/or Pthreads.
+* Able to identify waiting time in the application measurement
+* Able to identify the causing delay (imbalance) causing waiting time
+* Derive solution hypotheses from the analysis report to resolve the
+  performance problems identified.
 
 # Subskills

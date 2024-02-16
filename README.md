@@ -35,3 +35,37 @@ The newest version of freeplane (1.11.10) is needed.
 1. Further knowledge is added to a skill topic by adding it as a leaf node, which includes the link (It has to be set as a subtopic style).
 1. Further knowledge can have the same name as a leaf node on the same mother node.
 
+##
+
+# Markdown axioms
+
+### Leaf node axioms
+
+**Format:** 
+
+**Header** (The name of the leaf along with its coordinates)
+
+**Description:** The description for a leaf node can be short or long depending on the section, but it does not need to be comprehensive.
+
+**Requirements:** This section must have a list of requirements needed to learn the contents of a leaf. Requirements are split further into external and internal requirements. Any requirements present on the skill tree are internal. Any skill that needs to be learnt externally before learning the particular skill is an external requirement. A leaf node need not have either of these sections filled if there are no requirements to learn the skill. Local requirements must be linked within the Skill Tree and the Wiki.
+
+**Learning Objectives:** Learning objectives is essentially a list of everything you need to learn to acquire a certification for the particular leaf node. It is a comprehensive list of everything you need to know. The learning objectives also form the base of the testing phase of HPC CF, where candidates will be tested online for their knowledge of the topics covered under the learning objectives.
+
+**Get tested:** This section appears when an online test for a particular leaf is available. It links the user directly to an online test. 
+
+**Sections which are blank need not be represented in the Markdown. However, some sections like Header, Description and Learning Objectives are compulsory in the leaf nodes markdown file.**
+
+### Overview node axioms
+
+**Format:** 
+
+**Header:** (The name of the overview section along with its coordinates)
+
+**Description:** This is the most crucial section of the Overview leaf. Unlike leaf nodes, where descriptions don’t need to be comprehensive. Descriptions on the Overview nodes must cover every leaf present on its branch. Overview is meant to be an introductory topic, a way to cover a topic without going in depth. While the description explains all the leaves on the branch, it need not be an in-depth description. Instead, it should only cover the critical information that the user must know. The overview node, however, must have more of a structure to its description. The structure must represent the other leaves on the branch, complete with links and coordinates.
+
+**Requirements:** This section must have a list of requirements needed to understand the leaves on the branch. Requirements are split further into external and internal requirements. Any requirements present on the skill tree are internal. Any skill that needs to be learnt externally before learning the particular skill is an external requirement. An overview node need not have either of these sections filled if there are no requirements to learn the skill. Local requirements must be linked within the Skill Tree and the Wiki.
+
+
+**There are no learning objectives or tests for an overview branch. The overview branch lets trainers pick and choose relevant topics within a branch to teach at any level required so it doesn’t need to complete the learning objectives that are strictly specified in the leaf sections.** 
+
+**In Overview, only the Header and Description are required.**

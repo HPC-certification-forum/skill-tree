@@ -35,6 +35,7 @@ The newest version of freeplane (1.11.10) is needed.
 1. Further knowledge is added to a skill topic by adding it as a leaf node, which includes the link (It has to be set as a subtopic style).
 1. Further knowledge can have the same name as a leaf node on the same mother node.
 
+
 ##
 
 # Markdown axioms

@@ -70,3 +70,73 @@ The newest version of freeplane (1.11.10) is needed.
 **There are no learning objectives or tests for an overview branch. The overview branch lets trainers pick and choose relevant topics within a branch to teach at any level required so it doesn’t need to complete the learning objectives that are strictly specified in the leaf sections.** 
 
 **In Overview, only the Header and Description are required.**
+
+## How to TAG using the skill tree
+
+Before showing examples, we are reiterating important rules and definitions of skills and the skill tree.
+All the rules can be found in the skill tree [Readme.md](https://github.com/HPC-certification-forum/skill-tree/blob/master/README.md).
+
+### Skills
+
+A skill is a learnable unit of content, which can be taught in no more then 4 hours and no less then 1 hours.
+A skill does not have a difficulty but can have requirements.
+
+If the content of a skill has more content then or grows beyond 4 hours of teaching, it will be split into sub skills.
+The simple, original name remains and becomes an overview.
+All sub skill get more descriptive names.
+Splitting has to be done in a way which ensures that an update of the certificate to the new sub skill is possible.
+
+A skill overview contains the content of all the sub skills and can be used for linking as requirement.
+Linking it means, that only a broad understanding of the skill is required and not a specific set of skills.
+Using an overview of a skill for a course, means that only some of the content is relevant for a course and only an overview of a topic is given.
+
+An overview cannot be examined an no credentials will be handed out, only actual skills do this.
+
+### Skill tree
+
+The skill tree contains the architecture of the skills.
+Architecture means division of skill and skill categories.
+
+Requirements are not mapped in the tree.
+A network representation would be required for this to work properly.
+
+### Skill Markdown files
+
+Each skill and skill overview has a Markdown file containing information about the content as well as requirements.
+They are directly linked in the Mind Map.
+
+### Changes to the skill tree
+
+Usually, only the leaves will change, meaning they will split into smaller and smaller leaves.
+An overview will be created and the certificated updated to the new sub skill.
+All requirements will now link to the overview unless changed by a skill curator.
+
+### Example 1
+
+The skill "Linux Bash" can be taught within two hours.
+It has no difficulty, but many beginner courses list this skill.
+
+If this skill is split in the future, this becomes an overview.
+The content this skill had will be put into a sub skill and all certificates will be updated to the new skill.
+
+### Example 2
+
+The skill "Shell scripting" can be taught within four hours and has the requirement "Linux Bash".
+It is a larger topic and could be taught in beginner and advanced user courses.
+Using this skill as is will work if only basics are taught.
+If the content growth beyond four hours, the skill has to be split into sub skills (shown below)
+Calling them "shell scripting basic", "shell scripting advanced" is not accurate enough.
+
+The advised procedure is to name the skill with regards to the specific content.
+A course about basic Linux usage would list these skills:
+* Linux Bash commands
+* Linux Bash, environment and variables
+* Shell scripting bash commands
+
+A advance Linux course would list these requirements:
+* Linux Bash (the overview)
+* Shell scripting bash commands
+The course also lists these skills as content:
+* Linux Bash, sed, grep and awk
+* Shell scripting, branching
+* Shell scripting, loops and list iterations

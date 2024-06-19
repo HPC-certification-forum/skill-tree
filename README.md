@@ -79,10 +79,10 @@ All the rules can be found in the skill tree [Readme.md](https://github.com/HPC-
 ### Skills
 
 A skill is a learnable unit of content, which can be taught in no more then 4 hours and no less then 1 hours.
-A skill does not have a difficulty but can have requirements.
+It does not have a difficulty but can have requirements.
 
-If the content of a skill has more content then or grows beyond 4 hours of teaching, it will be split into sub skills.
-The simple, original name remains and becomes an overview.
+If content associated with a skill grows beyond approximately 4 hours, it out to be split into sub skills.
+The simple, original name remains and becomes an overview leaf in the skill tree.
 All sub skill get more descriptive names.
 Splitting has to be done in a way which ensures that an update of the certificate to the new sub skill is possible.
 
@@ -107,6 +107,7 @@ They are directly linked in the Mind Map.
 
 ### Changes to the skill tree
 
+Adding new branches will require a discussion with the board, which meets regularly.
 Usually, only the leaves will change, meaning they will split into smaller and smaller leaves.
 An overview will be created and the certificated updated to the new sub skill.
 All requirements will now link to the overview unless changed by a skill curator.

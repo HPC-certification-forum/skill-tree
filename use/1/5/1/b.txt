@@ -1,13 +1,11 @@
-# USE1.4.2-B Environment Modules
-# Background
+# USE1.5.1 Environment Modules
 
 The Environment Modules package is a widely used tool for managing information (module files) about installed software.
 It comes with integration into the shell.
 
-# Aim
-  * To be able to use the module command to load software.
+## Requirements
 
-# Outcomes
+## Learning Objectives
   * Comprehend that Modules can have dependencies and conflicts:
     * A Module can enforce other Modules that it depends on must be loaded before the Module itself can be loaded.
     * Conflicting modules must not be loaded at the same time (e.g. two versions of a compiler).
@@ -25,4 +23,4 @@ It comes with integration into the shell.
     * switch
   * Describe the MODULEPATH variable.
 
-# Subskills
+## Subskills

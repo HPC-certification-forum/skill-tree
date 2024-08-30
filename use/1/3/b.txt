@@ -1,5 +1,4 @@
-# USE1.3-B UNIX File System Tree
-# Background
+# USE1.3 UNIX File System Tree
 
 The UNIX file system is organized hierarchically according to the Filesystem Hierarchy Standard.
 
@@ -9,10 +8,10 @@ Files and directories can be referred to either using absolute or relative file 
 
 Typically, several elementary programs are pre-installed and allow access and manipulation of files and directories.
 
-# Aim
-  * To understand the file system layout and perform typical file operations to access and manipulate the file system.
+## Requirements
 
-# Outcomes
+## Learning objectives
+
   * Describe the organization of a hierarchical file system.
   * Explain the basic UNIX permission model and metadata of files.
   * Describe the Filesystem Hierarchy Standard and the relevance of the directories:

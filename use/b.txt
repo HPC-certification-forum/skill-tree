@@ -1,5 +1,5 @@
-# USE-B Use of the HPC Environment
-# Background
+# USE Overview: Use of the HPC Environment
+
 HPC environments are different from local systems and cloud environments.
 
 Practitioners typically face initial challenges to utilize such a system efficiently.
@@ -8,11 +8,8 @@ That means users must be trained in a particular solution to utilize a supercomp
 
 Various user roles are covered as part of this subtree: practitioners that aim to deploy existing parallel applications as well as testers that just run already deployed applications, and also developers that create new applications.
 
-# Aim
-  * To use the cluster operating system efficiently in order to develop, build, run, and monitor parallel applications.
-  * To automatize repetitive tasks on an HPC system.
+## Learning Objectives
 
-# Outcomes
   * Apply tools provided by the operating system to navigate and manage files and executables.
   * Select the software environment to build existing and develop novel parallel applications effectively.
   * Use a workload manager to allocate HPC resources.

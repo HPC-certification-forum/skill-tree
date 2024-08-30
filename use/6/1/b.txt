@@ -1,9 +1,0 @@
-# USE6.1-B Workflow Engines
-# Background
-
-# Aim
-
-# Outcomes
-
-# Subskills
-  * [[skill-tree:use:6:1:1:b]]

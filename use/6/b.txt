@@ -1,10 +1,15 @@
-# USE6-B Workflows
-# Background
+# USE6 Workflows
 
-# Aim
+Workflows are very important especially if much data movement is involved.
+Workflows involve the full procedure for a compute task.
+This can include, starting a job, compiling the software, moving data to the compute node, running the computation, copying the results to where they need to be, and cleaning up the work environment.
+There are some programs, such as Snakemake, which are designed to automate this process.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:use:6:1:b]]
-  * [[skill-tree:use:6:2:b]]
+## Learning objectives
+  * Understand a workflow
+  * Design a workflow involving compiling, running, copying data
+  * Understanding workflow engines
+
+## Subskills

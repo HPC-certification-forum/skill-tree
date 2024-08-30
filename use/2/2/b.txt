@@ -1,7 +1,10 @@
-# USE2-I Running of Parallel Programs
-# Background
-# Aim
-# Outcomes
+# USE2.2 Job Scripts
+
+Job Scripts are a more efficient and more powerfull way of running job on an HPC system.
+
+## Requirements
+
+## Learning objectives
   * Use the command-line interface.
   * Write robust job scripts, e.g. to simplify job submissions by the help of automated job chaining.
   * Select the appropriate software environment.

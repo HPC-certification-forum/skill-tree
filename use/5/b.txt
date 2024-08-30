@@ -1,18 +1,14 @@
-# USE5-B Automating Common Tasks
-s
-# Background
+# USE5 Automating Common Tasks
+
 A lot of menial tasks in HPC can be automated. Cronjobs starting shell scripts that back up data, batches that execute several jobs in a scheduler or just simple scripts that do several things when executed, so the user doesnt have to. Automation makes your work more effective freeing up your time for more complex work.
 
-# Aim
-  * To enable practitioners to developing scripts to streamline their workflow.
-  * To clarify the concepts and procedures for creating scripts.
-  * To debug and troubleshoot issues with scripts for automatization purposes.
-  * To run and execute automated scripts on the HPC system.
+## Reqirements
+  * [[skill-tree:use:2:b]]
 
-# Outcomes
+## Learning objectives
   * Recognize which tasks are eligible for automatization
   * Create simple scripts to execute shell commands
   * Distinguish different types of commands and loops
   * Articulate when it is more efficient to use a shell script rather than a program and when its the opposite
 
-# Subskills
+## Subskills

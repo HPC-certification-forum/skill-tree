@@ -1,14 +1,22 @@
-# BDA2-B Big Data Tools in HPC
-# Background
-There is a vast number of tools in different categories available that aid big data analytics -- but only some are production relevant in an HPC environment.
+# BDA2 Overview Big Data Tools in HPC
 
-# Aim
-  * To enable practitioners to understand and apply the principles of big data tools.
+Big Data Tools in High-Performance Computing (HPC) leverage the immense computational power and resources of HPC systems to tackle large-scale data processing and analytics tasks efficiently. In this overview, we explore the key tools and frameworks used for big data analytics in the context of HPC environments.
 
-# Outcomes
+**Ophidia (BDA6.2):** Ophidia is a big data analytics framework specifically designed for HPC environments, focusing on scalable and efficient data analysis and processing. This section discusses the features and capabilities of Ophidia, including its support for multidimensional array data, parallel data processing, and integration with HPC infrastructures. Topics also include Ophidia's data management functionalities, data analysis workflows, and interoperability with other HPC tools and libraries.
+
+**Jupyter Notebooks (BDA6.3):** Jupyter Notebooks provide an interactive computing environment for data analysis, visualization, and sharing. This section explores the use of Jupyter Notebooks in HPC settings, including their integration with HPC clusters, support for parallel computing, and collaboration features. Topics also include the deployment of JupyterHub instances on HPC systems, enabling multiple users to access and collaborate on data analysis projects in a shared environment.
+
+**Cloud (BDA6.4):** Cloud computing platforms offer scalable and on-demand resources for big data analytics, complementing traditional HPC infrastructures. This section discusses the use of cloud services for big data processing, storage, and analysis, including platforms such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). Topics also include hybrid cloud-HPC architectures, data migration strategies, and cost optimization techniques for running big data workloads in the cloud.
+
+**RayDP (BDA6.5):** RayDP is a distributed computing framework that combines the power of Apache Spark and Ray for scalable data processing and machine learning tasks. This section explores the integration of RayDP with HPC environments, leveraging Spark's parallel processing capabilities and Ray's distributed computing features. Topics include the deployment of RayDP on HPC clusters, integration with high-performance storage systems, and optimization techniques for running Spark workloads in HPC settings.
+
+**Spark-Horovod (BDA6.6):** Spark-Horovod is an integration of Apache Spark with Horovod, a distributed deep learning framework. This section discusses the use of Spark-Horovod for large-scale deep learning tasks in HPC environments, leveraging Spark's data processing capabilities and Horovod's support for distributed training of deep neural networks. Topics include the deployment of Spark-Horovod on HPC clusters, optimization techniques for deep learning workloads, and integration with high-performance computing resources.
+
+By leveraging big data tools in HPC environments, practitioners can harness the computational power and scalability of HPC systems to efficiently process and analyze large volumes of data, enabling advanced analytics, machine learning, and scientific discovery across various domains and industries.
+
+## Learning objectives
   * Distinguish the benefit and drawback of various big data tools in the HPC environment.
   * Apply a data science workflow on existing data using various big data tools.
   * Construct simple data science workflows.
 
-# Subskills
-  * [[skill-tree:bda:2:1:b]]
+## Subskills

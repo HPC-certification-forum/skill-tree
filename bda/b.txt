@@ -1,5 +1,5 @@
-# BDA-B Big Data Analytics
-# Background
+# BDA Overview: Big Data Analytics
+
 The analysis of large volumes of data is essential in HPC.
 Big data analytics covers concepts and tools to perform this task traditionally in the cloud environment -- that, compared to HPC systems, utilizes cheap and less-reliable hardware.
 However, as tools and concepts matured, they are now applied in HPC environments as well.
@@ -7,18 +7,15 @@ However, as tools and concepts matured, they are now applied in HPC environments
 HPC workloads utilize tools and methodology from Data Science (DS) and Artificial Intelligence (AI) to process data in order to obtain results quickly.
 AI can be used inside simulations or to steer workflows, while data science can be used to find interesting patterns inside the data.
 
-# Aim
-  * To convey principles and tools that can be used for effective data analysis.
-
-# Outcomes
+## Learning objectives
   * Describe and apply the concepts of artificial intelligence and data science.
   * Differentiate the various tools that could be used in an HPC environment effectively.
   * Compose a workflow consisting of HPC and big data tools to analyze the data.
 
 # Subskills
-  * [[skill-tree:bda:6:b]]
-  * [[skill-tree:bda:5:b]]
   * [[skill-tree:bda:1:b]]
   * [[skill-tree:bda:2:b]]
   * [[skill-tree:bda:3:b]]
   * [[skill-tree:bda:4:b]]
+  * [[skill-tree:bda:6:b]]
+  * [[skill-tree:bda:5:b]]

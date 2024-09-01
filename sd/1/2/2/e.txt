@@ -1,6 +1,0 @@
-# SD1.2.2-E Shared Memory Systems
-# Background
-# Aim
-# Outcomes
-  * Assess concepts like software pipelining, e.g. to optimize loops by out-of-order execution.
-  * Assess the applicability of parallel language extensions like CUDA as well as their interoperability (e.g. combining OpenACC and CUDA).

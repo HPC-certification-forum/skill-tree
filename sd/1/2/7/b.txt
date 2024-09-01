@@ -1,8 +1,12 @@
-# SD1.2.7-B Accelerators
-# Background
+# SD1.2.7 Accelerators
 
-# Aim
+Accelerators are addon card similar to GPUs.
+They are designed to perform specific tasts and require additional programming.
 
-# Outcomes
+## Learning objectives
 
-# Subskills
+* Understand FPGA
+* Understand GraphCore
+* Understand Neuromorphic Computing
+
+## Subskills

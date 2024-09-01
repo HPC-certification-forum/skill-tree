@@ -1,6 +1,0 @@
-# SD2.4-E Logging
-# Background
-# Aim
-# Outcomes
-  * Develop, maintain, and document a consistent logging concept for a program.
-  * Implement a logging concept for a program in a specific programming language, e.g. Fortran, C, C++.

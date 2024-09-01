@@ -1,14 +1,9 @@
-# SD-B Software Development
-
-# Background
+# SD Overview Software Development
 
 Software engineering is often neglected in computational science.
 However, it bears the potential to increase productivity by providing scaffolding for collaborative programming, reducing the coding errors and increasing the manageability of software.
 
-# Aim
-  * To apply practices and methods from software engineering that are relevant for high-performance computing.
-
-# Outcomes
+## Learning objectives
   * Explain agile software engineering methods and practices relevant in high-performance computing.
   * Apply software engineering methods and best practices when developing parallel applications.
   * Write modular, reusable code by applying software design principles like loose coupling and information hiding.
@@ -22,11 +17,4 @@ However, it bears the potential to increase productivity by providing scaffoldin
   * Apply unit testing in a specific programming language using an appropriate unit testing framework.
   * Appropriately document the entire software system.
 
-# Subskills
-  * [[skill-tree:sd:1:b]]
-  * [[skill-tree:sd:2:b]]
-  * [[skill-tree:sd:3:b]]
-  * [[skill-tree:sd:4:b]]
-  * [[skill-tree:sd:5:b]]
-  * [[skill-tree:sd:6:b]]
-  * [[skill-tree:sd:7:b]]
+## Subskills

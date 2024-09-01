@@ -1,9 +1,0 @@
-# SD6.2-I Object-Oriented Design
-# Background
-# Aim
-# Outcomes
-  * Design patterns for HPC.
-  * Write modular, reusable code by applying software design principles like Separation of concerns, loose coupling, information hiding, DRY, KISS etc. (following best practices like Clean Code by Robert C. Martin).
-  * Apply object-oriented design and programming to scientific applications.
-
-# Subskills

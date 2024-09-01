@@ -1,7 +1,0 @@
-# SD5.1-B Coding Standards
-# Background
-# Aim
-# Outcomes
-
-# Subskills
-  * [[skill-tree:sd:5:1:i]]

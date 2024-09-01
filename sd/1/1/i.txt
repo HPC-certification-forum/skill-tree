@@ -1,9 +1,0 @@
-# SD1.1-I Programming Languages
-# Background
-# Aim
-# Outcomes
-  * Program in advanced languages typically used in HPC environments such as C++, and Python.
-  * Use interoperability between languages, for example by calling C or C++ from Fortran and vice versa.
-
-# Subskills
-  * [[skill-tree:sd:1:1:e]]

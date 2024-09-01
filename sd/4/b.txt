@@ -1,12 +1,8 @@
-# SD4-B Agile Methods
-# Background
+# SD4 Overview: Agile Methods
+
 Practices of agile software development are covered in order to convey skills about collaborative, and self-organizing software development advocating adaptive planning, evolutionary development, and encouring rapid and flexible response to change.
 
-# Aim
-# Outcomes
+## Learning objectives
   * Apply agile development practices in the context of HPC.
 
-# Subskills
-  * [[skill-tree:sd:4:1:b]]
-  * [[skill-tree:sd:4:2:b]]
-  * [[skill-tree:sd:4:3:b]]
+## Subskills

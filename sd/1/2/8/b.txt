@@ -1,9 +1,0 @@
-# SD1.2.8-B Frameworks
-# Background
-
-# Aim
-
-# Outcomes
-
-# Subskills
-  * [[skill-tree:sd:1:2:8:1:b]]

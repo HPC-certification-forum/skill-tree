@@ -1,10 +1,9 @@
-# SD2.2-B Debugging
-# Background
-# Aim
-# Outcomes
+# SD2.2 Debugging
+
+## Learning objectives
   * Debug a program using simple techniques such as inserting debugging output statements into the source code, e.g. using printf – also against the background of potential problems with the ordering of the (stdout) output that may exist in parallel environments like MPI.
   * Apply the common concepts and workflows when using a debugger (commands like step into, step over, step out, breakpoints).
   * Use sophisticated debuggers such as GDB.
+  * Use sophisticated debuggers such as DDT and TotalView.
 
-# Subskills
-  * [[skill-tree:sd:2:2:i]]
+## Subskills

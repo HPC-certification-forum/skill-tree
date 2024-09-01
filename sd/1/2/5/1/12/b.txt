@@ -1,0 +1,41 @@
+# SD1.2.5.1.12 NetCDF Remote Data Access
+
+The goal of Unidata's Thematic Real-time Environmental Distributed Data Services (THREDDS) is to provide students, educators and researchers with coherent access to a large collection of real-time and archived datasets from a variety of environmental data sources at a number of distributed server sites.
+
+The THREDDS Data Server (TDS) is a web server that provides catalog, metadata, and data access services for scientific data.
+Every TDS publishes THREDDS catalogs that advertise the datasets and services it makes available.
+THREDDS catalogs are XML documents that list datasets and the data access services available for the datasets.
+Catalogs may contain metadata to document details about the datasets.
+TDS configuration files provide the TDS with information about which datasets and data collections are available and what services are provided for the datasets.
+The available remote data access protocols include OPeNDAP, OGC WCS, OGC WMS, and HTTP.
+The ncISO service allows THREDDS catalogs to be translated into ISO metadata records.
+The TDS also supports several dataset collection services including some sophisticated dataset aggregation capabilities.
+This allows the TDS to aggregate a collection of datasets into a single virtual dataset, greatly simplifying user access to that data collection.
+
+The TDS is open source and runs inside the open-source Tomcat Servlet container.
+The TDS is developed and supported by Unidata, a division of the University Corporation for Atmospheric Research (UCAR), and is sponsored by the National Science Foundation.
+
+The Unidata Local Data Manager (LDM) is a collection of cooperating programs that select, capture, manage, and distribute arbitrary data products.
+The system is designed for event-driven data distribution of the kind used in the Unidata Internet Data Distribution (IDD) project.
+LDM system includes network client and server programs designed for event-driven data distribution and is the fundamental component comprising the IDD system.
+
+## Learning objectives
+
+  * From the user's perspective, one should be able to retrieve data and:
+    * Obtain information regarding the dataset, without the need to download any files:
+      * Temporal spatial ranges, available variables, contact info, dataset details.
+    * Retrieve user-relevant subset of the data (temporal, spatial, and variable subsetting).
+    * Get data remotely in a variety of ways, including:
+      * OPeNDAP (DAP2/DAP4) protocol.
+      * ncWMS implementing the Web Map Service.
+      * Web Coverage Service.
+      * ncISO.
+      * NetCDF Subset Services.
+    * Download one file, even if data span multiple files.
+  * From the data provider's perspective, one should be able to provide data and:
+    * Catalog data holdings.
+    * Aggregate data files.
+    * Provide a quick view of data.
+    * Easily add information (metadata) to datasets.
+
+## Subskills

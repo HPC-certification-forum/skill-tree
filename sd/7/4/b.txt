@@ -1,7 +1,9 @@
-# SD7.4-B Documentation for Reproducibility
-# Background
-# Aim
-# Outcomes
+# SD7.4 Documentation for Reproducibility
 
-# Subskills
-  * [[skill-tree:sd:7:4:i]]
+## Learning objectives
+
+  * Document all necessary information for end-users so that they are able to reproduce the results.
+  * Document the software stack, build instructions, input data, results etc.
+  * Use tools for literate programming like activepapers knitr, or jupyter to document all necessary information for end-users so that they are able to reproduce the results especially in the context of concurrency.
+
+## Subskills

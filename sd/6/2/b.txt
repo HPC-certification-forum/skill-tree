@@ -1,8 +1,0 @@
-# SD6.2-B Object-Oriented Design
-# Background
-# Aim
-# Outcomes
-  * Discuss and use the main concepts of object-orientation (classes, interfaces, polymorphism) to design and implement a program.
-
-# Subskills
-  * [[skill-tree:sd:6:2:i]]

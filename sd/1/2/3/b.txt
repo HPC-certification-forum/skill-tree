@@ -1,11 +1,13 @@
-# SD1.2.3-B Message Passing Systems
-# Background
+# SD1.2.3 Message Passing Systems
 
-# Aim
+## Learning objectives
 
-# Outcomes
+* Understand Synchronization
+* Understand Communication Overview and remember
+  * Blocking
+  * Non-Blocking
+  * Point-to-Point
+  * Collective
+  * Overlay Networks
 
-# Subskills
-  * [[skill-tree:k:3:2:b]]
-  * [[skill-tree:sd:1:2:3:1:b]]
-  * [[skill-tree:sd:1:2:3:2:b]]
+## Subskills

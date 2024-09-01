@@ -1,7 +1,0 @@
-# SD3-I Software Configuration Management
-# Background
-# Aim
-# Outcomes
-
-# Subskills
-  * [[skill-tree:sd:3:e]]

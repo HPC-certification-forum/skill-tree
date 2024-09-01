@@ -1,8 +1,7 @@
-# SD2.6-B Coding Standards
-# Background
+# SD2.6 Coding Standards
 
-# Aim
+## Learning objectives
 
-# Outcomes
+* Understand and apply coding standards
 
-# Subskills
+## Subskills

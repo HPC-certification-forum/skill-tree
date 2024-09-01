@@ -1,12 +1,15 @@
-# SD1.2.5.1.1 NetCDF C API
+# SD1.2.5.1.9 NetCDF R API
 
-The C library is the core implementation on which non-Java interfaces are built.
-It provides reliability, performance, and portability.
+R is a language and environment for statistical computing and graphics.
+Three R NetCDF interfaces are available:
+  * ncdf4 package.
+  * RNetCDF.
+  * ncvar.
 
 ## Learning objectives
+
   * Write a two-dimensional array of sample data and read data from this file.
   * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
   * Write some four-dimensional variables using a record dimension and read from the variables from this file.
-  * Employ ncgen to generate the C code needed to create the corresponding NetCDF file from a CDL text file.
 
 ## Subskills

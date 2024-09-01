@@ -1,0 +1,35 @@
+# PE3.2 Controlled Experiments
+
+Controlled experiments are crucial for validating performance improvements and understanding the variables that impact system efficiency. This course provides a deep dive into the design, execution, and analysis of controlled experiments in the context of performance engineering.
+
+## Requirements
+
+## Learning Objectives
+
+* **Understand the principles** of controlled experiment design in the context of performance engineering.
+* **Design experiments** to test hypotheses about system performance improvements.
+* **Select appropriate metrics** for measuring outcomes of experiments effectively.
+* **Implement experiments** using rigorous methodologies to ensure reliability and validity of results.
+* **Analyze experimental data** using statistical tools to draw meaningful conclusions about system performance.
+* **Optimize experiment setups** to reduce noise and increase the accuracy of the findings.
+* **Evaluate the impact** of different system configurations on performance outcomes.
+* **Utilize software tools** and simulation models to replicate system behaviors and predict outcomes under various scenarios.
+* **Communicate findings effectively** through detailed reports and presentations that outline methodology, analysis, and conclusions.
+* **Develop guidelines for repeating experiments** to verify results and ensure consistency across multiple trials.
+* **Train team members** on best practices in experimental design and data analysis.
+* **Synthesize results from multiple experiments** to provide comprehensive insights into system performance.
+* **Critique the design and outcomes** of experiments to refine future tests.
+* **Incorporate feedback from stakeholders** to align experimental goals with business objectives.
+* **Navigate ethical considerations** in experiment design, particularly regarding data integrity and transparency.
+* **Explore the application of machine learning** techniques to enhance the predictive power of experimental models.
+* **Document all experimental processes** for accountability and replication purposes.
+* **Assess the scalability** of successful experiments to larger systems or different environments.
+* **Lead workshops or seminars** to share knowledge and practices on controlled experiments with the broader engineering community.
+* **Investigate innovative experimental methods** that could be implemented to advance performance engineering further.
+* **Master the use of control groups** to establish clear comparative baselines for performance assessments.
+* **Develop robust data collection protocols** to ensure comprehensive and accurate data gathering during experiments.
+* **Create interactive dashboards** for real-time monitoring and analysis of experimental data.
+* **Facilitate cross-department collaboration** to integrate diverse expertise in experimental designs.
+* **Engage in critical discussions** about the limitations and assumptions underlying experimental setups.
+
+AI generated content

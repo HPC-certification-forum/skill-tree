@@ -1,9 +1,14 @@
-# PE2.1-B Using Standard Tools
-# Background
-This includes information about the utilization of resources like CPU as well as elapsed runtimes of a program, its unshared and shared memory usage, input and output statistics for devices and file systems, and page faults, with tools like /usr/bin/time, ps, top, and vmstat in Linux-based environments.
+# PE2.1 Utilization Principles
 
-# Aim
-# Outcomes
-  * Use standard tools of the operating system to get information about the behavior of parallel programs in terms of their resource utilization.
+Mastering the principles of utilization is essential for effectively measuring and enhancing system performance. This course delves into the theoretical and practical aspects of system utilization metrics and optimization strategies.
 
-# Subskills
+## Requirements
+
+
+## Learning Objectives
+
+* Understand CPU vs. Elapsed Times
+* Understand Shared and Unshared Memory
+* Understand I/O Statistics (Devices and File Systems)
+* Understand Page Faults
+

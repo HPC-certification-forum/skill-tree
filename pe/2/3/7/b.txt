@@ -1,0 +1,15 @@
+# PE2.3.7 NVIDIA Nsight Systems
+
+CUDA applications can be optimized in various places. The NVIDIA Nsight Systems profiler helps users identity those parts of their code that are most suitable for optimizations. This includes, but is not limited to, memory transfers, compute optimizations and kernel overlap.
+
+## Learning objectives
+
+* Use the CLI to identify common optimization targets
+* Generate traces for analysis in the GUI
+* Understand how to use the GUI to find inefficient parts in an application
+
+## Maintainer
+
+* Markus Velten, ZIH Team @ TU Dresden
+
+## Subskills

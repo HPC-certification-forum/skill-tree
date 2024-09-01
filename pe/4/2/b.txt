@@ -1,9 +1,20 @@
-# PE4.2-B Tuning without Modifying the Source Code
-# Background
-# Aim
-# Outcomes
-  * Facilitate the speed up of program execution by using optimized libraries and setting appropriate compiler/linker options.
-  * Facilitate the speed up of program execution by setting package specific options (e.g. selected by environment variables and command-line arguments).
+# PE4.2 Tuning without Modifying the Source Code
 
-# Subskills
-  * [[skill-tree:pe:4:2:i]]
+This course focuses on techniques for optimizing system performance through configuration changes, hardware upgrades, and other strategies that do not involve altering the source code. It is designed for professionals who need to enhance system efficiency without the need for programming modifications.
+
+## Requirements
+
+## Learning Objectives
+
+* Understand Small vs. Big Tasks
+* Understand Process Mapping to Nodes
+* Understand CPU and Thread Pinning
+* Understand Memory Affinity (NUMA)
+* Understand Optimized Libraries
+* Understand Compiler Options / Optimization Switches
+* Understand Profile Guided Optimization Workflow (PGO)
+* Understand Package Specific Options
+* Understand Runtime Options for MPI and OpenMP
+
+
+AI generated content

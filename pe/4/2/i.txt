@@ -1,5 +1,0 @@
-# PE4.2-I Tuning without Modifying the Source Code
-# Background
-# Aim
-# Outcomes
-  * Facilitate the speed up of program execution by setting appropriate compiler/linker options for the PGO workflow.

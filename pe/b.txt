@@ -1,14 +1,10 @@
-# PE-B Performance Engineering
-# Background
+# PE Overview: Performance Engineering
+
 In High-Performance Computing, the performant and efficient execution is important to obtain results in a timely fashion but also to reduce the costs involved when running workflows on expensive supercomputers.
 Performance engineering is the field of systematic approaches for measuring and analyzing the performance of systems and applications, that modifies compile and runtime settings to increase performance (tuning), and that optimizes applications and systems.
 
-# Aim
-  * To understand the performance of applications and systems.
-  * To enable practitioners to optimize runtime settings and applications.
-  * To raise user awareness for efficient utilization of the HPC resources.
 
-# Outcomes
+## Learning objective
   * Describe the optimization cycle.
   * Apply a cost model to compute the costs for running a workflow on an HPC system.
   * List typical pitfalls when measuring performance.
@@ -17,9 +13,3 @@ Performance engineering is the field of systematic approaches for measuring and 
   * Comprehend tunable settings in applications and system that influence performance.
   * Comprehend how to use optimized libraries to speed up program execution.
 
-# Subskills
-  * [[skill-tree:pe:1:b]]
-  * [[skill-tree:pe:2:b]]
-  * [[skill-tree:pe:3:b]]
-  * [[skill-tree:pe:4:b]]
-  * [[skill-tree:pe:5:b]]

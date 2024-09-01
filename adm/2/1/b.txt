@@ -1,16 +1,19 @@
-# ADM2.1-B Network
-# Background
+# ADM2.1 Network
 
-# Aim
+Learn about Networking and specific protocols, such as Routing, nftables, NTP, DNS, Failover, and many more.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:2:1:8:b]]
-  * [[skill-tree:adm:2:1:7:b]]
-  * [[skill-tree:adm:2:1:6:b]]
-  * [[skill-tree:adm:2:1:2:b]]
-  * [[skill-tree:adm:2:1:3:b]]
-  * [[skill-tree:adm:2:1:4:b]]
-  * [[skill-tree:adm:2:1:5:b]]
-  * [[skill-tree:adm:2:1:1:b]]
+* Networking (ADM1.2)
+
+## Learning Objectives
+
+* Understand Linux Network Configuration
+* Understand Routing
+* Understand nftables
+* Understand NTP
+* Understand DNS and DHCP
+* Understand Failover
+* Understand Connecting Physical hardware
+* Understand TUN/TAP Networks
+

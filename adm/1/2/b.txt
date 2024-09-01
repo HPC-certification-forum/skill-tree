@@ -1,14 +1,15 @@
-# ADM1.2-B Networking
-# Background
+# ADM1.2 Networking
 
-# Aim
+Learn about networking and protocols such as IPv4, cabeling, and others.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:1:2:5:b]]
-  * [[skill-tree:adm:1:2:6:b]]
-  * [[skill-tree:adm:1:2:1:b]]
-  * [[skill-tree:adm:1:2:2:b]]
-  * [[skill-tree:adm:1:2:3:b]]
-  * [[skill-tree:adm:1:2:4:b]]
+
+## Learning Objectives
+
+* Understand IPv4 and IPv6
+* Understand Cabling
+* Understand switches and cards
+* Understand DHCP
+* Understand Fabrics
+

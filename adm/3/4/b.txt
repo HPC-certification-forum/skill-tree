@@ -1,13 +1,15 @@
-# ADM3.4-B System Provisioning
-# Background
+# ADM3.4 Overview: System Provisioning
 
-# Aim
+Learn about system provisioning and deployment.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:3:4:2:b]]
-  * [[skill-tree:adm:3:4:3:b]]
-  * [[skill-tree:adm:3:4:4:b]]
-  * [[skill-tree:adm:3:4:5:b]]
-  * [[skill-tree:adm:3:4:1:b]]
+## Learning Objectives
+
+* Understand Stateful images
+* Understand Stateless images
+* Understand Manege cluster nodes
+* Understand Warewulf
+* Understand Bright
+* Understand Ansible
+

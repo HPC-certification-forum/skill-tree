@@ -1,8 +1,11 @@
-# ADM3.7-B IPMI
-# Background
+# ADM3.7 IPMI
 
-# Aim
+Learn about the IPMI system for cluster management
 
-# Outcomes
+## Requirements
 
-# Subskills
+## Learning Objectives
+
+* Understand the IMPI system
+
+

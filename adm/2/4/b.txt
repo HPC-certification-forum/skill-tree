@@ -1,13 +1,16 @@
-# ADM2.4-B Power
-# Background
+# ADM2.4 Power
 
-# Aim
+Learn about power and how to distribute it in an HPC cluster.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:2:4:1:b]]
-  * [[skill-tree:adm:2:4:2:b]]
-  * [[skill-tree:adm:2:4:3:b]]
-  * [[skill-tree:adm:2:4:4:b]]
-  * [[skill-tree:adm:2:4:5:b]]
+* Electricity and Signals (ADM2.10)
+
+## Learning Objectives
+
+* Understand checking cables
+* Understand Breakers and disconnects
+* Understand Distributing Load
+* Understand Computer/switch/etc. power supplies
+* Understand UPS
+

@@ -1,11 +1,12 @@
-# ADM1.6-B Cluster Management
-# Background
+# ADM1.6 Resource Management
 
-# Aim
+Learn about managing and limiting the resources a user has available or can access.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:1:6:1:b]]
-  * [[skill-tree:adm:1:6:2:b]]
-  * [[skill-tree:adm:1:6:3:b]]
+## Learning Objectives
+
+* Understanding User limits
+* Understanding Quota
+* Understanding job managers
+

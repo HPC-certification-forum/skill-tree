@@ -1,13 +1,9 @@
-# ADM2-B Cluster Infrastructure
-# Background
+# ADM2 Overview: Cluster Infrastructure
 
-# Aim
+Learn about what infrastructure is required to run an HPC cluster.
+This includes networking, power, and cooling requirements as well as types of storage and virtualisation.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:2:5:b]]
-  * [[skill-tree:adm:2:4:b]]
-  * [[skill-tree:adm:2:3:b]]
-  * [[skill-tree:adm:2:2:b]]
-  * [[skill-tree:adm:2:1:b]]
+## Skill topics and Skills
+

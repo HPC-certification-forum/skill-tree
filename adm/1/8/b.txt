@@ -1,15 +1,29 @@
-# ADM1.8-B Security
-# Background
+# ADM1.8 Electricity and Signals
 
-# Aim
+Learn about electricity and signals.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:1:8:1:b]]
-  * [[skill-tree:adm:1:8:2:b]]
-  * [[skill-tree:adm:1:8:3:b]]
-  * [[skill-tree:adm:1:8:4:b]]
-  * [[skill-tree:adm:1:8:5:b]]
-  * [[skill-tree:adm:1:8:6:b]]
-  * [[skill-tree:adm:1:8:7:b]]
+## Learning Objectives
+
+* Remember AC and DC electricity
+* Remember Electrical safety
+* Understand how to model power consumption
+* Understand EMI, Ground loops, isolation and shielding
+* Understand Communication
+* Understand cables and remembering
+    * Single ended
+    * differential
+    * twisted pair
+    * coax/twinax
+    * fiber
+    * balancing
+    * bandwidth
+    * current limits
+* Understanding rechargeable batteries and remebering
+    * Capacity
+    * currentl limits
+    * Charging
+    * safety
+    * disposal
+

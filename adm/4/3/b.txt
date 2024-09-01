@@ -1,12 +1,15 @@
-# ADM4.3-B User environment
-# Background
+# ADM4.3 User environment
 
-# Aim
+Learn about user environments and how to set the up properly.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:4:3:4:b]]
-  * [[skill-tree:adm:4:3:1:b]]
-  * [[skill-tree:adm:4:3:2:b]]
-  * [[skill-tree:adm:4:3:3:b]]
+## Learning Objectives
+
+* Understand Shell initialization
+* Understand HOME Directory installs
+* Understand SPACK and reme,ber
+    * concepts
+    * system configuration
+    * compilation
+

@@ -1,9 +1,0 @@
-# ADM2.2.5-B Object Stores
-# Background
-
-# Aim
-
-# Outcomes
-
-# Subskills
-  * [[skill-tree:adm:2:2:5:1:b]]

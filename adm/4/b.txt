@@ -1,11 +1,11 @@
-# ADM4-B Software Stack
-# Background
+# ADM4 Overview: Software Stack
 
-# Aim
+Learn about software stack and how to set them up.
+Differentiate between system and user based software stack.
+Also, learn about using containers for software stacks.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:4:3:b]]
-  * [[skill-tree:adm:4:1:b]]
-  * [[skill-tree:adm:4:2:b]]
+
+## Skill topics and Skills
+

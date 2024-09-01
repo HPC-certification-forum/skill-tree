@@ -1,12 +1,13 @@
-# ADM3.6-B Monitoring
-# Background
+# ADM3.6 Monitoring
 
-# Aim
+Learn about specific monitoring software.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:3:6:4:b]]
-  * [[skill-tree:adm:3:6:1:b]]
-  * [[skill-tree:adm:3:6:2:b]]
-  * [[skill-tree:adm:3:6:3:b]]
+## Learning Objectives
+
+* Understand Prometheus
+* Understand Telegraf
+* Understand Grafana
+* Understand Icinga
+

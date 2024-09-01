@@ -1,10 +1,14 @@
-# ADM3.2-B Resource Management
-# Background
+# ADM3.2 Resource Management
 
-# Aim
+Learn about resource management software.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:3:2:2:b]]
-  * [[skill-tree:adm:3:2:1:b]]
+* Running of Parallel Programs (USE3.1)
+
+## Learning Objectives
+
+* Understand SLURM
+* Understand SGE
+* Understand HTConda
+

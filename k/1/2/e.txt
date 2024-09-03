@@ -1,8 +1,0 @@
-# K1.2-E Hardware Architectures
-# Background
-# Aim
-# Outcomes
-  *  parallelization techniques at the instruction level of a processing element (e.g. pipelining, SIMD processing)
-  * advanced instruction sets that improve parallelization (e.g., AVX-512)
-  *  hybrid approaches, e.g. combining CPUs with GPUs or FPGAs 
-  *  typical network topologies and architectures used for HPC systems, like fat trees based on switched fabrics using e.g. fast Ethernet (1 or 10 Gbit) or InfiniBand 

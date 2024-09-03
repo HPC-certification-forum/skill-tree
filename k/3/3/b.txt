@@ -1,15 +1,11 @@
-# K3.3-B Domain Decomposition
-# Background
+# K3.3 Domain Decomposition
+
 Domain decomposition is a technique for parallelizing programs that perform simulations in engineering or natural sciences.
 Such a technique is needed on distributed memory systems.
 On distributed memory systems the computational work and, in general, the data have to be decomposed to enable parallel computations that employ several compute processes (which implies the possibility to run on multiple compute nodes).
 
-# Aim
-  * To provide knowledge about the typical strategy for decomposing work into parallel tasks that are used for parallelizing simulation programs in science end engineering.
-  * To provide knowledge about the surface to volume ratio which is important to understand the performance impact of a decomposition.
 
-
-# Outcomes
+## Learning objectives
   * Describe typical decomposition strategies to split a domain into subdomains to make it suited for parallel processing.
   * Discuss measures like surface to volume ratio.
   * Comprehend that in a domain decomposition a region is decomposed, e.g. box is split into smaller ones and a mesh is decomposed into smaller parts, in order to assign these subdomains to processes.
@@ -18,4 +14,4 @@ On distributed memory systems the computational work and, in general, the data h
   * Comprehend that the halo exchange needed in parallel computer simulations is one kind of parallel overhead and has a performance impact, that everybody, who is running such simulations, should know about:
     * Relative overhead is approximately proportional to the surface (Halo exchange) to volume (amount of work) ratio of a sub-domain.
 
-# Subskills
+## Subskills

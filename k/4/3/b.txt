@@ -1,0 +1,9 @@
+# K4.3 Scheduling strategies
+
+## Learning objectives
+* Undertand Backfilling
+* Undertand Fair Share
+* Undertand Shortest Job First 
+* Undertand First Come First Served
+
+## Subskills

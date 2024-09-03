@@ -1,8 +1,0 @@
-# K5-I Modeling Costs
-# Background
-# Aim
-# Outcomes
-  * Describe how to assess runtime costs for jobs.
-
-# Subskills
-  * [[skill-tree:k:5:e]]

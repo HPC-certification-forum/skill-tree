@@ -1,8 +1,12 @@
-# K1.3.3-B Data Reduction Techniques
-# Background
+# K1.3.3 Data Management
 
-# Aim
+## Learning objectives
 
-# Outcomes
+* Understand Cache coherence
+* Understand Information lifecycle management
+* Understand Staging 
+* Understand Quota Policies
+* Understand Storage tiers 
+* Understand Archiving 
 
-# Subskills
+## Subskills

@@ -1,0 +1,17 @@
+# K1.3.1.4.2 NetCDF/CF Conventions
+
+The Climate and Forecast (CF) conventions are metadata conventions for earth science data, intended to promote the processing and sharing of files created with the NetCDF Application Programmer Interface (API). The CF conventions define metadata that are included in the same file as the data (thus making the file "self-describing").
+
+The purpose of the CF conventions is to require conforming datasets to contain sufficient metadata that they are self-describing in the sense that each variable in the file has an associated description of what it represents, including physical units if appropriate, and that each value can be located in space (relative to earth-based coordinates) and time.
+
+The CF conventions enable users of data from different sources to decide which data are comparable and allows building applications with powerful extraction, regridding, and display capabilities. The CF conventions are framed as a NetCDF standard, but most ideas relate to metadata design in general and not specifically to NetCDF, and hence can be contained in other formats such as XML.
+
+## Learning objectives
+
+  * Describe the relationships among elements of the CF-NetCDF conventions and NetCDF entities.
+  * Locate data in space-time and as a function of other independent variables (coordinates), to facilitate processing and graphics.
+  * Evaluate programs in C that use the NetCDF API to read and write files in a metadata-aware manner.
+  * Judge if given metadata meets the CF standard and provides basic understandability for users.
+  * Design a data model for NetCDF using the CF conventions.
+
+# Subskills

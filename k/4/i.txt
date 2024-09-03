@@ -1,8 +1,0 @@
-# K4-I Job Scheduling
-# Background
-# Aim
-# Outcomes
-  * Apply advanced scheduling principles (e.g. backfilling) to achieve objectives like minimizing the averaged elapsed program runtimes, and maximizing the utilization of the available HPC resources.
-
-# Subskills
-  * [[skill-tree:k:4:e]]

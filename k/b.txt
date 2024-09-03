@@ -1,14 +1,9 @@
-# K-B HPC Knowledge
-# Background
+# K Overview: HPC Knowledge
+
 The theoretical knowledge of HPC provides the background to understand how supercomputers and HPC environments operate.
 This enables practitioners to effectively use such environments.
 
-# Aim
-  * To provide background knowledge that is relevant for all other branches.
-  * To provide a theoretical background to judge the behavior and efficiency of systems.
-  * To provide a technical understanding of HPC systems.
-
-# Outcomes
+## Learning objectives
   * Explain the hardware, software, and operation of HPC systems.
   * Construct and judge simple performance models for systems and applications.
   * Understand that there are performance frontiers.
@@ -18,10 +13,4 @@ This enables practitioners to effectively use such environments.
   * Comprehend job scheduling principles.
   * Apply a cost model to compute the costs for running a workflow on an HPC system.
 
-# Subskills
-  * [[skill-tree:k:1:b]]
-  * [[skill-tree:k:2:b]]
-  * [[skill-tree:k:3:b]]
-  * [[skill-tree:k:4:b]]
-  * [[skill-tree:k:5:b]]
-  * [[skill-tree:k:6:b]]
+## Subskills

@@ -1,10 +1,9 @@
-# K1.4-B Operation of an HPC System
-# Background
-# Aim
-# Outcomes
-  *  the typical infrastructure of data and computing centers 
-  *  economic and business aspects in infrastructure decisions
-  *  administration aspects of an HPC system 
-  *  user support aspects (typically on different levels)
+# K1.4 Operation of an HPC System
 
-# Subskills
+## Learning objectives
+  * Understand the typical infrastructure of data and computing centers 
+  * Understand economic and business aspects in infrastructure decisions
+  * Understand administration aspects of an HPC system 
+  * Understand user support aspects (typically on different levels)
+
+## Subskills

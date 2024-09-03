@@ -1,8 +1,7 @@
-# K1.3.4-B Data Management
-# Background
+# K1.3.4 Access Pattern
 
-# Aim
+## Learning objectives
+* Understand access patterns
+* Understand how different access patterns influence data read and write operations
 
-# Outcomes
-
-# Subskills
+## Subskills

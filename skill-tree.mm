@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Skill Tree" FOLDED="false" ID="ID_1292385230" CREATED="1701761058911" MODIFIED="1725379561723" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle" zoom="0.733">
+<hook NAME="MapStyle" zoom="0.564">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -302,10 +302,11 @@
 <node TEXT="2: Shell Scripts (USE1.2)" ID="ID_1985138650" CREATED="1495115383882" MODIFIED="1725378285043" LINK="use/1/2/b.txt"/>
 <node TEXT="3: Unix file system (USE1.3)" ID="ID_1247705415" CREATED="1495121405408" MODIFIED="1725378290954" LINK="use/1/3/b.txt"/>
 <node TEXT="4: Remote Access (USE1.4)" ID="ID_140339595" CREATED="1577731525829" MODIFIED="1725378296684" LINK="use/1/4/b.txt"/>
-<node TEXT="5: Software Environment (USE2.5)" FOLDED="true" ID="ID_791965209" CREATED="1495115409673" MODIFIED="1725378306868" LINK="use/1/5/">
+<node TEXT="5: Software Environment (USE1.5)" FOLDED="true" ID="ID_791965209" CREATED="1495115409673" MODIFIED="1725614294224" LINK="use/1/5/">
 <node TEXT="0: Overview: Software Environment (USE2.5)" ID="ID_332273765" CREATED="1495126323320" MODIFIED="1725378313364" LINK="use/1/5/b.txt"/>
 <node TEXT="1: Environment Modules (USE1.5.1)" ID="ID_867808287" CREATED="1495115463009" MODIFIED="1725378317843" LINK="use/1/5/1/b.txt"/>
 <node TEXT="2: Spack (USE1.5.2)" ID="ID_564286239" CREATED="1705399834204" MODIFIED="1725378323760" LINK="use/1/5/2/b.txt"/>
+<node TEXT="3: Conda environments (USE1.5.3)" ID="ID_1383141956" CREATED="1725614268627" MODIFIED="1725614418118" LINK="use/1/5/3/b.txt"/>
 </node>
 </node>
 <node TEXT="2: Running of Parallel Programs (USE2)" FOLDED="true" POSITION="bottom_or_right" ID="ID_739006785" CREATED="1504024427911" MODIFIED="1725378330271" LINK="use/2/">

@@ -1,0 +1,13 @@
+# USE1.5.3 Conda environments
+
+## Requrements
+
+* [[skill-tree:use:1:5:1:b]]
+
+## Learning objectives
+
+* Understand what conda environments are for 
+* Understand the difference between a module system and conda environment
+* Discuss how such an environment can be constructed and what dependencies it has 
+* Prepare a conda enironment for basic python packages
+* Analyse the loading time for a conda environment for different file storage location

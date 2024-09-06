@@ -1,4 +1,4 @@
-# USE1.5.1 Spack
+# USE1.5.2 Spack
 
 Spack is a package manager for Linux and macOS.
 It allows the user to install software with all necessary dependency and to load relevant software.
@@ -15,4 +15,3 @@ Spack creates unique configurations for software.
   * Describe the spec syntax to specify package configurations.
 
 ## Subskills
-  * [[skill-tree:use:1:4:3:i]]

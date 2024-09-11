@@ -1,5 +1,5 @@
-# USE1.1-B Command Line Interface
-# Background
+# USE1.1 Command Line Interface
+
 HPC systems are usually accessed via a Linux-based Command Line Interface (CLI) that is provided by a shell.
 
 At its core, a shell is simply a convenient tool that you can use to execute commands on a Linux computer.
@@ -9,13 +9,11 @@ Particularly, dealing with control characters and the format expected when execu
 
 Part of this skill is the general principles of the interaction with a shell, to execute and to stop programs.
 
-
-# Aim
-  * To describe the key principles of a shell.
-  * To execute basic programs to query system information and manipulate the system status.
+## Requirements
 
 
-# Outcomes
+## Learning objectives
+
   * Utilize the bash shell to execute individual programs with arguments.
   * Describe the meaning of the exit code of a program.
   * Run multiple programs after another depending on the exit code ;, &&, ||.
@@ -49,5 +47,4 @@ Part of this skill is the general principles of the interaction with a shell, to
     * vi
     * emacs
 
-# Subskills
-  * [[skill-tree:use:1:1:i]]
+## Subskills

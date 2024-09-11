@@ -1,8 +1,0 @@
-# ADM1.1.4-B DMA and RDMA
-# Background
-
-# Aim
-
-# Outcomes
-
-# Subskills

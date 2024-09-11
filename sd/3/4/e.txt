@@ -1,5 +1,0 @@
-# SD3.4-E Release Management
-# Background
-# Aim
-# Outcomes
-  * Apply frameworks of release planning and management like SCRUM release planning or ITIL.

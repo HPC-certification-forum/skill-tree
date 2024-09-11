@@ -1,8 +1,0 @@
-# ADM2.3.3-B Hardware Passthrough
-# Background
-
-# Aim
-
-# Outcomes
-
-# Subskills

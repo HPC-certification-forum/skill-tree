@@ -1,8 +1,0 @@
-# ADM4.1.5-B Systemd Units for Services
-# Background
-
-# Aim
-
-# Outcomes
-
-# Subskills

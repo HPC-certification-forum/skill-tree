@@ -1,15 +1,14 @@
-# ADM1.4-B Software Stack
-# Background
+# ADM1.4 Monitoring
 
-# Aim
+Learning about monitoring a system and what data is relevant for which decision.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:1:4:3:b]]
-  * [[skill-tree:adm:1:4:4:b]]
-  * [[skill-tree:adm:1:4:5:b]]
-  * [[skill-tree:adm:1:4:6:b]]
-  * [[skill-tree:adm:1:4:7:b]]
-  * [[skill-tree:adm:1:4:2:b]]
-  * [[skill-tree:adm:1:4:1:b]]
+
+## Learning Objectives
+
+* Understanding CLI monitoring
+* Understanding files stored under /proc
+* Understanding Architectures for Organized monitoring tools
+* Understanding flapping
+

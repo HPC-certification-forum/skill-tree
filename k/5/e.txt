@@ -1,6 +1,0 @@
-# K5-E Modeling Costs
-# Background
-# Aim
-# Outcomes
-  * Discuss how to assess the costs for the infrastructure of data and computing centers as well as their personnel costs.
-  * Explain economic and business aspects, e.g., break-even considerations, when personnel costs for tuning a parallel program and savings through speedups achieved are compared.

@@ -1,0 +1,11 @@
+# K1.2.1 Processing elements
+
+
+## Learning objectives
+
+* Understand CPU, GPU, Many Core 
+* Understand Instruction Level Parallelism 
+* Understand Vector System 
+* Understand FPGA 
+
+## Subskills

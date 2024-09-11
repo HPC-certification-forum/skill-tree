@@ -1,0 +1,20 @@
+# USE2.1 Job Scheduling
+
+Parallel computers are operated differently than a normal PC, all users must share the system. 
+Therefore, various operative procedures are in place. 
+Users must understand these concepts and procedures to be able to use the available resources of a system to run a parallel application. 
+Moreover, individual solutions can often be found in a specific system.
+
+## Learning objectives
+  * Run parallel programs in an HPC environment.
+  * Use the command-line interface.
+  * Write robust job scripts, e.g. to simplify job submissions by the help of automated job chaining.
+  * Select the appropriate software environment.
+  * Use a workload manager like SLURM or TORQUE to allocate HPC resources (e.g. CPUs) and to submit a batch job.
+  * Consider cost aspects.
+  * Measure system performance as a basis for benchmarking a parallel program.
+  * Benchmark a parallel program.
+  * Tune a parallel program from the outside via runtime options.
+  * Apply the workflow for tuning.
+
+## Subskills

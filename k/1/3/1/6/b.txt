@@ -1,0 +1,6 @@
+# K1.3.1.6 POSIX
+
+## Learning objectives
+* Understand the POSIX interface
+
+## Subskills

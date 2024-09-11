@@ -1,0 +1,9 @@
+# K1.3.1.2 Storage System
+
+## Learning objectives
+
+* Understand Object storage 
+* Understand Burst Buffer 
+* Understand Network Storage 
+
+## Subskills

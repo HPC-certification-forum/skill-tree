@@ -1,14 +1,8 @@
-# K2-B Performance Modeling
-# Background
-  *  HPC systems are massively parallel and therefore sophisticated parallel programs are required to exploit their performance potential as much as possible, including but not limited to modeling the I/O performance.
+# K2 Overview: Performance Modeling
 
-# Aim
-  * To provide knowledge on how the performance of parallel programs may be assessed.
+HPC systems are massively parallel and therefore sophisticated parallel programs are required to exploit their performance potential as much as possible, including but not limited to modeling the I/O performance.
 
-# Outcomes
+## Learning objectives
   * Describe how the performance of parallel programs may be assessed.
 
-# Subskills
-  * [[skill-tree:k:2:3:b]]
-  * [[skill-tree:k:2:1:b]]
-  * [[skill-tree:k:2:2:b]]
+## Subskills

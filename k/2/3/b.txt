@@ -1,8 +1,10 @@
-# K2.3-B Performance Characteristics
-# Background
+# K2.3 Performance Characteristics
 
-# Aim
+## Learning objectives
 
-# Outcomes
+* Understand Performance characteristics of I/O
+* Understand Performance characteristics of CPU Usage
+* Understand Performance characteristics of Memory
+* Understand Performance characteristics of Communication
 
-# Subskills
+## Subskills

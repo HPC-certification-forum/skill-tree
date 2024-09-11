@@ -1,14 +1,37 @@
-# ADM2.2-B Storage
-# Background
+# ADM2.2 Storage
 
-# Aim
+Learn about types and of storage and what they are used for.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:2:2:6:b]]
-  * [[skill-tree:adm:2:2:5:b]]
-  * [[skill-tree:adm:2:2:1:b]]
-  * [[skill-tree:adm:2:2:2:b]]
-  * [[skill-tree:adm:2:2:3:b]]
-  * [[skill-tree:adm:2:2:4:b]]
+
+## Learning Objectives
+
+* Understand file systems and remembering
+    * Local file systems
+    * file systems over network
+    * quota
+    * snapshots
+* Describe common usage of NFS in a cluster
+  * Providing a home directory to users
+  * Share a software repository
+* Describe the key concepts of NFS 
+  * Software/hardware components
+  * Security concept of NFSv3
+  * Performance bottlenecks and caching behavior
+  * List relevant mount options: protocol, timelimit, nfs-version
+* Deploy NFS infrastructure on a server and a client
+  * Installing required software packages and services on the server
+  * Specification of exports
+  * Installing required software packages and the kernel module on the client
+  * Updating fstab to mount the remote file system
+* Examine NFS deployments
+
+* Understand RAID
+* Understand Backups
+* Understand Data transfer
+* Understand Object Stores
+* Understand direct disk access over network and remembering
+    * iSCSI
+    * VMe over fabric
+

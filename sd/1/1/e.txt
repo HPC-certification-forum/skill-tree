@@ -1,5 +1,0 @@
-# SD1.1-E Programming Languages
-# Background
-# Aim
-# Outcomes
-  * Use program language extensions used in HPC environments, such as HPX, and Cilk.

@@ -1,0 +1,19 @@
+# PE2.3.3 Vampir
+
+Once tracing data has been collected by a measurement system, the challenge of interpreting this data remains. Trace data may be post-processed in a variety of ways, or it may be visualized directly. Direct visualization allows an analyst to examine the full details of the event trace in a manual analysis. Vampir is a tool that focuses on providing quality visualization to support manual trace analysis. Users of Vampir need to understand both how to use the interface in order to focus on particular areas of interest in a given trace and how to understand the trace data. Ideally, this will allow them to either collect a more focused measurement or to perform successful optimization of their code.
+
+Vampir is a tool that focuses on providing quality visualization to support manual trace analysis. Users of Vampir need to understand both how to use the interface in order to focus on particular areas of interest in a given trace and how to understand the trace data. Ideally, this will allow them to either collect a more focused measurement or to perform successful optimization of their code.
+
+## Learning objectives
+  * Able to launch Vampir both stand-alone and connected to a VampirServer instance if available
+  * Able to use the function summary to determine at a high level what parts of the code may not perform well
+  * Able to use the summary timeline to quickly identify changed behavior over time and determine next steps for investigation
+  * Able to identify when a small number of processes have divergent behavior from the rest of the application
+  * Able to use the performance radar and counter timelines to correlate performance metrics with the code that is executing
+  * Able to use the communication matrix to describe communication patterns and identify potential bottlenecks and/or imbalances
+
+## Maintainer
+
+* Bert Wesarg, William (Bill) Williams, ZIH Tools Team @ TU Dresden
+
+## Subskills

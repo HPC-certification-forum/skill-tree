@@ -1,15 +1,16 @@
-# ADM2.3-B Virtualization
-# Background
+# ADM2.3 Virtualization
 
-# Aim
+Learning about virtualisation and how to employ it for an HPC cluster.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:2:3:1:b]]
-  * [[skill-tree:adm:2:3:2:b]]
-  * [[skill-tree:adm:2:3:3:b]]
-  * [[skill-tree:adm:2:3:4:b]]
-  * [[skill-tree:adm:2:3:5:b]]
-  * [[skill-tree:adm:2:3:6:b]]
-  * [[skill-tree:adm:2:3:7:b]]
+## Learning Objectives
+
+* Understand networking for virtualisation
+* Understand image management
+* Understand hardware passthrough
+* Understand QEMU
+* Understand VMWare
+* Understand libvirt
+* Understand OpenStack
+

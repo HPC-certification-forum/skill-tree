@@ -1,8 +1,10 @@
-# ADM3.3-B Parallel Shell
-# Background
+# ADM3.3 Parallel Shell
 
-# Aim
+Learn about parallel shell programs.
 
-# Outcomes
+## Requirements
 
-# Subskills
+## Learning Objectives
+
+* Understand Clustershell
+

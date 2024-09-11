@@ -1,12 +1,11 @@
-# K2.1-B Performance Frontiers
-# Background
-# Aim
+# K2.1 Performance Frontiers
+
   * To provide knowledge about FLOPS (floating-point operations per second) which is the key measurement unit for the performance of HPC systems, and its pitfalls.
   * To provide knowledge about Moore’s law and the Gustafson–Barsis's law and their significance for performance frontiers in modern HPC.
   * To provide knowledge about the definitions for key terms: speedup, efficiency, and scalability.
   * To provide knowledge about Amdahl’s law and its significance for performance frontiers in modern HPC.
 
-# Outcomes
+## Learning objectives
   *  Comprehend that **FLOPS** (Floating Point Operations per Second) as a key measurement is used in two distinct ways:
     * To measure the computing power of a computer.
     * To measure the performance of applications.
@@ -36,6 +35,6 @@
   * Comprehend the general Amdahl formula and that in practice it represents a simplified upper limit for the speedup:
     * E.g., if the parallelizable part of a program is 99.9% the speedup is in theory limited to 1000.
     * But in practice, even speedups above 100 might hardly be achieved in this case if it is additionally considered that overheads for communication and synchronization will also increase when the number of processes is increased.
+  *  the roofline model, used to provide performance estimates for parallel programs based on multi-core or accelerator processor architectures, by showing inherent hardware limitations 
 
-# Subskills
-  * [[skill-tree:k:2:1:i]]
+## Subskills

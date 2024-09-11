@@ -1,8 +1,7 @@
-# SD4.3-B SCRUM
-# Background
-# Aim
-# Outcomes
-  * Desribe the concepts of SCRUM, e.g. Sprint, Backlog, Planning, Daily meetings/Stand up meeting, and project velocity.
+# SD4.3 SCRUM
 
-# Subskills
-  * [[skill-tree:sd:4:3:i]]
+## Learning objectives
+  * Desribe the concepts of SCRUM, e.g. Sprint, Backlog, Planning, Daily meetings/Stand up meeting, and project velocity.
+  * Apply practices of SCRUM.
+
+## Subskills

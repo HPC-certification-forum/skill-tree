@@ -1,8 +1,0 @@
-# SD2.3-I Programming Idioms
-# Background
-# Aim
-# Outcomes
-  * Apply programming idioms for a specific programming language, e.g. Fortran, Python, C, C++.
-
-# Subskills
-  * [[skill-tree:sd:2:3:e]]

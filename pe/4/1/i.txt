@@ -1,7 +1,0 @@
-# PE4.1-I Tuning without Building a Parallel Program
-# Background
-# Aim
-# Outcomes
-  * Select appropriate tasks sizes (big vs. small) that may have positive performance impacts on the workflow, and to run several (smaller) tasks by the help of job chaining.
-  * Use mapping of processes to nodes, pinning of processes/threads to CPUs or cores, and setting memory affinities to NUMA nodes in order to speed up a parallel program.
-  * Facilitate the speed up of program execution by setting appropriate runtime options (e.g. for MPI and OpenMP).

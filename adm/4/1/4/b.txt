@@ -1,8 +1,0 @@
-# ADM4.1.4-B SysV Init Scripts
-# Background
-
-# Aim
-
-# Outcomes
-
-# Subskills

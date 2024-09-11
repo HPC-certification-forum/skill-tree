@@ -1,20 +1,8 @@
-# ADM-B Administration
-# Background
-The administration of HPC environments requires to integrate (sometimes bleeding edge) hardware and software providing effective user environments while managing them efficiently.
+# ADM Overview: Administration
 
-# Aim
-  * To convey principles, theory, and tools that enable effective HPC administration in a modern environment.
+Learn about administrating an HPC cluster and remember many basics about servers and other equipment.
 
-# Outcomes
-  * Distinguish hardware options.
-  * Manage software on an HPC system efficiently.
-  * Manage users.
-  * Monitor the system and software usage.
-  * Provide an effective user environment.
-  * Describe support structures.
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:4:b]]
-  * [[skill-tree:adm:1:b]]
-  * [[skill-tree:adm:2:b]]
-  * [[skill-tree:adm:3:b]]
+## Skill topics and Skills
+

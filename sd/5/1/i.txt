@@ -1,7 +1,0 @@
-# SD5.1-I Coding Standards
-# Background
-# Aim
-# Outcomes
-  * Adhere to coding standards and conventions in a project.
-
-# Subskills

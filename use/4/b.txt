@@ -1,20 +1,14 @@
-# USE4-B Developing Parallel Programs
-# Background
+# USE4 Developing Parallel Programs
 
 In HPC parallelization brings huge performance benefits and is omnipresent. That brings challenges when developing software. There are a lot of concepts that have to be considered to write parallel programs well.
 
-# Aim
-  * To enable practitioners to comprehend the concepts and procedures for developing parallel applications for HPC environments.
-  * To debug and troubleshoot issues with parallel applications and parallelization during their development.
+## Requirements
 
-
-# Outcomes
+## Outcomes
   * Develop parallel software.
   * Code parallel programs.
   * Analyze and debug parallel programs.
   * Articulate the problems of synchronization issues like Race Conditions, Deadlocks.
   * Analyze and optimize performance of parallel applications
 
-# Subskills
-  * [[skill-tree:use:3:b]]
-  * [[skill-tree:sd:b]]
+## Subskills

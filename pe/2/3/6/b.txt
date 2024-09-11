@@ -1,0 +1,22 @@
+# PE2.3.6 Lo2s
+
+Collecting measurement data from HPC applications can be difficult. Lightweight Node-Level Performance Monitoring (Lo2s, IPA: [ˈloːtʊs]) presents with its system monitoring a novel viewpoint on application behavior, which can be used to find performance bottlenecks on a node-level. In order to use this measurement system effectively, users must be aware of both the common performance-engineering issues that affect all performance measurements and the specifics of how to use the two measurement modes and various additional metric recordings of Lo2s to collect accurate and relevant performance data.
+
+## Learning objectives
+
+  * Able to sample applications including one or more parallel paradigms from the following:
+    * MPI (node-level)			
+    * OpenMP
+    * Pthreads
+  * Able to sample applications and nodes including at least one specialized form of measurement from the following:
+    * I/O performance
+    * Hardware counters
+    * Perf metrics	
+    * Linux tracepoints
+  * Able to use Lo2s in application monitoring and system monitoring mode
+
+## Maintainer
+
+* Mario Bielert, ZIH Tools Team @ TU Dresden
+
+## Subskills

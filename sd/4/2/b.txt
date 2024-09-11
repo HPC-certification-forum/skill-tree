@@ -1,8 +1,7 @@
-# SD4.2-B Extreme Programming
-# Background
-# Aim
-# Outcomes
-  * Discuss the principles of extreme programming and when to apply it.
+# SD4.2 Extreme Programming
 
-# Subskills
-  * [[skill-tree:sd:4:2:i]]
+## Learning objectives
+  * Discuss the principles of extreme programming and when to apply it.
+  * Apply the principles in the context of an HPC project.
+
+## Subskills

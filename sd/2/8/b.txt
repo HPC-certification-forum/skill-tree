@@ -1,8 +1,5 @@
-# SD2.8-B Portability
-# Background
+# SD2.8 Portability
 
-# Aim
+## Learning objectives
 
-# Outcomes
-
-# Subskills
+## Subskills

@@ -1,14 +1,23 @@
-# USE3-B Building of Parallel Programs
-# Background
-# Aim
-# Outcomes
+# USE3 Building of Parallel Programs
+
+Building programs that run on an HPC system requires some thought into software, compiling, linking and running.
+
+## Requrements
+  * [[skill-tree:use:1:b]]
+  * [[skill-tree:use:2:b]]
+
+## Learning objectives
   * Build parallel programs, e.g. via open sources packages.
   * Run parallel programs in an HPC environment.
   * Use a compiler and to assess the effects of optimization switches available for the relevant compilers (e.g. GNU, Intel).
   * Use a linker and to assess the effects of linker specific options and environment variables (e.g. -L and LIBRARY_PATH, -rpath and LD_RUN_PATH).
   * Configure the relevant settings (e.g. by setting compiler and linker options), which determine how the application ought to be built with regard to the parallelization technique(s) used (e.g. OpenMP, MPI).
   * Use software building environments like make, Autotools, CMake.
+  * Run parallel programs in an HPC environment.
+  * Use a compiler and to assess the effects of optimization switches available for compilers commercially available (e.g. PGI, NAG).
+  * Use efficient open-source libraries (e.g. OpenBLAS, FFTW) or highly optimized vendor libraries (e.g. Intel-MKL, IBM-ESSL).
+  * Configure the relevant settings (e.g. by setting compiler and linker options), which determine how the application ought to be built with regard to the parallelization technique(s) used (e.g. OpenACC, C++ AMP).
+  * Use the profile guided optimization (PGO) technique.
+  * Use software building environments like Scons, Waf, make, Autotools, CMake.
 
-# Subskills
-  * [[skill-tree:use:2:b]]
-  * [[skill-tree:use:3:i]]
+## Subskills

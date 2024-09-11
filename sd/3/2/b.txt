@@ -1,21 +1,10 @@
-# SD3.2-B Version Control
-# Background
-This skill covers how to apply version and configuration management to the development of (parallel) programs in order to track and control changes in the sources and how to establish and maintain consistency of the program or software system throughout its life, and facilitate cooperative development.
+# SD3.2 Issue Tracking and Bug Tracking
 
-Systems like Revision Control System (RCS), Subversion (SVN), and GIT are presented.
+## Learning objectives
+  * Describe concepts of issue/bug tracking systems and their basic concepts like task, sub-task, new feature, story, release planning, sprint planning in order to structure and organize the development process (e.g. assigning tasks to developers, reporting bugs, writing user stories, managing the stages of an issue (to do, in progress, in review, done) etc.)
+  * Differentiate issue tracking systems, like Jira or Redmine.
+  * Apply issue tracking in order to manage tasks, bug reports, and other issues occuring during development and enabling task assignment in the team.
+  * Apply different issue tracking systems, like Jira or Redmine, to the development project.
+  * Define a consistent workflow in the development team for issue tracking.
 
-# Aim
-# Outcomes
-  * Describe the basics of version control systems, e.g. what is version control.
-  * Discuss the benefits of using version control for software development especially in a team.
-  * Describe what is branching and merging.
-  * Assess the difference between distributed and centralized version control systems.
-  * Apply basic Git concepts.
-  * Apply basic SVN concepts.
-  * Use basic git commands such as git add, git commit, git pull, git push.
-  * Use SVN commands.
-  * Resolve merge conflicts.
-
-# Subskills
-  * [[skill-tree:sd:3:2:i]]
-  * [[skill-tree:sd:3:2:e]]
+## Subskills

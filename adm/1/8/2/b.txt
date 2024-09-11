@@ -1,8 +1,0 @@
-# ADM1.8.2-B Unix Permission Model
-# Background
-
-# Aim
-
-# Outcomes
-
-# Subskills

@@ -1,6 +1,6 @@
 # SkillTree
 
-# Subskills
+## Subskills
   * [[skill-tree:adm:b]]
   * [[skill-tree:bda:b]]
   * [[skill-tree:k:b]]

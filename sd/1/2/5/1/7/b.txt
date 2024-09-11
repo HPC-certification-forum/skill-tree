@@ -1,0 +1,12 @@
+# SD1.2.5.1.7 NetCDF IDL API
+
+IDL (Interactive Data Language) is a commercial scientific computing environment that combines mathematics, advanced data visualization, scientific graphics, and a graphical user interface toolkit to analyze and visualize scientific data.
+IDL supports data in NetCDF format.
+
+## Learning objecives
+
+  * Write a two-dimensional array of sample data and read data from this file.
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
+
+## Subskills

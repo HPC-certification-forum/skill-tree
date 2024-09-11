@@ -1,0 +1,16 @@
+# USE2.2 Job Scripts
+
+Job Scripts are a more efficient and more powerfull way of running job on an HPC system.
+
+## Requirements
+
+## Learning objectives
+  * Use the command-line interface.
+  * Write robust job scripts, e.g. to simplify job submissions by the help of automated job chaining.
+  * Select the appropriate software environment.
+  * Use a workload manager to allocate HPC resources for running a parallel program interactively.
+  * Recognize cost aspects.
+  * Measure system performance as a basis for benchmarking a parallel program.
+  * Benchmark a parallel program.
+  * Tune a parallel program from the outside via runtime options.
+  * Apply the workflow for tuning.

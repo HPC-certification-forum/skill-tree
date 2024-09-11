@@ -1,7 +1,0 @@
-# K4-E Job Scheduling
-# Background
-# Aim
-# Outcomes
-  * Discuss sophisticated scheduling principles (e.g. fair share) to achieve objectives like treating the users fair, and maximizing the utilization of the available HPC resources.
-
-# Subskills

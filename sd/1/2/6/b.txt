@@ -1,9 +1,23 @@
-# SD1.2.6-B GPU Programming
-# Background
+# SD1.2.6 GPU Programming with CUDA C/C++ Programming Fundamentals
 
-# Aim
+NVIDIA GPUs can be programmed by using CUDA as an extension to the C/C++ programming languages. NVIDIA provides an entire CUDA software environment which includes compilers, profilers, libraries and more. CUDA allows programmers to write highly parallel compute kernels for the execution on NVIDIA GPUs. In order to write CUDA kernels that can utilize the GPU, an understanding of their architecture and its mapping to the CUDA language extension is required.
 
-# Outcomes
+## Learning objectives
+* Understand the CUDA thread hierarchy:
+    * Address individual threads within the kernel grid
+    * Write scalable codes via grid-striding loops
+    * Configure and modify kernel launch configurations
+* Understand the nature of unified memory:
+    * Understand the necessity for memory transfers
+    * Understand the functional principles of unified memory
+    * Understand the potential performance hazards & ways to mitigate those
+* Be able to execute kernels concurrently via streams:
+    * Use streams to fully utilize the GPU
+    * Use streams to hide memory transfer times
+* Be able to query the status of a GPU & potential CUDA errors that occur during program execution
 
-# Subskills
-  * [[skill-tree:sd:1:2:6:1:b]]
+## Maintainer
+
+* Markus Velten, ZIH Tools Team @ TU Dresden
+
+## Subskills

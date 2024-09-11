@@ -1,10 +1,10 @@
-# ADM3.5-B User Management
-# Background
+# ADM3.5 User Management
 
-# Aim
+Learn about user management software.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:3:5:1:b]]
-  * [[skill-tree:adm:3:5:2:b]]
+## Learning Objectives
+
+* Understand User management software
+

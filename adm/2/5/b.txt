@@ -1,12 +1,13 @@
-# ADM2.5-B Cooling Systems
-# Background
+# ADM2.5 Cooling Systems
 
-# Aim
+Learn about the cooling system and requirements for an HPC system.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:2:5:1:b]]
-  * [[skill-tree:adm:2:5:2:b]]
-  * [[skill-tree:adm:2:5:3:b]]
-  * [[skill-tree:adm:2:5:4:b]]
+## Learning Objectives
+
+* Understand Air cooling
+* Understand water cooling
+* Understand Oil Cooling
+* Understand heat exchange to external
+

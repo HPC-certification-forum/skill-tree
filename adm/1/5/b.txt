@@ -1,12 +1,14 @@
-# ADM1.5-B Monitoring
-# Background
+# ADM1.5 Cluster Management
 
-# Aim
+Learning about programs and systems for cluster management.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:1:5:4:b]]
-  * [[skill-tree:adm:1:5:1:b]]
-  * [[skill-tree:adm:1:5:2:b]]
-  * [[skill-tree:adm:1:5:3:b]]
+* USE2.4 Remote access
+
+## Learning Objectives
+
+* Employ SSH connections for administrator access
+* Understanding System provisioning
+* Understanding user management
+

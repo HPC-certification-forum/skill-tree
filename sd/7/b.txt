@@ -1,13 +1,8 @@
-# SD7-B Documentation
-# Background
-# Aim
-# Outcomes
+# SD7 Overview Documentation
+
+## Learnining objectives
   * Document the entire software system appropriately.
   * Provide a user documentation.
   * Provide a documentation for developers (e.g. describing the software architecture, for extending the software etc.).
 
-# Subskills
-  * [[skill-tree:sd:7:1:b]]
-  * [[skill-tree:sd:7:2:b]]
-  * [[skill-tree:sd:7:3:b]]
-  * [[skill-tree:sd:7:4:b]]
+## Subskills

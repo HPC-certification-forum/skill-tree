@@ -1,15 +1,27 @@
-# BDA1-B Theoretic Principles of BDA
-# Background
-Big data analytics is a fuzzy area that covers many concepts.
+# BDA1 Theoretic Principles of BDA
 
-# Aim
-  * To convey the theory on an application-level that allows the effective application of BDA in HPC.
+Theoretic Principles form the foundational knowledge base in Big Data Analytics (BDA), providing the theoretical underpinnings for understanding and analyzing large and complex datasets. In this overview, we delve into the key theoretic principles essential for practitioners in the field of Big Data Analytics.
 
-# Outcomes
+**6Vs (BDA2.2):** The 6Vs—Volume, Velocity, Variety, Veracity, Value, and Variability—serve as a framework for understanding the characteristics and challenges associated with big data. This section explores each V in detail, discussing concepts such as data volume, data velocity, data variety, data veracity, data value, and data variability. Mastery of the 6Vs framework enables practitioners to assess, manage, and derive insights from large-scale datasets effectively, considering their diverse characteristics and properties.
+
+**AI and Data Science (BDA2.3):** Artificial Intelligence (AI) and Data Science are closely intertwined with Big Data Analytics, providing methodologies and techniques for extracting insights, patterns, and knowledge from data. This branch discusses AI algorithms, machine learning models, statistical techniques, and data analysis methodologies used in data science and big data analytics. Topics also include predictive modeling, clustering, classification, regression, and anomaly detection. Mastery of AI and Data Science principles enables practitioners to leverage advanced analytical techniques to uncover valuable insights and drive data-driven decisions in various domains.
+
+**Data Mining (BDA2.4):** Data Mining is a subset of Big Data Analytics that focuses on discovering patterns, trends, and relationships in large datasets. This section explores data mining techniques such as association rule mining, clustering, classification, regression, and anomaly detection. Topics also include data preprocessing, feature selection, model evaluation, and interpretation of mining results. Mastery of data mining principles equips practitioners with the skills to extract actionable knowledge from complex datasets, enabling them to uncover hidden patterns and make informed decisions.
+
+**Algorithms (BDA2.5):** Algorithms are the computational procedures and techniques used to solve problems and perform analyses in Big Data Analytics. This branch discusses algorithms for data processing, data analysis, and machine learning, covering topics such as sorting algorithms, searching algorithms, graph algorithms, optimization algorithms, and parallel algorithms. Mastery of algorithmic principles enables practitioners to select, implement, and optimize algorithms for specific analytical tasks, ensuring efficient and effective processing of large-scale datasets.
+
+**Ethical/Privacy (BDA2.6):** Ethical considerations and privacy concerns are paramount in Big Data Analytics, given the potential impact of data analysis on individuals, organizations, and society. This section explores ethical principles, privacy regulations, data protection mechanisms, and best practices for ensuring responsible data handling and usage. Topics also include data anonymization, consent management, bias mitigation, and transparency in data analysis processes. Mastery of ethical and privacy principles enables practitioners to conduct data analytics in an ethical and responsible manner, balancing the benefits of data-driven insights with the protection of individual privacy and societal interests.
+
+By mastering the theoretic principles in Big Data Analytics, practitioners gain a solid understanding of the foundational concepts and frameworks essential for effectively analyzing large and complex datasets, extracting valuable insights, and making informed decisions across various domains and industries.
+
+## Learning objectives
   * Describe the key concepts of artificial intelligence and data science.
   * Describe the general approach of big data tools.
   * List ethical constraints.
   * Illustrate the typical data science workflow.
   * Categorize the different types of diagrams used for visualization.
 
-# Subskills
+**AI generated content**
+
+## Subskills
+

@@ -1,8 +1,0 @@
-# K1.2-I Hardware Architectures
-# Background
-# Aim
-# Outcomes
-  *  special or application-specific hardware (e.g. TPUs)
-
-# Subskills
-    * [[skill-tree:k:1:2:e]]

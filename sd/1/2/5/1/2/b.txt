@@ -1,29 +1,13 @@
-# SD1.2.5.1.2-B XIOS
-# Background
+# SD1.2.5.1.2 NetCDF C++ API
 
-XIOS, or XML-IO-Server, is a library dedicated to I/O management in climate codes targeted for large core simulation (> 10 000) on climate coupled models.
+The NetCDF-4 C++ API was for using in managing fusion research data from CCFE's innovative MAST (Mega Amp Spherical Tokamak) experiment.
 
-XIOS manages the output of diagnostics and other data produced by climate component codes into files and offers temporal and spatial post-processing operations on this data. 
+The API is implemented as a layer over the NetCDF-4 C interface, which means bug fixes and performance enhancements in the C interface will be immediately available to C++ developers as well.
 
-XIOS aims at simplifying the I/O management by minimizing the number of subroutines to be called and by supporting a maximum of on-line processing of the data.
+## Learning objectives
 
-# Aim
+  * Write a two-dimensional array of sample data and read data from this file.
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
 
-  * To explore the use of XIOS to address three main challenges for climate data production:
-    * Flexibility in management of I/O and data definition.
-    * I/O performance.
-    * Post-treatment.
-
-# Outcomes
-
-  * Describe the XIOS-XML terminology and structuration.
-  * Test XIOS on a specific architecture.
-  * Use one or more processes dedicated exclusively to the I/O management to obtain:
-    * Simultaneous writing and computing by an asynchronous call.
-    * Asynchronous transfer of data from clients to servers.
-    * Asynchronous data writing by each server.
-  * Use of parallel file system ability via Netcdf4-HDF5 file format to obtain:
-    * Simultaneous writing in the same single file by all servers.
-    * No more post-processing rebuilding of the files.
-
-# Subskills
+## Subskills

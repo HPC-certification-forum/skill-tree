@@ -1,18 +1,17 @@
-# ADM1.1-B Architecture
-# Background
+# ADM1.1 Architecture
 
-# Aim
+Learn about Architectures and specific hardware used in HPC systems.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:1:1:10:b]]
-  * [[skill-tree:adm:1:1:1:b]]
-  * [[skill-tree:adm:1:1:2:b]]
-  * [[skill-tree:adm:1:1:3:b]]
-  * [[skill-tree:adm:1:1:4:b]]
-  * [[skill-tree:adm:1:1:5:b]]
-  * [[skill-tree:adm:1:1:6:b]]
-  * [[skill-tree:adm:1:1:7:b]]
-  * [[skill-tree:adm:1:1:8:b]]
-  * [[skill-tree:adm:1:1:9:b]]
+## Learning Objectives
+
+* Understanding Motherboards
+* Understanding RAM
+* Understanding PCIe
+* Understanding DMMA and RDMA
+* Understanding Firmware
+* Understanding virtualisation and remembering Hypervisors, Emulation, virtualised hardware, and hardware passthrough
+* Understanding Temperature and cooling
+
+

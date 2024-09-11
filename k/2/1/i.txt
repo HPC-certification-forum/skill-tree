@@ -1,5 +1,0 @@
-# K2.1-I Performance Frontiers
-# Background
-# Aim
-# Outcomes
-  *  the roofline model, used to provide performance estimates for parallel programs based on multi-core or accelerator processor architectures, by showing inherent hardware limitations 

@@ -1,0 +1,13 @@
+# SD1.2.5.1.4 NetCDF Fortran-90 API
+
+The Fortran-90 library provides current Fortran support for modelers and scientists.
+
+The Fortran-90 interface is significantly simpler than either the C or Fortran-77 interfaces because of its use of overloaded functions and optional arguments.
+
+## Learning objectives
+
+  * Write a two-dimensional array of sample data and read data from this file.
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
+
+## Subskills

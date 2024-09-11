@@ -1,8 +1,13 @@
-# ADM1.3-B Bootprocess
-# Background
+# ADM1.3 Bootprocess
 
-# Aim
+Learn about how a computer boots and what is required for a successful start
 
-# Outcomes
+## Requirements
 
-# Subskills
+## Learning Objectives
+
+* Understand the BIOS
+* Understand Netboot procedure
+* Understand the bootloader
+* Understand the Init system/systemd
+

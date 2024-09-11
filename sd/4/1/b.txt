@@ -1,11 +1,17 @@
-# SD4.1-B Test-driven Development and Agile Testing
-# Background
-# Aim
-# Outcomes
+# SD4.1 Test-driven Development and Agile Testing
+
+## Learning objectives
   * Describe the challenges of testing scientific applications.
   * Discuss test-driven and test-first concepts and understanding the benefits.
   * Characterize what constitutes a test strategy.
   * Explain that there are different test types, e.g. given by the test pyramid.
+  * Apply unit testing in a specific programming language using an appropriate unit testing framework, e.g. pfUnit for Fortran, glib testing framework for C.
+  * Develop (agile) testing strategies.
+  * Write different test types for the test pyramid.
+  * Understand Continous Integration (CI) and remeber
+     * jenkins 
+     * buildbot
+     * hugo
+  * Understand Continuous Delivery / Deployment (CD)
 
-# Subskills
-  * [[skill-tree:sd:4:1:i]]
+## Subskills

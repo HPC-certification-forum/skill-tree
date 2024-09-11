@@ -1,40 +1,29 @@
-# USE1.5-B Remote Access
-# Background
+# USE1.5 Overview: Software Environment
 
-An HPC system is accessed remotely and has its particular file systems that contain data and programs to execute.
-Learning the ways of general interaction with the remote system and the tools involved is essential for newcomers.
+HPC systems have generally installed multiple versions of several essential software tools and software environments.
+Package management tools provide access to this wide variety of software.
+A user has to load the software for the current shell session to make commands available.
 
-Users must connect to an HPC system typically using the Secure Shell (SSH), which then starts a shell and allows the interactive access.
-When the user disconnects, such a session is terminated.
-A server-sided session that persists after disconnection enables the user to execute long-running programs remotely and allows the continuation of a previous session seamlessly.
-Data transfer between a local user system (e.g., desktop or laptop) and a remote system requires special tools. 
-Interactive access is also allowed.
+The widely available software tools are:
+  * Environment modules
+  * Spack
 
-The tools discussed here are generally valid for systems using Linux, Mac, Windows, and also mobile devices.
+## Learning objectives
+  * Understand shell variables relevant for executing and building software.
+  * Query available software using the package manager.
+  * Select the appropriate versions for deployment in the session environment.
+  * Describe the general dependency structure of software.
+  * Describe how a package manager makes software available.
+  * Use the export command to print shell variables.
+  * Understand shell variables relevant for executing and building software:
+    * PATH for executables
+    * LD\_LIBRARY\_PATH for libraries
+    * MANPATH for manual pages (man command)
+    * PKG\_CONFIG\_PATH for pkg-config
+  * Manipulate shell variables to include additional software:
+    * Setting shell variables for a single program by prefixing or by using export.
 
-# Aim
-  * To understand how to access a remote server and transfer data.
-
-# Outcomes
-  * Describe how SSH-authentication works:
-    * Password authentication.
-    * Public-key authentication.
-    * The role of an authentication agent and the security implications.
-  * Generate an SSH public/private key under Linux.
-  * Register a key for public-key authentication using ssh-copy-id.
-  * Perform a remote login from Linux using SSH.
-  * Use SSH-agent or Windows equivalents.
-  * Use Agent forwarding to connect to a third HPC system from an HPC system that you logged into with ssh from your computer.
-  * Know when to use and how to create a config file.
-  * Utilize tools to transfer data between the local and remote system:
-    * scp
-    * sftp
-    * rsync (-avz)
-  * Describe how SSHFS allows mounting a remote directory to a local directory for interactive usage (Mac/Linux only), e.g. for copying files or to transparently use your favourite graphical text editor on the local computer for editing files on the remote cluster.
-  * Utilize screen and tmux to preserve a session between logins:
-    * Creation of a session.
-    * Detaching from the current session.
-    * Resuming a previous session.
-
-# Subskills
-  * [[skill-tree:sd:1:2:5:1:1:3:1:b]]
+## Subskills
+  * [[skill-tree:use:1:5:1:b]]
+  * [[skill-tree:use:1:5:2:b]]
+  * [[skill-tree:use:1:5:3:b]]

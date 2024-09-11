@@ -1,8 +1,7 @@
-# SD2.7-B Testing
-# Background
+# SD2.7 Testing
 
-# Aim
+## Learning objectives
 
-# Outcomes
+* Understand testing procedures
 
-# Subskills
+## Subskills

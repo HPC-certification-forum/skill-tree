@@ -1,8 +1,10 @@
-# ADM3.4.4-B Warewulf
-# Background
+# ADM3.4.4 Deployment Systems
 
-# Aim
+## Requirements
 
-# Outcomes
+## Learning objectives
 
-# Subskills
+* Understand Warewulf
+* Understand Bright
+* Understand Ansible
+

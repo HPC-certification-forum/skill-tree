@@ -1,11 +1,16 @@
-# ADM1.7-B Resource Management
-# Background
+# ADM1.7 Security
 
-# Aim
+Learn about security and implications for administrating a cluster.
 
-# Outcomes
+## Requirements
 
-# Subskills
-  * [[skill-tree:adm:1:7:1:b]]
-  * [[skill-tree:adm:1:7:2:b]]
-  * [[skill-tree:adm:1:7:3:b]]
+## Learning Objectives
+
+* Remember best practices
+* Understand the Unix Permission Model
+* Understand how to verify software authenticity and integrity
+* Understand Network segmentationa nd firewalls
+* Understand SSH-keys and attack monitoring
+* Understand 2FA procesures
+* Understand Advanced fencing of sensitive data (GDPR)
+

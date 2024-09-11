@@ -1,21 +1,24 @@
-# PE2.2-B Profiling
-# Background
+# PE2.2 I/O Performance
 
-Profiling is explained for the CPU level, where it can be supported by hardware performance counters and by sampling techniques.
+There are several aspects involved in delivering high I/O performance to parallel applications, from hardware characteristics to methods that manipulate workloads to improve achievable performance.
 
-Sampling is used to see, by examining the program counter, what routines and source code lines of a program are responsible for which portions of the total runtime.
+Running the same application with different I/O configurations gives the possibility to tune the I/O system according to the application access pattern.
 
-Automatically adding trace code to a parallel program by so-called instrumentation to record its execution in a strict chronology is explained and the difference to profiling is emphasized.
+One way to predict application performance in HPC systems with different I/O configurations is by using modelling and simulation techniques.
+Modeling the system allows assessing obtained performance and therewith estimate the performance potentially gained by optimizations.
 
-Similar techniques are explained for profiling the network level (e.g. based on InfiniBand counters and I/O server states).
+File systems are implemented in the operating system which deploys strategies to improve performance such as scheduling, caching and aggregation.
+Therefore, the observable I/O performance depends on more than the capabilities of the raw block device.
 
-# Aim
-# Outcomes
-  * Detect performance issues and bottlenecks caused, for example, by inefficient programming, memory accesses, I/O operations, cache-misses, page-faults, and parallelization overheads.
-  * Use environment variables like $I_MPI_STATS to control the built-in performance analysis functionality in MPI.
+
+## Learning objectives
+
+  * Select performance models to assess and optimize the application I/O performance.
+  * Identify tools capable of predicting the behavior of applications in HPC.
+  * Apply methods to manipulate workloads to improve achievable performance.
+  * Understand metrics that describe relevant I/O performance characteristics.
+  * Select tools to analyze I/O performance of applications.
+  * Apply the performance analysis tools to applications and workflows.
+  * Interpret the results of I/O analysis tools and distill optimization strategies for the application or system configurations.
 
 # Subskills
-  * [[skill-tree:pe:2:2:2:b]]
-  * [[skill-tree:pe:2:2:1:b]]
-  * [[skill-tree:pe:2:2:i]]
-  * [[skill-tree:pe:2:2:e]]

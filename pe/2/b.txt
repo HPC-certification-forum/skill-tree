@@ -1,10 +1,7 @@
-# PE2-B Measuring System Performance
-# Background
-# Aim
-# Outcomes
+# PE2 Overview: Measuring System Performance
+
+## Learning objectives
   * Measure the system performance by the help of standard tools and by profiling in order to assess the runtime behavior of parallel programs.
 
-# Subskills
-  * [[skill-tree:pe:2:1:b]]
-  * [[skill-tree:pe:2:2:b]]
-  * [[skill-tree:pe:2:3:b]]
+
+## Subskills

@@ -1,8 +1,24 @@
-# SD3.1-B Introduction
-# Background
-# Aim
-# Outcomes
-  * Describe the basics of SCM from the IEEE standards (e.g. IEEE-Standard 729-1983, IEEE 828: Software Configuration Management Plans, IEEE 1042: Guide to Software Configuration Management.
-  * Detail terms like Configuration Item, Baseline, SCM Directories, Version, Revision, and Release.
+# SD3.1 Version Control
 
-# Subskills
+This skill covers how to apply version and configuration management to the development of (parallel) programs in order to track and control changes in the sources and how to establish and maintain consistency of the program or software system throughout its life, and facilitate cooperative development.
+
+Systems like Revision Control System (RCS), Subversion (SVN), and GIT are presented.
+
+## Learning objectives
+  * Describe the basics of version control systems, e.g. what is version control.
+  * Discuss the benefits of using version control for software development especially in a team.
+  * Describe what is branching and merging.
+  * Assess the difference between distributed and centralized version control systems.
+  * Apply basic Git concepts.
+  * Apply basic SVN concepts.
+  * Use basic git commands such as git add, git commit, git pull, git push.
+  * Use SVN commands.
+  * Resolve merge conflicts.
+  * Apply a specific workflow, such as Feature Branch Workflow, Gitflow Workflow, Centralized Workflow, Forking Worfklow.
+  * Apply advanced git concepts and commands.
+  * Apply Git as a version control system.
+  * Apply SVN as a version control system.
+  * Apply advanced git concepts, such as pull requests, branches, tags, submodules etc.
+  * Differentiate types of workflows, such as Feature Branch Workflow, Gitflow Workflow, Centralized Workflow, Forking Worfklow.
+
+## Subskills

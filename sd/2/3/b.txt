@@ -1,11 +1,10 @@
-# SD2.3-B Programming Idioms
-# Background
+# SD2.3 Programming Idioms
+
 This skill conveys programming idioms in general and for specific programming languages in order to help developers to solve recurring programming problems.
 
-# Aim
-# Outcomes
+## Learning objectives
   * Describe programming idioms for a specific programming language, e.g. Fortran, Python, C, C++.
+  * Recognize where programming idioms are violated and to refactor the code to comply to a specific programming idiom.
+  * Apply programming idioms for a specific programming language, e.g. Fortran, Python, C, C++.
 
-# Subskills
-  * [[skill-tree:sd:2:3:i]]
-  * [[skill-tree:sd:2:3:e]]
+## Subskills

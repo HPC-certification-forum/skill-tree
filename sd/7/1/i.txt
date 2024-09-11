@@ -1,7 +1,0 @@
-# SD7.1-I Requirements Documentation
-# Background
-# Aim
-# Outcomes
-  * Document requirements using a specified template.
-
-# Subskills

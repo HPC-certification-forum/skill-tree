@@ -1,15 +1,14 @@
-# PE4.3-B Tuning via Reprogramming
+# PE4.3 Tuning via Reprogramming
 
-# Background
+Tuning via Reprogramming focuses on optimizing system performance through direct modifications to the software's source code. This course explores the methodologies, tools, and best practices for reprogramming to enhance efficiency and functionality.
 
-The potential for tuning via reprogramming exists on the hardware as well as on the software level.
-At the software level, performance improvements are achievable by using more efficient algorithms.
-This is explained by the help of popular practice-relevant examples.
+## Requirements
 
-# Aim
-# Outcomes
-  * Run parallel programs in an HPC environment.
-  * Reprogram appropriate parallel code for improved performance on the processing element level e.g. by using functional units (for executing fused multiply-add instructions and variants thereof), by using vectorization techniques with SIMD instructions, etc.
-  * Assess how appropriate computationally intensive functions (which have been identified earlier by profiling the parallel program) can be ported to many-core architectures like GPUs to achieve further speedups.
+## Learning Objectives
 
-# Subskills
+* Understand Efficient Algorithms
+* Understand Functional Units
+* Understand Vectorization, SIMD
+* Understand SIMT 
+
+AI generated content

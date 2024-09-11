@@ -1,46 +1,12 @@
-# SD1.2.5.1.1-B NetCDF
-# Background
+# SD1.2.5.1.1 NetCDF C API
 
-In a simple view, NetCDF is:
-    * A data model.
-    * A file format.
-    * A set of APIs and libraries for various programming languages.
+The C library is the core implementation on which non-Java interfaces are built.
+It provides reliability, performance, and portability.
 
-Together, the data model, file format, and APIs support the creation, access, and sharing of scientific data.
+## Learning objectives
+  * Write a two-dimensional array of sample data and read data from this file.
+  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
+  * Employ ncgen to generate the C code needed to create the corresponding NetCDF file from a CDL text file.
 
-NetCDF APIs are available for most programming languages used in geosciences.
-Although the NetCDF data model and format are language-independent, all NetCDF APIs are currently implemented over C or Java.
-Files written through one language API are readable through other language APIs and some language interfaces support remote access.
-
-Languages such as C++, Fortran-77, Fortran-90, Perl, Python, Ruby, Matlab, among others, have C-based interfaces.
-In particular, NetCDF4-python is a Python interface to the NetCDF C library.
-
-# Aim
-  * To describe the concepts of the NetCDF APIs and the libraries providing the API for C and Python.
-  * To utilize the C-API to create basic NetCDF files.
-
-# Outcomes
-  * Comply with the best practices for writing NetCDF files.
-  * Identify protocols, servers, and clients for remote data access through NetCDF interfaces.
-  * Discuss how features of the enhanced NetCDF-4 format can be applied:
-    * Groups.
-    * Multiple unlimited dimensions.
-    * User-defined types.
-    * Data compression.
-  * Create short programs in C that use the NetCDF API to read and write files in the NetCDF classical data model for a given NetCDF data model.
-  * Create short programs that use the netcdf4-python module to create and read files in NetCDF-4 format for a given NetCDF data model.
-
-# Subskills
-  * [[skill-tree:sd:1:2:5:1:1:1:b]]
-  * [[skill-tree:sd:1:2:5:1:1:2:b]]
-  * [[skill-tree:sd:1:2:5:1:1:3:b]]
-  * [[skill-tree:sd:1:2:5:1:1:4:b]]
-  * [[skill-tree:sd:1:2:5:1:1:5:b]]
-  * [[skill-tree:sd:1:2:5:1:1:6:b]]
-  * [[skill-tree:sd:1:2:5:1:1:7:b]]
-  * [[skill-tree:sd:1:2:5:1:1:8:b]]
-  * [[skill-tree:sd:1:2:5:1:1:9:b]]
-  * [[skill-tree:sd:1:2:5:1:1:10:b]]
-  * [[skill-tree:sd:1:2:5:1:1:11:b]]
-  * [[skill-tree:k:1:3:2:4:1:b]]
-  * [[skill-tree:k:1:3:2:5:2:b]]
+## Subskills

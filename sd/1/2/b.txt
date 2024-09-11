@@ -1,18 +1,10 @@
-# SD1.2-B Parallel Programming
-# Background
+# SD1.2 Overview Parallel Programming
+
 Parallel programming of shared memory systems and message passing systems as well as load balancing is addressed.
 
-# Aim
-# Outcomes
+## Learning objectives
+
   * Assess the parallel nature of algorithms.
   * Develop parallel programs.
 
-# Subskills
-  * [[skill-tree:sd:1:2:8:b]]
-  * [[skill-tree:sd:1:2:6:b]]
-  * [[skill-tree:sd:1:2:7:b]]
-  * [[skill-tree:sd:1:2:1:b]]
-  * [[skill-tree:sd:1:2:2:b]]
-  * [[skill-tree:sd:1:2:3:b]]
-  * [[skill-tree:sd:1:2:4:b]]
-  * [[skill-tree:sd:1:2:5:b]]
+## Subskills

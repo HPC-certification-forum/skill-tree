@@ -1,7 +1,6 @@
-# K3.4-B Autoparallelization
-# Background
-# Aim
-# Outcomes
+# K3.4 Autoparallelization
+
+## Learning objectives
   * Describe the auto parallelization capabilities of current compilers (e.g. to automatically parallelize suitable loops), which are applicable at the intra-node level.
 
-# Subskills
+## Subskills

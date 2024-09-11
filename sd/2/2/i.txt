@@ -1,5 +1,0 @@
-# SD2.2-I Debugging
-# Background
-# Aim
-# Outcomes
-  * Use sophisticated debuggers such as DDT and TotalView.

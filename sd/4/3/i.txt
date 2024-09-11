@@ -1,5 +1,0 @@
-# SD4.3-I SCRUM
-# Background
-# Aim
-# Outcomes
-  * Apply practices of SCRUM.

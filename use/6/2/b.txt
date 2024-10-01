@@ -1,4 +1,4 @@
-# # Use 6.2 Workflow Configuration
+# Use 6.2 Workflow Configuration
 
 ## Learning Objectives
 

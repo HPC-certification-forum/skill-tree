@@ -1,5 +1,9 @@
 # Use 6.3 Workflow Parameterization for HPC Clusters
 
+## Requirements
+
+* [[skill-tree:use:4:2:b]]
+
 ## Learning Objectives
 
 - Understanding HPC Environment Requirements: Learners will identify the specific computational requirements (e.g.node configurations, wall time limits) necessary for running workflows efficiently in high-performance computing (HPC) environments.

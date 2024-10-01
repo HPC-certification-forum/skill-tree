@@ -1,0 +1,11 @@
+# SD8.2 Contributing Snakemake Workflows
+
+## Requirements
+
+* [[skill-tree:sd:8:1:b]]
+* [[skill-tree:sd:3:1:b]]
+
+## Learning Objectives 
+
+* Creating a Continous Integration Workflow on GitHub: Being able to copy and adapt the CI workflow of the Snakemake Catalog Template to ensure automated testing, linting and formatting control. All to ensure reliable build and release cycles.
+* Modularizing existing Workflow Code: Being able to modularize a workflow into semantic units to ensure better maintainability and sub-component testing.

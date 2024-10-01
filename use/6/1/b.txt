@@ -1,0 +1,14 @@
+# Use 6.1 Selecting Workflows
+
+Users need to select appropriate, pre-built workflows from established repositories for use in various computational and research tasks. Learners will develop an understanding of how to assess and select workflows that meet the specific needs of their project, whether using the nf-core repository for Nextflow workflows or the Snakemake Workflow Catalog for Snakemake-based workflows.
+
+## Learning Objectives
+
+- Understanding Workflow Repositories:
+    - nf-core: Familiarity with the nf-core repository, its purpose, and structure of its community-curated Nextflow pipelines.
+    - Snakemake Workflow Catalog: Understanding the Snakemake catalog as a collection of curated, tested workflows available for reuse.
+- Defining the criteria for workflow selection: 
+    - Workflow Suitability: Assessing whether an available workflow matches the needs of the project in terms of input/output formats, computational environment, and data types.
+    - Software Deployment: Ensuring the workflow’s capability by checking if it comes with proper dependency management (e.g. Conda, Apptainer or module file definitions) and comprehensive documentation.
+- Assessing the suitability with respect to CI-integration (has the workflow been checked?) and status of maintainance.
+- Understanding the data types necessary for input and being able to check whether the own data match the workflow design.

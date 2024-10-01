@@ -1,0 +1,13 @@
+# SD8.1 Programming Snakemake Workflows
+
+## Requirements
+
+* [[skill-tree:use:1:3:b]]
+* Python Programming
+
+## Learning objectives
+
+* Being enabled to programm Snakemake workflows: Familiarity and use of rules, input/output files, and directives like `shell`, `script`, `run`, "wrappers" and resources.
+* Custom Python scripts: Integrating Python code for quick data manipulation or dynamic resource parameterization.
+* Software Deployment: Ensuring automatic software deployment with Conda or software provisioning with Apptainer/Singularity or module files.
+* Modularizing existing Workflow Code: Being able to modularize a workflow into semantic units to ensure better maintainability.

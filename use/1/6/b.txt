@@ -1,0 +1,31 @@
+# USE1.6 CLI File editors
+
+Running programs using the CLI often also includes editing files without a GUI available.
+Many programs are available and are also often suggested in tutorials and by other people.
+It is of importance to being able to navigate file editing using different editors and understanding how to write files and exit the editor.
+
+Most common editors will all be included here, meaning one should be taught and the other need to be mentioned for completeness:
+	* VI/Vim
+	* Emacs
+	* Nano
+
+## Requirements
+
+* [[skill-tree:use:1:1:b]]
+
+
+## Learning Objectives
+
+* Define the abilities of a CLI based file editor
+* Discuss what a CLI file editor needs to be able to do and how it should behave
+* Demonstrate the usage of an editor to open a file in write mode and save the file
+* Show how to quit an editor (relevant for all editors)
+* Solve undo and redo operations to recover from changes and restore them
+* Indicate how to use the mouse pointer
+* Define how to copy and paste using the clipboard
+* Contrast differences between available editors
+	* Summarize the controversy between Emacs and Vim users
+
+
+## Subskills
+

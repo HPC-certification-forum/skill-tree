@@ -7,7 +7,7 @@
 
 ## Learning objectives
 
-* Being enabled to programm Snakemake workflows: Familiarity and use of rules, input/output files, and directives like `shell`, `script`, `run`, "wrappers" and resources.
-* Custom Python scripts: Integrating Python code for quick data manipulation or dynamic resource parameterization.
-* Software Deployment: Ensuring automatic software deployment with Conda or software provisioning with Apptainer/Singularity or module files.
-* Modularizing existing Workflow Code: Being able to modularize a workflow into semantic units to ensure better maintainability.
+* Develop Snakemake workflows by utilising rules, input/output files, and directives such as shell, script, run, "wrappers", and resource definitions.
+* Integrate custom Python scripts into Snakemake workflows for dynamic data manipulation and resource parameterization.
+* Handle automatic software deployment using Conda, or software provisioning with Apptainer/Singularity or module files.
+* Modularize existing Snakemake workflows into semantic units to improve maintainability and scalability.

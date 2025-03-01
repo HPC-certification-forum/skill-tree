@@ -1,19 +1,19 @@
 # SD8 Overview: Workflow Management Systems
 
-Workflow Management Systems are basic tools for reproducible data analysis, especially if many data analyis steps are involved.
+Workflow Management Systems are tools to enable reproducible data analysis, especially if many data analyis processing steps are involved.
 
-Workflow Management Systems cover all data analysis from A to Z, e.g. data preprocessing, quality filtering, analysis and statistical evaluation of processed data. This may include, starting jobs, staging data to compute nodes, running the computations, deleting temporary data, generating publication ready reports, archiving and cleaning work environments.
+Workflow Management Systems cover all data analysis from A to Z, e.g. data preprocessing, quality filtering, analysis and statistical evaluation of processed data. On HPC clusters this may include, starting jobs, staging data to compute nodes, running the computations, deleting temporary data, generating publication ready reports, archiving and cleaning work environments. They guarantee portability of their workflows across systems and transparenty of their processing.
 
 There are some Workflow Management Systems, such as Nextflow or Snakemake, which are designed to automate this process on HPC Clusters.
 
 ## Learning objectives
-  * Understanding the purpose and benefits of a Worfkflow Management System
-  * Understanding Snakemake workflow structure: Familiarity with rules, input/output files, and directives like `shell`, `script`, `run`, and resources.
-  * Software Deployment: Ensuring automatic software deployment with Conda or software provisioning with Apptainer/Singularity or module files.
-  * Writing maintainable workflows: Understanding how to build modular workflows.
-  * Advanced resource management: Setting up workflow-specific resources (e.g., memory, CPU, or cluster configurations).
-  * Custom Python scripts: Integrating Python scripts for quick data manipulation or dynamic resource parameterization.
-  * Error handling and troubleshooting: Identifying and addressing failed jobs, viewing logs, and restarting workflows from failed steps.
+  * Explain the purpose and benefits of a Workflow Management System.
+  * Describe the structure of a Snakemake workflow, including familiarity with rules, input/output files, and directives such as shell, script, run, and resource definitions.
+  * Use Conda, Apptainer/Singularity, or module files to manage software environments for workflow execution.
+  * Develop maintainable workflows by building modular workflow structures.
+  * Configure advanced resource management by setting up workflow-specific resources such as memory, CPU, or cluster configurations.
+  * Integrate custom Python scripts for quick data manipulation or dynamic resource parameterization.
+  * Diagnose and resolve workflow errors by identifying failed jobs, analysing logs, and restarting workflows from failed steps.  
 
 ## Subskills
   * [[skill-tree:use:1:3:b]]

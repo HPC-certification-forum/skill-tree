@@ -2,7 +2,10 @@
 
 ## Learning Objectives
 
-- Identifying Input Requirements: Learners will be able to determine and specify the appropriate input files (e.g., raw data, reference files) required by a workflow, ensuring that the correct datasets are selected for analysis.
-- Defining Workflow Input Paths: Learners will configure input file paths and directories in the workflow’s configuration files (e.g., config.yaml in Snakemake or params in Nextflow), adapting the workflow to local or remote data locations.
-- Selecting Program Parameters: Learners will understand how to modify and set program-specific parameters (e.g. tuning alignment tools for long or short reads, quality filtering criteria, algorithm selection for statistical data evaluation) within the configuration files to tailor the workflow to specific project requirements or experimental conditions.
-- Differentiation File Systems: Many Clusters require in- and output to be saved on dedicated file systems. Workflow Management systems provide these options. Learners will understand the importance of launching their workflows e.g. from a HOME file system and placing in- and outputs on different file systems.
+
+
+- Determine and specify the appropriate input files (e.g., raw data, reference files) required by a workflow, ensuring correct dataset selection for analysis.
+- Configure input file paths and directories in workflow configuration files (e.g., config.yaml in Snakemake or params in Nextflow) to accommodate local or remote data locations.
+- Selecting Program Parameters: Learners will understand how to modify and set program-specific parameters (e.g. tuning alignment tools for long or short reads, quality filtering criteria, algorithm selection for statistical data evaluation) within the configuration files to tailor the workflow to specific project requirements or experimental conditions
+- Modify and set programme-specific parameters (e.g., tuning alignment tools for long or short reads, quality filtering criteria, algorithm selection for statistical data evaluation) within configuration files to tailor the workflow to specific project requirements or experimental conditions.
+- Explain the importance of utilising dedicated file systems for inputs and outputs (e.g., launching workflows from a HOME file system, directing outputs to dedicated or high-performance file systems) and configure workflows accordingly to optimise data management.

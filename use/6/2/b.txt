@@ -1,0 +1,11 @@
+# Use 6.2 Workflow Configuration
+
+## Learning Objectives
+
+
+
+- Determine and specify the appropriate input files (e.g., raw data, reference files) required by a workflow, ensuring correct dataset selection for analysis.
+- Configure input file paths and directories in workflow configuration files (e.g., config.yaml in Snakemake or params in Nextflow) to accommodate local or remote data locations.
+- Selecting Program Parameters: Learners will understand how to modify and set program-specific parameters (e.g. tuning alignment tools for long or short reads, quality filtering criteria, algorithm selection for statistical data evaluation) within the configuration files to tailor the workflow to specific project requirements or experimental conditions
+- Modify and set programme-specific parameters (e.g., tuning alignment tools for long or short reads, quality filtering criteria, algorithm selection for statistical data evaluation) within configuration files to tailor the workflow to specific project requirements or experimental conditions.
+- Explain the importance of utilising dedicated file systems for inputs and outputs (e.g., launching workflows from a HOME file system, directing outputs to dedicated or high-performance file systems) and configure workflows accordingly to optimise data management.

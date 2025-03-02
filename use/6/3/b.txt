@@ -6,7 +6,7 @@
 
 ## Learning Objectives
 
-- Understanding HPC Environment Requirements: Learners will identify the specific computational requirements (e.g.node configurations, wall time limits) necessary for running workflows efficiently in high-performance computing (HPC) environments.
-- Parameterizing Execution Parameters: Learners will be able to set execution parameters (e.g. job duration, memory allocation, number of threads/MPI ranks) using workflow profile files to optimize resource usage on HPC systems. They will know how to make use of templates, if any are present.
-- Implementing Concurrent Execution: Learners will be able to tune workflows to take advantage of concurrent execution capabilities of HPC systems (e.g. pooling of jobs or using job arrays), adjusting parameters to effectively distribute tasks across multiple nodes or cores - even for share memory tools.
-- Optimizing I/O Operations: Learners will set parameters related to input/output operations (e.g. data stage-in) to mitigate potential I/O contention causes.
+- Identify the specific computational requirements (e.g., node configurations, wall time limits) necessary for running workflows efficiently in high-performance computing (HPC) environments.
+- Set execution parameters (e.g., job duration, memory allocation, number of threads/MPI ranks) using workflow profile files to optimise resource usage on HPC systems, and make effective use of templates where available.
+- Tune workflows to exploit concurrent execution capabilities of HPC systems (e.g. pooling jobs or using job arrays) by adjusting parameters to effectively distribute tasks across multiple nodes or cores, including those for shared memory tools.
+- Set parameters related to input/output operations (e.g., data stage-in) to mitigate potential causes of I/O contention.

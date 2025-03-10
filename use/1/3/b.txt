@@ -10,7 +10,7 @@ Typically, several elementary programs are pre-installed and allow access and ma
 
 ## Requirements
 
-## Learning objectives
+## Learning Outcomes
 
   * Describe the organization of a hierarchical file system.
   * Explain the basic UNIX permission model and metadata of files.

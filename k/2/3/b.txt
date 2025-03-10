@@ -1,6 +1,6 @@
 # K2.3 Performance Characteristics
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand Performance characteristics of I/O
 * Understand Performance characteristics of CPU Usage

@@ -4,7 +4,7 @@ Post processing is relevant for all application running on an HPC system.
 The process of generating results is very different to a home desktop, or laptop workflow.
 Software that can process small amounts of data usually struggles to visualize larger dataset as usually generated in an HPC application.
 
-## Learning objectives
+## Learning Outcomes
   * Understand types of post processing
   * Analyze post processing workflows
   * Understand visualization tool such as Paraview

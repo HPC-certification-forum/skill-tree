@@ -4,7 +4,7 @@ There are two Perl APIs for NetCDF:
   * PDL::NetCDF, an object-oriented interface between NetCDF files and PDL objects.
   * NetCDFPerl, developed at Unidata, but now in maintenance mode only, and no further development is currently planned.
 
-## Learning objectives
+## Learning Outcomes
 
   * Write a two-dimensional array of sample data and read data from this file.
   * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.

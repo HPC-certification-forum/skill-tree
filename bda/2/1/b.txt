@@ -4,7 +4,7 @@ Ophidia is an advanced tool designed for managing and processing big data in sci
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand Ophidia’s architecture** and how it integrates with existing HPC environments to support scalable data analytics.
 * **Learn to use Ophidia's array-based data model** for efficient data storage, retrieval, and processing.

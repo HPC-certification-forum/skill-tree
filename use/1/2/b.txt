@@ -11,7 +11,7 @@ This skill covers the bash shell.
 
   * [[skill-tree:use:1:1]]
 
-## Learning Objectives
+## Learning Outcomes
 
   * Create a basic shell script that executes a sequence of programs.
   * Design a script using the bash construct "if" that handles conditional execution based on:

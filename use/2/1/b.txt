@@ -5,7 +5,7 @@ Therefore, various operative procedures are in place.
 Users must understand these concepts and procedures to be able to use the available resources of a system to run a parallel application. 
 Moreover, individual solutions can often be found in a specific system.
 
-## Learning objectives
+## Learning Outcomes
   * Run parallel programs in an HPC environment.
   * Use the command-line interface.
   * Write robust job scripts, e.g. to simplify job submissions by the help of automated job chaining.

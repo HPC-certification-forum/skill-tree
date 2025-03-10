@@ -4,7 +4,7 @@ Analysis is a critical phase in Big Data Analytics, where data, having been coll
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Apply statistical methods** to analyze large datasets, interpreting results to make data-driven decisions.
 * **Utilize machine learning models** to perform predictive analytics, classifying and forecasting data trends.

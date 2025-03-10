@@ -4,7 +4,7 @@ Cloud computing has become integral to managing and processing big data, providi
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the role of cloud computing** in big data analytics, identifying how cloud resources can be leveraged to process and analyze large datasets.
 * **Explore various cloud services** and solutions that support big data projects, including data storage, computation, and analytics platforms.

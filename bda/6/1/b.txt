@@ -4,7 +4,7 @@ The Analysis Workflow module provides a systematic approach to conducting data a
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Define and outline the stages** of a typical big data analysis workflow, from data collection to data interpretation.
 * **Develop data ingestion strategies** to effectively gather and store data from various sources, ensuring quality and accessibility.

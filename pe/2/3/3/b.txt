@@ -4,7 +4,7 @@ Once tracing data has been collected by a measurement system, the challenge of i
 
 Vampir is a tool that focuses on providing quality visualization to support manual trace analysis. Users of Vampir need to understand both how to use the interface in order to focus on particular areas of interest in a given trace and how to understand the trace data. Ideally, this will allow them to either collect a more focused measurement or to perform successful optimization of their code.
 
-## Learning objectives
+## Learning Outcomes
   * Able to launch Vampir both stand-alone and connected to a VampirServer instance if available
   * Able to use the function summary to determine at a high level what parts of the code may not perform well
   * Able to use the summary timeline to quickly identify changed behavior over time and determine next steps for investigation

@@ -1,6 +1,6 @@
 # K1.4 Operation of an HPC System
 
-## Learning objectives
+## Learning Outcomes
   * Understand the typical infrastructure of data and computing centers 
   * Understand economic and business aspects in infrastructure decisions
   * Understand administration aspects of an HPC system 

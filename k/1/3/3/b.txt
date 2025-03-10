@@ -1,6 +1,6 @@
 # K1.3.3 Data Management
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand Cache coherence
 * Understand Information lifecycle management

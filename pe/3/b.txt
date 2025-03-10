@@ -8,7 +8,7 @@ Such a controlled experiment is named a benchmark, but the term is also used –
 
 For HPC users measuring the performance behavior of the parallel program(s) they use is of primary importance in order to make optimal use of HPC hardware.
 
-## Learning objectives
+## Learning Outcomes
   * Consider not only the speed of computational performance, but also the qualities of service, the total cost of ownership and facilities burden (space, power, and cooling).
   * Differentiate types of benchmarks:
     * The Linpack benchmark is used, for example, to build the TOP 500 list of the currently fastest supercomputers, which is updated twice a year.

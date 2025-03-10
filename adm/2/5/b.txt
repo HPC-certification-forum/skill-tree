@@ -4,7 +4,7 @@ Learn about the cooling system and requirements for an HPC system.
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand Air cooling
 * Understand water cooling

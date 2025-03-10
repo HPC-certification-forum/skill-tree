@@ -4,7 +4,7 @@ Pre-processing is a crucial phase in the Big Data Analytics process, focusing on
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Identify and rectify** inconsistencies, missing values, and outliers in big datasets to enhance data accuracy.
 * **Implement normalization** and standardization techniques to ensure data uniformity, making it easier to compare and analyze.

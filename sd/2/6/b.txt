@@ -1,6 +1,6 @@
 # SD2.6 Coding Standards
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand and apply coding standards
 

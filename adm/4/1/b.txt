@@ -4,7 +4,7 @@ Lear how to set up a software stack with multiple dependencies.
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand system package manager and remembering
     * repository packages

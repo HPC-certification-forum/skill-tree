@@ -5,7 +5,7 @@ Jupyter Notebooks provide an interactive computing environment that facilitates 
 ## Requirements
 
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the architecture** of Jupyter Notebooks and their integration within HPC environments to support scalable data analysis.
 * **Create and manage Jupyter Notebook instances** in local and remote settings, leveraging HPC resources.

@@ -4,7 +4,7 @@ Learn about user environments and how to set the up properly.
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand Shell initialization
 * Understand HOME Directory installs

@@ -3,7 +3,7 @@
 Software engineering is often neglected in computational science.
 However, it bears the potential to increase productivity by providing scaffolding for collaborative programming, reducing the coding errors and increasing the manageability of software.
 
-## Learning objectives
+## Learning Outcomes
   * Explain agile software engineering methods and practices relevant in high-performance computing.
   * Apply software engineering methods and best practices when developing parallel applications.
   * Write modular, reusable code by applying software design principles like loose coupling and information hiding.

@@ -6,7 +6,7 @@ They are designed to deliver high I/O bandwidth and provide large disk space.
 
 Parallel file systems and programming environments have typically solved the problems of data partitioning and collective access by introducing file modes. The different modes specify the semantics of simultaneous operations by multiple processes. Once a mode is defined, conventional read and write operations are used to access the data, and their semantics are determined by the mode. The most common modes are broadcast, reduce, scatter, gather, shared, offset, and independent.
 
-## Learning objectives
+## Learning Outcomes
   * Comprehend that the parallel or cluster aspect is twofold:
     * Firstly, the hardware is parallel itself (the file system is provided by several servers that operate in a coordinated way).
     * Secondly, parallel I/O is enabled, i.e. more than one process can consistently write to the same file at the same time.

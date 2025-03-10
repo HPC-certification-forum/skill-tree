@@ -4,7 +4,7 @@ I/O Tuning is crucial for optimizing the input/output operations of systems, sig
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the fundamentals** of I/O processes and the impact on system performance.
 * **Identify common I/O bottlenecks** in both hardware and software and strategies to mitigate them.

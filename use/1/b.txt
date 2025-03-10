@@ -5,7 +5,7 @@ Via the CLI, users can run programs to manipulate files, load additional softwar
 
 While there are many similarities to single-user Linux systems, HPC systems differ widely in the management of provided Software packages, and users must pay attention to the locality of data.
 
-## Learning Objectives
+## Learning Outcomes
   * Describe the command line interface and the bash shell.
   * Sketch the organization of the typical file system tree.
   * Utilize essential tools to navigate and manage files.

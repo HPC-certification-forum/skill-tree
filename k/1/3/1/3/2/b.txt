@@ -3,7 +3,7 @@
 Distributed (or network) file systems are provided by a file server which is integrated into the cluster. These file systems are available on all nodes.
 A classic distributed file system is the Network File System (NFS).
 
-## Learning objectives
+## Learning Outcomes
   * Comprehend that Network file systems are not designed for (very) high I/O loads.
 
 ## Subskills

@@ -1,6 +1,6 @@
 # K1.3.1.1 Media Types
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand different types of storage medias
 

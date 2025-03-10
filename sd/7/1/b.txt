@@ -1,6 +1,6 @@
 # SD7.1 Requirements Documentation
 
-## Learning objectives
+## Learning Outcomes
   * Describe which information needs to be captured in a **requirements** document
   * Apply the IEEE standard for software requirements specification for a structured requirement specification.
   * Document requirements using a specified template.

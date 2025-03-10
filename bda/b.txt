@@ -7,7 +7,7 @@ However, as tools and concepts matured, they are now applied in HPC environments
 HPC workloads utilize tools and methodology from Data Science (DS) and Artificial Intelligence (AI) to process data in order to obtain results quickly.
 AI can be used inside simulations or to steer workflows, while data science can be used to find interesting patterns inside the data.
 
-## Learning objectives
+## Learning Outcomes
   * Describe and apply the concepts of artificial intelligence and data science.
   * Differentiate the various tools that could be used in an HPC environment effectively.
   * Compose a workflow consisting of HPC and big data tools to analyze the data.

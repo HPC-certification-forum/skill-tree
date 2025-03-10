@@ -22,7 +22,7 @@ The tools can read and write in a parallel way.
 Pupynere (PUre PYthon NEtcdf REader) allows read-access to NetCDF files using the same syntax as the Scientific.IO.NetCDF Python module.
 Even though it's written in Python, the module is up to 40% faster than Scientific.IO.NetCDF and pynetcdf.
 
-## Learning objectives
+## Learning Outcomes
 
   * Write a two-dimensional array of sample data and read data from this file.
   * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.

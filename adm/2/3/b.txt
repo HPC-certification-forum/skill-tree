@@ -4,7 +4,7 @@ Learning about virtualisation and how to employ it for an HPC cluster.
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand networking for virtualisation
 * Understand image management

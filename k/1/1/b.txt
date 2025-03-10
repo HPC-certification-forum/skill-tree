@@ -17,7 +17,7 @@ Which are functioning as:
     * **Special nodes** e.g. for data movement, visualization, or pre- and post-processing of large data sets
     * **Head nodes** which can mean login or admin nodes used for management either by a user or an administrator
 
-## Learning objectives
+## Learning Outcomes
   * Comprehend there are nodes with several functions
   * Comprehend that nodes are connected by a high-performance communication network
   * Comprehend that global file systems are available on all nodes of the cluster and are convenient because their files can be accessed directly on all nodes

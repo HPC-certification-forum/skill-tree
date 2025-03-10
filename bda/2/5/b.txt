@@ -4,7 +4,7 @@ Spark-Horovod is a powerful integration that combines Apache Spark's large-scale
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the integration of Spark with Horovod**, recognizing how it facilitates distributed deep learning.
 * **Set up and configure Spark-Horovod environments** in HPC settings, ensuring optimal configuration for specific project requirements.

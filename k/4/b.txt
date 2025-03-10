@@ -14,7 +14,7 @@ The configuration of the cluster system matters as well: a cluster node can also
 A major aspect of job scheduling is to manage these resources in a way that users are treated fairly.
 Accounting for users or user groups can additionally support this.
 
-## Learning objectives
+## Learning Outcomes
   * Comprehend the differences between **Batch Systems** and **Time-Sharing Systems**.
   * Explain the concepts and procedures for resource allocation and job execution in an HPC environment.
   * Run interactive jobs and batch jobs.

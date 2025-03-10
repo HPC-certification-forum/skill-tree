@@ -4,7 +4,7 @@ Learn about Architectures and specific hardware used in HPC systems.
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understanding Motherboards
 * Understanding RAM

@@ -4,7 +4,7 @@ Job Scripts are a more efficient and more powerfull way of running job on an HPC
 
 ## Requirements
 
-## Learning objectives
+## Learning Outcomes
   * Use the command-line interface.
   * Write robust job scripts, e.g. to simplify job submissions by the help of automated job chaining.
   * Select the appropriate software environment.

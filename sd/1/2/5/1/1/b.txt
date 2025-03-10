@@ -3,7 +3,7 @@
 The C library is the core implementation on which non-Java interfaces are built.
 It provides reliability, performance, and portability.
 
-## Learning objectives
+## Learning Outcomes
   * Write a two-dimensional array of sample data and read data from this file.
   * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
   * Write some four-dimensional variables using a record dimension and read from the variables from this file.

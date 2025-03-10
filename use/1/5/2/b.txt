@@ -4,7 +4,7 @@ Spack is a package manager for Linux and macOS.
 It allows the user to install software with all necessary dependency and to load relevant software.
 Spack creates unique configurations for software.
 
-## Learning Objectives
+## Learning Outcomes
   * Describe the concept of configurations and used hashing.
   * Query information about packages:
     * list

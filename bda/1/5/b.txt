@@ -4,7 +4,7 @@ Ethical considerations and privacy concerns are paramount in the field of big da
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the ethical implications** of big data analytics on individuals, communities, and society.
 * **Examine privacy regulations** such as GDPR, CCPA, and HIPAA and their implications for big data analytics.

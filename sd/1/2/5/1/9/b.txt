@@ -6,7 +6,7 @@ Three R NetCDF interfaces are available:
   * RNetCDF.
   * ncvar.
 
-## Learning objectives
+## Learning Outcomes
 
   * Write a two-dimensional array of sample data and read data from this file.
   * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.

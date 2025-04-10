@@ -1,6 +1,6 @@
 # SD2.7 Testing
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand testing procedures
 

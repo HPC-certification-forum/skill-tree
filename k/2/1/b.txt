@@ -5,7 +5,7 @@
   * To provide knowledge about the definitions for key terms: speedup, efficiency, and scalability.
   * To provide knowledge about Amdahl’s law and its significance for performance frontiers in modern HPC.
 
-## Learning objectives
+## Learning Outcomes
   *  Comprehend that **FLOPS** (Floating Point Operations per Second) as a key measurement is used in two distinct ways:
     * To measure the computing power of a computer.
     * To measure the performance of applications.

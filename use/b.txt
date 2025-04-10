@@ -8,7 +8,7 @@ That means users must be trained in a particular solution to utilize a supercomp
 
 Various user roles are covered as part of this subtree: practitioners that aim to deploy existing parallel applications as well as testers that just run already deployed applications, and also developers that create new applications.
 
-## Learning Objectives
+## Learning Outcomes
 
   * Apply tools provided by the operating system to navigate and manage files and executables.
   * Select the software environment to build existing and develop novel parallel applications effectively.

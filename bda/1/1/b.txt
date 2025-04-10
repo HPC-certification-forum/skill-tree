@@ -4,7 +4,7 @@ The 6Vs of Big Data are essential for understanding the multifaceted nature of b
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Define and understand the 6Vs** of big data: Volume, Velocity, Variety, Veracity, Value, and Variability.
 * **Analyze the impact of Volume** on data storage and processing infrastructure.

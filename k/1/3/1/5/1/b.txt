@@ -8,7 +8,7 @@ In the MPI-I/O model, each process defines the datatype for its section of the f
 
 Non-contiguous operations and collective calls have been defined in MPI-IO which lead to a classification of data access into four levels. These levels are characterized by two orthogonal aspects: contiguous vs. non-contiguous data access, and independent vs. collective calls. Depending on the level, a different set of optimizations can be thought of.
 
-## Learning objectives
+## Learning Outcomes
 
   * Employ MPI derived datatypes for expressing the data layout in the file as well as the partitioning of the file data among the communicator processes.
   * Specify high-level information about I/O to the system rather than low-level system-dependent information.

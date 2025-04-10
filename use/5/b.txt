@@ -5,7 +5,7 @@ A lot of menial tasks in HPC can be automated. Cronjobs starting shell scripts t
 ## Reqirements
   * [[skill-tree:use:2:b]]
 
-## Learning objectives
+## Learning Outcomes
   * Recognize which tasks are eligible for automatization
   * Create simple scripts to execute shell commands
   * Distinguish different types of commands and loops

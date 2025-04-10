@@ -4,7 +4,7 @@ Learn about security and implications for administrating a cluster.
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Remember best practices
 * Understand the Unix Permission Model

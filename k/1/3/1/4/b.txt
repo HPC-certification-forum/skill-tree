@@ -1,6 +1,6 @@
 # K1.3.2.4 Overview Middleware
 
-## Learning objectives
+## Learning Outcomes
 * Understand NetCDF
 * Understand NetCDF/CF Conventions
 * Understand HDF5

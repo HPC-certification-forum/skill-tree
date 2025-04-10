@@ -4,7 +4,7 @@ Integrating Big Data Analytics (BDA) with High-Performance Computing (HPC) workf
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the fundamental requirements** for integrating BDA into HPC environments, identifying key challenges and solutions.
 * **Design integrated workflows** that leverage the computational power of HPC with the analytical capabilities of BDA.

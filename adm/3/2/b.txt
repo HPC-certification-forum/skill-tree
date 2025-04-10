@@ -6,7 +6,7 @@ Learn about resource management software.
 
 * Running of Parallel Programs (USE3.1)
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand SLURM
 * Understand SGE

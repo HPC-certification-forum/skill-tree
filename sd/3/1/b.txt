@@ -4,7 +4,7 @@ This skill covers how to apply version and configuration management to the devel
 
 Systems like Revision Control System (RCS), Subversion (SVN), and GIT are presented.
 
-## Learning objectives
+## Learning Outcomes
   * Describe the basics of version control systems, e.g. what is version control.
   * Discuss the benefits of using version control for software development especially in a team.
   * Describe what is branching and merging.

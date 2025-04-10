@@ -4,7 +4,7 @@ Data Mining is a crucial process in extracting patterns, trends, and insights fr
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the fundamentals** of data mining and its role in extracting valuable insights from large datasets.
 * **Explore different data mining techniques** such as classification, clustering, association rule mining, and anomaly detection.

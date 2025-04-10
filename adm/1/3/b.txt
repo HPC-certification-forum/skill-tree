@@ -4,7 +4,7 @@ Learn about how a computer boots and what is required for a successful start
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand the BIOS
 * Understand Netboot procedure

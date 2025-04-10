@@ -11,7 +11,7 @@ File systems are implemented in the operating system which deploys strategies to
 Therefore, the observable I/O performance depends on more than the capabilities of the raw block device.
 
 
-## Learning objectives
+## Learning Outcomes
 
   * Select performance models to assess and optimize the application I/O performance.
   * Identify tools capable of predicting the behavior of applications in HPC.

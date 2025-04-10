@@ -1,7 +1,7 @@
 # PE2.3.4 Darshan
 
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand Darshan
 

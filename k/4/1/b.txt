@@ -9,7 +9,7 @@ A workload manager of a cluster system typically deals with:
   * Scheduling and Resource Management to select a waiting job for execution and to allocate nodes to the job meeting all its other demands for computing resources (memory, special processing elements like GPUs, etc.)
   * Accounting to record historical data about how many computing resources (e.g. computing time) have been consumed by a job
 
-## Learning objectives
+## Learning Outcomes
   * Comprehend the exclusive and shared usage model in HPC.
   * Differentiate batch and interactive job submission.
   * Comprehend the generic concepts and architecture of resource manager, scheduler, job and job script.

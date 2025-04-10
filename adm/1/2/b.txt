@@ -5,7 +5,7 @@ Learn about networking and protocols such as IPv4, cabeling, and others.
 ## Requirements
 
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand IPv4 and IPv6
 * Understand Cabling

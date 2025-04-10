@@ -6,7 +6,7 @@ The purpose of the CF conventions is to require conforming datasets to contain s
 
 The CF conventions enable users of data from different sources to decide which data are comparable and allows building applications with powerful extraction, regridding, and display capabilities. The CF conventions are framed as a NetCDF standard, but most ideas relate to metadata design in general and not specifically to NetCDF, and hence can be contained in other formats such as XML.
 
-## Learning objectives
+## Learning Outcomes
 
   * Describe the relationships among elements of the CF-NetCDF conventions and NetCDF entities.
   * Locate data in space-time and as a function of other independent variables (coordinates), to facilitate processing and graphics.

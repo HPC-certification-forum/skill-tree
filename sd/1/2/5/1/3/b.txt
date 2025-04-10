@@ -3,7 +3,7 @@
 The NetCDF Java library implements the Common Data Model (CDM) to interface NetCDF files to a variety of data formats (e.g., NetCDF, HDF, GRIB).
 Layered above the basic data access, the CDM uses the metadata contained in datasets to provide a higher-level interface to geoscience specific features of datasets, in particular, providing geolocation and data subsetting in coordinate space.
 
-## Learning objectives
+## Learning Outcomes
 
   * Employ the CDM/NetCDF-Java to read datasets in various formats.
   * Write a two-dimensional array of sample data and read data from this file.

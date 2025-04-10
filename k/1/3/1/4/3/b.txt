@@ -1,6 +1,6 @@
 # K1.3.1.4.3 HDF5
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand HDF5
 

@@ -19,7 +19,7 @@ The Unidata Local Data Manager (LDM) is a collection of cooperating programs tha
 The system is designed for event-driven data distribution of the kind used in the Unidata Internet Data Distribution (IDD) project.
 LDM system includes network client and server programs designed for event-driven data distribution and is the fundamental component comprising the IDD system.
 
-## Learning objectives
+## Learning Outcomes
 
   * From the user's perspective, one should be able to retrieve data and:
     * Obtain information regarding the dataset, without the need to download any files:

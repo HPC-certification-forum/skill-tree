@@ -4,7 +4,7 @@ Controlled experiments are crucial for validating performance improvements and u
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the principles** of controlled experiment design in the context of performance engineering.
 * **Design experiments** to test hypotheses about system performance improvements.

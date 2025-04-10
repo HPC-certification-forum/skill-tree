@@ -4,7 +4,7 @@ Learn about containers and how they can be used as a software stack.
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand container
 * Understand Software containerisation

@@ -4,7 +4,7 @@ Requirements elicitation, analysis and documentation are important, but often ne
 That is why the user will learn how to follow a systematic approach in order to appropriately collect and analyse requirements for the application and how to capture assumptions and constraints.
 Following this approach will help the user to significantly improve quality of scientific software.
 
-## Learning objectives
+## Learning Outcomes
 
 * Design and develop programs on a higher level of abstraction by applying software architecture and object-oriented design.
 * Understand Requirements Elicitation and Analysis

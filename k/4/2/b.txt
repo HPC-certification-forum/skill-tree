@@ -3,7 +3,7 @@
 SLURM is a widely used open-source workload manager providing various advanced features.
 
 
-## Learning objectives
+## Learning Outcomes
   * Run interactive jobs with salloc, a batch job with sbatch.
   * Explain the architecture of SLURM, i.e., the role of slurmd, srun and the injection of environment variables.
   * Explain the function of the tools: sacct, sbatch, salloc, srun, scancel, squeue, sinfo.

@@ -4,7 +4,7 @@ The user learns how to complete programming tasks and gets a short overview of m
 
 The focus lies on the programming languages that are in widespread use within the HPC community.
 
-## Learning objectives
+## Learning Outcomes
   * Understand C/C++
   * Understand Fortran
   * Understand HPX 

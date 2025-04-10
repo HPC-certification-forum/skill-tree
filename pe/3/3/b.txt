@@ -4,7 +4,7 @@ Understanding the concepts of strong and weak scaling is crucial for evaluating 
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Define strong and weak scaling** in the context of performance engineering.
 * **Distinguish between strong scaling and weak scaling** through theoretical and practical examples.

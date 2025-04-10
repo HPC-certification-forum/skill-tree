@@ -6,7 +6,7 @@ Building programs that run on an HPC system requires some thought into software,
   * [[skill-tree:use:1:b]]
   * [[skill-tree:use:2:b]]
 
-## Learning objectives
+## Learning Outcomes
   * Build parallel programs, e.g. via open sources packages.
   * Run parallel programs in an HPC environment.
   * Use a compiler and to assess the effects of optimization switches available for the relevant compilers (e.g. GNU, Intel).

@@ -2,7 +2,7 @@
 
 Parallel programming of shared memory systems and message passing systems as well as load balancing is addressed.
 
-## Learning objectives
+## Learning Outcomes
 
   * Assess the parallel nature of algorithms.
   * Develop parallel programs.

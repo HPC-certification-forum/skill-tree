@@ -4,7 +4,7 @@ Learn about specific cluster management tools.
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand xCAT
 * Understand Clustore

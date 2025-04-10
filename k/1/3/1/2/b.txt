@@ -1,6 +1,6 @@
 # K1.3.1.2 Storage System
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand Object storage 
 * Understand Burst Buffer 

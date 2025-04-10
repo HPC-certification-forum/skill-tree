@@ -2,7 +2,7 @@
 
 The workflow is represented by an optimization cycle with the steps benchmarking, gathering system performance data (e.g. via profiling), analyzing, and tuning.
 
-## Learning objectives
+## Learning Outcomes
 
   *  Apply the full workflow for tuning a parallel program.
 

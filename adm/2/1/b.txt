@@ -6,7 +6,7 @@ Learn about Networking and specific protocols, such as Routing, nftables, NTP, D
 
 * Networking (ADM1.2)
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand Linux Network Configuration
 * Understand Routing

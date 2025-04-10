@@ -4,7 +4,7 @@ Learn about electricity and signals.
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Remember AC and DC electricity
 * Remember Electrical safety

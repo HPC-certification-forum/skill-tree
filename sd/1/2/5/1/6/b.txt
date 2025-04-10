@@ -6,7 +6,7 @@ Versions 7.7 and later of MATLAB have built-in support for reading and writing N
 Several freely-available software packages that implement a MATLAB/NetCDF interface are available: MEXNC, MexEPS, and the CSIRO MATLAB/NetCDF interface.
 It is also possible to call NetCDF Java library methods from MATLAB, so using it provides the advantages of the Java interface.
 
-## Learning objectives
+## Learning Outcomes
 
   * Write a two-dimensional array of sample data and read data from this file.
   * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.

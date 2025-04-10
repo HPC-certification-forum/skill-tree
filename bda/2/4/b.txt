@@ -4,7 +4,7 @@ RayDP is an open-source library that seamlessly integrates Ray with Apache Spark
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand RayDP’s architecture** and its integration points with Apache Spark, identifying how it enhances functionality in distributed data processing.
 * **Set up and configure RayDP** in a HPC environment, optimizing it for specific data workflows.

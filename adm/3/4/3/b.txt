@@ -6,7 +6,7 @@ Students should learn basics of HPC cluster administration. They should know how
 
 ## Requirements
 
-## Learning objectives
+## Learning Outcomes
 
 * Execute a commands on multiple nodes in parallel using the parallel shell
 * Able to update software packages on nodes

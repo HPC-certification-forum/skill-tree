@@ -1,6 +1,6 @@
 # K4.3 Scheduling strategies
 
-## Learning objectives
+## Learning Outcomes
 * Undertand Backfilling
 * Undertand Fair Share
 * Undertand Shortest Job First 

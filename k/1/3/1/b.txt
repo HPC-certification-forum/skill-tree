@@ -1,7 +1,5 @@
 # K1.3.1 Overview I/O Layers
 
-## Learning Outcomes
-  *  standard file systems like Ext3, Ext4, XFS, and Btrfs and distributed file systems like Lustre, and BeeGFS
-  *  when to use data compression
+Working with standard file systems like Ext3, Ext4, XFS, and Btrfs and distributed file systems like Lustre, and BeeGFS and also see when to use data compression.
 
 ## Subskills

@@ -3,13 +3,4 @@
 In High-Performance Computing, the performant and efficient execution is important to obtain results in a timely fashion but also to reduce the costs involved when running workflows on expensive supercomputers.
 Performance engineering is the field of systematic approaches for measuring and analyzing the performance of systems and applications, that modifies compile and runtime settings to increase performance (tuning), and that optimizes applications and systems.
 
-
-## Learning objective
-  * Describe the optimization cycle.
-  * Apply a cost model to compute the costs for running a workflow on an HPC system.
-  * List typical pitfalls when measuring performance.
-  * Execute benchmarks to obtain performance baselines for systems and applications.
-  * Comprehend profiling in order to assess the runtime behavior of parallel programs and to detect bottlenecks.
-  * Comprehend tunable settings in applications and system that influence performance.
-  * Comprehend how to use optimized libraries to speed up program execution.
-
+## Subskills

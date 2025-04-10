@@ -8,43 +8,4 @@ Such a controlled experiment is named a benchmark, but the term is also used –
 
 For HPC users measuring the performance behavior of the parallel program(s) they use is of primary importance in order to make optimal use of HPC hardware.
 
-## Learning Outcomes
-  * Consider not only the speed of computational performance, but also the qualities of service, the total cost of ownership and facilities burden (space, power, and cooling).
-  * Differentiate types of benchmarks:
-    * The Linpack benchmark is used, for example, to build the TOP 500 list of the currently fastest supercomputers, which is updated twice a year.
-    * For HPC users, however, synthetic tests to benchmark HPC cluster hardware (like the Linpack benchmark) are of less importance, because the emphasis lies on the determination of speedups and efficiencies of the parallel program they want to use.
-  * Comprehend that benchmarking is very essential in the HPC environment and can be applied to a variety of issues:
-    * What is the scalability of my program?
-    * How many cluster nodes can be maximally used, before the efficiency drops to values which are unacceptable?
-    * How does the same program perform in different cluster environments?
-  * Comprehend that benchmarking is also a basis for dealing with questions emerging from tuning, e.g.:
-    * What is the appropriate task size (big vs. small) that may have a positive performance impact on my program?
-    * Is the use of hyper-threading technology advantageous?
-    * What is the best mapping of processes to nodes, pinning of processes/threads to CPUs or cores, and setting memory affinities to NUMA nodes in order to speed up a parallel program?
-    * What is the best compiler selection for my program (GCC, Intel, PGI, ...), in combination with the most suitable MPI environment (Open MPI, Intel MPI, ...)?
-    * What is the best compiler generation/version for my program?
-    * What are the best compiler options regarding, for example, the optimization level -O2, -O3, . . . , for building the executable program?
-    * Is the use of PGO (Profile Guided Optimization) or other high-level optimization, e.g. using IPA/IPO (Inter-Procedural Analyzer/Inter-Procedural Optimizer), helpful?
-    * What is the performance behavior after a (parallel) algorithm has been improved, i.e. to what extent are speedup, efficiency, and scalability improved?
-  * Assess speedups and efficiencies as the key measures for benchmarks of a parallel program.
-  * Benchmark the runtime behaviour of parallel programs, performing controlled experiments by providing varying HPC resources (e.g. 1, 2, 4, 8, ... cores on shared memory systems or 1, 2, 4, 8, ... nodes on distributed systems for the benchmarks).
-  * Measure runtimes by the help of tools like:
-    * Built-in time command, e.g. for MPI programs ('time mpirun ... my-mpi-app').
-    * Stand-alone 'time' program, e.g. for sequential or OpenMP programs ('/usr/bin/time my-openmp-app').
-  * Differentiate types of scaling:
-    * **Weak scaling**: problem size increases proportionally to the number of parallel processes to analyze how big may the problems be that I can solve.
-    * **Strong scaling**: problem size remains the same for an increasing number of processes to analyze how fast can I solve a problem of a given size.
-  * Interpret typical weak and strong scaling plots.
-  * Avoid typical pitfalls:
-    * **Break-even considerations regarding the benchmark effort**:
-      * Benchmarking also represents a certain effort, namely for providing the HPC resources and human time explicitly used for that purpose.
-    * **Presenting fair speedups**:
-      * For conventional speedup calculations the same version of an algorithm (the same program) is used to measure runtimes T(sequential) and T(parallel) but for fair speedup calculations, the best known sequential algorithm to measure T(sequential) should be used.
-    * **Special features of current CPU architectures**:
-      * Features like turbo boost and hyper-threading may influence benchmark results.
-    * **Shared nodes**:
-      * If the same cores are potentially shared at times on a node by different programs, the value of the benchmark results may be significantly reduced or even made uselessly.
-    * **Reproducibility**:
-      * There are parallel algorithms which may produce non-deterministic results, due to inherent effects of concurrency which in turn may lead to different (but generally equivalent) results but also to strongly differing runtimes of repeated runs.
-
 ## Subskills

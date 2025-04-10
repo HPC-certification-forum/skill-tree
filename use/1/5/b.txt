@@ -8,21 +8,6 @@ The widely available software tools are:
   * Environment modules
   * Spack
 
-## Learning Outcomes
-  * Understand shell variables relevant for executing and building software.
-  * Query available software using the package manager.
-  * Select the appropriate versions for deployment in the session environment.
-  * Describe the general dependency structure of software.
-  * Describe how a package manager makes software available.
-  * Use the export command to print shell variables.
-  * Understand shell variables relevant for executing and building software:
-    * PATH for executables
-    * LD\_LIBRARY\_PATH for libraries
-    * MANPATH for manual pages (man command)
-    * PKG\_CONFIG\_PATH for pkg-config
-  * Manipulate shell variables to include additional software:
-    * Setting shell variables for a single program by prefixing or by using export.
-
 ## Subskills
   * [[skill-tree:use:1:5:1:b]]
   * [[skill-tree:use:1:5:2:b]]

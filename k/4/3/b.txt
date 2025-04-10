@@ -1,9 +1,27 @@
 # K4.3 Scheduling strategies
 
 ## Learning Outcomes
-* Undertand Backfilling
-* Undertand Fair Share
-* Undertand Shortest Job First 
-* Undertand First Come First Served
+
+* Comprehend accounting principles (billing for the jobs).
+* Comprehend the set of terms for performance criteria like:
+      * Resource Utilization.
+      * Throughput.
+      * Waiting Time.
+      * Execution Time.
+      * Turnaround Time.
+* Comprehend scheduling strategies that increase productivity.
+* Comprehend that typical goals of job scheduling are:
+      * Maximization of resource utilization.
+      * Maximization of throughput.
+      * Minimization of waiting time.
+      * Minimization of turnaround time.
+* Comprehend that there is a variety of scheduling algorithms from rather simple to more complex like:
+      * First-Come-First-Served (FCFS).
+      * Shortest-Job-First (SJF).
+      * Priority-based.
+      * Fair-Share.
+      * Backfilling.
+* Apply advanced scheduling principles (e.g. backfilling) to achieve objectives like minimizing the averaged elapsed program runtimes, and maximizing the utilization of the available HPC resources.
+* Discuss sophisticated scheduling principles (e.g. fair share) to achieve objectives like treating the users fair, and maximizing the utilization of the available HPC resources.
 
 ## Subskills

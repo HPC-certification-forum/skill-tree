@@ -5,5 +5,9 @@
 * Understand Demands 
 * Understand Topologies 
 * Understand Interconnects 
+* Comprehend that at an abstract level the high-speed network connects compute units and main memory which leads to three main parallel computer architectures
+    * **Shared Memory** where all compute units can directly access the whole main memory
+    * **Distributed memory** where individual computers are connected with a network
+    * **NUMA** (Non-Uniform Memory Access) combines properties from shared and distributed memory systems, because at the hardware level a NUMA system resembles a distributed memory
 
 ## Subskills

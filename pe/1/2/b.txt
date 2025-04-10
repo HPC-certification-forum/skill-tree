@@ -4,7 +4,7 @@ Understanding the Total Cost of Ownership (TCO) is crucial for making informed d
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 1. **Define the concept** of Total Cost of Ownership and its relevance to performance engineering.
 2. **Identify all components** that contribute to the TCO of engineering projects, including hidden and indirect costs.

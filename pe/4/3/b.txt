@@ -4,7 +4,7 @@ Tuning via Reprogramming focuses on optimizing system performance through direct
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand Efficient Algorithms
 * Understand Functional Units

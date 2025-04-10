@@ -6,7 +6,7 @@ Nonetheless, past has shown that data tends to get lost, but usually not physica
 
 Participants should be aware about the risk of dark data and the benefits of data management. They should know about theoretical concepts of data management and practical strategies and techniques to implement aligned data management solutions. They should be able to describe and structure data, find and use metadata standards. They should know what to consider when publishing research data and how to find suitable data respositories.
 
-## Learning objectives
+## Learning Outcomes
   * Understanding the risk of losing (knowledge about) data
   * Knowing about RDM concepts
   * Knowing techniques and abilities to minimize the risk of data loss

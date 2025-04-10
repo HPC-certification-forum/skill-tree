@@ -4,7 +4,7 @@ Algorithms form the backbone of big data analytics, enabling efficient processin
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the role of algorithms** in solving computational problems and optimizing data processing tasks.
 * **Explore different algorithm paradigms** including divide and conquer, dynamic programming, greedy algorithms, and randomized algorithms.

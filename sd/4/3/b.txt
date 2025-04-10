@@ -1,6 +1,6 @@
 # SD4.3 SCRUM
 
-## Learning objectives
+## Learning Outcomes
   * Desribe the concepts of SCRUM, e.g. Sprint, Backlog, Planning, Daily meetings/Stand up meeting, and project velocity.
   * Apply practices of SCRUM.
 

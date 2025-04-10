@@ -4,7 +4,7 @@ Design and documentation are fundamental aspects of performance engineering, pro
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the role** of design and documentation in the context of performance engineering.
 * **Develop comprehensive design documents** that clearly outline system architecture and performance criteria.

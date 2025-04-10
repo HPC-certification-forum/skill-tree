@@ -1,6 +1,6 @@
 # K3 Overview: Program Parallelization
 
-## Learning objectives
+## Learning Outcomes
   * Describe the typical parallelization techniques used at the intra- and inter-node level of cluster systems.
   * Discuss the causes of parallelization overheads, which eventually prevent efficient use of an increasing number of processing elements.
   * Apply domain decomposition strategies (i.e. splitting a problem into pieces that allow for parallel computation).

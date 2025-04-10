@@ -6,7 +6,7 @@ Learning about programs and systems for cluster management.
 
 * USE2.4 Remote access
 
-## Learning Objectives
+## Learning Outcomes
 
 * Employ SSH connections for administrator access
 * Understanding System provisioning

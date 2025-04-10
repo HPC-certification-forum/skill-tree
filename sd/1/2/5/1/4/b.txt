@@ -4,7 +4,7 @@ The Fortran-90 library provides current Fortran support for modelers and scienti
 
 The Fortran-90 interface is significantly simpler than either the C or Fortran-77 interfaces because of its use of overloaded functions and optional arguments.
 
-## Learning objectives
+## Learning Outcomes
 
   * Write a two-dimensional array of sample data and read data from this file.
   * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.

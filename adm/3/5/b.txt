@@ -4,7 +4,7 @@ Learn about user management software.
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand User management software
 

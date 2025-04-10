@@ -4,7 +4,7 @@ The user's awareness of the costs related to the operation of an HPC system is r
 
 For the resources of an HPC system, a distinction is made between costs for the computing elements of the supercomputer and costs for the storage system.
 
-## Learning objectives
+## Learning Outcomes
   * Describe the impact of a cluster nodes type (e.g. CPU type, main memory expansion, or GPU extensions) and of the storage media type (SSD, disk, or e.g. tape for long term archiving (LTA) purposes) on its costs.
   * Describe how to assess runtime costs for jobs.
   * Discuss how to assess the costs for the infrastructure of data and computing centers as well as their personnel costs.

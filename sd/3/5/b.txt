@@ -2,7 +2,7 @@
 
 This skill conveys how dependencies are managed, how and why to setup different environments for development, testing, and production, how and why to automate the deployment process and the importance of preserving and documenting reproducible software stacks that can be used by other users/researchers in order to reliably reproduce the results.
 
-## Learning objectives
+## Learning Outcomes
   * Describe the basics of dependency management.
   * Discuss why different environments for testing, development, production, and staging are necessary.
   * Compare the differences between different deployment environments, and what are their specific requirements.

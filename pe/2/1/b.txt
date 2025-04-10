@@ -5,7 +5,7 @@ Mastering the principles of utilization is essential for effectively measuring a
 ## Requirements
 
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand CPU vs. Elapsed Times
 * Understand Shared and Unshared Memory

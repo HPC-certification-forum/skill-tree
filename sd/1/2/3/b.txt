@@ -1,6 +1,6 @@
 # SD1.2.3 Message Passing Systems
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand Synchronization
 * Understand Communication Overview and remember

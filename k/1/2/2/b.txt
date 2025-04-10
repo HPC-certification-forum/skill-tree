@@ -1,6 +1,6 @@
 # K1.2.2 Network
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand Demands 
 * Understand Topologies 

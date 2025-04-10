@@ -1,6 +1,6 @@
 # SD2.1-B Integrated Development Environments
 
-## Learning objectives
+## Learning Outcomes
   * Configure and use integrated development environments (IDEs) like Eclipse, e.g. to seamlessly perform the typical development cycle with the steps edit, build (compile and link), and test.
 
 ## Subskills

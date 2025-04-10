@@ -1,6 +1,6 @@
 # SD3 Overview Software Configuration Management
 
-## Learning objectives
+## Learning Outcomes
   * Describe the purpose and importance of software configuration management, especially in the context of high-performance computing.
   * Apply the basic concepts, terms and processes of SCM.
   * Apply steps of SCM in an HPC project.

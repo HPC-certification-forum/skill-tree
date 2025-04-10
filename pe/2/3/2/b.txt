@@ -4,7 +4,7 @@ Analyzing detailed event traces and identifying performance problems and their r
 Scalasca automatically searches for patterns of inefficient behavior in OTF2 traces collected with Score-P and identifies the time a thread or process is waiting in an interaction with another thread or process.
 Furthermore, it helps in identifying the root causes of those waiting times by determining imbalances in the program, highlighting the part of the code and processes/threads that contribute the most to any waiting time found.
 
-## Learning objectives
+## Learning Outcomes
 
 * Able to automatically run Score-P instrumented measurements (including automatic
   analysis) of applications containing

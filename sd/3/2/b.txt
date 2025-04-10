@@ -1,6 +1,6 @@
 # SD3.2 Issue Tracking and Bug Tracking
 
-## Learning objectives
+## Learning Outcomes
   * Describe concepts of issue/bug tracking systems and their basic concepts like task, sub-task, new feature, story, release planning, sprint planning in order to structure and organize the development process (e.g. assigning tasks to developers, reporting bugs, writing user stories, managing the stages of an issue (to do, in progress, in review, done) etc.)
   * Differentiate issue tracking systems, like Jira or Redmine.
   * Apply issue tracking in order to manage tasks, bug reports, and other issues occuring during development and enabling task assignment in the team.

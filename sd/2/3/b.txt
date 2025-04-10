@@ -2,7 +2,7 @@
 
 This skill conveys programming idioms in general and for specific programming languages in order to help developers to solve recurring programming problems.
 
-## Learning objectives
+## Learning Outcomes
   * Describe programming idioms for a specific programming language, e.g. Fortran, Python, C, C++.
   * Recognize where programming idioms are violated and to refactor the code to comply to a specific programming idiom.
   * Apply programming idioms for a specific programming language, e.g. Fortran, Python, C, C++.

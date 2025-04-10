@@ -14,7 +14,7 @@ Theoretic Principles form the foundational knowledge base in Big Data Analytics 
 
 By mastering the theoretic principles in Big Data Analytics, practitioners gain a solid understanding of the foundational concepts and frameworks essential for effectively analyzing large and complex datasets, extracting valuable insights, and making informed decisions across various domains and industries.
 
-## Learning objectives
+## Learning Outcomes
   * Describe the key concepts of artificial intelligence and data science.
   * Describe the general approach of big data tools.
   * List ethical constraints.

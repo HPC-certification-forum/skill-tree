@@ -14,7 +14,7 @@ Big Data Tools in High-Performance Computing (HPC) leverage the immense computat
 
 By leveraging big data tools in HPC environments, practitioners can harness the computational power and scalability of HPC systems to efficiently process and analyze large volumes of data, enabling advanced analytics, machine learning, and scientific discovery across various domains and industries.
 
-## Learning objectives
+## Learning Outcomes
   * Distinguish the benefit and drawback of various big data tools in the HPC environment.
   * Apply a data science workflow on existing data using various big data tools.
   * Construct simple data science workflows.

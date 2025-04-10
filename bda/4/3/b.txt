@@ -4,7 +4,7 @@ Visualization is a pivotal stage in Big Data Analytics, enabling analysts to see
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the principles** of data visualization, including the selection of appropriate chart types, color schemes, and data encoding techniques.
 * **Develop skills** to use advanced visualization tools and software for creating interactive and static visualizations.

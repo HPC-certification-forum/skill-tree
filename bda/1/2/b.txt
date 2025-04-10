@@ -4,7 +4,7 @@ AI and Data Science are pivotal in extracting meaningful information from big da
 
 ## Requirements
 
-### Learning Objectives
+### Learning Outcomes
 
 * **Understand the fundamental concepts** behind AI and its role in data science.
 * **Explore various AI methodologies** that enhance data analysis, including machine learning, neural networks, and deep learning.

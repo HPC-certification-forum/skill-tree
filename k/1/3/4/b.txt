@@ -1,6 +1,6 @@
 # K1.3.4 Access Pattern
 
-## Learning objectives
+## Learning Outcomes
 * Understand access patterns
 * Understand how different access patterns influence data read and write operations
 

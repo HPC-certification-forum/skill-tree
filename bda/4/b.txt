@@ -12,6 +12,6 @@ Data Handling is a critical aspect of Big Data Analytics (BDA), encompassing the
 
 By mastering the principles of data handling, practitioners can effectively manage and manipulate large and diverse datasets, ensuring that the data is clean, consistent, and ready for analysis. This lays the foundation for deriving valuable insights and driving data-driven decision-making across various domains and industries.
 
-## Learning objectives
+## Learning Outcomes
 
 # Subskills

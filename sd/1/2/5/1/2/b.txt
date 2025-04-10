@@ -4,7 +4,7 @@ The NetCDF-4 C++ API was for using in managing fusion research data from CCFE's 
 
 The API is implemented as a layer over the NetCDF-4 C interface, which means bug fixes and performance enhancements in the C interface will be immediately available to C++ developers as well.
 
-## Learning objectives
+## Learning Outcomes
 
   * Write a two-dimensional array of sample data and read data from this file.
   * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.

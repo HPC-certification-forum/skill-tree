@@ -2,7 +2,7 @@
 
 The hardware/software organization/structure in a data center/supercomputer.
 
-## Learning objectives
+## Learning Outcomes
   * typical I/O systems used in HPC environments
   * different types of media (e.g. tape, disk, and SSD)
   * the differentiation between standard file systems and distributed file systems

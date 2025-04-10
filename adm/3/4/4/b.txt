@@ -2,7 +2,7 @@
 
 ## Requirements
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand Warewulf
 * Understand Bright

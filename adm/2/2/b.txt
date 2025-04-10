@@ -5,7 +5,7 @@ Learn about types and of storage and what they are used for.
 ## Requirements
 
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand file systems and remembering
     * Local file systems

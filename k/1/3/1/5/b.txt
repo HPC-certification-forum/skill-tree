@@ -5,7 +5,7 @@ Parallel I/O allows each processor in a multi-processor system to read and write
 Data-intensive scientific applications use parallel I/O software to access files.
 In HPC, increasing demands in the I/O system can cause bottlenecks. Parallel I/O plays a fundamental role to balance the fast increase in computational power and the progress of processor architectures.
 
-## Learning objectives
+## Learning Outcomes
 
   * Use parallel I/O libraries.
   * Assess the implications of parallel I/O on application efficiency.

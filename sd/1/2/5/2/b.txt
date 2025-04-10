@@ -6,7 +6,7 @@ XIOS manages the output of diagnostics and other data produced by climate compon
 
 XIOS aims at simplifying the I/O management by minimizing the number of subroutines to be called and by supporting a maximum of on-line processing of the data.
 
-## Learning objectives
+## Learning Outcomes
 
   * Describe the XIOS-XML terminology and structuration.
   * Test XIOS on a specific architecture.

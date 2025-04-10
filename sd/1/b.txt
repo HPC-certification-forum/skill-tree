@@ -1,6 +1,6 @@
 # SD1 Overview Programming Concepts for HPC
 
-## Learning objectives
+## Learning Outcomes
   * Develop programs for HPC.
   * Develop parallel programs for shared memory systems as well as for message passing systems.
   * Develop efficient algorithms and data structures.

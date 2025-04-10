@@ -3,7 +3,7 @@
 The theoretical knowledge of HPC provides the background to understand how supercomputers and HPC environments operate.
 This enables practitioners to effectively use such environments.
 
-## Learning objectives
+## Learning Outcomes
   * Explain the hardware, software, and operation of HPC systems.
   * Construct and judge simple performance models for systems and applications.
   * Understand that there are performance frontiers.

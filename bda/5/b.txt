@@ -4,7 +4,7 @@ Machine learning techniques are essential for extracting valuable insights and p
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the fundamentals** of machine learning, including supervised learning, unsupervised learning, and reinforcement learning.
 * **Explore the principles** of feature engineering and feature selection for preparing input data for machine learning models.

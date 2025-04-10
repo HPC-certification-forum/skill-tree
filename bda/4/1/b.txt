@@ -4,7 +4,7 @@ Data preparation is a critical step in the big data analytics pipeline, involvin
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the importance** of data preparation in the big data analytics process, including its impact on the quality and reliability of analytical results.
 * **Explore techniques** for data acquisition and ingestion from various sources, including databases, file systems, APIs, and streaming platforms.

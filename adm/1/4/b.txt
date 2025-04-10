@@ -5,7 +5,7 @@ Learning about monitoring a system and what data is relevant for which decision.
 ## Requirements
 
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understanding CLI monitoring
 * Understanding files stored under /proc

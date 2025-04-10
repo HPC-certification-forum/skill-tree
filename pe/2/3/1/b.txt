@@ -2,7 +2,7 @@
 
 Collecting measurement data from HPC applications can be difficult. Score-P presents a generally uniform approach to collecting profiling and tracing data that can be applied to a broad range of HPC applications and allow measurements to be collected in many common HPC environments. In order to use this measurement system effectively, users must be aware of both the common performance engineering issues that affect all performance measurements and the specifics of how to use the various components of Score-P to collect accurate and relevant performance data.
 
-## Learning objectives
+## Learning Outcomes
   * Able to instrument applications including one or more parallel paradigms from the following:
     * MPI
     * SHMEM

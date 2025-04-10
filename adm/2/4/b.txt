@@ -6,7 +6,7 @@ Learn about power and how to distribute it in an HPC cluster.
 
 * Electricity and Signals (ADM2.10)
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand checking cables
 * Understand Breakers and disconnects

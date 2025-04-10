@@ -1,6 +1,6 @@
 # SD1.2.5 Overview: I/O Programming middleware
 
-## Learning objectives
+## Learning Outcomes
   * Assess general concepts of HPC I/O systems (e.g. parallel file systems) and how to map the data model to the storage system, e.g. by using appropriate I/O libraries and middleware architectures.
 
 ## Subskills

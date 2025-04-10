@@ -4,7 +4,7 @@
 
 * [[skill-tree:use:1:5:1:b]]
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand what conda environments are for 
 * Understand the difference between a module system and conda environment

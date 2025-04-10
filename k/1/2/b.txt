@@ -5,7 +5,7 @@ HPC computer architectures are parallel computer architectures. A parallel compu
   * Main memory.
   * A high-speed network.
 
-## Learning objectives
+## Learning Outcomes
   * elementary processing elements like CPUs, GPUs, many-core architectures
   * vector systems, and FPGAs
   * the NUMA architecture used for symmetric multiprocessing systems where the memory access time depends on the memory location relative to the processor

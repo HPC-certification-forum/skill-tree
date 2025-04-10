@@ -4,7 +4,7 @@ Understanding the underlying technologies and infrastructure is crucial for effe
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Understand the principles** of distributed computing and parallel processing in big data analytics.
 * **Explore the architecture** of distributed file systems like Hadoop Distributed File System (HDFS) and its role in storing and managing large datasets.

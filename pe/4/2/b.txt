@@ -4,7 +4,7 @@ This course focuses on techniques for optimizing system performance through conf
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand Small vs. Big Tasks
 * Understand Process Mapping to Nodes

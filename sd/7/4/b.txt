@@ -1,6 +1,6 @@
 # SD7.4 Documentation for Reproducibility
 
-## Learning objectives
+## Learning Outcomes
 
   * Document all necessary information for end-users so that they are able to reproduce the results.
   * Document the software stack, build instructions, input data, results etc.

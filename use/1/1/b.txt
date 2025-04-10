@@ -12,7 +12,7 @@ Part of this skill is the general principles of the interaction with a shell, to
 ## Requirements
 
 
-## Learning objectives
+## Learning Outcomes
 
 * Use the bash shell to execute individual programs with arguments.
 * List the set of basic programs and their tasks:

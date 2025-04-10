@@ -4,7 +4,7 @@ Learn about the IPMI system for cluster management
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * Understand the IMPI system
 

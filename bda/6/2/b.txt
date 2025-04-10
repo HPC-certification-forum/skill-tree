@@ -4,7 +4,7 @@ Data-driven workflows are essential for organizations aiming to integrate data a
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
 
 * **Identify the components of data-driven workflows**, understanding how data is sourced, processed, and analyzed to inform decisions.
 * **Design workflows that integrate data collection, analysis, and interpretation** seamlessly to support continuous improvement and real-time decision making.

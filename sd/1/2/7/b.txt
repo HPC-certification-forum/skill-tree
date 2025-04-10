@@ -3,7 +3,7 @@
 Accelerators are addon card similar to GPUs.
 They are designed to perform specific tasts and require additional programming.
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand FPGA
 * Understand GraphCore

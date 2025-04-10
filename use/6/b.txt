@@ -7,7 +7,7 @@ There are some programs, such as Snakemake, which are designed to automate this 
 
 ## Requirements
 
-## Learning objectives
+## Learning Outcomes
   * Understand a workflow
   * Design a workflow involving compiling, running, copying data
   * Understanding workflow engines

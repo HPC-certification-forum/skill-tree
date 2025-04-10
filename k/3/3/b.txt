@@ -5,7 +5,7 @@ Such a technique is needed on distributed memory systems.
 On distributed memory systems the computational work and, in general, the data have to be decomposed to enable parallel computations that employ several compute processes (which implies the possibility to run on multiple compute nodes).
 
 
-## Learning objectives
+## Learning Outcomes
   * Describe typical decomposition strategies to split a domain into subdomains to make it suited for parallel processing.
   * Discuss measures like surface to volume ratio.
   * Comprehend that in a domain decomposition a region is decomposed, e.g. box is split into smaller ones and a mesh is decomposed into smaller parts, in order to assign these subdomains to processes.

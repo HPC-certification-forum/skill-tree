@@ -5,7 +5,7 @@ It comes with integration into the shell.
 
 ## Requirements
 
-## Learning Objectives
+## Learning Outcomes
   * Comprehend that Modules can have dependencies and conflicts:
     * A Module can enforce other Modules that it depends on must be loaded before the Module itself can be loaded.
     * Conflicting modules must not be loaded at the same time (e.g. two versions of a compiler).

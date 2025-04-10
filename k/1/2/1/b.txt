@@ -1,7 +1,7 @@
 # K1.2.1 Processing elements
 
 
-## Learning objectives
+## Learning Outcomes
 
 * Understand CPU, GPU, Many Core 
 * Understand Instruction Level Parallelism 

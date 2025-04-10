@@ -6,7 +6,7 @@ Students should learn how to create stateful node images for HPC clusters. They 
 
 ## Requirements
 
-## Learning objectives
+## Learning Outcomes
 
 * Able to prepare the head node to deploy stateful node images
 * Customize stateful node images with custom partition layouts and software packages

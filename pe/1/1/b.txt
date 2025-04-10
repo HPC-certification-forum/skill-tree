@@ -5,7 +5,7 @@ Optimizing the performance of engineering systems by understanding and managing 
 ## Requirements
 
 
-## Learning Objectives
+## Learning Outcomes
 
 1. **Remember the fundamental concepts** and definitions related to time to solution constraints in performance engineering.
 2. **Understand the implications** of various constraints on project timelines and outcomes.

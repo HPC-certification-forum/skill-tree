@@ -1,6 +1,6 @@
 # SD4.1 Test-driven Development and Agile Testing
 
-## Learning objectives
+## Learning Outcomes
   * Describe the challenges of testing scientific applications.
   * Discuss test-driven and test-first concepts and understanding the benefits.
   * Characterize what constitutes a test strategy.

@@ -5,7 +5,7 @@ The main sources of parallelization overhead are data communication (between pro
 Other sources are additional operations that are introduced at the algorithmic level (for example in global reduction operations) or at a lower software level (for example by address calculations).
 
 
-## Learning objectives
+## Learning Outcomes
   * Comprehend that **Data communication** is necessary for programs that are parallelized for distributed memory computers (if data communication is not necessary the program is called trivially or embarrassingly parallel).
   * Comprehend that **Synchronization** plays an important role with shared memory parallelization.
   * Comprehend that there are also other sources of parallel inefficiency like:

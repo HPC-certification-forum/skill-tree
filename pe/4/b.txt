@@ -2,7 +2,7 @@
 
 Tuning means to change some system variables/configurations (without changing the program itself) in order to optimize the performance.
 
-## Learning objectives
+## Learning Outcomes
 
   *  Use profiling tools such as prof, gprof and line-by-line profilers.
   *  Define Amdahl's Law.

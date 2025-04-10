@@ -14,15 +14,4 @@ Files written through one language API are readable through other language APIs 
 Languages such as C++, Fortran-77, Fortran-90, Perl, Python, Ruby, Matlab, among others, have C-based interfaces.
 In particular, NetCDF4-python is a Python interface to the NetCDF C library.
 
-## Learning Outcomes
-  * Comply with the best practices for writing NetCDF files.
-  * Identify protocols, servers, and clients for remote data access through NetCDF interfaces.
-  * Discuss how features of the enhanced NetCDF-4 format can be applied:
-    * Groups.
-    * Multiple unlimited dimensions.
-    * User-defined types.
-    * Data compression.
-  * Create short programs in C that use the NetCDF API to read and write files in the NetCDF classical data model for a given NetCDF data model.
-  * Create short programs that use the netcdf4-python module to create and read files in NetCDF-4 format for a given NetCDF data model.
-
 ## Subskills

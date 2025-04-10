@@ -1,8 +1,5 @@
 # SD7 Overview Documentation
 
-## Learnining objectives
-  * Document the entire software system appropriately.
-  * Provide a user documentation.
-  * Provide a documentation for developers (e.g. describing the software architecture, for extending the software etc.).
+Document the entire software system appropriately. Provide a user documentation. Provide a documentation for developers (e.g. describing the software architecture, for extending the software etc.).
 
 ## Subskills

@@ -16,18 +16,20 @@ Part of this skill is the general principles of the interaction with a shell, to
 
 * Use the bash shell to execute individual programs with arguments.
 * List the set of basic programs and their tasks:
-	* pwd
-	* ls
-	* cd
-	* whoami
-	* sleep
-	* echo
-	* clear
-	* man
-	* exit
-	* ...
+    * pwd
+    * ls
+    * cd
+    * whoami
+    * sleep
+    * echo
+    * clear
+    * man
+    * exit
+* Demonstrate interrupting or aborting of a program execution using:
+    * CTRL-C
+    * CTRL-Z
+    * kill -9
 * Use the available help of a program (--help argument and the man pages).
-* Demonstrate interrupting a program execution with CTRL-C
 * Use the shell history to search and execute previously executed commands.
 * Demonstrate setting and printing shell variables.
 * Show all currently set variables

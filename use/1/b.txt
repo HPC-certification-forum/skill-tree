@@ -6,8 +6,10 @@ Via the CLI, users can run programs to manipulate files, load additional softwar
 While there are many similarities to single-user Linux systems, HPC systems differ widely in the management of provided Software packages, and users must pay attention to the locality of data.
 
 ## Subskills
-  * [[skill-tree:use:1:1:b]]
-  * [[skill-tree:use:1:2:b]]
-  * [[skill-tree:use:1:3:b]]
-  * [[skill-tree:use:1:4:b]]
-  * [[skill-tree:use:1:5:b]]
+
+* [[skill-tree:use:1:1:b]]
+* [[skill-tree:use:1:2:b]]
+* [[skill-tree:use:1:3:b]]
+* [[skill-tree:use:1:4:b]]
+* [[skill-tree:use:1:5:b]]
+* [[skill-tree:use:1:6:b]]

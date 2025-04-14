@@ -309,6 +309,7 @@
 <node TEXT="3: Conda environments (USE1.5.3)" ID="ID_1383141956" CREATED="1725614268627" MODIFIED="1725614418118" LINK="use/1/5/3/b.txt"/>
 </node>
 <node TEXT="6: CLI File editors (USE1.6)" ID="ID_249777418" CREATED="1740738976370" MODIFIED="1740739004709" LINK="use/1/6/b.txt"/>
+<node TEXT="7: Terminal Multiplexers (USE1.7)" ID="ID_1253558070" CREATED="1744634779685" MODIFIED="1744634807187" LINK="use/1/7/b.txt"/>
 </node>
 <node TEXT="2: Running of Parallel Programs (USE2)" FOLDED="true" POSITION="bottom_or_right" ID="ID_739006785" CREATED="1504024427911" MODIFIED="1725378330271" LINK="use/2/">
 <node TEXT="0: Overview: Running of Parallel Programs (USE2)" LOCALIZED_STYLE_REF="default" ID="ID_627929803" CREATED="1495126323320" MODIFIED="1725378337019" LINK="use/2/b.txt"/>

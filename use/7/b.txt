@@ -10,4 +10,3 @@ Software that can process small amounts of data usually struggles to visualize l
   * Understand visualization tool such as Paraview
   * Understand CDO
 
-## Subskills

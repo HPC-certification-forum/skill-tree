@@ -1,26 +1,31 @@
 # USE1.5.1 Environment Modules
 
 The Environment Modules package is a widely used tool for managing information (module files) about installed software.
-It comes with integration into the shell.
+There are many option to install such a module system, this skill only focusses on using it.
+It comes with integration into the shell, and this skill is focussing on bash.
 
 ## Requirements
 
+* [[skill-tree:use:1:1:b]]
+
 ## Learning Outcomes
-  * Comprehend that Modules can have dependencies and conflicts:
+
+* Comprehend that Modules can have dependencies and conflicts:
     * A Module can enforce other Modules that it depends on must be loaded before the Module itself can be loaded.
     * Conflicting modules must not be loaded at the same time (e.g. two versions of a compiler).
-  * Query information about packages:
+* Query information about packages:
     * list
     * avail
     * whatis
     * search
     * display
     * help
-  * Load/Unload software modules:
+    * spider if available
+* Load/Unload software modules:
     * load/unload
     * purge
     * swap
     * switch
-  * Describe the MODULEPATH variable.
+* Describe the MODULEPATH variable.
+* Describe the PATH and similar variables and how they are influenced by the module system
 
-## Subskills

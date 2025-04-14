@@ -11,4 +11,3 @@ A lot of menial tasks in HPC can be automated. Cronjobs starting shell scripts t
   * Distinguish different types of commands and loops
   * Articulate when it is more efficient to use a shell script rather than a program and when its the opposite
 
-## Subskills

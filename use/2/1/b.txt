@@ -17,4 +17,3 @@ Moreover, individual solutions can often be found in a specific system.
   * Tune a parallel program from the outside via runtime options.
   * Apply the workflow for tuning.
 
-## Subskills

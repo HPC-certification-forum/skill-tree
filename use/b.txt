@@ -8,11 +8,12 @@ That means users must be trained in a particular solution to utilize a supercomp
 
 Various user roles are covered as part of this subtree: practitioners that aim to deploy existing parallel applications as well as testers that just run already deployed applications, and also developers that create new applications.
 
-# Subskills
-  * [[skill-tree:use:1:b]]
-  * [[skill-tree:use:2:b]]
-  * [[skill-tree:use:3:b]]
-  * [[skill-tree:use:4:b]]
-  * [[skill-tree:use:5:b]]
-  * [[skill-tree:use:6:b]]
-  * [[skill-tree:use:7:b]]
+## Subskills
+
+* [[skill-tree:use:1:b]]
+* [[skill-tree:use:2:b]]
+* [[skill-tree:use:3:b]]
+* [[skill-tree:use:4:b]]
+* [[skill-tree:use:5:b]]
+* [[skill-tree:use:6:b]]
+* [[skill-tree:use:7:b]]

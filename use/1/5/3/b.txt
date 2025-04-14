@@ -1,13 +1,21 @@
 # USE1.5.3 Conda environments
 
+Many new languages, predominantly python is using its own package manager.
+Since python is very popular, especially for AI and similar fields, it is important to know how users can install and create their own python environments on an HPC system.
+Some systems have an installation of Conda for others users can install their own flavor manually.
+
+Important here is to know how to create and manage environments using conda and how to use them in scripts and other programs.
+
 ## Requrements
 
+* [[skill-tree:use:1:1:b]]
 * [[skill-tree:use:1:5:1:b]]
 
 ## Learning Outcomes
 
-* Understand what conda environments are for 
-* Understand the difference between a module system and conda environment
-* Discuss how such an environment can be constructed and what dependencies it has 
-* Prepare a conda enironment for basic python packages
-* Analyse the loading time for a conda environment for different file storage location
+* Understand what conda environments are used for.
+* Understand the difference between a module system and conda environment.
+* Discuss how such an environment can be constructed and what dependencies it has.
+* Discuss how a conda environment is interacting with packages loaded via environmental modules.
+* Prepare a conda environment for basic python packages.
+* Analyse the loading time for a conda environment for different file storage location.

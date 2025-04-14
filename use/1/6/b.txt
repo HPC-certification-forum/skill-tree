@@ -5,14 +5,14 @@ Many programs are available and are also often suggested in tutorials and by oth
 It is of importance to being able to navigate file editing using different editors and understanding how to write files and exit the editor.
 
 Most common editors will all be included here, meaning one should be taught and the other need to be mentioned for completeness:
-	* VI/Vim
-	* Emacs
-	* Nano
+    * VI/Vim
+    * Emacs
+    * Nano
 
 ## Requirements
 
 * [[skill-tree:use:1:1:b]]
-
+* [[skill-tree:use:1:3:b]]
 
 ## Learning Objectives
 
@@ -24,8 +24,6 @@ Most common editors will all be included here, meaning one should be taught and 
 * Indicate how to use the mouse pointer
 * Define how to copy and paste using the clipboard
 * Contrast differences between available editors
-	* Summarize the controversy between Emacs and Vim users
+    * Summarize the controversy between Emacs and Vim users
 
-
-## Subskills
 

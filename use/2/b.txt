@@ -6,12 +6,6 @@ Users must understand these concepts and procedures to be able to use the availa
 Moreover, individual solutions can often be found in a specific system.
 
 ## Subskills
-  * [[skill-tree:k:4:1:b]]
-  * [[skill-tree:use:2:i]]
-  * [[skill-tree:use:1:1:b]]
-  * [[skill-tree:use:1:3:b]]
-  * [[skill-tree:use:1:4:b]]
-  * [[skill-tree:pe:1:b]]
-  * [[skill-tree:pe:2:b]]
-  * [[skill-tree:pe:3:b]]
-  * [[skill-tree:k:4:b]]
+
+* [[skill-tree:use:2:1:b]]
+* [[skill-tree:use:2:2:b]]

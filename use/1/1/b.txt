@@ -25,6 +25,7 @@ Part of this skill is the general principles of the interaction with a shell, to
     * clear
     * man
     * exit
+    * ...
 * Demonstrate interrupting or aborting of a program execution using:
     * CTRL-C
     * CTRL-Z
@@ -32,10 +33,9 @@ Part of this skill is the general principles of the interaction with a shell, to
 * Use the available help of a program (--help argument and the man pages).
 * Use the shell history to search and execute previously executed commands.
 * Demonstrate setting and printing shell variables.
-* Show all currently set variables
+* Show all currently set variables and set as well as unset one manually.
 * Identify potential special characters that must be handled with care.
 * List strings that could refer to files/directories
 * Utilize escaping to ensure correct handling of arguments.
 * Understand wildcard characters to select a group of files/directories: "*", "?", "[-,]"
 
-## Subskills

@@ -5,10 +5,13 @@ Package management tools provide access to this wide variety of software.
 A user has to load the software for the current shell session to make commands available.
 
 The widely available software tools are:
-  * Environment modules
-  * Spack
+
+* Environment modules
+* Spack
+* Conda
 
 ## Subskills
-  * [[skill-tree:use:1:5:1:b]]
-  * [[skill-tree:use:1:5:2:b]]
-  * [[skill-tree:use:1:5:3:b]]
+
+* [[skill-tree:use:1:5:1:b]]
+* [[skill-tree:use:1:5:2:b]]
+* [[skill-tree:use:1:5:3:b]]

@@ -5,7 +5,6 @@ Learning the ways of general interaction with the remote system and the tools in
 
 Users must connect to an HPC system typically using the Secure Shell (SSH), which then starts a shell and allows the interactive access.
 When the user disconnects, such a session is terminated.
-A server-sided session that persists after disconnection enables the user to execute long-running programs remotely and allows the continuation of a previous session seamlessly.
 Data transfer between a local user system (e.g., desktop or laptop) and a remote system requires special tools. 
 Interactive access is also allowed.
 
@@ -31,8 +30,4 @@ The tools discussed here are generally valid for systems using Linux, Mac, Windo
     * scp
     * sftp
     * rsync (-avz)
-* Utilize screen and tmux to preserve a session between logins:
-    * Creation of a session.
-    * Detaching from the current session.
-    * Resuming a previous session.
 

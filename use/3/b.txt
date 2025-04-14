@@ -20,4 +20,3 @@ Building programs that run on an HPC system requires some thought into software,
   * Use the profile guided optimization (PGO) technique.
   * Use software building environments like Scons, Waf, make, Autotools, CMake.
 
-## Subskills

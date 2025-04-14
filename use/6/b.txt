@@ -12,4 +12,3 @@ There are some programs, such as Snakemake, which are designed to automate this 
   * Design a workflow involving compiling, running, copying data
   * Understanding workflow engines
 
-## Subskills

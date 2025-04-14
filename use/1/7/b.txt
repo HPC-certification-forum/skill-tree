@@ -1,0 +1,26 @@
+# USE1.7 Terminal multiplexer
+
+Sometimes running longer tasks or processes interactively can become error prone on a remote system.
+A loss of network breaks the SSH connection and terminates the commands a user has running on the remote system.
+
+This can be prevented by running terminal multiplexer.
+These are programs that run on a remote system and a user can attach and detach from such a session.
+All output is cached in the session and can be checked gain.
+Commands that are started run in this session and are independent of the SSH connection, breaking it will only detach from the multiplexer.
+
+Some even allow multiple users or multiple sessions of the same user to connect to them.
+
+## Requirements
+
+* [[skill-tree:use:1:1:b]]
+* [[skill-tree:use:1:4:b]]
+
+## Learning outcomes
+
+* Give examples for use cases for such a multiplexer.
+* Discuss using such a session for longer data transfers using SSH.
+* Review editing files using a terminal multiplexer
+* Utilize screen and tmux to preserve a session between logins:
+    * Creation of a session.
+    * Detaching from the current session.
+    * Resuming a previous session.

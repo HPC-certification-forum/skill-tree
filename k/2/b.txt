@@ -2,7 +2,4 @@
 
 HPC systems are massively parallel and therefore sophisticated parallel programs are required to exploit their performance potential as much as possible, including but not limited to modeling the I/O performance.
 
-## Learning Outcomes
-  * Describe how the performance of parallel programs may be assessed.
-
 ## Subskills

@@ -4,12 +4,5 @@ Learn about system provisioning and deployment.
 
 ## Requirements
 
-## Learning Outcomes
-
-* Understand Stateful images
-* Understand Stateless images
-* Understand Manege cluster nodes
-* Understand Warewulf
-* Understand Bright
-* Understand Ansible
+## Skill topics and Skills
 

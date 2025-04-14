@@ -3,14 +3,4 @@
 The theoretical knowledge of HPC provides the background to understand how supercomputers and HPC environments operate.
 This enables practitioners to effectively use such environments.
 
-## Learning Outcomes
-  * Explain the hardware, software, and operation of HPC systems.
-  * Construct and judge simple performance models for systems and applications.
-  * Understand that there are performance frontiers.
-  * Explain why it is a special challenge to achieve good speedups and good efficiencies if the number of processing elements is steadily increased.
-  * Compare different paradigms for the parallelization of applications.
-  * Construct and execute an HPC workflow on an HPC system.
-  * Comprehend job scheduling principles.
-  * Apply a cost model to compute the costs for running a workflow on an HPC system.
-
 ## Subskills

@@ -8,9 +8,5 @@ Automatically adding trace code to a parallel program by so-called instrumentati
 
 Similar techniques are explained for profiling the network level (e.g. based on InfiniBand counters and I/O server states).
 
-## Learning Outcomes
-
-  * Detect performance issues and bottlenecks caused, for example, by inefficient programming, memory accesses, I/O operations, cache-misses, page-faults, and parallelization overheads.
-  * Use environment variables like $I_MPI_STATS to control the built-in performance analysis functionality in MPI.
 
 # Subskills

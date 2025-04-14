@@ -2,9 +2,4 @@
 
 Before starting to use an HPC system it is important to basically understand file system architectures used in clusters.
 
-## Learning Outcomes
-* Understand Local File Systems
-* Understand Pseudo file system 
-* Understand Parallel File System
-
 ## Subskills

@@ -1,4 +1,4 @@
-# USE Overview: Use of the HPC Environment
+# USE Use of the HPC Environment
 
 HPC environments are different from local systems and cloud environments.
 

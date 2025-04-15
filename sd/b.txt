@@ -1,4 +1,4 @@
-# SD Overview Software Development
+# SD Software Development
 
 Software engineering is often neglected in computational science.
 However, it bears the potential to increase productivity by providing scaffolding for collaborative programming, reducing the coding errors and increasing the manageability of software.

@@ -1,4 +1,4 @@
-# K3 Overview: Program Parallelization
+# K3 Program Parallelization
 
 ## Learning Outcomes
   * Describe the typical parallelization techniques used at the intra- and inter-node level of cluster systems.

@@ -1,4 +1,4 @@
-# USE1.5 Overview: Software Environment
+# USE1.5 Software Environment
 
 HPC systems have generally installed multiple versions of several essential software tools and software environments.
 Package management tools provide access to this wide variety of software.

@@ -1,4 +1,4 @@
-# ADM2 Overview: Cluster Infrastructure
+# ADM2 Cluster Infrastructure
 
 Learn about what infrastructure is required to run an HPC cluster.
 This includes networking, power, and cooling requirements as well as types of storage and virtualisation.

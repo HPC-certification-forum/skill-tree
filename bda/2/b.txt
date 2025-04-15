@@ -1,4 +1,4 @@
-# BDA2 Overview Big Data Tools in HPC
+# BDA2 Big Data Tools in HPC
 
 Big Data Tools in High-Performance Computing (HPC) leverage the immense computational power and resources of HPC systems to tackle large-scale data processing and analytics tasks efficiently. In this overview, we explore the key tools and frameworks used for big data analytics in the context of HPC environments.
 

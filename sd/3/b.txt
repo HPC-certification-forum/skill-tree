@@ -1,4 +1,4 @@
-# SD3 Overview Software Configuration Management
+# SD3 Software Configuration Management
 
 ## Learning Outcomes
   * Describe the purpose and importance of software configuration management, especially in the context of high-performance computing.

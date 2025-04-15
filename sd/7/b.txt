@@ -1,4 +1,4 @@
-# SD7 Overview Documentation
+# SD7 Documentation
 
 ## Learnining objectives
   * Document the entire software system appropriately.

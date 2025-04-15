@@ -1,4 +1,4 @@
-# SD1.2.5.1 Overview: NetCDF
+# SD1.2.5.1 NetCDF
 
 In a simple view, NetCDF is:
     * A data model.

@@ -1,4 +1,4 @@
-# SD8 Overview: Workflow Management Systems
+# SD8 Workflow Management Systems
 
 Workflow Management Systems are tools to enable reproducible data analysis, especially if many data analyis processing steps are involved.
 

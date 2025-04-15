@@ -1,4 +1,4 @@
-# BDA6 Overview: Workflows
+# BDA6 Workflows
 
 Workflows play a crucial role in orchestrating and automating the sequence of tasks involved in Big Data Analytics (BDA), ensuring efficient data processing, analysis, and decision-making. In this overview, we explore the key aspects of workflows and their significance in the context of big data analytics.
 

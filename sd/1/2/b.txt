@@ -1,4 +1,4 @@
-# SD1.2 Overview Parallel Programming
+# SD1.2 Parallel Programming
 
 Parallel programming of shared memory systems and message passing systems as well as load balancing is addressed.
 

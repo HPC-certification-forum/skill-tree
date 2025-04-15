@@ -1,4 +1,4 @@
-# ADM Overview: Administration
+# ADM Administration
 
 Learn about administrating an HPC cluster and remember many basics about servers and other equipment.
 

@@ -1,4 +1,4 @@
-# BDA4 Overview: Data Handling 
+# BDA4 Data Handling 
 
 Data Handling is a critical aspect of Big Data Analytics (BDA), encompassing the processes and techniques for acquiring, preprocessing, cleaning, and transforming raw data into a usable format for analysis. In this overview, we explore the key components of data handling and their importance in the data analytics workflow.
 

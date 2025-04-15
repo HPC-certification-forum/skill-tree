@@ -1,4 +1,4 @@
-# ADM1 Overview: Theoretic Principles
+# ADM1 Theoretic Principles
 
 These principles are the learning foundation of the administration work for an HPC Cluster.
 Many primitives and fundamentals are described and recalled such as electricity and signals, networking and infrastructure.

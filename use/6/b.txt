@@ -1,15 +1,27 @@
-# USE6 Workflows
+# USE6 Overview: Workflow Management Systems
 
-Workflows are very important especially if much data movement is involved.
-Workflows involve the full procedure for a compute task.
-This can include, starting a job, compiling the software, moving data to the compute node, running the computation, copying the results to where they need to be, and cleaning up the work environment.
-There are some programs, such as Snakemake, which are designed to automate this process.
+Workflow Management Systems are basic tools for reproducible data analysis, especially if many data analyis steps are involved.
 
-## Requirements
+Workflow Management Systems cover all data analysis from A to Z, e.g. data preprocessing, quality filtering, analysis and statistical evaluation of processed data. This may include, starting jobs, staging data to compute nodes, running the computations, deleting temporary data, generating publication ready reports, archiving and cleaning work environments.
 
-## Learning Outcomes
-  * Understand a workflow
-  * Design a workflow involving compiling, running, copying data
-  * Understanding workflow engines
+There are some Workflow Management Systems, such as Nextflow or Snakemake, which are designed to automate this process on HPC Clusters.
+
+## Learning objectives
+
+- Explain the purpose and benefits of a Workflow Management System.
+- Identify and select an appropriate workflow from a workflow catalogue.
+- Recall the importance of reproducibility in research and describe how
+  Workflow Management Systems ensure it in HPC environments.
+- Configure workflows to run optimally on a particular system (e.g.
+  selecting appropriate queues, parameterising resources, and choosing input
+  files from various file systems).
+- Diagnose and resolve errors by identifying failed jobs, viewing logs, and
+  restarting workflows from failed steps.
 
 ## Subskills
+  
+* [[skill-tree:use:1:3:b]] [//]: # (navigating the Shell)
+* [[skill-tree:use:6:1:b]] [//]: # (selecting workflows)
+* [[skill-tree:use:6:2:b]] [//]: # (configuring workflows)
+* [[skill-tree:use:6:3:b]] [//]: # (configuring workflow profiles)
+* [[skill-tree:use:6:4:b]] [//]: # (running workflows)

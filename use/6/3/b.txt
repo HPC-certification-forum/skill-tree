@@ -1,0 +1,12 @@
+# Use 6.3 Workflow Parameterization for HPC Clusters
+
+## Requirements
+
+* [[skill-tree:use:4:2:b]]
+
+## Learning Objectives
+
+- Identify the specific computational requirements (e.g., node configurations, wall time limits) necessary for running workflows efficiently in high-performance computing (HPC) environments.
+- Set execution parameters (e.g., job duration, memory allocation, number of threads/MPI ranks) using workflow profile files to optimise resource usage on HPC systems, and make effective use of templates where available.
+- Tune workflows to exploit concurrent execution capabilities of HPC systems (e.g. pooling jobs or using job arrays) by adjusting parameters to effectively distribute tasks across multiple nodes or cores, including those for shared memory tools.
+- Set parameters related to input/output operations (e.g., data stage-in) to mitigate potential causes of I/O contention.

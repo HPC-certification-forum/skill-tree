@@ -1,4 +1,4 @@
-# SD1 Overview Programming Concepts for HPC
+# SD1 Programming Concepts for HPC
 
 ## Learning Outcomes
   * Develop programs for HPC.

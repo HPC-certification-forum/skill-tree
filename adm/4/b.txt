@@ -1,4 +1,4 @@
-# ADM4 Overview: Software Stack
+# ADM4 Software Stack
 
 Learn about software stack and how to set them up.
 Differentiate between system and user based software stack.

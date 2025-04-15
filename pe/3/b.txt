@@ -1,4 +1,4 @@
-# PE3 Overview: Benchmarking
+# PE3 Benchmarking
 
 Benchmarking is the activity to measure performance reliably and to assess the obtained performance.
 

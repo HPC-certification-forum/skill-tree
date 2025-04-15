@@ -1,4 +1,4 @@
-# USE1 Overview: Cluster Operating System
+# USE1 Cluster Operating System
 
 HPC systems are usually accessed via a Linux-based Command Line Interface (CLI).
 Via the CLI, users can run programs to manipulate files, load additional software, or execute programs.

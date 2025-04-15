@@ -1,4 +1,4 @@
-# PE2.3 Overview:  Profiling tools
+# PE2.3 Profiling tools
 
 Profiling is explained for the CPU level, where it can be supported by hardware performance counters and by sampling techniques.
 

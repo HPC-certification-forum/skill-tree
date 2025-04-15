@@ -1,4 +1,4 @@
-# PE1 Overview: Cost Awareness
+# PE1 Cost Awareness
 
 Cost awareness is a crucial aspect of Performance Engineering (PE), focusing on understanding the economic implications of performance optimization decisions in High Performance Computing (HPC) environments. In this overview, we explore the importance of cost awareness, considering factors such as time to solution constraints and the total cost of ownership.
 

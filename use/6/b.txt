@@ -1,4 +1,4 @@
-# USE6 Overview: Workflow Management Systems
+# USE6 Workflow Management Systems
 
 Workflow Management Systems are basic tools for reproducible data analysis, especially if many data analyis steps are involved.
 

@@ -1,4 +1,4 @@
-# K1.2 Overview Hardware Architectures
+# K1.2 Hardware Architectures
 
 HPC computer architectures are parallel computer architectures. A parallel computer is built out of
   * Compute units.

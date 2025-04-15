@@ -1,4 +1,4 @@
-# BDA Overview: Big Data Analytics
+# BDA Big Data Analytics
 
 The analysis of large volumes of data is essential in HPC.
 Big data analytics covers concepts and tools to perform this task traditionally in the cloud environment -- that, compared to HPC systems, utilizes cheap and less-reliable hardware.

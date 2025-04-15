@@ -1,4 +1,4 @@
-# K1.3 Overview Input/Output
+# K1.3 Input/Output
 
 The hardware/software organization/structure in a data center/supercomputer.
 

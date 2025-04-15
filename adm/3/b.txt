@@ -1,4 +1,4 @@
-# ADM3 Overview: Cluster Management
+# ADM3 Cluster Management
 
 Learn about managing an HPC cluster and what software can be used for aspects such as resource management, system provisioning, and monitoring.
 

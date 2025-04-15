@@ -1,4 +1,4 @@
-# K2 Overview: Performance Modeling
+# K2 Performance Modeling
 
 HPC systems are massively parallel and therefore sophisticated parallel programs are required to exploit their performance potential as much as possible, including but not limited to modeling the I/O performance.
 

@@ -9,4 +9,3 @@
 * Understand Storage tiers 
 * Understand Archiving 
 
-## Subskills

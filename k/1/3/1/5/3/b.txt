@@ -1,4 +1,4 @@
-# K1.3.1.5 Parallel I/O
+# K1.3.1.5 Parallel I/O principles
 
 Parallel I/O allows each processor in a multi-processor system to read and write data from multiple processes to a common file independently.
 
@@ -7,12 +7,9 @@ In HPC, increasing demands in the I/O system can cause bottlenecks. Parallel I/O
 
 ## Learning Outcomes
 
-* Use parallel I/O libraries with MPI-IO.
-* Use parallel I/O libraries with PNetCDF.
-* Demonstrate parallel IO principles.
+* Use parallel I/O libraries.
+* Assess the implications of parallel I/O on application efficiency.
+* Implement an application that utilizes parallel I/O to store, retrieve and analyze data.
+* Improve the I/O throughput with a parallel I/O file system.
+* List I/O system simulators developed for parallel I/O.
 
-## Subskills
-
-* [[skill-tree:k:1:3:1:5:1:b]]
-* [[skill-tree:k:1:3:1:5:2:b]]
-* [[skill-tree:k:1:3:1:5:3:b]]

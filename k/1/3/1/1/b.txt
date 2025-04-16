@@ -4,4 +4,3 @@
 
 * Understand different types of storage medias
 
-## Subskills

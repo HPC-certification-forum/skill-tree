@@ -5,5 +5,20 @@ This includes networking, power, and cooling requirements as well as types of st
 
 ## Requirements
 
+## Learning outcomes
+
+* Review Linux network configuration including routing, nftables, ntp, DNS and DHPC, failover, and TUN/TAP Networks
+* Describe usage of NFS in a cluster and key concepts including software/hardware components, security, and how to deploy NFS
+* Understand RAID including Backups, data transfers, and object stores
+* Understand virtualisation and investigate image management, hardware passthrough, and software such as OpenStack, VMWar, QEMU, and libvirt
+* Review cables, breakers and disconnects, distributing loads, UPS and power supplies
+* Summarize cooling options such as air, water, oil and investigate heat exchangers
+
+
 ## Skill topics and Skills
 
+* [[skill-tree:adm:2:1:b]]
+* [[skill-tree:adm:2:2:b]]
+* [[skill-tree:adm:2:3:b]]
+* [[skill-tree:adm:2:4:b]]
+* [[skill-tree:adm:2:5:b]]

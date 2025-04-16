@@ -10,13 +10,13 @@ Additionally many subjects like security, resource management, monitoring, and s
 
 ## Learning outcomes
 
-* Understand the hardware components of a computer and also investigate virtualization techniques
+* Understand the hardware components of a computer and also investigate virtualisation techniques
 * Describe the components required for networking including cables, protocols, and fabrics
 * Review the boot process and investigate BIOS options, netboot procedures as well as bootloaders
 * Summarize monitoring options including CLI monitoring, files under /proc, and different architectures
 * Generalize cluster management options including SSH for administrator access, user management, and system provisioning
 * Understand quota for files and compute, user limits and job managers
-* Understand the Unix Permission model, how to verify autheticity, 2FA procedures and advanced fencing
+* Understand the Unix Permission model, how to verify authenticity, 2FA procedures and advanced fencing
 * Practice how to model power consumption and understand fundamental concepts such as cables and batteries
 
 ## Skill topics and Skills

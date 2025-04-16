@@ -4,7 +4,7 @@ Learn about administrating an HPC cluster and remember many basics about servers
 
 ## Requirements
 
-## Learning outcomes
+## Learning Outcomes
 
 * Review theoretic principles such as hardware components, networking, boot process, monitoring, cluster management, and user management.
 * Summarize Linux network configuration, and investigate NFS, virtualisation and cooling options

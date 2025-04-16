@@ -6,7 +6,7 @@ Also, learn about using containers for software stacks.
 
 ## Requirements
 
-## Learning outcomes
+## Learning Outcomes
 
 * Review how to set up a software stack and remember system package managers, building from source, and a module system
 * Understand how to use containers and their deployment, as well as software containerisation

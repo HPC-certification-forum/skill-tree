@@ -9,7 +9,7 @@ stage-in and out data "automagically").
 
 * [[skill-tree:use:6:3:b]]
 
-## Learning Objectivs
+## Learning Outcomes
 
 * Identify Snakemake's capabilities for configuring its behaviour across a cluster environment.
 * Configure and set-up a cluster-wide YAML-based configuration file for Snakemake that will not interfere with other systems (e.g. CWL or Nextflow) and helps avoiding performance issues such as I/O contention.

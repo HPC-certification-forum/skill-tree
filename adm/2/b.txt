@@ -5,7 +5,7 @@ This includes networking, power, and cooling requirements as well as types of st
 
 ## Requirements
 
-## Learning outcomes
+## Learning Outcomes
 
 * Review Linux network configuration including routing, nftables, ntp, DNS and DHPC, failover, and TUN/TAP Networks
 * Describe usage of NFS in a cluster and key concepts including software/hardware components, security, and how to deploy NFS

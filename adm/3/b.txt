@@ -4,7 +4,7 @@ Learn about managing an HPC cluster and what software can be used for aspects su
 
 ## Requirements
 
-## Learning outcomes
+## Learning Outcomes
 
 * Understand management tools such as xCAT and Clustore
 * Understand workload manager such as SLURM, SGE, or HTConda

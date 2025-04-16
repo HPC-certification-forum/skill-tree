@@ -8,7 +8,7 @@ Additionally many subjects like security, resource management, monitoring, and s
 
 * Using knowledge (USE2)
 
-## Learning outcomes
+## Learning Outcomes
 
 * Understand the hardware components of a computer and also investigate virtualisation techniques
 * Describe the components required for networking including cables, protocols, and fabrics

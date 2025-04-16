@@ -15,22 +15,22 @@ The tools discussed here are generally valid for systems using Linux, Mac, Windo
 
 ## Learning Outcomes
 
-  * Describe how SSH-authentication works:
+* Describe how SSH-authentication works:
     * Password authentication.
     * Public-key authentication.
     * The role of an authentication agent and the security implications.
-  * Generate an SSH public/private key under Linux.
-  * Register a key for public-key authentication using ssh-copy-id.
-  * Perform a remote login from Linux using SSH.
-  * Use SSH-agent or Windows equivalents.
-  * Use Agent forwarding to connect to a third HPC system from an HPC system that you logged into with ssh from your computer.
-  * Know when to use and how to create a config file.
-  * Utilize tools to transfer data between the local and remote system:
+* Generate an SSH public/private key under Linux.
+* Register a key for public-key authentication using ssh-copy-id.
+* Perform a remote login from Linux using SSH.
+* Use SSH-agent or Windows equivalents.
+* Use Agent forwarding to connect to a third HPC system from an HPC system that you logged into with ssh from your computer.
+* Know when to use and how to create a config file.
+* Utilize tools to transfer data between the local and remote system:
     * scp
     * sftp
     * rsync (-avz)
-  * Describe how SSHFS allows mounting a remote directory to a local directory for interactive usage (Mac/Linux only), e.g. for copying files or to transparently use your favourite graphical text editor on the local computer for editing files on the remote cluster.
-  * Utilize screen and tmux to preserve a session between logins:
+* Describe how SSHFS allows mounting a remote directory to a local directory for interactive usage (Mac/Linux only), e.g. for copying files or to transparently use your favourite graphical text editor on the local computer for editing files on the remote cluster.
+* Utilize screen and tmux to preserve a session between logins:
     * Creation of a session.
     * Detaching from the current session.
     * Resuming a previous session.

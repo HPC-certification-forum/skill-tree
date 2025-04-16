@@ -14,4 +14,14 @@ By mastering the principles of data handling, practitioners can effectively mana
 
 ## Learning Outcomes
 
-# Subskills
+* Examine data preparation for big data workflows.
+* Examine data pre-processing for big data workflows.
+* Identify visualization techniques for big data.
+* Arrange an analysis of a processed data.
+
+## Subskills
+
+* [[skill-tree:bda:4:1:b]]
+* [[skill-tree:bda:4:2:b]]
+* [[skill-tree:bda:4:3:b]]
+* [[skill-tree:bda:4:4:b]]

@@ -12,6 +12,16 @@ By mastering workflows in the context of Big Data Analytics (BDA), practitioners
 
 ## Requirements
 
-## Skill Topics and Skills
+## Learning Outcomes
+
+* Anaylize workflows and investigate the systematic approach.
+* Apply data driven workflows for decision making processes.
+* Examine the integration of Big data into HPC workflows.
+
+## Subskills
+
+* [[skill-tree:bda:6:1:b]]
+* [[skill-tree:bda:6:2:b]]
+* [[skill-tree:bda:6:3:b]]
 
 AI generated content

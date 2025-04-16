@@ -1,4 +1,4 @@
-# Use 6.1 Selecting Workflows
+# USE6.1 Selecting Workflows
 
 Users need to select appropriate, pre-built workflows from established repositories for use in various computational and research tasks. Learners will develop an understanding of how to assess and select workflows that meet the specific needs of their project, whether using the nf-core repository for Nextflow workflows or the Snakemake Workflow Catalog for Snakemake-based workflows.
 

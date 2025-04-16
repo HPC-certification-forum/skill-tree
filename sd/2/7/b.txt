@@ -4,4 +4,3 @@
 
 * Understand testing procedures
 
-## Subskills

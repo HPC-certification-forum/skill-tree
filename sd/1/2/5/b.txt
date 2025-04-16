@@ -1,6 +1,12 @@
 # SD1.2.5 I/O Programming middleware
 
 ## Learning Outcomes
-  * Assess general concepts of HPC I/O systems (e.g. parallel file systems) and how to map the data model to the storage system, e.g. by using appropriate I/O libraries and middleware architectures.
+
+* Assess general concepts of HPC I/O systems (e.g. parallel file systems) and how to map the data model to the storage system, e.g. by using appropriate I/O libraries and middleware architectures.
+* Demonstrate the use of NetCDF as a parallel data format with different API.
+* Demonstrate the use of XIOS.
 
 ## Subskills
+
+* [[skill-tree:sd:1:2:5:1:b]]
+* [[skill-tree:sd:1:2:5:2:b]]

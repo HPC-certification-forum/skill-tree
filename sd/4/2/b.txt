@@ -1,7 +1,7 @@
 # SD4.2 Extreme Programming
 
 ## Learning Outcomes
-  * Discuss the principles of extreme programming and when to apply it.
-  * Apply the principles in the context of an HPC project.
 
-## Subskills
+* Discuss the principles of extreme programming and when to apply it.
+* Apply the principles in the context of an HPC project.
+

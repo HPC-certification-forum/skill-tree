@@ -9,8 +9,7 @@ RubyNetCDF supports all the functionality of the NetCDF-3 C library.
 
 ## Lerning objectives
 
-  * Write a two-dimensional array of sample data and read data from this file.
-  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
-  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
+* Write a two-dimensional array of sample data and read data from this file.
+* Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+* Write some four-dimensional variables using a record dimension and read from the variables from this file.
 
-## Subskills

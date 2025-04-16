@@ -5,15 +5,15 @@ Parallel programs are prone to failures and errors during operation.
 Knowledge about logging concepts, the ability to apply them appropriately, and to purposefully analyze the log files is therefore essential in the context of high-performance computing.
 
 ## Learning Outcomes
-  * Describe logging in general like log levels etc. (e.g. ERROR, WARN, INFO, DEBUG, TRACE).
-  * Different logging formats.
-  * Select appropriate information that should be logged e.g. timestamp, pid, thread, level, loggername) in order to be able to identify the problem.
-  * Differentiate between structured logging and text logging.
-  * Apply logging implementations/libraries for a specific programming language like Fortran, C, C++.
-  * Develop, maintain, and document a consistent logging concept for a program.
-  * Implement a logging concept for a program in a specific programming language, e.g. Fortran, C, C++.
-  * Recognize logging demands and challenges especially for distributed systems.
-  * Select the most appropriate log format for the context.
-  * Apply structured logging and text logging.
 
-## Subskills
+* Describe logging in general like log levels etc. (e.g. ERROR, WARN, INFO, DEBUG, TRACE).
+* Different logging formats.
+* Select appropriate information that should be logged e.g. timestamp, pid, thread, level, loggername) in order to be able to identify the problem.
+* Differentiate between structured logging and text logging.
+* Apply logging implementations/libraries for a specific programming language like Fortran, C, C++.
+* Develop, maintain, and document a consistent logging concept for a program.
+* Implement a logging concept for a program in a specific programming language, e.g. Fortran, C, C++.
+* Recognize logging demands and challenges especially for distributed systems.
+* Select the most appropriate log format for the context.
+* Apply structured logging and text logging.
+

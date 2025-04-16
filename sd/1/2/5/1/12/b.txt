@@ -21,21 +21,20 @@ LDM system includes network client and server programs designed for event-driven
 
 ## Learning Outcomes
 
-  * From the user's perspective, one should be able to retrieve data and:
+* From the user's perspective, one should be able to retrieve data and:
     * Obtain information regarding the dataset, without the need to download any files:
-      * Temporal spatial ranges, available variables, contact info, dataset details.
+        * Temporal spatial ranges, available variables, contact info, dataset details.
     * Retrieve user-relevant subset of the data (temporal, spatial, and variable subsetting).
     * Get data remotely in a variety of ways, including:
-      * OPeNDAP (DAP2/DAP4) protocol.
-      * ncWMS implementing the Web Map Service.
-      * Web Coverage Service.
-      * ncISO.
-      * NetCDF Subset Services.
+        * OPeNDAP (DAP2/DAP4) protocol.
+        * ncWMS implementing the Web Map Service.
+        * Web Coverage Service.
+        * ncISO.
+        * NetCDF Subset Services.
     * Download one file, even if data span multiple files.
-  * From the data provider's perspective, one should be able to provide data and:
+* From the data provider's perspective, one should be able to provide data and:
     * Catalog data holdings.
     * Aggregate data files.
     * Provide a quick view of data.
     * Easily add information (metadata) to datasets.
 
-## Subskills

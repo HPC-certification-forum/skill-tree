@@ -1,10 +1,15 @@
 # SD3 Software Configuration Management
 
 ## Learning Outcomes
-  * Describe the purpose and importance of software configuration management, especially in the context of high-performance computing.
-  * Apply the basic concepts, terms and processes of SCM.
-  * Apply steps of SCM in an HPC project.
-  * Describe the basics of SCM from the IEEE standards (e.g. IEEE-Standard 729-1983, IEEE 828: Software Configuration Management Plans, IEEE 1042: Guide to Software Configuration Management.
-  * Detail terms like Configuration Item, Baseline, SCM Directories, Version, Revision, and Release.
+
+* Describe the purpose and importance of software configuration management, especially in the context of high-performance computing.
+* Demonstrate Bug and issue tracking for a software project.
+* Apply the basic concepts, terms and processes of SCM and apply steps of SCM in an HPC project.
+* Detail terms like Configuration Item, Baseline, SCM Directories, Version, Revision, and Release.
 
 ## Subskills
+
+* [[skill-tree:sd:3:1:b]]
+* [[skill-tree:sd:3:2:b]]
+* [[skill-tree:sd:3:3:b]]
+* [[skill-tree:sd:3:4:b]]

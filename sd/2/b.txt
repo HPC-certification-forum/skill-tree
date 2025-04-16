@@ -3,7 +3,23 @@
 This skill provides knowledge about software development best practices that will help scientists to develop high-quality scientific software.
 
 ## Learning Outcomes
-  * Apply the best practices from software engineering regarding programming.
-  * Apply programming best practices in order to develop robust and maintainable programs.
+
+* Analyse the benefits of using an IDE for programming.
+* Apply the best practices from software engineering regarding programming and debugging.
+* Apply programming best practices in order to develop robust and maintainable programs.
+* Distinguish different log levels and apply them to a program.
+* Dramatize the handling of exceptions for programs.
+* Apply coding standards to a programming project.
+* Apply testing procedures to a programming project.
+* Demonstrate programming of portable code.
 
 ## Subskills
+
+* [[skill-tree:sd:2:1:b]]
+* [[skill-tree:sd:2:2:b]]
+* [[skill-tree:sd:2:3:b]]
+* [[skill-tree:sd:2:4:b]]
+* [[skill-tree:sd:2:5:b]]
+* [[skill-tree:sd:2:6:b]]
+* [[skill-tree:sd:2:7:b]]
+* [[skill-tree:sd:2:8:b]]

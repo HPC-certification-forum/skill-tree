@@ -8,34 +8,33 @@ Following this approach will help the user to significantly improve quality of s
 
 * Design and develop programs on a higher level of abstraction by applying software architecture and object-oriented design.
 * Understand Requirements Elicitation and Analysis
-  * Describe the role of requirements elicitation and analysis during software development.
-  * Identify functional and non-functional requirements of the software to be implemented.
-  * Capture a common terminology, constraints, and assumptions.
-  * Evaluate the identified requirements against the background of Software Quality.
-  * Use the identified requirements to validate them by tests.
-  * Use a predefined template in order to capture the requirements.
+    * Describe the role of requirements elicitation and analysis during software development.
+    * Identify functional and non-functional requirements of the software to be implemented.
+    * Capture a common terminology, constraints, and assumptions.
+    * Evaluate the identified requirements against the background of Software Quality.
+    * Use the identified requirements to validate them by tests.
+    * Use a predefined template in order to capture the requirements.
 * Understand Object-Oriented Design
-  * Discuss and use the main concepts of object-orientation (classes, interfaces, polymorphism) to design and implement a program.
-  * Design patterns for HPC.
-  * Write modular, reusable code by applying software design principles like Separation of concerns, loose coupling, information hiding, DRY, KISS etc. (following best practices like Clean Code by Robert C. Martin).
-  * Apply object-oriented design and programming to scientific applications.
+    * Discuss and use the main concepts of object-orientation (classes, interfaces, polymorphism) to design and implement a program.
+    * Design patterns for HPC.
+    * Write modular, reusable code by applying software design principles like Separation of concerns, loose coupling, information hiding, DRY, KISS etc. (following best practices like Clean Code by Robert C. Martin).
+    * Apply object-oriented design and programming to scientific applications.
 * Understand Software Architecture
-  * Describe the importance and impact of software architecture during software development.
-  * Analyze software architecture principles.
+    * Describe the importance and impact of software architecture during software development.
+    * Analyze software architecture principles.
 * Understand Software Architecture
-  * Design the application as a plugin architecture so that the functionality can be extended more easily.
-  * Design the software architecture of the system based on software architecture patterns.
-  * Develop an HPC application according to a reference architecture and adhering to the standards/guidelines given by the reference architecture.
-  * Implement component-based software architecture for scientific applications.
-  * Apply component-based architecture design.
-  * Detect architecture bad smells.
-  * Identify sub-optimal design decisions in architecture designs (e.g. sub-optimal communication between components).
-  * Describe the software architecture of a scientific applications, what the most critical architecture decisions are, what the main structures of the system are, what the interfaces of the systems are, how they are designed and how components communicate with each other.
-  * Discuss which software architecture patterns are typical for a specific type of scientific application and which aspects (e.g. quality attributes) they address.
-  * Apply design patterns to HPC, e.g. patterns for coding of parallel algorithms and their mapping to various architectures.
-  * Reference architectures for scientific applications.
-  * Identify architectural tactics for performance, scalability, etc.
-  * Apply software architecture principles during the architecture design.
-  * Interpret the characteristics and the architectural challenges of data-intensive and compute-intensive software systems and how they can be appropriately addressed.
+    * Design the application as a plugin architecture so that the functionality can be extended more easily.
+    * Design the software architecture of the system based on software architecture patterns.
+    * Develop an HPC application according to a reference architecture and adhering to the standards/guidelines given by the reference architecture.
+    * Implement component-based software architecture for scientific applications.
+    * Apply component-based architecture design.
+    * Detect architecture bad smells.
+    * Identify sub-optimal design decisions in architecture designs (e.g. sub-optimal communication between components).
+    * Describe the software architecture of a scientific applications, what the most critical architecture decisions are, what the main structures of the system are, what the interfaces of the systems are, how they are designed and how components communicate with each other.
+    * Discuss which software architecture patterns are typical for a specific type of scientific application and which aspects (e.g. quality attributes) they address.
+    * Apply design patterns to HPC, e.g. patterns for coding of parallel algorithms and their mapping to various architectures.
+    * Reference architectures for scientific applications.
+    * Identify architectural tactics for performance, scalability, etc.
+    * Apply software architecture principles during the architecture design.
+    * Interpret the characteristics and the architectural challenges of data-intensive and compute-intensive software systems and how they can be appropriately addressed.
 
-## Subskills

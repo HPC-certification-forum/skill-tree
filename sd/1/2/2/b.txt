@@ -3,26 +3,27 @@
 The parallel concepts of threads and processes are introduced and their impacts on performance are outlined.
 
 ## Learning Outcomes
-  * Detect race conditions and use synchronization mechanisms to avoid them.
-  * Estimate the problems that may result from erroneous use of synchronization mechanisms (e.g. deadlocks).
-  * Assess data dependency situations, i.e. an instruction reading the data written by a preceding instruction in the source code, and anti dependencies, i.e. an instruction having to read data before a succeeding instruction overwrites it, and output dependencies, i.e. instructions writing to the same memory location.
-  * Use data parallelism, e.g. applying parallel streams of identical instructions to different elements of appropriate data structures such as arrays.
-  * Apply the concept of functional parallelism, i.e. executing a set of distinct functions possibly using the same data.
-  * Assess the applicability of parallel language extensions like OpenMP.
-  * Assess concepts like software pipelining, e.g. to optimize loops by out-of-order execution.
-  * Assess the applicability of parallel language extensions like CUDA as well as their interoperability (e.g. combining OpenACC and CUDA).
-  * Assess parallel concepts typically used for shared memory systems, e.g. to exploit temporal locality by data reuse with efficient utilization of the memory hierarchy.
-  * Assess concepts like software pipelining and vectorization principles.
-  * Assess the influence of control dependencies by jumps, branches, and function calls, e.g. on pipeline filling.
-  * Assess the applicability of parallel language extensions like OpenACC, and C++ AMP.
-  * Understand Single Instruction Multiple Data (SIMD) 
-  * Understand Synchronization
-  * Understand Memory Hierarchy and Data Reuse
-  * Understand Software Pipelining
-  * Understand Dependency Pattern and remember
-     * Data Dependencies
-     * Control Dependencies 
-  * Understand Language Extensions and remember
+
+* Detect race conditions and use synchronization mechanisms to avoid them.
+* Estimate the problems that may result from erroneous use of synchronization mechanisms (e.g. deadlocks).
+* Assess data dependency situations, i.e. an instruction reading the data written by a preceding instruction in the source code, and anti dependencies, i.e. an instruction having to read data before a succeeding instruction overwrites it, and output dependencies, i.e. instructions writing to the same memory location.
+* Use data parallelism, e.g. applying parallel streams of identical instructions to different elements of appropriate data structures such as arrays.
+* Apply the concept of functional parallelism, i.e. executing a set of distinct functions possibly using the same data.
+* Assess the applicability of parallel language extensions like OpenMP.
+* Assess concepts like software pipelining, e.g. to optimize loops by out-of-order execution.
+* Assess the applicability of parallel language extensions like CUDA as well as their interoperability (e.g. combining OpenACC and CUDA).
+* Assess parallel concepts typically used for shared memory systems, e.g. to exploit temporal locality by data reuse with efficient utilization of the memory hierarchy.
+* Assess concepts like software pipelining and vectorization principles.
+* Assess the influence of control dependencies by jumps, branches, and function calls, e.g. on pipeline filling.
+* Assess the applicability of parallel language extensions like OpenACC, and C++ AMP.
+* Understand Single Instruction Multiple Data (SIMD) 
+* Understand Synchronization
+* Understand Memory Hierarchy and Data Reuse
+* Understand Software Pipelining
+* Understand Dependency Pattern and remember
+    * Data Dependencies
+    * Control Dependencies 
+* Understand Language Extensions and remember
      * Processes
      * CUDA
      * OpenACC
@@ -30,4 +31,3 @@ The parallel concepts of threads and processes are introduced and their impacts 
      * C++ AMP
      * Vectorization
 
-## Subskills

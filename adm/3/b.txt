@@ -4,6 +4,23 @@ Learn about managing an HPC cluster and what software can be used for aspects su
 
 ## Requirements
 
+## Learning outcomes
 
-## Skill topics and Skills
+* Understand management tools such as xCAT and Clustore
+* Understand workload manager such as SLURM, SGE, or HTConda
+* Understand parallel shell programs such as Clustershell
+* Understand Stateful and Stateless images as well as how to manage cluster nodes and deployment software
+* Understand User management software
+* Understand monitoring option such as Prometheus, Telegraf, Grafana, Icinga
+* Understand the IMPI system
 
+
+## Subskills
+
+* [[skill-tree:adm:3:1:b]]
+* [[skill-tree:adm:3:2:b]]
+* [[skill-tree:adm:3:3:b]]
+* [[skill-tree:adm:3:4:b]]
+* [[skill-tree:adm:3:5:b]]
+* [[skill-tree:adm:3:6:b]]
+* [[skill-tree:adm:3:7:b]]

@@ -4,5 +4,6 @@ Learn about administrating an HPC cluster and remember many basics about servers
 
 ## Requirements
 
-## Skill topics and Skills
+## Subskills
 
+* [[skill-tree:adm:1:1:b]]

@@ -8,7 +8,7 @@ Learn about system provisioning and deployment.
 
 * Understand Stateful images
 * Understand Stateless images
-* Understand Manege cluster nodes
+* Understand Manage cluster nodes
 * Understand deployment software such as Warewulf, Bright, and Ansible
 
 ## Subskills

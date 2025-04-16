@@ -1,4 +1,4 @@
-# ADM5.1 Workflow Management Systems - Snakemake
+# ADM5 Workflow Management Systems - Snakemake
 
 Snakemake offers to setup a system-wide configuration file, selecting the 
 default excecutor (Snakemake lingo for the execution of job, e.g. for 
@@ -11,5 +11,5 @@ stage-in and out data "automagically").
 
 ## Learning Objectivs
 
-- Identify Snakemake's capabilities for configuring its behaviour across a cluster environment.
-- Configure and set-up a cluster-wide YAML-based configuration file for Snakemake that will not interfere with other systems (e.g. CWL or Nextflow) and helps avoiding performance issues such as I/O contention.
+* Identify Snakemake's capabilities for configuring its behaviour across a cluster environment.
+* Configure and set-up a cluster-wide YAML-based configuration file for Snakemake that will not interfere with other systems (e.g. CWL or Nextflow) and helps avoiding performance issues such as I/O contention.

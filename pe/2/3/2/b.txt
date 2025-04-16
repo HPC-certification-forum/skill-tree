@@ -18,5 +18,3 @@ Furthermore, it helps in identifying the root causes of those waiting times by d
 ## Maintainer
 
 * Marc-André Hermanns, HPC Group, IT Center, RWTH Aachen University
-
-## Subskills

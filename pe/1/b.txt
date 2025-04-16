@@ -10,4 +10,14 @@ By incorporating cost awareness into performance engineering practices, organiza
 
 ## Requirements
 
+## Learning Outcomes
+
+* Identify many of the constraint for the time to get the solution.
+* Infer the total cost of ownership.
+
+## Subskills
+
+* [[skill-tree:pe:1:1:b]]
+* [[skill-tree:pe:1:2:b]]
+
 AI generated content

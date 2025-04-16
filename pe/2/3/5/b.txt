@@ -19,5 +19,3 @@ Analyzing application performance in HPC can be a very challenging task. It depe
 ## Maintainer
 
 * Frank Winkler, ZIH Team @ TU Dresden
-
-## Subskills

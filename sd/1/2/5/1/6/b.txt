@@ -8,8 +8,7 @@ It is also possible to call NetCDF Java library methods from MATLAB, so using it
 
 ## Learning Outcomes
 
-  * Write a two-dimensional array of sample data and read data from this file.
-  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
-  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
+* Write a two-dimensional array of sample data and read data from this file.
+* Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+* Write some four-dimensional variables using a record dimension and read from the variables from this file.
 
-## Subskills

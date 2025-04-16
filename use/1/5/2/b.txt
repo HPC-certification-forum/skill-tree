@@ -5,13 +5,13 @@ It allows the user to install software with all necessary dependency and to load
 Spack creates unique configurations for software.
 
 ## Learning Outcomes
-  * Describe the concept of configurations and used hashing.
-  * Query information about packages:
+
+* Describe the concept of configurations and used hashing.
+* Query information about packages:
     * list
     * info
     * find (also use -d to reveal their dependencies)
     * spec
-  * Load/Unload software modules.
-  * Describe the spec syntax to specify package configurations.
+* Load/Unload software modules.
+* Describe the spec syntax to specify package configurations.
 
-## Subskills

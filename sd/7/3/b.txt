@@ -2,7 +2,6 @@
 
 ## Learnining objectives
 
-  * Document source code using documentation generators like doxygen, pydoc, or sphinx.
-  * Produce a consistent source code documentation according to guidelines and best practices.
+* Document source code using documentation generators like doxygen, pydoc, or sphinx.
+* Produce a consistent source code documentation according to guidelines and best practices.
 
-# Subskills

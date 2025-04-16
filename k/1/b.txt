@@ -4,13 +4,14 @@ Supercomputers are computers that led the world in terms of processing capacity,
 
 ## Learning Outcomes
 
-  * various system-, hardware-, and I/O-architectures used for supercomputers, i.e. computers that led the world in terms of processing capacity, and particularly in the speed of calculations, at the time of their introduction, or share key architectural aspects with these computers
-  * typical operation of data and computing centers
-  * differentiation between supercomputers, high-performance computers, clusters, research computing
-  * different metrics to calculate supercomputing performance (e.g., Linpack, HPCChallenge, GreenHPC etc)
-
-  * List typical computing centers.
-  * Differentiate among supercomputers, high-performance computers, clusters, and research computing.
-  * Characterize different metrics to calculate supercomputing performance (e.g., Linpack, HPCChallenge, GreenHPC, etc).
+* Discuss various system-, hardware-, and I/O-architectures used for supercomputers, i.e. computers that led the world in terms of processing capacity, and particularly in the speed of calculations, at the time of their introduction, or share key architectural aspects with these computers
+* Discuss different hardware architectures.
+* Experiment with IO operations on different storage media and also on parallel file systems.
+* Outline typical operation of data and computing centers.
 
 ## Subskills
+
+* [[skill-tree:k:1:1:b]]
+* [[skill-tree:k:1:2:b]]
+* [[skill-tree:k:1:3:b]]
+* [[skill-tree:k:1:4:b]]

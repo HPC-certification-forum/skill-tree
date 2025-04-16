@@ -4,6 +4,6 @@ Distributed (or network) file systems are provided by a file server which is int
 A classic distributed file system is the Network File System (NFS).
 
 ## Learning Outcomes
-  * Comprehend that Network file systems are not designed for (very) high I/O loads.
 
-## Subskills
+* Comprehend that Network file systems are not designed for (very) high I/O loads.
+

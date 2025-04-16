@@ -6,4 +6,3 @@ The workflow is represented by an optimization cycle with the steps benchmarking
 
   *  Apply the full workflow for tuning a parallel program.
 
-## Subskills

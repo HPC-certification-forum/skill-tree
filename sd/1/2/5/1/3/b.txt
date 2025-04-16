@@ -5,9 +5,8 @@ Layered above the basic data access, the CDM uses the metadata contained in data
 
 ## Learning Outcomes
 
-  * Employ the CDM/NetCDF-Java to read datasets in various formats.
-  * Write a two-dimensional array of sample data and read data from this file.
-  * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
-  * Write some four-dimensional variables using a record dimension and read from the variables from this file.
+* Employ the CDM/NetCDF-Java to read datasets in various formats.
+* Write a two-dimensional array of sample data and read data from this file.
+* Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.
+* Write some four-dimensional variables using a record dimension and read from the variables from this file.
 
-## Subskills

@@ -12,4 +12,3 @@ CUDA applications can be optimized in various places. The NVIDIA Nsight Systems 
 
 * Markus Velten, ZIH Team @ TU Dresden
 
-## Subskills

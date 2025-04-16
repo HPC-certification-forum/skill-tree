@@ -7,4 +7,3 @@
 * Understand Performance characteristics of Memory
 * Understand Performance characteristics of Communication
 
-## Subskills

@@ -6,30 +6,19 @@ Understanding the concepts of strong and weak scaling is crucial for evaluating 
 
 ## Learning Outcomes
 
-* **Define strong and weak scaling** in the context of performance engineering.
-* **Distinguish between strong scaling and weak scaling** through theoretical and practical examples.
-* **Measure and evaluate strong scaling performance** of applications to understand efficiency at fixed problem sizes as resources are increased.
-* **Analyze weak scaling performance** to determine system efficiency as problem size increases with additional resources.
-* **Apply appropriate metrics and tools** for assessing strong and weak scaling in various computing environments.
-* **Design benchmarks** to test strong and weak scaling capabilities of systems and applications.
-* **Interpret scaling data** to make informed decisions about system architecture and resource allocation.
-* **Optimize application code** for improved scalability, focusing on both strong and weak scaling strategies.
-* **Simulate scaling scenarios** using software models to predict performance changes under different resource allocations.
-* **Discuss the impact of scaling decisions** on overall system performance and cost-effectiveness.
-* **Investigate real-world case studies** where strong and weak scaling have been crucial factors in system design and performance optimization.
-* **Evaluate the trade-offs** involved in choosing between strong and weak scaling approaches.
-* **Develop scaling strategies** that align with organizational goals and performance targets.
-* **Lead workshops or seminars** to disseminate knowledge on scaling practices within the organization.
-* **Stay updated with the latest advancements** in technology that affect scaling practices, including new software and hardware developments.
-* **Critique existing scalability solutions** and propose innovative alternatives based on empirical data and research.
-* **Facilitate team discussions** on the challenges and opportunities presented by scaling.
-* **Create comprehensive reports** detailing the outcomes of scaling tests and their implications for business and operational strategies.
-* **Advocate for best practices** in scaling within industry forums and professional groups.
-* **Develop a toolkit** for IT professionals to effectively implement scaling techniques in their projects.
-* **Examine the role of cloud computing** in strong and weak scaling strategies.
-* **Explore the influence of system architecture** on scalability, including hardware and software limitations.
-* **Understand the environmental impacts** of scaling decisions, particularly in terms of energy consumption and efficiency.
-* **Teach advanced statistical methods** for analyzing scaling outcomes to ensure accurate interpretation of complex data.
-* **Collaborate with industry partners** to gain insights into emerging trends and real-time challenges in scaling.
+* Differentiate types of scaling:
+    * **Weak scaling**: problem size increases proportionally to the number of parallel processes to analyze how big may the problems be that I can solve.
+    * **Strong scaling**: problem size remains the same for an increasing number of processes to analyze how fast can I solve a problem of a given size.
+* Interpret typical weak and strong scaling plots.
+* Avoid typical pitfalls:
+    * **Break-even considerations regarding the benchmark effort**:
+        * Benchmarking also represents a certain effort, namely for providing the HPC resources and human time explicitly used for that purpose.
+    * **Presenting fair speedups**:
+        * For conventional speedup calculations the same version of an algorithm (the same program) is used to measure runtimes T(sequential) and T(parallel) but for fair speedup calculations, the best known sequential algorithm to measure T(sequential) should be used.
+    * **Special features of current CPU architectures**:
+        * Features like turbo boost and hyper-threading may influence benchmark results.
+    * **Shared nodes**:
+        * If the same cores are potentially shared at times on a node by different programs, the value of the benchmark results may be significantly reduced or even made uselessly.
+    * **Reproducibility**:
+        * There are parallel algorithms which may produce non-deterministic results, due to inherent effects of concurrency which in turn may lead to different (but generally equivalent) results but also to strongly differing runtimes of repeated runs.
 
-AI generated content

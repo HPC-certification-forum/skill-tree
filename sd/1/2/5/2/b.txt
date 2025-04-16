@@ -8,14 +8,13 @@ XIOS aims at simplifying the I/O management by minimizing the number of subrouti
 
 ## Learning Outcomes
 
-  * Describe the XIOS-XML terminology and structuration.
-  * Test XIOS on a specific architecture.
-  * Use one or more processes dedicated exclusively to the I/O management to obtain:
+* Describe the XIOS-XML terminology and structuration.
+* Test XIOS on a specific architecture.
+* Use one or more processes dedicated exclusively to the I/O management to obtain:
     * Simultaneous writing and computing by an asynchronous call.
     * Asynchronous transfer of data from clients to servers.
     * Asynchronous data writing by each server.
-  * Use of parallel file system ability via Netcdf4-HDF5 file format to obtain:
+* Use of parallel file system ability via Netcdf4-HDF5 file format to obtain:
     * Simultaneous writing in the same single file by all servers.
     * No more post-processing rebuilding of the files.
 
-## Subskills

@@ -23,4 +23,3 @@ Collecting measurement data from HPC applications can be difficult. Score-P pres
 
 * Bert Wesarg, William (Bill) Williams, ZIH Tools Team @ TU Dresden
 
-## Subskills

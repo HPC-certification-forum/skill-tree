@@ -4,7 +4,7 @@ This skill covers how software architecture and design can appropriately be docu
 In order to preserve knowledge about the main components of the software and the related decisions about why the software has been designed in this specific way, it is important to document them.
 
 ## Learning Outcomes
-  * Document the different views of the software architecture according to a specific documentation framework, e.g. 4+1 views, Views and Beyond, architecture decision frameworks (e.g. Taylor, Olaf Zimmermann).
-  * Apply a modeling language for documenting the design and the architecture, e.g. Unified Modeling Language (UML).
 
-## Subskills
+* Document the different views of the software architecture according to a specific documentation framework, e.g. 4+1 views, Views and Beyond, architecture decision frameworks (e.g. Taylor, Olaf Zimmermann).
+* Apply a modeling language for documenting the design and the architecture, e.g. Unified Modeling Language (UML).
+

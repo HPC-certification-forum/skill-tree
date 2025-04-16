@@ -19,4 +19,3 @@ Collecting measurement data from HPC applications can be difficult. Lightweight 
 
 * Mario Bielert, ZIH Tools Team @ TU Dresden
 
-## Subskills

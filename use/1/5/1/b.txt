@@ -6,21 +6,30 @@ It comes with integration into the shell.
 ## Requirements
 
 ## Learning Outcomes
-  * Comprehend that Modules can have dependencies and conflicts:
+
+* Comprehend that Modules can have dependencies and conflicts:
     * A Module can enforce other Modules that it depends on must be loaded before the Module itself can be loaded.
     * Conflicting modules must not be loaded at the same time (e.g. two versions of a compiler).
-  * Query information about packages:
+* Query information about packages:
     * list
     * avail
     * whatis
     * search
     * display
     * help
-  * Load/Unload software modules:
+* Load/Unload software modules:
     * load/unload
     * purge
     * swap
     * switch
-  * Describe the MODULEPATH variable.
+* Describe the MODULEPATH variable.
+* Describe the general dependency structure of software.
+* Describe how a package manager makes software available.
+* Understand shell variables relevant for executing and building software:
+    * PATH for executables
+    * LD\_LIBRARY\_PATH for libraries
+    * MANPATH for manual pages (man command)
+    * PKG\_CONFIG\_PATH for pkg-config
+* Manipulate shell variables to include additional software:
+    * Setting shell variables for a single program by prefixing or by using export.
 
-## Subskills

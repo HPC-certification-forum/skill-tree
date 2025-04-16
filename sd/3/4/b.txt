@@ -1,20 +1,20 @@
-# SD3.3 Release Management
+# SD3.4 Deployment Management
 
-The benefits of release management are explained.
-Moreover, it is covered how software releases are managed according to a well-defined and consistent process.
+This skill conveys how dependencies are managed, how and why to setup different environments for development, testing, and production, how and why to automate the deployment process and the importance of preserving and documenting reproducible software stacks that can be used by other users/researchers in order to reliably reproduce the results.
 
 ## Learning Outcomes
-  * Describe the basics of release management and what the benefits are of applying a release management process in the context of high-performance computing "fault", "failure", and "error".
-  * Discuss the differences among Major Release, Minor Release, Emergency Fix (and potentially other types of releases) and what should be contained in each of them.
-  * Correlate the tasks and steps of release management.
-  * Apply the steps of the deployment process of the release version and the required dependencies.
-  * Comply with the best practices of making releases identifiable via version numbers using appropriate version numbering scheme (e.g. using the version control system).
-  * Characterize the lifecycle of a release (including states such as stable, unstable).
-  * Differentiate frameworks of release planning and management, e.g. SCRUM release planning and ITIL.
-  * Apply frameworks of release planning and management like SCRUM release planning or ITIL.
-  * Classify releases according to release categories (e.g. major, minor, emergency fix).
-  * Plan and manage releases of scientific software and to document the release including the release notes.
-  * Apply best practices to make a release identifiable via version numbers using appropriate version numbering scheme (e.g. using the version control system).
-  * Find the best release management process for the team (e.g. dependending on team size etc.).
 
-## Subskills
+* Describe the basics of dependency management.
+* Discuss why different environments for testing, development, production, and staging are necessary.
+* Compare the differences between different deployment environments, and what are their specific requirements.
+* Use software building environments like make, Autotools, CMake.
+* Correlate continuous integration, delivery, and deployment and the differences between them.
+* Analyze the benefits, drawbacks, and tradeoffs of continuous integration, delivery, and deployment.
+* Set up the production, testing, and development environments.
+* Define and preserve reproducible software stacks to make computational results reproducible, e.g. by applying virtualization environments like VirtualBox, Docker, rkt, or BioContainers or tools for defining scientific workflows like Nextflow, or Singularity.
+* Configure an environment for continuous integration, delivery, and deployment using a selected continuous integration tool like Jenkins, Buildbot or Travis-CI with basic processing steps like compiling and automated testing.
+* Describe the basics of dependency management for different programming languages.
+* Use advanced software building environments like Scons and Waf.
+* Discuss the challenges for Portability, e.g. for the source code of programs and job scripts to avoid typical compiler-, linker-, and MPI-issues.
+* Use a software build and installation framework like EasyBuild.
+

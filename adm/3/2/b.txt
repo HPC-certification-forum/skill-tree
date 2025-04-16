@@ -4,7 +4,7 @@ Learn about resource management software.
 
 ## Requirements
 
-* Running of Parallel Programs (USE3.1)
+* [[skill-tree:use:2:b]]
 
 ## Learning Outcomes
 

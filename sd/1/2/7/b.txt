@@ -9,4 +9,3 @@ They are designed to perform specific tasts and require additional programming.
 * Understand GraphCore
 * Understand Neuromorphic Computing
 
-## Subskills

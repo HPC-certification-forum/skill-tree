@@ -4,7 +4,21 @@ Parallel programming of shared memory systems and message passing systems as wel
 
 ## Learning Outcomes
 
-  * Assess the parallel nature of algorithms.
-  * Develop parallel programs.
+* Assess the parallel nature of algorithms.
+* Develop parallel programs using Shared memory programming.
+* Develop parallel programs using Message passing.
+* Analyse load balancing algorithms and paradigm.
+* Demonstrate OP programming middleware.
+* Demonstrate GPU programming using CUDA
+* Breakdown the difference of accelerators compared with a CPU
+
 
 ## Subskills
+
+* [[skill-tree:sd:1:2:1:b]]
+* [[skill-tree:sd:1:2:2:b]]
+* [[skill-tree:sd:1:2:3:b]]
+* [[skill-tree:sd:1:2:4:b]]
+* [[skill-tree:sd:1:2:5:b]]
+* [[skill-tree:sd:1:2:6:b]]
+* [[skill-tree:sd:1:2:7:b]]

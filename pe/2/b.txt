@@ -1,7 +1,14 @@
 # PE2 Measuring System Performance
 
 ## Learning Outcomes
-  * Measure the system performance by the help of standard tools and by profiling in order to assess the runtime behavior of parallel programs.
+
+* Measure the system performance by the help of standard tools and by profiling in order to assess the runtime behavior of parallel programs.
+* Compute the utilization of a machine by various measures.
+* Discover the IO performance of a program and select an appropriate model.
 
 
 ## Subskills
+
+* [[skill-tree:pe:2:1:b]]
+* [[skill-tree:pe:2:2:b]]
+* [[skill-tree:pe:2:3:b]]

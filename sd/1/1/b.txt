@@ -5,15 +5,12 @@ The user learns how to complete programming tasks and gets a short overview of m
 The focus lies on the programming languages that are in widespread use within the HPC community.
 
 ## Learning Outcomes
-  * Understand C/C++
-  * Understand Fortran
-  * Understand HPX 
-  * Understand Chip level programming 
-  * Understand Interoperability
-  * Understand IDEs
-  * Understand Development Cycle
 
-# Subskills
-  * [[skill-tree:sd:1:1:1:b]]
-  * [[skill-tree:sd:1:1:i]]
-  * [[skill-tree:sd:1:1:e]]
+* Understand C/C++
+* Understand Fortran
+* Understand HPX 
+* Understand Chip level programming 
+* Understand Interoperability
+* Understand IDEs
+* Understand Development Cycle
+

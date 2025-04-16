@@ -12,9 +12,9 @@ Typically, several elementary programs are pre-installed and allow access and ma
 
 ## Learning Outcomes
 
-  * Describe the organization of a hierarchical file system.
-  * Explain the basic UNIX permission model and metadata of files.
-  * Describe the Filesystem Hierarchy Standard and the relevance of the directories:
+* Describe the organization of a hierarchical file system.
+* Explain the basic UNIX permission model and metadata of files.
+* Describe the Filesystem Hierarchy Standard and the relevance of the directories:
     * etc
     * home
     * opt
@@ -22,23 +22,22 @@ Typically, several elementary programs are pre-installed and allow access and ma
     * bin and /usr/bin
     * sbin and /usr/sbin
     * tmp
-  * Utilize tools to navigate and traverse the file system:
+* Utilize tools to navigate and traverse the file system:
     * ls (-R, -l)
     * cd
     * pushd/popd
     * stat
-  * Use tools to read files:
+* Use tools to read files:
     * cat
     * head/tail
     * less/more
     * cmp
-  * Utilize tools to manipulate the file system:
+* Utilize tools to manipulate the file system:
     * mkdir/rmdir
     * touch
     * cp/mv
     * ln
-  * Utilize tools to identify and manipulate permissions:
+* Utilize tools to identify and manipulate permissions:
     * chmod
     * chown/chgrp
 
-# Subskills

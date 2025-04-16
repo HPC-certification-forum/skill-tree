@@ -1,4 +1,4 @@
-# Use 6.4 Running workflows
+# USE6.4 Running workflows
 
 ## Requirements:
 
@@ -9,10 +9,10 @@
 ## Learning Objectivs
 
 
-- Identify HPC job scheduling systems (e.g. SLURM, LSF, HT-Torque) and describe their role in managing and executing workflows.
-- Submit workflows to HPC systems, applying the appropriate Snakemake plugins.
-- Utilise job monitoring tools (e.g. squeue/sacct for SLURM) to track the status and performance of running workflows, identify potential issues or bottlenecks.
-- Diagnose and troubleshoot common errors:
-  - Interpret workflow logs to assess the execution process, identify issues, and validate the correctness of generated results.
-  - Report and differentiate between programme failures (due to bugs), workflow or workflow manager issues, and HPC system-level problems (e.g. file system or node failures).
-- Collect and manage output data generated during execution, instructing the Workflow Management System to produce publication-ready reports.
+* Identify HPC job scheduling systems (e.g. SLURM, LSF, HT-Torque) and describe their role in managing and executing workflows.
+* Submit workflows to HPC systems, applying the appropriate Snakemake plugins.
+* Utilise job monitoring tools (e.g. squeue/sacct for SLURM) to track the status and performance of running workflows, identify potential issues or bottlenecks.
+* Diagnose and troubleshoot common errors:
+    * Interpret workflow logs to assess the execution process, identify issues, and validate the correctness of generated results.
+    * Report and differentiate between programme failures (due to bugs), workflow or workflow manager issues, and HPC system-level problems (e.g. file system or node failures).
+* Collect and manage output data generated during execution, instructing the Workflow Management System to produce publication-ready reports.

@@ -14,10 +14,10 @@ Part of this skill is the general principles of the interaction with a shell, to
 
 ## Learning Outcomes
 
-  * Utilize the bash shell to execute individual programs with arguments.
-  * Describe the meaning of the exit code of a program.
-  * Run multiple programs after another depending on the exit code ;, &&, ||.
-  * List the set of basic programs and their tasks:
+* Utilize the bash shell to execute individual programs with arguments.
+* Describe the meaning of the exit code of a program.
+* Run multiple programs after another depending on the exit code ;, &&, ||.
+* List the set of basic programs and their tasks:
     * pwd
     * whoami
     * sleep
@@ -27,24 +27,23 @@ Part of this skill is the general principles of the interaction with a shell, to
     * man
     * vi, vim, emacs, nano
     * exit
-  * Utilize the available help of a program (--help argument and the man pages).
-  * Interrupt or abort a program execution:
+* Utilize the available help of a program (--help argument and the man pages).
+* Interrupt or abort a program execution:
     * CTRL-C
     * CTRL-Z
     * using kill -9
-  * Use the shell history to search and execute previously executed commands.
-  * Set and print shell variables.
-  * Print all currently set variables
-  * Identify potential special characters that must be handled with care.
+* Use the shell history to search and execute previously executed commands.
+* Set and print shell variables.
+* Print all currently set variables
+* Identify potential special characters that must be handled with care.
     * List strings that could refer to files/directories
-  * Utilize escaping to ensure correct handling of arguments.
-  * Understand wildcard characters to select a group of files/directories:
+* Utilize escaping to ensure correct handling of arguments.
+* Understand wildcard characters to select a group of files/directories:
     * *
     * ?
     * [-,]
-  * How to close popular command line text editors with/or without saving changes:
+* How to close popular command line text editors with/or without saving changes:
     * nano
     * vi
     * emacs
 
-## Subskills

@@ -16,4 +16,3 @@ Vampir is a tool that focuses on providing quality visualization to support manu
 
 * Bert Wesarg, William (Bill) Williams, ZIH Tools Team @ TU Dresden
 
-## Subskills

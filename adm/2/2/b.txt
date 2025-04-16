@@ -13,18 +13,18 @@ Learn about types and of storage and what they are used for.
     * quota
     * snapshots
 * Describe common usage of NFS in a cluster
-  * Providing a home directory to users
-  * Share a software repository
+    * Providing a home directory to users
+    * Share a software repository
 * Describe the key concepts of NFS 
-  * Software/hardware components
-  * Security concept of NFSv3
-  * Performance bottlenecks and caching behavior
-  * List relevant mount options: protocol, timelimit, nfs-version
+    * Software/hardware components
+    * Security concept of NFSv3
+    * Performance bottlenecks and caching behavior
+    * List relevant mount options: protocol, timelimit, nfs-version
 * Deploy NFS infrastructure on a server and a client
-  * Installing required software packages and services on the server
-  * Specification of exports
-  * Installing required software packages and the kernel module on the client
-  * Updating fstab to mount the remote file system
+    * Installing required software packages and services on the server
+    * Specification of exports
+    * Installing required software packages and the kernel module on the client
+    * Updating fstab to mount the remote file system
 * Examine NFS deployments
 
 * Understand RAID

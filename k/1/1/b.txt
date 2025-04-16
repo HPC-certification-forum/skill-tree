@@ -18,15 +18,15 @@ Which are functioning as:
     * **Head nodes** which can mean login or admin nodes used for management either by a user or an administrator
 
 ## Learning Outcomes
-  * Comprehend there are nodes with several functions
-  * Comprehend that nodes are connected by a high-performance communication network
-  * Comprehend that global file systems are available on all nodes of the cluster and are convenient because their files can be accessed directly on all nodes
+
+* Comprehend there are nodes with several functions
+* Comprehend that nodes are connected by a high-performance communication network
+* Comprehend that global file systems are available on all nodes of the cluster and are convenient because their files can be accessed directly on all nodes
     * Quantitatively, parallel file systems offer higher I/O performance than classic network file systems
     * Qualitatively, they allow several processes to write into the same file
-  * Comprehend the two purposes of the communication network
+* Comprehend the two purposes of the communication network
     * Enabling high-speed data communication for parallel applications running on multiple nodes
     * Providing a high-speed connection to the disk systems in the cluster
-  * Understand Share memory systems
-  * Understand Distributed systems
+* Understand Share memory systems
+* Understand Distributed systems
 
-## Subskills

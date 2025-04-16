@@ -6,15 +6,19 @@ Workflow Management Systems cover all data analysis from A to Z, e.g. data prepr
 
 There are some Workflow Management Systems, such as Nextflow or Snakemake, which are designed to automate this process on HPC Clusters.
 
+## Requirements
+
+* [[skill-tree:use:1:3:b]]
+
 ## Learning objectives
-  * Explain the purpose and benefits of a Workflow Management System.
-  * Describe the structure of a Snakemake workflow, including familiarity with rules, input/output files, and directives such as shell, script, run, and resource definitions.
-  * Use Conda, Apptainer/Singularity, or module files to manage software environments for workflow execution.
-  * Develop maintainable workflows by building modular workflow structures.
-  * Configure advanced resource management by setting up workflow-specific resources such as memory, CPU, or cluster configurations.
-  * Integrate custom Python scripts for quick data manipulation or dynamic resource parameterization.
-  * Diagnose and resolve workflow errors by identifying failed jobs, analysing logs, and restarting workflows from failed steps.  
+
+* Develop Snakemake workflows for atomization of processes
+* Demonstrate contributing Snakemake workflows to the community
+* Breakdown workflow management systems and investigate the structure and purpose.
 
 ## Subskills
-  * [[skill-tree:use:1:3:b]]
+
+* [[skill-tree:sd:8:1:b]]
+* [[skill-tree:sd:8:2:b]]
+* [[skill-tree:sd:8:3:b]]
 

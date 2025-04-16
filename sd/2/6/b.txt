@@ -4,4 +4,3 @@
 
 * Understand and apply coding standards
 
-## Subskills

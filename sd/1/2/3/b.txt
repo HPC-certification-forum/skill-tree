@@ -4,10 +4,9 @@
 
 * Understand Synchronization
 * Understand Communication Overview and remember
-  * Blocking
-  * Non-Blocking
-  * Point-to-Point
-  * Collective
-  * Overlay Networks
+    * Blocking
+    * Non-Blocking
+    * Point-to-Point
+    * Collective
+    * Overlay Networks
 
-## Subskills

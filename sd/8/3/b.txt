@@ -1,0 +1,15 @@
+# SD8 Workflow Management Systems principles
+
+Workflow Management Systems are tools to enable reproducible data analysis, especially if many data analyis processing steps are involved.
+
+Workflow Management Systems cover all data analysis from A to Z, e.g. data preprocessing, quality filtering, analysis and statistical evaluation of processed data. On HPC clusters this may include, starting jobs, staging data to compute nodes, running the computations, deleting temporary data, generating publication ready reports, archiving and cleaning work environments. They guarantee portability of their workflows across systems and transparenty of their processing.
+
+## Learning objectives
+
+* Explain the purpose and benefits of a Workflow Management System.
+* Use Conda, Apptainer/Singularity, or module files to manage software environments for workflow execution.
+* Develop maintainable workflows by building modular workflow structures.
+* Configure advanced resource management by setting up workflow-specific resources such as memory, CPU, or cluster configurations.
+* Integrate custom Python scripts for quick data manipulation or dynamic resource parameterization.
+* Diagnose and resolve workflow errors by identifying failed jobs, analysing logs, and restarting workflows from failed steps.
+

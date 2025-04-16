@@ -1,4 +1,4 @@
-# K1.3.2.5.2 PNetCDF
+# K1.3.1.5.2 PNetCDF
 
 Parallel-NetCDF (or PNetCDF) is a high-performance parallel I/O library for accessing Unidata's NetCDF. It is built upon MPI-IO, the I/O extension to MPI communications. Using the high-level NetCDF data structures, the Parallel-NetCDF libraries can make use of optimizations to efficiently distribute the file read and write applications between multiple processors.
 
@@ -9,11 +9,10 @@ Parallel I/O in the Unidata NetCDF library has been supported since release 4.0,
 
 ## Learning Outcomes
 
-  * Interpret the PNetCDF files structure:
+* Interpret the PNetCDF files structure:
     * Header
     * Non-record variables (all dimensions specified)
     * Record variables (ones with an unlimited dimension)
-  * Store and retrieve data in PNetCDF.
-  * Show basic API use and error checking.
+* Store and retrieve data in PNetCDF.
+* Show basic API use and error checking.
 
-## Subskills

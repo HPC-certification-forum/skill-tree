@@ -9,22 +9,21 @@ This skill covers the bash shell.
 
 ## Requirements
 
-  * [[skill-tree:use:1:1]]
+* [[skill-tree:use:1:1:b]]
 
 ## Learning Outcomes
 
-  * Create a basic shell script that executes a sequence of programs.
-  * Design a script using the bash construct "if" that handles conditional execution based on:
+* Create a basic shell script that executes a sequence of programs.
+* Design a script using the bash construct "if" that handles conditional execution based on:
     * Performing a test for the existing of a file/directory,
     * Testing for the presence of certain text in a file,
-  * Design a script that performs a task repeatedly using the bash "for" or "while" loop.
-  * Utilize debugging options for troubleshooting of shell programs:
+* Design a script that performs a task repeatedly using the bash "for" or "while" loop.
+* Utilize debugging options for troubleshooting of shell programs:
     * Options to bash: -e, -x
-  * Use shell functions to break large, complex sequences, into a series of small functions.
-  * Learn how to manipulate filenames.
-  * Learn to manage temporary files:
+* Use shell functions to break large, complex sequences, into a series of small functions.
+* Learn how to manipulate filenames.
+* Learn to manage temporary files:
     * Choose an adequate file system (or top directory) for temporary files.
     * Automatically generate a unique folder name for temporary files.
     * Automatically delete temporary folder whenever the script exits.
 
-## Subskills

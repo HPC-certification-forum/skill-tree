@@ -16,5 +16,3 @@ This course focuses on techniques for optimizing system performance through conf
 * Understand Package Specific Options
 * Understand Runtime Options for MPI and OpenMP
 
-
-AI generated content

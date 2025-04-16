@@ -6,15 +6,15 @@ Users must understand these concepts and procedures to be able to use the availa
 Moreover, individual solutions can often be found in a specific system.
 
 ## Learning Outcomes
-  * Run parallel programs in an HPC environment.
-  * Use the command-line interface.
-  * Write robust job scripts, e.g. to simplify job submissions by the help of automated job chaining.
-  * Select the appropriate software environment.
-  * Use a workload manager like SLURM or TORQUE to allocate HPC resources (e.g. CPUs) and to submit a batch job.
-  * Consider cost aspects.
-  * Measure system performance as a basis for benchmarking a parallel program.
-  * Benchmark a parallel program.
-  * Tune a parallel program from the outside via runtime options.
-  * Apply the workflow for tuning.
 
-## Subskills
+* Run parallel programs in an HPC environment.
+* Use the command-line interface.
+* Write robust job scripts, e.g. to simplify job submissions by the help of automated job chaining.
+* Select the appropriate software environment.
+* Use a workload manager like SLURM or TORQUE to allocate HPC resources (e.g. CPUs) and to submit a batch job.
+* Consider cost aspects.
+* Measure system performance as a basis for benchmarking a parallel program.
+* Benchmark a parallel program.
+* Tune a parallel program from the outside via runtime options.
+* Apply the workflow for tuning.
+

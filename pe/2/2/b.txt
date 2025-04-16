@@ -13,12 +13,11 @@ Therefore, the observable I/O performance depends on more than the capabilities 
 
 ## Learning Outcomes
 
-  * Select performance models to assess and optimize the application I/O performance.
-  * Identify tools capable of predicting the behavior of applications in HPC.
-  * Apply methods to manipulate workloads to improve achievable performance.
-  * Understand metrics that describe relevant I/O performance characteristics.
-  * Select tools to analyze I/O performance of applications.
-  * Apply the performance analysis tools to applications and workflows.
-  * Interpret the results of I/O analysis tools and distill optimization strategies for the application or system configurations.
+* Select performance models to assess and optimize the application I/O performance.
+* Identify tools capable of predicting the behavior of applications in HPC.
+* Apply methods to manipulate workloads to improve achievable performance.
+* Understand metrics that describe relevant I/O performance characteristics.
+* Select tools to analyze I/O performance of applications.
+* Apply the performance analysis tools to applications and workflows.
+* Interpret the results of I/O analysis tools and distill optimization strategies for the application or system configurations.
 
-# Subskills

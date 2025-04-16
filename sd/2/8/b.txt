@@ -2,4 +2,6 @@
 
 ## Learning Outcomes
 
-## Subskills
+* Understand portability in terms of linked libraries
+* Understand code that can be used on different OS
+

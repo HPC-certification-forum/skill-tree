@@ -5,10 +5,10 @@ In HPC parallelization brings huge performance benefits and is omnipresent. That
 ## Requirements
 
 ## Outcomes
-  * Develop parallel software.
-  * Code parallel programs.
-  * Analyze and debug parallel programs.
-  * Articulate the problems of synchronization issues like Race Conditions, Deadlocks.
-  * Analyze and optimize performance of parallel applications
 
-## Subskills
+* Develop parallel software.
+* Code parallel programs.
+* Analyze and debug parallel programs.
+* Articulate the problems of synchronization issues like Race Conditions, Deadlocks.
+* Analyze and optimize performance of parallel applications
+

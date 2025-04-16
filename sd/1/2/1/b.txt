@@ -1,9 +1,9 @@
 # SD1.2.1 Parallel Algorithms
 
 ## Learning Outcomes
-  * Contrast that some algorithms are embarrassingly (i.e. trivially) parallelizable while their parallelization will vary from easy to hard in practice.
-  * Determine the computational complexity of algorithms.
-  * Understand Parallel Nature of Algorithms
-  * Understand Computational Complexity
 
-## Subskills
+* Contrast that some algorithms are embarrassingly (i.e. trivially) parallelizable while their parallelization will vary from easy to hard in practice.
+* Determine the computational complexity of algorithms.
+* Understand Parallel Nature of Algorithms
+* Understand Computational Complexity
+

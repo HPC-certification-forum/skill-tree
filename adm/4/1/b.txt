@@ -4,6 +4,9 @@ Lear how to set up a software stack with multiple dependencies.
 
 ## Requirements
 
+* [[skill-tree:use:1:5:1:b]]
+* [[skill-tree:use:1:5:2:b]]
+
 ## Learning Outcomes
 
 * Understand system package manager and remembering

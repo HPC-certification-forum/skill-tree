@@ -1,22 +1,22 @@
 # SD5 Software Quality
 
 ## Learnign objectives
+
 * Understand Coding Standards
 * Understand Code Quality
-  * Apply software engineering methods and practices especially in the context of high-performance computing.
-  * Develop parallel programs and to apply software engineering methods and best practices.
-  * Assess code quality using different metrics, e.g. length of functions, length of files, lines of code, complexity metrics, code coverage.
-  * Use static code analysis tools in order to calculate the metrics (e.g. http://cppcheck.sourceforge.net/).
-  * Identify bad code structures (known as bad smells) in order to assess the quality of the code design.
+    * Apply software engineering methods and practices especially in the context of high-performance computing.
+    * Develop parallel programs and to apply software engineering methods and best practices.
+    * Assess code quality using different metrics, e.g. length of functions, length of files, lines of code, complexity metrics, code coverage.
+    * Use static code analysis tools in order to calculate the metrics (e.g. http://cppcheck.sourceforge.net/).
+    * Identify bad code structures (known as bad smells) in order to assess the quality of the code design.
 * Understand Refactoring
-  * Apply common code refactorings in order to improve code quality, such as extract method, extract class, rename class and when it is suitable to apply which refactoring.
-  * Apply refactoring that are specific to programming languages (e.g. Fortran).
+    * Apply common code refactorings in order to improve code quality, such as extract method, extract class, rename class and when it is suitable to apply which refactoring.
+    * Apply refactoring that are specific to programming languages (e.g. Fortran).
 * Understand Code Reviews
-  * Use a review system like Gerrit to organize the code reviews.
-  * Document code review results and resulting tasks in an issue tracking system (for example Jira).
-  * Define checklists for code reviews.
-  * Conduct code reviews in pairs or in a team.
-  * Document code review results and resulting tasks in an issue tracking system (for example Jira).
-  * Demonstrate awareness of technical debt during software development and how to pay technical debt.
+    * Use a review system like Gerrit to organize the code reviews.
+    * Document code review results and resulting tasks in an issue tracking system (for example Jira).
+    * Define checklists for code reviews.
+    * Conduct code reviews in pairs or in a team.
+    * Document code review results and resulting tasks in an issue tracking system (for example Jira).
+    * Demonstrate awareness of technical debt during software development and how to pay technical debt.
 
-## Subskills

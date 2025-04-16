@@ -3,6 +3,7 @@
 NVIDIA GPUs can be programmed by using CUDA as an extension to the C/C++ programming languages. NVIDIA provides an entire CUDA software environment which includes compilers, profilers, libraries and more. CUDA allows programmers to write highly parallel compute kernels for the execution on NVIDIA GPUs. In order to write CUDA kernels that can utilize the GPU, an understanding of their architecture and its mapping to the CUDA language extension is required.
 
 ## Learning Outcomes
+
 * Understand the CUDA thread hierarchy:
     * Address individual threads within the kernel grid
     * Write scalable codes via grid-striding loops
@@ -20,4 +21,3 @@ NVIDIA GPUs can be programmed by using CUDA as an extension to the C/C++ program
 
 * Markus Velten, ZIH Tools Team @ TU Dresden
 
-## Subskills

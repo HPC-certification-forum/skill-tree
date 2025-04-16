@@ -1,5 +1,8 @@
 # ADM3.4.4 Deployment Systems
 
+Deployment systems allow an admin to boot nodes from network on a common image.
+This also allows the admin to be able to quickly change the boot parameters and even the full os of any computer in the network.
+
 ## Requirements
 
 ## Learning Outcomes

@@ -4,5 +4,19 @@ Learn about administrating an HPC cluster and remember many basics about servers
 
 ## Requirements
 
-## Skill topics and Skills
+## Learning Outcomes
 
+* Review theoretic principles such as hardware components, networking, boot process, monitoring, cluster management, and user management.
+* Summarize Linux network configuration, and investigate NFS, virtualisation and cooling options
+* Describe cluster management with specific tools and investigate workload managers, different types of images as well as deployment, monitoring and IPMI
+* Classify software stacks and review installing of software, containers and software containerisation, as well as user installs
+* Identify Snakemake's capabilities for configuring its behaviour across a cluster environment and configure a cluster-wide configuration
+
+
+## Subskills
+
+* [[skill-tree:adm:1:b]]
+* [[skill-tree:adm:2:b]]
+* [[skill-tree:adm:3:b]]
+* [[skill-tree:adm:4:b]]
+* [[skill-tree:adm:5:b]]

@@ -8,10 +8,9 @@ The CF conventions enable users of data from different sources to decide which d
 
 ## Learning Outcomes
 
-  * Describe the relationships among elements of the CF-NetCDF conventions and NetCDF entities.
-  * Locate data in space-time and as a function of other independent variables (coordinates), to facilitate processing and graphics.
-  * Evaluate programs in C that use the NetCDF API to read and write files in a metadata-aware manner.
-  * Judge if given metadata meets the CF standard and provides basic understandability for users.
-  * Design a data model for NetCDF using the CF conventions.
+* Describe the relationships among elements of the CF-NetCDF conventions and NetCDF entities.
+* Locate data in space-time and as a function of other independent variables (coordinates), to facilitate processing and graphics.
+* Evaluate programs in C that use the NetCDF API to read and write files in a metadata-aware manner.
+* Judge if given metadata meets the CF standard and provides basic understandability for users.
+* Design a data model for NetCDF using the CF conventions.
 
-# Subskills

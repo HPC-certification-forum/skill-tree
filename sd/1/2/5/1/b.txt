@@ -15,14 +15,35 @@ Languages such as C++, Fortran-77, Fortran-90, Perl, Python, Ruby, Matlab, among
 In particular, NetCDF4-python is a Python interface to the NetCDF C library.
 
 ## Learning Outcomes
-  * Comply with the best practices for writing NetCDF files.
-  * Identify protocols, servers, and clients for remote data access through NetCDF interfaces.
-  * Discuss how features of the enhanced NetCDF-4 format can be applied:
-    * Groups.
-    * Multiple unlimited dimensions.
-    * User-defined types.
-    * Data compression.
-  * Create short programs in C that use the NetCDF API to read and write files in the NetCDF classical data model for a given NetCDF data model.
-  * Create short programs that use the netcdf4-python module to create and read files in NetCDF-4 format for a given NetCDF data model.
 
-## Subskills
+* Examine different NetCDF programming APIs:
+    * C
+    * C++
+    * Java
+    * Fortra-90
+    * Python
+    * Matlab
+    * IDL
+    * NCL
+    * R
+    * Ruby
+    * Perl
+    * Remote
+* Examine the NetCDF remote data access
+* Analyze NetCDF principle and investigate NetCDF files
+
+## Subskill
+
+* [[skill-tree:sd:1:2:5:1:1:b]]
+* [[skill-tree:sd:1:2:5:1:2:b]]
+* [[skill-tree:sd:1:2:5:1:3:b]]
+* [[skill-tree:sd:1:2:5:1:4:b]]
+* [[skill-tree:sd:1:2:5:1:5:b]]
+* [[skill-tree:sd:1:2:5:1:6:b]]
+* [[skill-tree:sd:1:2:5:1:7:b]]
+* [[skill-tree:sd:1:2:5:1:8:b]]
+* [[skill-tree:sd:1:2:5:1:9:b]]
+* [[skill-tree:sd:1:2:5:1:10:b]]
+* [[skill-tree:sd:1:2:5:1:11:b]]
+* [[skill-tree:sd:1:2:5:1:12:b]]
+* [[skill-tree:sd:1:2:5:1:13:b]]

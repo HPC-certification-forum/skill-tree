@@ -8,15 +8,15 @@ The notation used to describe a NetCDF object is called CDL (network Common Data
 This skill focuses on the data modeling aspect and basic tools that aid in understanding NetCDF.
 
 ## Learning Outcomes
-  * Describe the Classic NetCDF Model characteristics and limitations.
-  * Describe how a 3D-variable’s data values can be represented in a visualization tool.
-  * Discuss features of the Enhanced Data Model (NetCDF-4): groups, multiple unlimited dimensions, and new types, including user-defined types.
-  * Analyze the implications of using NetCDF-4 compression on data.
-  * Justify when to model data using variables or attributes based on characteristics.
-  * Design and implement a NetCDF data model in CDL text notation for simple datasets using dimensions, variables, attributes, and coordinate variables.
-  * Apply the in-built NetCDF utilities to create and analyze NetCDF files:
+
+* Describe the Classic NetCDF Model characteristics and limitations.
+* Describe how a 3D-variable’s data values can be represented in a visualization tool.
+* Discuss features of the Enhanced Data Model (NetCDF-4): groups, multiple unlimited dimensions, and new types, including user-defined types.
+* Analyze the implications of using NetCDF-4 compression on data.
+* Justify when to model data using variables or attributes based on characteristics.
+* Design and implement a NetCDF data model in CDL text notation for simple datasets using dimensions, variables, attributes, and coordinate variables.
+* Apply the in-built NetCDF utilities to create and analyze NetCDF files:
     * Examine the CDL data model and the data of a file using ncdump.
     * Generate a NetCDF file from a CDL text file using ncgen.
     * Convert a NetCDF file from one binary format to another, optionally changing compression and chunk size settings using nccopy.
 
-## Subskills

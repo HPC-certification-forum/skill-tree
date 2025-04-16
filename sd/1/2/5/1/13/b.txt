@@ -1,0 +1,21 @@
+# SD1.2.5.1.13 NetCDF principles
+
+In a simple view, NetCDF is:
+    * A data model.
+    * A file format.
+    * A set of APIs and libraries for various programming languages.
+
+Together, the data model, file format, and APIs support the creation, access, and sharing of scientific data.
+
+## Learning Outcomes
+
+* Comply with the best practices for writing NetCDF files.
+* Identify protocols, servers, and clients for remote data access through NetCDF interfaces.
+* Discuss how features of the enhanced NetCDF-4 format can be applied:
+    * Groups.
+    * Multiple unlimited dimensions.
+    * User-defined types.
+    * Data compression.
+* Create short programs in C that use the NetCDF API to read and write files in the NetCDF classical data model for a given NetCDF data model.
+* Create short programs that use the netcdf4-python module to create and read files in NetCDF-4 format for a given NetCDF data model.
+

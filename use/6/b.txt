@@ -8,20 +8,17 @@ There are some Workflow Management Systems, such as Nextflow or Snakemake, which
 
 ## Learning objectives
 
-- Explain the purpose and benefits of a Workflow Management System.
-- Identify and select an appropriate workflow from a workflow catalogue.
-- Recall the importance of reproducibility in research and describe how
-  Workflow Management Systems ensure it in HPC environments.
-- Configure workflows to run optimally on a particular system (e.g.
-  selecting appropriate queues, parameterising resources, and choosing input
-  files from various file systems).
-- Diagnose and resolve errors by identifying failed jobs, viewing logs, and
-  restarting workflows from failed steps.
+* Explain the purpose and benefits of a Workflow Management System.
+* Identify and select an appropriate workflow from a workflow catalogue.
+* Recall the importance of reproducibility in research and describe how Workflow Management Systems ensure it in HPC environments.
+* Configure workflows to run optimally on a particular system (e.g. selecting appropriate queues, parameterising resources, and choosing input files from various file systems).
+* Diagnose and resolve errors by identifying failed jobs, viewing logs, and restarting workflows from failed steps.
 
 ## Subskills
-  
-* [[skill-tree:use:1:3:b]] [//]: # (navigating the Shell)
-* [[skill-tree:use:6:1:b]] [//]: # (selecting workflows)
-* [[skill-tree:use:6:2:b]] [//]: # (configuring workflows)
-* [[skill-tree:use:6:3:b]] [//]: # (configuring workflow profiles)
-* [[skill-tree:use:6:4:b]] [//]: # (running workflows)
+
+* [[skill-tree:use:6:1:b]]
+* [[skill-tree:use:6:2:b]]
+* [[skill-tree:use:6:3:b]]
+* [[skill-tree:use:6:4:b]]
+
+

@@ -1,4 +1,4 @@
-# ADM3.4.2 Stateless Image
+# ADM3.4.3 Manage Cluster Nodes
 
 During the operation of an HPC cluster, it is necessary to manually execute commands on several nodes or make temporary changes to the configuration for debugging or testing purposes. In case of problems, any logs or measurements must be collected. Furthermore, regular software updates are necessary.                                                                            
 

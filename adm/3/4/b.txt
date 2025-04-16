@@ -9,7 +9,11 @@ Learn about system provisioning and deployment.
 * Understand Stateful images
 * Understand Stateless images
 * Understand Manege cluster nodes
-* Understand Warewulf
-* Understand Bright
-* Understand Ansible
+* Understand deployment software such as Warewulf, Bright, and Ansible
 
+## Subskills
+
+* [[skill-tree:adm:3:4:1:b]]
+* [[skill-tree:adm:3:4:2:b]]
+* [[skill-tree:adm:3:4:3:b]]
+* [[skill-tree:adm:3:4:4:b]]

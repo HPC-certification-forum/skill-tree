@@ -19,7 +19,7 @@ Additionally many subjects like security, resource management, monitoring, and s
 * Understand the Unix Permission model, how to verify authenticity, 2FA procedures and advanced fencing
 * Practice how to model power consumption and understand fundamental concepts such as cables and batteries
 
-## Skill topics and Skills
+## Subskills
 
 * [[skill-tree:adm:1:1:b]]
 * [[skill-tree:adm:1:2:b]]

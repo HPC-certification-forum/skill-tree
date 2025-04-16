@@ -6,6 +6,15 @@ Also, learn about using containers for software stacks.
 
 ## Requirements
 
+## Learning outcomes
 
-## Skill topics and Skills
+* Review how to set up a software stack and remember system package managers, building from source, and a module system
+* Understand how to use containers and their deployment, as well as software containerisation
+* Recognize how user can manage their own software by using HOME Directory installs, SPACK, and similar environments
+
+## Subskills
+
+* [[skill-tree:adm:4:1:b]]
+* [[skill-tree:adm:4:2:b]]
+* [[skill-tree:adm:4:3:b]]
 

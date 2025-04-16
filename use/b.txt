@@ -10,17 +10,20 @@ Various user roles are covered as part of this subtree: practitioners that aim t
 
 ## Learning Outcomes
 
-  * Apply tools provided by the operating system to navigate and manage files and executables.
-  * Select the software environment to build existing and develop novel parallel applications effectively.
-  * Use a workload manager to allocate HPC resources.
-  * Construct workflows that utilize remote (distributed) environments to execute a parallel workflow.
-  * Design and deploy scripts that automatize repetitive tasks.
+* Apply tools provided by the operating system to navigate and manage files and executables.
+* Use a workload manager to allocate HPC resources and run job using scripts.
+* Select the software environment to build existing OpenSource projects 
+* Develop novel parallel applications effectively.
+* Design and deploy scripts that automatize repetitive tasks.
+* Construct workflows that utilize remote (distributed) environments to execute a parallel workflow.
+* Illustrate the use of post processing tools for analyzing and visualizing results.
 
-# Subskills
-  * [[skill-tree:use:1:b]]
-  * [[skill-tree:use:2:b]]
-  * [[skill-tree:use:3:b]]
-  * [[skill-tree:use:4:b]]
-  * [[skill-tree:use:5:b]]
-  * [[skill-tree:use:6:b]]
-  * [[skill-tree:use:7:b]]
+## Subskills
+
+* [[skill-tree:use:1:b]]
+* [[skill-tree:use:2:b]]
+* [[skill-tree:use:3:b]]
+* [[skill-tree:use:4:b]]
+* [[skill-tree:use:5:b]]
+* [[skill-tree:use:6:b]]
+* [[skill-tree:use:7:b]]

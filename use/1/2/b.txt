@@ -27,4 +27,3 @@ This skill covers the bash shell.
     * Automatically generate a unique folder name for temporary files.
     * Automatically delete temporary folder whenever the script exits.
 
-## Subskills

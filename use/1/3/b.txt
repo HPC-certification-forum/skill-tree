@@ -41,4 +41,3 @@ Typically, several elementary programs are pre-installed and allow access and ma
     * chmod
     * chown/chgrp
 
-# Subskills

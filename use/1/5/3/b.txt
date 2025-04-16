@@ -1,5 +1,9 @@
 # USE1.5.3 Conda environments
 
+Some languages such as python require modules or packages.
+Usually these are managed by specialized software environments such as conda.
+The benefit of these is that a user can install packages and they are only available for a single user.
+
 ## Requrements
 
 * [[skill-tree:use:1:5:1:b]]

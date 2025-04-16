@@ -47,4 +47,3 @@ Part of this skill is the general principles of the interaction with a shell, to
     * vi
     * emacs
 
-## Subskills

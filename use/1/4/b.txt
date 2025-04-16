@@ -35,4 +35,3 @@ The tools discussed here are generally valid for systems using Linux, Mac, Windo
     * Detaching from the current session.
     * Resuming a previous session.
 
-## Subskills

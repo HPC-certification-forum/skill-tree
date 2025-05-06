@@ -12,6 +12,8 @@ Big Data Tools in High-Performance Computing (HPC) leverage the immense computat
 
 **Spark-Horovod (BDA6.6):** Spark-Horovod is an integration of Apache Spark with Horovod, a distributed deep learning framework. This section discusses the use of Spark-Horovod for large-scale deep learning tasks in HPC environments, leveraging Spark's data processing capabilities and Horovod's support for distributed training of deep neural networks. Topics include the deployment of Spark-Horovod on HPC clusters, optimization techniques for deep learning workloads, and integration with high-performance computing resources.
 
+**Dask (BDA6.7):** Dask is a flexible parallel computing library for Python that enables scalable data analysis and computation across multicore machines and distributed HPC environments. This section explores Dask's use in high-performance computing settings, highlighting its ability to scale NumPy, pandas, and machine learning workloads. Topics include deploying Dask on HPC clusters, integrating with job schedulers and parallel file systems, and optimizing task graphs for efficient distributed execution.
+
 By leveraging big data tools in HPC environments, practitioners can harness the computational power and scalability of HPC systems to efficiently process and analyze large volumes of data, enabling advanced analytics, machine learning, and scientific discovery across various domains and industries.
 
 ## Learning Outcomes
@@ -21,6 +23,7 @@ By leveraging big data tools in HPC environments, practitioners can harness the 
     * Jupyter Notebook
     * RayDP
     * Spark_horovod
+    * Dask
 * Apply a data science workflow on existing data using various big data tools.
 * Construct simple data science workflows.
 * Analyze the use of cloud computing on Big Data
@@ -32,3 +35,4 @@ By leveraging big data tools in HPC environments, practitioners can harness the 
 * [[skill-tree:bda:2:3:b]]
 * [[skill-tree:bda:2:4:b]]
 * [[skill-tree:bda:2:5:b]]
+* [[skill-tree:bda:2:6:b]]

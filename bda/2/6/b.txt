@@ -1,0 +1,22 @@
+# BDA2.6 Dask
+
+Dask is an open-source Python library for parallel computing, Dask scales Python code from multi-core local machines to large distributed clusters in the cloud. This module explores the fundamental concepts of Dask, including task scheduling, delayed execution, and basic data structures such as Dask arrays and Dask DataFrames.
+
+## Requirements
+
+* Familiarity with Python programming
+* Understanding of NumPy and pandas
+* Basic knowledge of parallel computing concepts
+
+## Learning Outcomes
+
+* **Understands what Dask is** and when to use it
+* **Understands the purpose of Dask** and its benefits in parallelizing workflows
+* **Distinguishes between Dask collections** (arrays, dataframes, bags)
+* **Converts existing NumPy/pandas code** to use Dask
+* **Run Dask workloads locally** using the default scheduler
+* **Writes a small Dask script** that uses dask.delayed
+* **Uses the Dask dashboard** to monitor Dask computations and visualize task executions
+* **Compares the runtime** of equivalent Dask and NumPy/pandas computations on large data
+
+AI generated content

@@ -1,0 +1,18 @@
+# AI1.4 Fine Tuning
+
+This skill focuses on techniques and strategies for fine-tuning pre-trained AI models in HPC environments. It includes adapting models to domain-specific data, optimizing resource usage, and applying transfer learning for efficient training.
+
+## Requirements
+
+* External: Understanding of basic deep learning and model training processes
+* Internal: None
+
+## Learning Outcomes
+
+* Explain the purpose and benefits of fine-tuning pre-trained models.
+* Identify key hyperparameters and architectural considerations during fine-tuning.
+* Apply methods for efficient fine-tuning, including layer freezing and learning rate scheduling.
+* Describe how fine-tuning strategies differ for large-scale models on HPC infrastructure.
+* Recognize potential pitfalls such as overfitting, catastrophic forgetting, and data leakage.
+
+** Caution: All text is AI generated **

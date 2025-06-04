@@ -1,0 +1,18 @@
+# AI3.5 Multimodal Models
+
+This skill introduces AI models that process and integrate data from multiple modalities such as text, images, audio, and video. It covers model architectures, training strategies, and synchronization techniques in distributed HPC environments.
+
+## Requirements
+
+* External: Basic understanding of multiple data types (e.g., text, image, audio) and neural networks
+* Internal: None
+
+## Learning Outcomes
+
+* Define what constitutes a multimodal model and describe its typical input/output structures.
+* Compare fusion strategies (early, late, and hybrid) used to combine modalities in model architectures.
+* Explain challenges in synchronizing and batching multimodal inputs during training.
+* Identify common datasets and benchmarks used for evaluating multimodal models.
+* Describe how HPC systems handle distributed training and scaling of multimodal networks.
+
+** Caution: All text is AI generated **

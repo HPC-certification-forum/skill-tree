@@ -1,0 +1,17 @@
+# AI4 Governance and Compliance
+
+This node covers the policies, frameworks, and practices needed to ensure responsible, lawful, and auditable use of AI technologies in HPC environments. It includes responsible AI principles, legal compliance, and data governance techniques.
+
+## Learning Outcomes
+
+* Explain the principles of responsible AI development and deployment.
+* Identify key regulatory and legal frameworks relevant to AI usage and data handling.
+* Describe how data provenance, auditability, and reproducibility are maintained in HPC AI workflows.
+
+## Subskills
+
+* [[skill-tree:ai:4:1:b]]
+* [[skill-tree:ai:4:2:b]]
+* [[skill-tree:ai:4:3:b]]
+
+** Caution: All text is AI generated **

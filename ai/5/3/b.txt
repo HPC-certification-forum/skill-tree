@@ -1,0 +1,18 @@
+# AI5.3 Agentic Interfaces and Collaboration
+
+This skill explores AI systems designed to act as agents—capable of multi-step reasoning, memory, and collaboration with users or other agents. It includes the architecture, behavior models, and interface strategies used to implement intelligent and adaptive workflows.
+
+## Requirements
+
+* External: Understanding of basic prompting and LLM capabilities
+* Internal: AI5.1 Prompt Engineering (recommended)
+
+## Learning Outcomes
+
+* Define agentic interfaces and describe their role in structured decision-making and automation.
+* Differentiate between tool-using, memory-enabled, and collaborative agent types.
+* Describe the looped reasoning and execution cycles used by AI agents.
+* Identify strategies for agent evaluation, feedback integration, and task adaptation.
+* Apply best practices for integrating agents into interactive or multi-agent HPC workflows.
+
+** Caution: All text is AI generated **

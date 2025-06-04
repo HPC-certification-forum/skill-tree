@@ -1,0 +1,18 @@
+# AI1.2 AI Workflow Management
+
+This skill covers tools, strategies, and principles for designing and managing AI workflows on HPC systems. It addresses orchestration, scheduling, automation, and reproducibility of AI pipelines across distributed infrastructure.
+
+## Requirements
+
+* External: Familiarity with AI training/inference steps and command-line environments
+* Internal: None
+
+## Learning Outcomes
+
+* Define the components of a typical AI workflow (data preprocessing, training, evaluation, deployment).
+* Describe the role of workflow engines (e.g., Snakemake, Nextflow, Airflow) in managing AI pipelines.
+* Demonstrate how to schedule and monitor multi-stage AI tasks on HPC resources.
+* Apply versioning and reproducibility best practices in AI workflow design.
+* Understand error handling, checkpointing, and dependency resolution in distributed AI pipelines.
+
+** Caution: All text is AI generated **

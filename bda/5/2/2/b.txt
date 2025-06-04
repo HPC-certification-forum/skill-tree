@@ -1,0 +1,18 @@
+# BDA5.2.2 Neural Network Architectures
+
+This skill introduces major neural network architectures used across domains such as image processing, sequence modeling, and large-scale representation learning. It emphasizes the use cases, design patterns, and performance considerations of each.
+
+## Requirements
+
+* External: Understanding of neural network basics
+* Internal: BDA5.2.1 Basics of Neural Networks (recommended)
+
+## Learning Outcomes
+
+* Describe the architecture and applications of convolutional neural networks (CNNs).
+* Explain how recurrent neural networks (RNNs), LSTMs, and GRUs process sequential data.
+* Understand the transformer architecture and its impact on modern AI models.
+* Compare trade-offs among architectures in terms of complexity, performance, and parallelism.
+* Select appropriate architectures based on task type and data modality.
+
+** Caution: All text is AI generated **

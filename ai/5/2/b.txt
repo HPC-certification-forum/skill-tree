@@ -1,0 +1,18 @@
+# AI5.2 Retrieval Augmented Generation
+
+This skill introduces the concept of Retrieval-Augmented Generation (RAG), where external knowledge sources are queried and integrated into the generation process. It covers retrieval pipelines, indexing strategies, and deployment in HPC environments.
+
+## Requirements
+
+* External: Familiarity with LLMs and vector search concepts
+* Internal: None
+
+## Learning Outcomes
+
+* Define the RAG architecture and explain how it improves generative model performance.
+* Describe the components of a retrieval pipeline, including query formulation, embedding, and indexing.
+* Identify vector databases and similarity metrics used in AI retrieval tasks.
+* Integrate retrieval results into prompt templates or model input streams.
+* Evaluate RAG systems based on latency, accuracy, and grounding quality.
+
+** Caution: All text is AI generated **

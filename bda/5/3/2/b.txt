@@ -1,0 +1,18 @@
+# BDA5.3.2 Tensorflow
+
+This skill introduces TensorFlow for building and training machine learning models. It covers the Keras API, static vs dynamic graph execution, and strategies for using TensorFlow effectively in research and production.
+
+## Requirements
+
+* External: Experience with Python and basic deep learning workflows
+* Internal: BDA5.2.1 Basics of Neural Networks (recommended)
+
+## Learning Outcomes
+
+* Build and train models using TensorFlow's Keras API.
+* Explain the difference between eager execution and static graph mode.
+* Use tf.data pipelines for scalable and efficient data input.
+* Implement model checkpoints and callbacks for training control.
+* Apply GPU acceleration, distribution strategies, and TensorBoard for visualization.
+
+** Caution: All text is AI generated **

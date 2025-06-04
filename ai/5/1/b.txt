@@ -1,0 +1,18 @@
+# AI5.1 Prompt Engineering
+
+This skill focuses on designing and optimizing inputs (prompts) to guide the behavior of large language models (LLMs) and other generative AI systems. It includes patterns, templates, and evaluation methods tailored to HPC-scale applications.
+
+## Requirements
+
+* External: Basic understanding of language models and inference processes
+* Internal: None
+
+## Learning Outcomes
+
+* Define prompt engineering and describe its role in controlling generative model output.
+* Identify common prompt types (e.g., zero-shot, few-shot, chain-of-thought) and their use cases.
+* Design structured prompts for tasks such as summarization, code generation, and question answering.
+* Evaluate prompt effectiveness using criteria such as output quality, consistency, and efficiency.
+* Apply prompt optimization techniques for performance on large-scale inference systems.
+
+** Caution: All text is AI generated **

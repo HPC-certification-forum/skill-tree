@@ -1,0 +1,18 @@
+# BDA3.2 Object Storage for Big Data
+
+This skill introduces object storage systems designed for scalability, durability, and ease of access in big data environments. It covers access patterns, API usage, and integration with HPC and cloud-based workflows.
+
+## Requirements
+
+* External: Familiarity with data formats and file access in distributed systems
+* Internal: None
+
+## Learning Outcomes
+
+* Explain the concept of object storage and how it differs from file/block storage.
+* Identify popular object storage platforms (e.g., S3, Ceph, MinIO) and their use cases in big data.
+* Describe data access mechanisms including REST APIs, SDKs, and CLI tools.
+* Evaluate performance considerations such as consistency, latency, and throughput.
+* Integrate object storage into HPC data pipelines using connectors or abstraction layers.
+
+** Caution: All text is AI generated **

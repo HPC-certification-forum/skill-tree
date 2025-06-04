@@ -1,0 +1,16 @@
+# BDA5.1 Machine Learning Fundamentals 
+
+This node introduces core machine learning concepts and techniques used in HPC environments. It includes supervised and unsupervised learning paradigms as well as the evaluation metrics necessary to assess model performance.
+
+## Learning Outcomes
+
+* Explain the principles of supervised and unsupervised learning in data-driven tasks.
+* Identify key metrics used to evaluate classification and regression models.
+
+## Subskills
+
+* [[skill-tree:bda:5:1:1:b]]
+* [[skill-tree:bda:5:1:2:b]]
+
+** Caution: All text is AI generated **
+

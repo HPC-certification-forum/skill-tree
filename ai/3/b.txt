@@ -1,0 +1,29 @@
+# AI3 AI Modalities
+
+This node introduces various types of AI model modalities and their applications in HPC environments. It groups foundational knowledge and deployment considerations for language, image, audio, video, multimodal, graph, and scientific models, along with principles of interpretability.
+
+## Learning Outcomes
+
+* Explain the structure and application of large language models and how they scale in HPC environments.
+* Describe the training and inference workflows of image-based models and their resource requirements.
+* Summarize techniques used in audio and voice model processing and deployment.
+* Identify the challenges of video generation models and their compute/memory implications.
+* Understand how multimodal models combine inputs from various domains and the synchronization strategies involved.
+* Describe graph neural network architectures and their relevance in scientific and relational data modeling.
+* Explain the role of domain-specific scientific models in physics-informed AI and simulation-enhanced learning.
+* Apply principles of explainable AI (XAI) to interpret predictions and assess model reliability across modalities.
+
+
+
+## Subskills
+
+* [[skill-tree:ai:3:1:b]]
+* [[skill-tree:ai:3:2:b]]
+* [[skill-tree:ai:3:3:b]]
+* [[skill-tree:ai:3:4:b]]
+* [[skill-tree:ai:3:5:b]]
+* [[skill-tree:ai:3:6:b]]
+* [[skill-tree:ai:3:7:b]]
+* [[skill-tree:ai:3:8:b]]
+
+** Caution: All text is AI generated **

@@ -1,0 +1,18 @@
+# BDA5.4.2 Mixed Precision Training
+
+This skill introduces the use of mixed precision (FP16 + FP32) to accelerate training while maintaining model accuracy. It focuses on numerical stability, hardware support, and integration with modern ML frameworks.
+
+## Requirements
+
+* External: Basic understanding of floating point computation
+* Internal: BDA5.3.1 Pytorch or BDA5.3.2 Tensorflow (recommended)
+
+## Learning Outcomes
+
+* Define mixed precision training and describe its benefits in performance and memory usage.
+* Identify hardware and software prerequisites for mixed precision support (e.g., NVIDIA Tensor Cores, AMP).
+* Apply automatic mixed precision (AMP) in PyTorch and TensorFlow workflows.
+* Monitor for numerical instability and apply scaling techniques as needed.
+* Benchmark training speed and accuracy trade-offs using mixed precision.
+
+** Caution: All text is AI generated **

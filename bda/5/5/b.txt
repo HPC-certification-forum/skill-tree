@@ -1,0 +1,17 @@
+# BDA5.5 Hyperparameter Tuning
+
+This node focuses on methods and tools for optimizing hyperparameters to improve model accuracy, robustness, and efficiency. It includes search strategies, distributed tuning, and resource-aware techniques suited for HPC environments.
+
+## Learning Outcomes
+
+* Apply search algorithms to explore hyperparameter spaces effectively.
+* Scale tuning processes across HPC resources while minimizing overhead and waste.
+
+## Subskills
+
+* [[skill-tree:bda:5:5:1:b]]
+* [[skill-tree:bda:5:5:2:b]]
+* [[skill-tree:bda:5:5:3:b]]
+* [[skill-tree:bda:5:5:4:b]]
+
+** Caution: All text is AI generated **

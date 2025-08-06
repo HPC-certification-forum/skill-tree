@@ -1,0 +1,16 @@
+# BDA5.4 HPC Optimization for ML
+
+This node covers performance tuning strategies that enhance machine learning training efficiency on HPC systems. It includes batch size tuning, mixed precision training, and mechanisms for recovery and checkpointing.
+
+## Learning Outcomes
+
+* Optimize batch sizes and parallelism settings to improve training scalability.
+* Apply mixed precision techniques and implement robust checkpointing strategies for long-running jobs.
+
+## Subskills
+
+* [[skill-tree:bda:5:4:1:b]]
+* [[skill-tree:bda:5:4:2:b]]
+* [[skill-tree:bda:5:4:3:b]]
+
+** Caution: All text is AI generated **

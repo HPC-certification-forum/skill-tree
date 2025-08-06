@@ -1,0 +1,18 @@
+# AI4.2 Data Privacy and Compliance
+
+This skill focuses on the legal and technical aspects of handling sensitive data in AI systems, particularly in regulated environments. It covers compliance requirements, anonymization techniques, and policy enforcement in HPC settings.
+
+## Requirements
+
+* External: Familiarity with AI workflows and basic data management concepts
+* Internal: None
+
+## Learning Outcomes
+
+* Identify major privacy regulations relevant to AI (e.g., GDPR, HIPAA) and their implications.
+* Describe data anonymization and pseudonymization techniques.
+* Apply access controls and audit mechanisms for secure data handling in HPC workflows.
+* Explain how compliance requirements influence dataset selection, storage, and retention policies.
+* Evaluate tools and frameworks that support compliance monitoring and reporting.
+
+** Caution: All text is AI generated **

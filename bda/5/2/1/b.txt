@@ -1,0 +1,18 @@
+# BDA5.2.1 Basics of Neural Networks
+
+This skill introduces the foundational building blocks of neural networks, including how they are structured, trained, and optimized. It covers feedforward networks, loss functions, activation functions, and the backpropagation algorithm.
+
+## Requirements
+
+* External: Knowledge of basic linear algebra and calculus
+* Internal: None
+
+## Learning Outcomes
+
+* Describe the structure of a feedforward neural network.
+* Explain the role of activation functions and compare common types (ReLU, sigmoid, tanh).
+* Understand how neural networks learn through backpropagation and gradient descent.
+* Identify common loss functions for classification and regression tasks.
+* Outline the training loop and how it is implemented in modern frameworks.
+
+** Caution: All text is AI generated **

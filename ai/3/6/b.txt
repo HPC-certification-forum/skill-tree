@@ -1,0 +1,18 @@
+# AI3.6 Graph Neural Networks
+
+This skill introduces graph neural networks (GNNs), which operate on structured data represented as graphs. It focuses on graph-based learning, message passing, and scaling GNNs on HPC platforms.
+
+## Requirements
+
+* External: Understanding of basic machine learning and graph theory concepts
+* Internal: None
+
+## Learning Outcomes
+
+* Explain how graph neural networks represent and process relational data.
+* Describe core GNN operations such as message passing and aggregation.
+* Identify use cases for GNNs in scientific computing, recommendation systems, and bioinformatics.
+* Apply techniques for batching and sampling large graphs in distributed training.
+* Evaluate performance and scalability of GNNs in multi-node HPC environments.
+
+** Caution: All text is AI generated **

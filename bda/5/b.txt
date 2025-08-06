@@ -1,28 +1,25 @@
 # BDA5 Machine Learning
 
-Machine learning techniques are essential for extracting valuable insights and predictions from big data. This module covers the principles, algorithms, and applications of machine learning in the context of big data analytics.
-
-## Requirements
+This node encompasses foundational and advanced skills for building, training, evaluating, and optimizing machine learning models in HPC environments. It brings together concepts from classical ML, deep learning, software frameworks, system optimization, and hyperparameter tuning.
 
 ## Learning Outcomes
 
-* **Understand the fundamentals** of machine learning, including supervised learning, unsupervised learning, and reinforcement learning.
-* **Explore the principles** of feature engineering and feature selection for preparing input data for machine learning models.
-* **Analyze the role** of data preprocessing techniques such as normalization, standardization, and missing value imputation in improving model performance.
-* **Understand the concepts** of model evaluation, including performance metrics such as accuracy, precision, recall, and F1-score.
-* **Explore the concepts** of cross-validation and hyperparameter tuning for optimizing model performance and generalization.
-* **Analyze the architecture** of popular machine learning libraries and frameworks such as scikit-learn, TensorFlow, and PyTorch.
-* **Understand the principles** of linear regression and logistic regression for solving regression and classification problems, respectively.
-* **Explore the concepts** of decision trees, random forests, and gradient boosting for building ensemble learning models.
-* **Analyze the principles** of support vector machines (SVMs) for binary classification and kernel methods for nonlinear decision boundaries.
-* **Understand the concepts** of clustering algorithms such as k-means, hierarchical clustering, and density-based clustering for unsupervised learning tasks.
-* **Explore the role** of dimensionality reduction techniques such as principal component analysis (PCA) and t-distributed stochastic neighbor embedding (t-SNE) for visualizing and compressing high-dimensional data.
-* **Analyze the principles** of neural networks and deep learning architectures for solving complex machine learning problems.
-* **Understand the concepts** of convolutional neural networks (CNNs) for image classification and object detection tasks.
-* **Explore the role** of recurrent neural networks (RNNs) and long short-term memory (LSTM) networks for sequence modeling and natural language processing tasks.
-* **Analyze the principles** of generative adversarial networks (GANs) for generating synthetic data and images.
-* **Understand the concepts** of transfer learning and fine-tuning pre-trained models for domain adaptation and task-specific learning.
-* **Explore the role** of autoencoders and variational autoencoders (VAEs) for unsupervised feature learning and data generation.
-* **Analyze the principles** of reinforcement learning algorithms such as Q-learning and deep Q-networks (DQN) for learning optimal decision-making policies.
+* Explain the fundamental differences between supervised, unsupervised, and deep learning approaches.
+* Interpret evaluation metrics for different model types and assess performance quality.
+* Describe how neural networks are structured and how architecture choice affects modeling tasks.
+* Use major ML/DL frameworks such as PyTorch and TensorFlow to implement models.
+* Apply distributed training techniques to scale model development across HPC resources.
+* Tune performance using batch sizing, mixed precision, and checkpointing for long-running jobs.
+* Design and execute hyperparameter search experiments efficiently at scale.
+* Implement resource-aware tuning strategies that consider runtime, memory, and energy trade-offs.
+* Integrate optimization, monitoring, and reproducibility practices for ML workflows on HPC platforms.
 
-AI generated content
+## Subskills
+
+* [[skill-tree:bda:5:1:b]]
+* [[skill-tree:bda:5:2:b]]
+* [[skill-tree:bda:5:3:b]]
+* [[skill-tree:bda:5:4:b]]
+* [[skill-tree:bda:5:5:b]]
+
+** Caution: All text is AI generated **

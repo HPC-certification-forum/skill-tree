@@ -1,0 +1,18 @@
+# AI6.3 AI Frameworks
+
+This skill introduces widely used AI frameworks that support model development, training, and deployment. It emphasizes selecting the right framework based on use case, hardware compatibility, and scalability in HPC environments.
+
+## Requirements
+
+* External: Understanding of deep learning workflows
+* Internal: None
+
+## Learning Outcomes
+
+* Compare major AI frameworks such as TensorFlow, PyTorch, JAX, and ONNX.
+* Describe the strengths and limitations of each framework in HPC use cases.
+* Identify tools for mixed precision training, distributed computing, and hardware acceleration.
+* Demonstrate how to port models between frameworks for deployment or optimization.
+* Select appropriate frameworks based on model architecture, team skills, and resource constraints.
+
+** Caution: All text is AI generated **

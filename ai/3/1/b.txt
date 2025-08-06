@@ -1,0 +1,18 @@
+# AI3.1 Language Models (LLMs)
+
+This skill covers the structure, training, and deployment of large language models (LLMs) in HPC environments. It includes tokenization, transformer architectures, training dynamics, and considerations for inference scalability and memory usage.
+
+## Requirements
+
+* External: Familiarity with basic deep learning concepts and NLP tasks
+* Internal: None
+
+## Learning Outcomes
+
+* Describe the transformer architecture and how it underpins most LLMs.
+* Explain tokenization strategies and their impact on model efficiency.
+* Identify memory and compute bottlenecks in LLM training and inference.
+* Compare distributed training strategies used for scaling LLMs across HPC resources.
+* Evaluate the performance and limitations of LLMs on different HPC configurations.
+
+** Caution: All text is AI generated **

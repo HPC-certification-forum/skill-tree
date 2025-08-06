@@ -1,0 +1,18 @@
+# BDA5.1.2 Evaluation Metrics
+
+This skill focuses on the metrics and methods used to assess the performance of machine learning models. It includes evaluation for classification, regression, and unsupervised learning, with emphasis on interpretability and reliability in HPC-scale workflows.
+
+## Requirements
+
+* External: Familiarity with supervised and unsupervised learning concepts
+* Internal: BDA5.1.1 Supervised and Unsupervised Learning (recommended)
+
+## Learning Outcomes
+
+* Identify common metrics for classification (e.g., accuracy, precision, recall, F1-score) and regression (e.g., RMSE, MAE).
+* Explain confusion matrices, ROC curves, and AUC for classification tasks.
+* Describe cluster evaluation metrics like silhouette score and Davies-Bouldin index.
+* Interpret metric values to assess underfitting, overfitting, and model calibration.
+* Apply cross-validation to estimate model performance and generalizability.
+
+** Caution: All text is AI generated **

@@ -1,0 +1,18 @@
+# AI3.3 Audio and Voice Models
+
+This skill introduces models designed to process audio signals and voice data, including spectrogram-based models, recurrent architectures, and transformers. It emphasizes preprocessing, training techniques, and deployment challenges in HPC environments.
+
+## Requirements
+
+* External: Familiarity with signal processing concepts and neural networks
+* Internal: None
+
+## Learning Outcomes
+
+* Describe preprocessing techniques used to transform raw audio into model-ready formats (e.g., spectrograms, MFCCs).
+* Compare model architectures suited for audio and voice tasks (e.g., RNNs, CNNs, transformers).
+* Explain challenges in training audio models at scale, such as input length variability and I/O throughput.
+* Evaluate model performance across metrics like accuracy, latency, and noise robustness.
+* Demonstrate how to optimize audio inference on HPC systems using batching and compression.
+
+** Caution: All text is AI generated **

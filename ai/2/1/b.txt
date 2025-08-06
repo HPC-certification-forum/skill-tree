@@ -1,0 +1,18 @@
+# AI2.1 Hosting AI Models
+
+This skill focuses on strategies and technologies for deploying and serving AI models in high-performance and hybrid computing environments. It includes model packaging, service interfaces, containerization, and compatibility with HPC infrastructure.
+
+## Requirements
+
+* External: Familiarity with model training and inference concepts
+* Internal: None
+
+## Learning Outcomes
+
+* Compare different approaches for deploying AI models in HPC, cloud, and hybrid environments.
+* Describe the role of containers (e.g., Docker, Singularity) in hosting AI models.
+* Identify tools and frameworks used for serving models (e.g., TorchServe, Triton Inference Server).
+* Explain compatibility issues and solutions for model execution on HPC systems.
+* Demonstrate how to expose AI models as services or endpoints for internal or external access.
+
+** Caution: All text is AI generated **

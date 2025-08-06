@@ -1,0 +1,18 @@
+# AI2.2 Scaling and Inference Optimization
+
+This skill explores techniques for scaling AI inference across HPC systems and optimizing throughput and latency. It includes performance tuning, parallelism, model simplification, and the use of hardware accelerators.
+
+## Requirements
+
+* External: Basic understanding of AI inference and performance bottlenecks
+* Internal: None
+
+## Learning Outcomes
+
+* Describe methods to parallelize inference across multiple compute nodes or GPUs.
+* Identify and apply model optimization techniques such as pruning, quantization, and distillation.
+* Explain how to balance latency, throughput, and resource usage in production environments.
+* Evaluate the impact of batch size, I/O overhead, and memory footprint on inference performance.
+* Use profiling tools to locate bottlenecks and improve inference efficiency in HPC workflows.
+
+** Caution: All text is AI generated **

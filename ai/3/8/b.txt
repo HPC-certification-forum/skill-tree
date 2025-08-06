@@ -1,0 +1,18 @@
+# AI3.8 Explainable AI (XAI)
+
+This skill introduces methods and frameworks that enable interpretability of AI models, especially in high-stakes or scientific contexts. It emphasizes tools, techniques, and best practices for understanding, auditing, and communicating model behavior.
+
+## Requirements
+
+* External: Understanding of basic AI model structure and outputs
+* Internal: None
+
+## Learning Outcomes
+
+* Define explainability and distinguish it from transparency and interpretability.
+* Identify common XAI methods (e.g., SHAP, LIME, saliency maps) and their applications.
+* Apply interpretability techniques to evaluate model decisions in classification or regression tasks.
+* Describe use cases for explainability in scientific research, safety-critical systems, and compliance.
+* Evaluate trade-offs between model complexity and interpretability.
+
+** Caution: All text is AI generated **

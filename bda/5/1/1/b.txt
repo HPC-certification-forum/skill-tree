@@ -1,0 +1,18 @@
+# BDA5.1.1 Supervised and Unsupervised Learning
+
+This skill introduces the fundamental principles of supervised and unsupervised learning, focusing on algorithm types, data requirements, and typical use cases in HPC-scale machine learning.
+
+## Requirements
+
+* External: Basic statistics and data analysis knowledge
+* Internal: None
+
+## Learning Outcomes
+
+* Define and distinguish between supervised and unsupervised learning paradigms.
+* Identify common algorithms such as decision trees, SVMs, k-means, and PCA.
+* Explain how labeled and unlabeled datasets are used in each approach.
+* Describe typical workflows and applications of each paradigm in scientific and industrial settings.
+* Understand data partitioning, overfitting, and model generalization in supervised learning.
+
+** Caution: All text is AI generated **

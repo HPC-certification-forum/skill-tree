@@ -1,0 +1,20 @@
+# USE8 AI Services
+
+AI services on HPC systems offer users access to large language models and other AI tools through interactive and programmatic interfaces.
+These services are designed to be simple to use, requiring no deep background in AI or infrastructure.
+Whether through web applications or basic scripting, users can explore, prompt, and benefit from modern AI capabilities.
+This skill introduces the general principles of interacting with AI systems using prompts, interfaces, and hosted models.
+
+## Requirements
+
+## Learning Outcomes
+
+* Understand the purpose and availability of AI services within an HPC environment.
+* Identify common methods of interacting with AI models, including prompt-based and API-based usage.
+* Describe the difference between web interface access and programmatic access to AI tools.
+* Recognize the scope and limitations of using hosted AI tools without managing the underlying infrastructure.
+
+## Subskills
+
+* [[skill-tree:use:8:1:b]]
+* [[skill-tree:use:8:2:b]]

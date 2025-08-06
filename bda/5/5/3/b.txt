@@ -1,0 +1,18 @@
+# BDA5.5.3 Early Stopping and Pruning Strategies
+
+This skill introduces methods to halt underperforming model runs early during training or tuning. It focuses on decision rules, integration with tuning frameworks, and efficiency improvements in HPC resource usage.
+
+## Requirements
+
+* External: Experience with model evaluation and validation techniques
+* Internal: BDA5.5.1 Hyperparameter Search Methods (recommended)
+
+## Learning Outcomes
+
+* Define early stopping and its role in improving training efficiency.
+* Describe criteria such as validation loss plateaus or metric stagnation.
+* Apply pruning strategies to terminate weak candidates during hyperparameter search.
+* Integrate early stopping with tuning frameworks and logging systems.
+* Evaluate trade-offs between training completeness and resource savings.
+
+** Caution: All text is AI generated **

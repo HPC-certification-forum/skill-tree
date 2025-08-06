@@ -1,0 +1,17 @@
+# AI6 AI Services
+
+This node focuses on the development, integration, and delivery of AI capabilities as services. It includes building and deploying APIs, integrating external AI providers, and managing frameworks for scalable service-based AI in HPC environments.
+
+## Learning Outcomes
+
+* Describe how AI services are developed and delivered via APIs.
+* Explain how external AI models and APIs are integrated into HPC workflows.
+* Identify common AI frameworks and how they support scalable, service-oriented deployment.
+
+## Subskills
+
+* [[skill-tree:ai:6:1:b]]
+* [[skill-tree:ai:6:2:b]]
+* [[skill-tree:ai:6:3:b]]
+
+** Caution: All text is AI generated **

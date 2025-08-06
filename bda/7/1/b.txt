@@ -1,0 +1,19 @@
+# BDA7.1 Cross-Validation
+
+This skill introduces cross-validation techniques used to assess model generalization and prevent overfitting. It focuses on different strategies, statistical robustness, and integration with HPC workflows.
+
+## Requirements
+
+* External: Familiarity with model training and evaluation
+* Internal: BDA5.1.2 Evaluation Metrics (recommended)
+
+## Learning Outcomes
+
+* Define cross-validation and explain its role in evaluating model generalization.
+* Compare k-fold, stratified, and leave-one-out cross-validation strategies.
+* Implement cross-validation efficiently on large datasets in parallel environments.
+* Use cross-validation results to guide model selection and hyperparameter tuning.
+* Evaluate statistical significance and variance across validation folds.
+
+
+** Caution: All text is AI generated **

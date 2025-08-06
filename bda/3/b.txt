@@ -1,30 +1,15 @@
 # BDA3 Technology
 
-Understanding the underlying technologies and infrastructure is crucial for effectively managing and analyzing large volumes of data in big data analytics. This module covers the foundational technologies, tools, and platforms used in big data processing, storage, and analysis.
-
-## Requirements
+This node introduces technologies used to support large-scale data workflows in HPC environments. It focuses on file systems and object storage solutions that ensure high throughput, scalability, and reliability for big data applications.
 
 ## Learning Outcomes
 
-* **Understand the principles** of distributed computing and parallel processing in big data analytics.
-* **Explore the architecture** of distributed file systems like Hadoop Distributed File System (HDFS) and its role in storing and managing large datasets.
-* **Analyze the components** of the Hadoop ecosystem, including Hadoop MapReduce, YARN, and Hadoop Common, and their contributions to big data processing.
-* **Examine the role** of NoSQL databases such as Apache Cassandra, MongoDB, and Apache HBase in handling unstructured and semi-structured data in distributed environments.
-* **Understand the principles** of data replication, fault tolerance, and high availability in distributed storage systems for ensuring data reliability and resilience.
-* **Explore the concepts** of stream processing frameworks such as Apache Kafka, Apache Storm, and Apache Flink for real-time data ingestion, processing, and analysis.
-* **Analyze the architecture** of distributed batch processing frameworks such as Apache Spark, Apache Flink, and Apache Beam for processing large volumes of data in parallel.
-* **Understand the principles** of resource management and workload scheduling in distributed computing environments for optimizing resource utilization and performance.
-* **Explore the role** of containerization technologies such as Docker and Kubernetes in deploying and managing distributed big data applications at scale.
-* **Analyze the features** of cloud-based big data platforms such as Amazon EMR, Google Cloud Dataproc, and Microsoft Azure HDInsight, and their advantages for scalable data processing and analytics.
-* **Understand the principles** of data compression and serialization techniques for optimizing storage efficiency and reducing data transfer overhead in distributed systems.
-* **Explore the concepts** of data lakes, data warehouses, and data marts in organizing and structuring data for analytics and business intelligence purposes.
-* **Analyze the architecture** of distributed stream processing systems such as Apache Beam, Apache Samza, and Apache Apex for processing continuous streams of data with low latency and high throughput.
-* **Understand the principles** of graph processing and graph databases such as Neo4j, Amazon Neptune, and Apache Giraph for analyzing and querying interconnected data.
-* **Explore the role** of indexing and search technologies such as Apache Solr, Elasticsearch, and Apache Lucene in enabling fast and efficient retrieval of information from large datasets.
-* **Analyze the challenges** of data integration, data quality, and data governance in big data environments and strategies for overcoming these challenges.
-* **Understand the principles** of data encryption, access control, and data masking techniques for securing sensitive data in distributed storage and processing systems.
-* **Explore the concepts** of data preprocessing, feature engineering, and data transformation techniques for preparing raw data for machine learning and predictive analytics.
-* **Analyze the features** of data governance tools and metadata management solutions for tracking data lineage, ensuring data quality, and enforcing regulatory compliance.
-* **Understand the principles** of data virtualization and federated query processing in integrating heterogeneous data sources and enabling cross-platform data analytics.
+* Describe the characteristics and trade-offs of file system technologies used in big data HPC environments.
+* Explain how object storage solutions are structured and integrated with HPC and analytics workflows.
 
-AI generated content
+## Subskills
+
+* [[skill-tree:bda:3:1:b]]
+* [[skill-tree:bda:3:2:b]]
+
+** Caution: All text is AI generated **

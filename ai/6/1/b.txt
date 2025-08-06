@@ -1,0 +1,18 @@
+# AI6.1 Integrating External AI APIs
+
+This skill covers how to incorporate third-party AI services—such as foundation models, transcription engines, and vision APIs—into HPC workflows. It includes authentication, latency handling, and resource-aware integration techniques.
+
+## Requirements
+
+* External: Familiarity with web APIs and basic programming
+* Internal: None
+
+## Learning Outcomes
+
+* Identify common external AI APIs and services (e.g., OpenAI, Hugging Face, Google Vision).
+* Demonstrate secure API integration using authentication methods like OAuth or API keys.
+* Handle latency, rate limits, and failures in long-running HPC jobs using retry/backoff strategies.
+* Apply methods for data formatting and streaming between HPC systems and external APIs.
+* Evaluate trade-offs between in-house models and external service integration.
+
+** Caution: All text is AI generated **

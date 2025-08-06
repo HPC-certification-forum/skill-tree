@@ -1,0 +1,16 @@
+# USE8.2 AI Infrastructure
+
+This skill introduces users to AI services hosted on HPC systems via web and API interfaces.
+Rather than deploying or managing models, users focus on accessing and using them through friendly platforms like web dashboards or through APIs.
+The emphasis is on understanding how to send queries to models, interpret responses, and integrate them into tasks.
+Part of this skill is becoming familiar with tokens, endpoints, and response handling — essential for using AI tools programmatically.
+
+## Requirements
+
+## Learning Outcomes
+
+* Access AI tools via a web interface and understand basic interaction workflows.
+* Send requests to AI models using API interfaces and interpret structured responses.
+* Understand how to use API keys, endpoints, and basic request formatting (e.g., JSON).
+* Distinguish between synchronous and asynchronous inference requests.
+* Integrate simple AI responses into command-line or scripting workflows for automation.

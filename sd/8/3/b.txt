@@ -1,4 +1,4 @@
-# SD8 Workflow Management Systems principles
+# SD8.3 Workflow Management Systems Principles
 
 Workflow Management Systems are tools to enable reproducible data analysis, especially if many data analyis processing steps are involved.
 

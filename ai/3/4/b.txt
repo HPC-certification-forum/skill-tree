@@ -1,0 +1,18 @@
+# AI3.4 Video Generation
+
+This skill focuses on AI models that generate or synthesize video content, addressing temporal consistency, multi-frame modeling, and large-scale training challenges. It covers architectures, datasets, and HPC-specific resource demands.
+
+## Requirements
+
+* External: Knowledge of deep learning and image/video data structures
+* Internal: None
+
+## Learning Outcomes
+
+* Explain the structure of video generation models and how they differ from static image models.
+* Identify key challenges in modeling temporal dynamics and visual coherence.
+* Describe the resource demands of video generation, including GPU memory and disk I/O.
+* Apply strategies to manage large-scale video datasets in distributed environments.
+* Evaluate performance and quality trade-offs in video synthesis models.
+
+** Caution: All text is AI generated **

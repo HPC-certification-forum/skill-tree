@@ -1,0 +1,18 @@
+# AI1.1 HPC AI Architectures
+
+This skill introduces the foundational architectural components that support AI workloads in high-performance computing environments. It covers the integration of accelerators, memory hierarchies, interconnects, and the software stacks that enable scalable training and inference.
+
+## Requirements
+
+* External: Basic understanding of parallel computing and AI model training
+* Internal: None
+
+## Learning Outcomes
+
+* Identify key components of HPC architectures relevant to AI, including GPUs, TPUs, and memory systems.
+* Compare different node-level and system-level configurations for AI workloads.
+* Explain the role of interconnects (e.g., NVLink, InfiniBand) in distributed AI performance.
+* Recognize the impact of hardware-software co-design in AI system performance.
+* Describe how different architectural features affect scalability and throughput of AI training and inference tasks.
+
+** Caution: All text is AI generated **

@@ -1,0 +1,18 @@
+# BDA5.4.3 Checkpointing and Recovery
+
+This skill covers techniques for saving and restoring training state to ensure fault tolerance and efficient recovery in long-running ML jobs. It includes strategies for storage management, frequency control, and integration with batch schedulers.
+
+## Requirements
+
+* External: Familiarity with training loops and storage systems
+* Internal: None
+
+## Learning Outcomes
+
+* Explain the importance of checkpointing for resiliency in HPC training workflows.
+* Implement model, optimizer, and scheduler state saving in popular ML frameworks.
+* Choose checkpointing frequency based on job length, stability, and system load.
+* Manage checkpoint file size, compression, and storage placement.
+* Integrate checkpointing with job resubmission and monitoring tools in HPC environments.
+
+** Caution: All text is AI generated **

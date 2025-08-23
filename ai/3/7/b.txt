@@ -1,0 +1,18 @@
+# AI3.7 Scientific Models
+
+This skill focuses on AI models tailored for scientific domains, such as physics-informed neural networks (PINNs), surrogate models, and models used in simulations. It emphasizes integration with traditional HPC workflows and scientific data.
+
+## Requirements
+
+* External: Familiarity with scientific computing or domain-specific simulation tasks
+* Internal: None
+
+## Learning Outcomes
+
+* Describe how AI models can accelerate or complement scientific simulations.
+* Explain the concept and application of physics-informed neural networks (PINNs).
+* Identify the challenges of incorporating domain knowledge into AI model design.
+* Discuss the integration of scientific models with HPC job scheduling and simulation pipelines.
+* Evaluate the accuracy, efficiency, and generalizability of scientific AI models.
+
+** Caution: All text is AI generated **

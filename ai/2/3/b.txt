@@ -1,0 +1,18 @@
+# AI2.3 Resource-Aware Deployment
+
+This skill focuses on deploying AI workloads in a manner that accounts for the limitations and availability of HPC resources such as compute, memory, storage, and energy. It teaches techniques to maximize efficiency and sustainability.
+
+## Requirements
+
+* External: Familiarity with AI workload characteristics and HPC job environments
+* Internal: None
+
+## Learning Outcomes
+
+* Define what makes a deployment “resource-aware” in the context of HPC.
+* Select appropriate compute and memory configurations based on model size and workload type.
+* Use resource profiling tools to guide allocation decisions.
+* Apply strategies to reduce energy consumption during training and inference.
+* Explain the trade-offs between performance, resource use, and scheduling constraints.
+
+** Caution: All text is AI generated **

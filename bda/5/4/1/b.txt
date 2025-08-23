@@ -1,0 +1,18 @@
+# BDA5.4.1 Batch Size and Data Parallelism
+
+This skill focuses on tuning batch sizes and applying data parallelism to accelerate training across multiple compute units. It covers trade-offs in memory usage, convergence behavior, and hardware utilization.
+
+## Requirements
+
+* External: Familiarity with model training and GPU compute
+* Internal: BDA5.3.3 Distributed Training (recommended)
+
+## Learning Outcomes
+
+* Explain how batch size affects training stability, convergence, and throughput.
+* Identify the relationship between batch size and memory usage on accelerators.
+* Apply data parallelism techniques across GPUs or nodes for scalable training.
+* Use gradient accumulation to simulate large batch sizes under memory constraints.
+* Evaluate performance trade-offs using throughput and loss convergence metrics.
+
+** Caution: All text is AI generated **

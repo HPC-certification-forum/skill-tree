@@ -1,0 +1,15 @@
+# BDA5.2 Deep Learning Fundamentals
+
+This node covers the foundational elements of deep learning, including the structure and training of neural networks. It introduces basic neural network components and various deep learning architectures relevant to HPC workflows.
+
+## Learning Outcomes
+
+* Describe how neural networks are structured, trained, and applied in data-driven tasks.
+* Differentiate between core deep learning architectures such as CNNs, RNNs, and transformers.
+
+## Subskills
+
+* [[skill-tree:bda:5:2:1:b]]
+* [[skill-tree:bda:5:2:2:b]]
+
+** Caution: All text is AI generated **

@@ -1,0 +1,17 @@
+# USE8.1 Prompt Engineering
+
+Prompt engineering focuses on how users interact with AI models by crafting input (prompts) that guide the output behavior.
+At its core, this skill explores how the structure, wording, and formatting of prompts can significantly affect the results returned by large language models.
+It provides users with practical techniques to phrase questions, give context, and evaluate output — all without needing to understand the internal mechanics of the models.
+The skill includes key strategies to refine outputs and avoid common mistakes in prompt usage.
+
+## Requirements
+
+## Learning Outcomes
+
+* Understand how the structure and phrasing of a prompt can influence the output of a language model.
+* Identify common prompt formats used for AI tasks such as summarization, generation, classification, and translation.
+* Recognize and avoid common prompt-related errors (e.g., ambiguous wording, lack of context).
+* Refine prompts iteratively to improve output quality.
+* Apply techniques such as role prompting, few-shot prompting, and instruction-based prompting.
+

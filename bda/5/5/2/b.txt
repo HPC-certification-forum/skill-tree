@@ -1,0 +1,18 @@
+# BDA5.5.2 Distributed Hyperparameter Search
+
+This skill focuses on running hyperparameter tuning jobs in parallel across multiple compute nodes or GPUs. It includes orchestration tools, job scheduling integration, and best practices for large-scale experimentation in HPC settings.
+
+## Requirements
+
+* External: Understanding of hyperparameter tuning strategies and batch job submission
+* Internal: BDA5.5.1 Hyperparameter Search Methods (recommended)
+
+## Learning Outcomes
+
+* Explain the benefits and challenges of distributing hyperparameter search in HPC environments.
+* Use orchestration tools such as Ray Tune, Optuna, or Hyperopt for parallel execution.
+* Integrate distributed tuning with HPC schedulers like Slurm or PBS.
+* Monitor, resume, and manage many concurrent tuning jobs.
+* Optimize compute resource usage to balance speed, cost, and coverage.
+
+** Caution: All text is AI generated **

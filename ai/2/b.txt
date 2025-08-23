@@ -1,0 +1,17 @@
+# AI2 Engineering and Infrastructure
+
+This node encompasses the core infrastructure and engineering principles required to support scalable and efficient deployment of AI systems in HPC environments. It covers physical and virtual hosting strategies, performance optimization, and resource-aware deployment.
+
+## Learning Outcomes
+
+* Describe the requirements and challenges of hosting AI models in HPC or hybrid infrastructure.
+* Identify methods to optimize inference workloads through model and system-level engineering.
+* Explain the principles of resource-aware AI deployment, including compute, memory, and energy considerations.
+
+## Subskills
+
+* [[skill-tree:ai:2:1:b]]
+* [[skill-tree:ai:2:2:b]]
+* [[skill-tree:ai:2:3:b]]
+
+** Caution: All text is AI generated **

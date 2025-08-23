@@ -1,0 +1,18 @@
+# AI3.2 Image Models
+
+This skill introduces key concepts and architectures for image-based AI models, such as CNNs and vision transformers, along with their training and deployment in HPC environments. It emphasizes dataset handling, parallel processing, and acceleration techniques.
+
+## Requirements
+
+* External: Basic understanding of computer vision and convolutional neural networks
+* Internal: None
+
+## Learning Outcomes
+
+* Identify common architectures used in image modeling (e.g., ResNet, EfficientNet, Vision Transformers).
+* Describe the data pipeline requirements for large-scale image datasets.
+* Apply techniques for distributed training of image models in HPC environments.
+* Explain GPU/TPU acceleration strategies for image model training and inference.
+* Evaluate performance trade-offs between model size, accuracy, and runtime efficiency.
+
+** Caution: All text is AI generated **

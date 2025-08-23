@@ -1,0 +1,18 @@
+# BDA3.1 Parallel File Systems
+
+This skill focuses on file systems optimized for concurrent access by distributed processes in HPC environments. It covers architecture, performance tuning, and usage best practices for systems like Lustre, GPFS, and BeeGFS.
+
+## Requirements
+
+* External: Basic knowledge of file systems and parallel computing
+* Internal: None
+
+## Learning Outcomes
+
+* Describe the architecture and operational principles of parallel file systems.
+* Compare commonly used systems (e.g., Lustre, GPFS, BeeGFS) in terms of scalability and performance.
+* Identify key configuration parameters that influence I/O throughput.
+* Apply best practices for managing I/O contention and metadata performance.
+* Monitor and optimize parallel file system performance for big data workflows.
+
+** Caution: All text is AI generated **

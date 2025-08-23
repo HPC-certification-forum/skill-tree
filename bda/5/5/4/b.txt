@@ -1,0 +1,18 @@
+# BDA5.5.4 Resource Aware Tuning
+
+This skill focuses on hyperparameter tuning strategies that account for resource constraints in HPC environments. It includes adaptive scheduling, prioritization, and energy-aware optimization techniques.
+
+## Requirements
+
+* External: Basic understanding of HPC scheduling and tuning processes
+* Internal: BDA5.5.1 Hyperparameter Search Methods (recommended)
+
+## Learning Outcomes
+
+* Explain how resource availability and cost influence tuning strategy selection.
+* Use adaptive or multi-fidelity tuning approaches to allocate compute efficiently.
+* Apply constraints on runtime, memory, or energy usage in tuning campaigns.
+* Integrate resource metrics into scheduling or pruning decisions.
+* Evaluate tuning success with respect to both model performance and resource efficiency.
+
+** Caution: All text is AI generated **

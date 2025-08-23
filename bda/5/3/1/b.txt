@@ -1,0 +1,18 @@
+# BDA5.3.1 Pytorch
+
+This skill introduces the PyTorch framework for developing and training machine learning and deep learning models. It emphasizes model definition, training loops, and debugging in a dynamic computation graph environment.
+
+## Requirements
+
+* External: Programming experience with Python
+* Internal: BDA5.2.1 Basics of Neural Networks (recommended)
+
+## Learning Outcomes
+
+* Define and train neural networks using the PyTorch nn.Module interface.
+* Implement forward passes, loss computation, and backward propagation.
+* Use DataLoader and Dataset classes to efficiently handle input data.
+* Apply GPU acceleration and mixed precision with PyTorch utilities.
+* Debug models interactively using PyTorch’s dynamic computation graph.
+
+** Caution: All text is AI generated **

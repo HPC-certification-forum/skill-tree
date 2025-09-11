@@ -1,0 +1,15 @@
+# K7 Quantum Computing
+
+## Requirements
+
+External: Basics in linear algebra and quantum mechanics
+
+## Learning Outcomes
+
+## Subskills
+
+* [[skill-tree:k:7:1:b]]
+* [[skill-tree:k:7:2:b]]
+* [[skill-tree:k:7:3:b]]
+* [[skill-tree:k:7:4:b]]
+* [[skill-tree:k:7:5:b]]

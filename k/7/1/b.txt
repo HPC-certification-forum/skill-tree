@@ -1,0 +1,9 @@
+# K7.1 Quantum Computing Principles
+
+Quantum computing is an emerging paradigm that leverages principles of quantum mechanics to solve problems that are intractable for classical computers. This node skill introduces learners to the foundations of quantum information, quantum programming, and the integration of quantum resources into high-performance computing (HPC) workflows. By covering theory, algorithms, hardware, and hybrid approaches, this branch prepares learners for both conceptual understanding and practical experimentation.
+
+## Requirements
+
+## Learning Outcomes
+
+**Content is AI Generated**

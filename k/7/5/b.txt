@@ -1,7 +1,17 @@
 # K7.5 Quantum-HPC Integration (K7.5)
 
+This skill explores how quantum computing is being integrated into high-performance computing environments. Learners will examine hybrid approaches that combine classical and quantum resources, focusing on quantum simulators, cloud-based access to quantum processors, and integration into HPC job schedulers. Case studies highlight applications in chemistry, optimization, and machine learning where HPC+quantum workflows are being tested. The skill emphasizes both the opportunities and the practical limitations of current integration strategies.
+
 ## Requirements
 
+External: Basics in linear algebra and quantum mechanics
+
 ## Learning Outcomes
+
+* Describe the role of quantum accelerators in hybrid computing models.
+* Differentiate between quantum simulators (classical emulation) and physical quantum hardware.
+* Outline how job scheduling might incorporate quantum resources in HPC clusters.
+* Analyze performance trade-offs when offloading tasks to quantum hardware.
+* Evaluate current use cases for quantum-HPC workflows in fields like chemistry, optimization, and machine learning.
 
 **Content is AI Generated**

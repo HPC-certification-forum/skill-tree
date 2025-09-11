@@ -1,9 +1,17 @@
 # K7.1 Quantum Computing Principles
 
-Quantum computing is an emerging paradigm that leverages principles of quantum mechanics to solve problems that are intractable for classical computers. This node skill introduces learners to the foundations of quantum information, quantum programming, and the integration of quantum resources into high-performance computing (HPC) workflows. By covering theory, algorithms, hardware, and hybrid approaches, this branch prepares learners for both conceptual understanding and practical experimentation.
+This skill introduces the foundational principles of quantum mechanics as they apply to computing. Learners explore the nature of qubits, superposition, and entanglement, and understand how these properties enable new forms of computation. Emphasis is placed on contrasting classical and quantum information, highlighting the unique opportunities and challenges of quantum systems such as decoherence, noise, and error correction requirements.
 
 ## Requirements
 
+External: Basics in linear algebra and quantum mechanics
+
 ## Learning Outcomes
+
+* Define key concepts of quantum mechanics relevant to computing (qubits, superposition, entanglement, measurement).
+* Distinguish between classical bits and quantum bits (qubits).
+* Explain the principle of quantum parallelism and its computational implications.
+* Illustrate how measurement collapses quantum states.
+* Summarize the limitations and challenges of quantum systems (e.g., decoherence, error rates).
 
 **Content is AI Generated**

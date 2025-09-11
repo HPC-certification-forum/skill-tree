@@ -1,7 +1,17 @@
 # K7.3 Quantum Programming
 
+This skill provides hands-on exposure to quantum programming frameworks and environments, such as Qiskit, Cirq, or Q#. Learners will practice constructing and executing simple quantum circuits, applying common quantum gates, and interpreting results. Emphasis is placed on the translation of algorithmic ideas into code, debugging techniques, and the practical constraints of running programs on simulators versus real quantum hardware. By completing this skill, learners acquire practical competence in quantum software development.
+
 ## Requirements
 
+External: Basics in linear algebra and quantum mechanics
+
 ## Learning Outcomes
+
+* Use a quantum programming framework (e.g., Qiskit, Cirq, or Q#) to construct simple quantum circuits.
+* Simulate a basic quantum algorithm (e.g., Deutsch–Jozsa or Grover’s search) on a local backend.
+* Apply quantum gates (Pauli-X, Hadamard, CNOT, etc.) in small circuits.
+* Debug simple quantum circuits and interpret error messages.
+* Translate mathematical descriptions of algorithms into executable quantum programs.
 
 **Content is AI Generated**

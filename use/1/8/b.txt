@@ -1,0 +1,23 @@
+# USE1.8 Manage background processes and signals
+
+Background processes are very useful to use a single bash session and run multiple programs in it.
+They can either run in parallel in the background or are stopped and can be resumed later.
+
+Similarly, sending signals to other programs in the background can be used to change the state of the program by making it active again or move a program in to the foreground.
+In order to do this there exists a program called kill, which does not only kill by signal a kill.
+
+## Requirements
+
+* [[skill-tree:use:1:1:b]]
+
+## Learning Outcomes
+
+* Understand interrupting or aborting of a program execution using CTRL-C and CTRL-Z.
+* Describe the difference between SIGINT and SIGTSTP.
+* Demonstrate the use of CTRL-Z in combination with the commands jobs and fg.
+
+* Understand what a Process ID is and how it can be used to identify any programs.
+* Demonstrate how the command jobs can display the process id.
+* Understand the behaviour of the kill command.
+* Demonstrate the kill command and send the signals SIGKILL, SIGINT, SIGTSTP, also via the numbers instead of the names
+

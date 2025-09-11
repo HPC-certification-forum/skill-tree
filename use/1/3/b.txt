@@ -10,6 +10,8 @@ Typically, several elementary programs are pre-installed and allow access and ma
 
 ## Requirements
 
+* [[skill-tree:use:1:1:b]]
+
 ## Learning Outcomes
 
 * Describe the organization of a hierarchical file system.

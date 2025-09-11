@@ -11,6 +11,7 @@ Various user roles are covered as part of this subtree: practitioners that aim t
 ## Learning Outcomes
 
 * Apply tools provided by the operating system to navigate and manage files and executables.
+* Explain what programs and processes are and how the CLI interacts with and manages them.
 * Use a workload manager to allocate HPC resources and run job using scripts.
 * Select the software environment to build existing OpenSource projects 
 * Develop novel parallel applications effectively.

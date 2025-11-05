@@ -13,4 +13,4 @@ Moreover, individual solutions can often be found in a specific system.
 ## Subskills
 
 * [[skill-tree:use:2:1:b]]
-* [[skill-tree:use:1:2:b]]
+* [[skill-tree:use:2:2:b]]

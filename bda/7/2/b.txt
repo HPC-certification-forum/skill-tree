@@ -1,0 +1,19 @@
+# BDA7.2 Scalable Model Evaluation
+
+This skill focuses on evaluating AI and ML models at scale in HPC environments. It covers techniques for benchmarking accuracy, performance, and resource efficiency across large datasets and distributed systems.
+
+## Requirements
+
+* External: Understanding of evaluation metrics and HPC resource usage
+* Internal: BDA7.1 Cross-Validation (recommended)
+
+## Learning Outcomes
+
+* Design scalable evaluation pipelines for large datasets and models.
+* Benchmark model performance across multiple hardware configurations or datasets.
+* Monitor compute, memory, and I/O usage during model evaluation.
+* Compare models using normalized, reproducible metrics and visualizations.
+* Ensure fair evaluation through consistent preprocessing, baselining, and version control.
+
+
+** Caution: All text is AI generated **

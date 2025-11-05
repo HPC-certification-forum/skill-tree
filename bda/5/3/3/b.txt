@@ -1,0 +1,18 @@
+# BDA5.3.3 Distributed Training
+
+This skill introduces techniques for training machine learning and deep learning models across multiple GPUs or nodes. It covers data and model parallelism, communication frameworks, and integration with PyTorch and TensorFlow.
+
+## Requirements
+
+* External: Understanding of model training workflows
+* Internal: BDA5.3.1 Pytorch or BDA5.3.2 Tensorflow (recommended)
+
+## Learning Outcomes
+
+* Distinguish between data parallelism and model parallelism strategies.
+* Use PyTorch’s DistributedDataParallel and TensorFlow’s tf.distribute APIs.
+* Configure multi-GPU and multi-node training in HPC environments.
+* Monitor and debug performance bottlenecks in distributed training setups.
+* Apply best practices for checkpointing, fault tolerance, and reproducibility at scale.
+
+** Caution: All text is AI generated **

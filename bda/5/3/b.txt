@@ -1,0 +1,16 @@
+# BDA5.3 ML and DL Frameworks
+
+This node focuses on the use of modern machine learning and deep learning frameworks in HPC contexts. It includes practical usage of PyTorch and TensorFlow, as well as strategies for scaling training across distributed systems.
+
+## Learning Outcomes
+
+* Use leading ML/DL frameworks to define, train, and evaluate models.
+* Apply distributed training strategies using framework-native tools for scalability and performance.
+
+## Subskills
+
+* [[skill-tree:bda:5:3:1:b]]
+* [[skill-tree:bda:5:3:2:b]]
+* [[skill-tree:bda:5:3:3:b]]
+
+** Caution: All text is AI generated **

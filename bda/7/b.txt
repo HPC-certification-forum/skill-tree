@@ -1,0 +1,16 @@
+# BDA7 Evaluation and Benchmarking
+
+This node introduces the principles and tools for evaluating machine learning models in large-scale HPC environments. It covers statistical evaluation methods, reproducibility techniques, and scalable benchmarking strategies for AI workloads.
+
+## Learning Outcomes
+
+* Apply statistical evaluation techniques to assess the generalization and reliability of ML models.
+* Use cross-validation and related methods to quantify model performance.
+* Benchmark AI models at scale with a focus on consistency, fairness, and comparability.
+
+## Subskills
+
+* [[skill-tree:bda:7:1:b]]
+* [[skill-tree:bda:7:2:b]]
+
+** Caution: All text is AI generated **

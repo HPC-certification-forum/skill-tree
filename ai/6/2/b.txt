@@ -1,0 +1,18 @@
+# AI6.2 Building AI APIs
+
+This skill focuses on exposing AI models as APIs to support integration, automation, and user interaction. It covers API design, containerization, deployment, and scalability in HPC or hybrid cloud environments.
+
+## Requirements
+
+* External: Experience with Python and web frameworks (e.g., Flask, FastAPI)
+* Internal: None
+
+## Learning Outcomes
+
+* Design RESTful APIs for AI model inference, including input/output schema definition.
+* Implement API endpoints to expose model functionality securely and efficiently.
+* Containerize API services using tools like Docker or Singularity for deployment.
+* Deploy APIs in scalable environments using orchestration tools (e.g., Kubernetes, Slurm).
+* Monitor, log, and benchmark API performance in production.
+
+** Caution: All text is AI generated **

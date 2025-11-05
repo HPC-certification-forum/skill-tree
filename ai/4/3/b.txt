@@ -1,0 +1,14 @@
+# AI4.3 Data Provenance and Auditability
+
+This skill addresses the tracking and documentation of data origins, transformations, and usage throughout the AI lifecycle. It focuses on enabling reproducibility, transparency, and auditability of AI workflows in HPC environments.
+
+## Learning Outcomes
+
+* Define data provenance and explain its importance in scientific and regulated AI use cases.
+* Identify tools and metadata standards used for tracking data lineage.
+* Describe how audit trails can be maintained across distributed HPC workflows.
+* Implement strategies to ensure reproducibility of AI experiments, including versioning of data and models.
+* Evaluate systems that integrate provenance tracking with workflow engines or data lakes.
+
+** Caution: All text is AI generateIntelligent Interactions and Retrieval Systems
+

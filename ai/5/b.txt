@@ -1,0 +1,18 @@
+# AI5 Intelligent Interactions and Retrieval Systems
+
+This node explores techniques for enhancing AI model interactions with users and data sources. It includes prompting strategies, retrieval-augmented generation (RAG), and agentic interfaces designed for complex task execution and collaboration.
+
+## Learning Outcomes
+
+* Describe prompting techniques and their influence on generative model behavior.
+* Explain how retrieval-augmented generation improves accuracy and grounding in generative systems.
+* Understand the architecture and behavior of agentic interfaces designed for iterative or autonomous workflows.
+
+## Subskills
+
+* [[skill-tree:ai:5:1:b]]
+* [[skill-tree:ai:5:2:b]]
+* [[skill-tree:ai:5:3:b]]
+
+** Caution: All text is AI generated **
+

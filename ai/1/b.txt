@@ -1,0 +1,19 @@
+# AI1 AI System Design and Deployment
+
+This node encompasses the key concepts and practical knowledge required to design, organize, and operate AI systems on HPC platforms. It brings together architectural considerations, workflow coordination, fine-tuning strategies, and agent-based designs relevant to scalable AI deployment.
+
+## Learning Outcomes
+
+* Identify major architectural design choices and their impact on AI scalability in HPC environments.
+* Describe how AI workflows are coordinated and executed across distributed computing systems.
+* Explain the function and design of intelligent agents in HPC-based AI systems.
+* Summarize techniques for fine-tuning AI models, considering performance and resource constraints.
+
+## Subskills
+
+* [[skill-tree:ai:1:1:b]]
+* [[skill-tree:ai:1:2:b]]
+* [[skill-tree:ai:1:3:b]]
+* [[skill-tree:ai:1:5:b]]
+
+** Caution: All text is AI generated **

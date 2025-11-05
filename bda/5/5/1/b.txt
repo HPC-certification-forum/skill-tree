@@ -1,0 +1,18 @@
+# BDA5.5.1 Hyperparameter Search Methods
+
+This skill introduces core approaches to searching hyperparameter spaces, including manual, grid, random, and probabilistic methods. It focuses on balancing coverage, efficiency, and reproducibility in ML experiments.
+
+## Requirements
+
+* External: Familiarity with model training and tuning concepts
+* Internal: None
+
+## Learning Outcomes
+
+* Describe the role of hyperparameters in machine learning model performance.
+* Compare manual tuning, grid search, and random search techniques.
+* Explain how Bayesian optimization and other probabilistic methods guide search using prior results.
+* Evaluate search efficiency and effectiveness across multiple performance metrics.
+* Apply reproducible tuning experiments using configuration management tools or frameworks.
+
+** Caution: All text is AI generated **

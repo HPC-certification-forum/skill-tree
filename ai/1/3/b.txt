@@ -1,0 +1,18 @@
+# AI1.3 Agents
+
+This skill introduces the concept of software agents in AI systems, including autonomous and semi-autonomous agents used for decision-making, task execution, or coordination. It focuses on their design, deployment, and integration in HPC-based AI workflows.
+
+## Requirements
+
+* External: Basic knowledge of reinforcement learning or AI model behavior
+* Internal: None
+
+## Learning Outcomes
+
+* Define what constitutes an AI agent in the context of HPC workloads.
+* Differentiate between reactive, deliberative, and hybrid agent architectures.
+* Explain use cases for agents in model orchestration, data interaction, and simulation-based learning.
+* Describe the lifecycle of an agent from initialization to termination in an HPC pipeline.
+* Evaluate agent behavior in terms of autonomy, adaptability, and communication.
+
+** Caution: All text is AI generated **

@@ -1,0 +1,26 @@
+# AI Artificial intelligence
+
+Using Artificial intelligence software and also deploying it is becoming more and more relevant.
+This is also true for deploying models in an HPC system and offering it as a service.
+
+## Learning Outcomes
+
+* Explain the function and design of intelligent agents in HPC-based AI systems and investigate scalability.
+* Summarize techniques for fine-tuning AI models, considering performance and resource constraints.
+* Describe the requirements and challenges of hosting AI models in HPC or hybrid infrastructure.
+* Explain the principles of resource-aware AI deployment, including compute, memory, and energy considerations.
+* Summarize techniques used in different models for processing and deployment.
+* Identify key regulatory and legal frameworks relevant to AI usage and data handling and also identify principles of responsible AI use.
+* Explain how retrieval-augmented generation improves accuracy and grounding in generative systems.
+* Describe how AI services are developed and delivered via APIs.
+
+## Subskills
+
+* [[skill-tree:ai:1:b]]
+* [[skill-tree:ai:2:b]]
+* [[skill-tree:ai:3:b]]
+* [[skill-tree:ai:4:b]]
+* [[skill-tree:ai:5:b]]
+* [[skill-tree:ai:6:b]]
+
+** Caution: All text is AI generated **

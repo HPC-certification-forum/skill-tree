@@ -1,0 +1,18 @@
+# AI4.1 Responsible AI Use
+
+This skill explores the ethical and societal implications of AI systems, focusing on fairness, transparency, safety, and accountability. It introduces frameworks and best practices for responsible AI design and deployment in HPC contexts.
+
+## Requirements
+
+* External: General understanding of AI system design and deployment
+* Internal: None
+
+## Learning Outcomes
+
+* Define key principles of responsible AI, including fairness, non-discrimination, and inclusiveness.
+* Identify potential sources of bias in AI data and models and methods to mitigate them.
+* Describe strategies for ensuring transparency and explainability in model outputs.
+* Recognize ethical risks in deploying large-scale AI systems and how to address them.
+* Apply responsible AI guidelines or frameworks (e.g., EU AI Act, OECD Principles) to HPC workflows.
+
+** Caution: All text is AI generated **

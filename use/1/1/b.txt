@@ -21,6 +21,7 @@ Part of this skill is the general principles of the interaction with a shell, to
     * cd
     * whoami
     * sleep
+    * kill
     * echo
     * clear
     * man

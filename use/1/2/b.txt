@@ -15,7 +15,7 @@ This skill covers the bash shell.
 
 * Create a basic shell script that executes a sequence of programs.
 * Design a script using the bash construct "if" that handles conditional execution based on:
-    * Performing a test for the existing of a file/directory,
+    * Performing a test for the existing of a file/directory/variable,
     * Testing for the presence of certain text in a file,
 * Design a script that performs a task repeatedly using the bash "for" or "while" loop.
 * Utilize debugging options for troubleshooting of shell programs:

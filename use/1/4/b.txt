@@ -5,13 +5,14 @@ Learning the ways of general interaction with the remote system and the tools in
 
 Users must connect to an HPC system typically using the Secure Shell (SSH), which then starts a shell and allows the interactive access.
 When the user disconnects, such a session is terminated.
-A server-sided session that persists after disconnection enables the user to execute long-running programs remotely and allows the continuation of a previous session seamlessly.
 Data transfer between a local user system (e.g., desktop or laptop) and a remote system requires special tools. 
 Interactive access is also allowed.
 
 The tools discussed here are generally valid for systems using Linux, Mac, Windows, and also mobile devices.
 
 ## Requirements
+
+* [[skill-tree:use:1:1:b]]
 
 ## Learning Outcomes
 
@@ -20,18 +21,13 @@ The tools discussed here are generally valid for systems using Linux, Mac, Windo
     * Public-key authentication.
     * The role of an authentication agent and the security implications.
 * Generate an SSH public/private key under Linux.
-* Register a key for public-key authentication using ssh-copy-id.
+* Register a key for public-key authentication using ssh-copy-id or other local methods.
 * Perform a remote login from Linux using SSH.
-* Use SSH-agent or Windows equivalents.
+* Use SSH-agent or equivalents.
 * Use Agent forwarding to connect to a third HPC system from an HPC system that you logged into with ssh from your computer.
 * Know when to use and how to create a config file.
 * Utilize tools to transfer data between the local and remote system:
     * scp
     * sftp
     * rsync (-avz)
-* Describe how SSHFS allows mounting a remote directory to a local directory for interactive usage (Mac/Linux only), e.g. for copying files or to transparently use your favourite graphical text editor on the local computer for editing files on the remote cluster.
-* Utilize screen and tmux to preserve a session between logins:
-    * Creation of a session.
-    * Detaching from the current session.
-    * Resuming a previous session.
 

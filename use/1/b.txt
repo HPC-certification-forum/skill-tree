@@ -15,6 +15,13 @@ While there are many similarities to single-user Linux systems, HPC systems diff
 * Understand terminal multiplexers and use them to run longer commands without keeping a connection alive.
 * Utilize tools to transfer data between a desktop/laptop system and a remote HPC system.
 * Utilize package management tools that provide access to a wide variety of software.
+* Demonstrate the usage of an editor to open a file in write mode and save the file and define why CLI based editors are useful in an HPC environment.
+* Utilize screen or tmux to preserve a session between logins and classify usecases for these three operations:
+    * Creation of a session.
+    * Detaching from the current session.
+    * Resuming a previous session.
+* Illustrate the use of CTRL-Z and CTRL-C in combination with the commands jobs and fg to send the signals SIGINT and SIGTSTP.
+* Experiment with the kill command and send the signals SIGKILL, SIGINT, SIGTSTP, also via the numbers instead of the names to a specific process id
 
 ## Subskills
 
@@ -23,3 +30,6 @@ While there are many similarities to single-user Linux systems, HPC systems diff
 * [[skill-tree:use:1:3:b]]
 * [[skill-tree:use:1:4:b]]
 * [[skill-tree:use:1:5:b]]
+* [[skill-tree:use:1:6:b]]
+* [[skill-tree:use:1:7:b]]
+* [[skill-tree:use:1:8:b]]

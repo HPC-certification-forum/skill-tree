@@ -25,6 +25,7 @@ Part of this skill is the general principles of the interaction with a shell, to
     * echo
     * clear
     * man
+    * vi, vim, emacs, nano
     * exit
     * ...
 * Demonstrate interrupting or aborting of a program execution using CTRL-C.

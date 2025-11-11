@@ -14,6 +14,6 @@ This node encompasses the key concepts and practical knowledge required to desig
 * [[skill-tree:ai:1:1:b]]
 * [[skill-tree:ai:1:2:b]]
 * [[skill-tree:ai:1:3:b]]
-* [[skill-tree:ai:1:5:b]]
+* [[skill-tree:ai:1:4:b]]
 
 ** Caution: All text is AI generated **

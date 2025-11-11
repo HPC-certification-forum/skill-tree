@@ -1,6 +1,6 @@
 # SD7.3 Source Code Documentation
 
-## Learnining objectives
+## Learning Outcomes
 
 * Document source code using documentation generators like doxygen, pydoc, or sphinx.
 * Produce a consistent source code documentation according to guidelines and best practices.

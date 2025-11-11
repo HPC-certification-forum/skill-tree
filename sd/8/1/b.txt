@@ -5,7 +5,7 @@
 * [[skill-tree:use:1:3:b]]
 * Python Programming
 
-## Learning objectives
+## Learning Outcomes
 
 * Develop Snakemake workflows by utilising rules, input/output files, and directives such as shell, script, run, "wrappers", and resource definitions.
 * Integrate custom Python scripts into Snakemake workflows for dynamic data manipulation and resource parameterization.

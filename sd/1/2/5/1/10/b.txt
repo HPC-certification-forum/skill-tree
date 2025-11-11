@@ -7,7 +7,7 @@ RubyNetCDF is basically a one-to-one interface to the original NetCDF library, b
 The Ruby API for NetCDF was contributed as part of the Dennou Ruby Project, providing software for data analyses, visualization, and numerical simulations for geophysical studies.
 RubyNetCDF supports all the functionality of the NetCDF-3 C library.
 
-## Lerning objectives
+## Learning Outcomes
 
 * Write a two-dimensional array of sample data and read data from this file.
 * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.

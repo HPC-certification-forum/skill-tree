@@ -1,6 +1,6 @@
 # SD5 Software Quality
 
-## Learnign objectives
+## Learning Outcomes
 
 * Understand Coding Standards
 * Understand Code Quality

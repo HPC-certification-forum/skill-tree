@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Skill Tree" FOLDED="false" ID="ID_1292385230" CREATED="1701761058911" MODIFIED="1725379561723" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle" zoom="2.094">
+<hook NAME="MapStyle" zoom="0.733">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>

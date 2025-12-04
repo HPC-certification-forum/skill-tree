@@ -1,10 +1,19 @@
 # K7.5 Quantum-HPC Integration (K7.5)
 
-This skill explores how quantum computing is being integrated into high-performance computing environments. Learners will examine hybrid approaches that combine classical and quantum resources, focusing on quantum simulators, cloud-based access to quantum processors, and integration into HPC job schedulers. Case studies highlight applications in chemistry, optimization, and machine learning where HPC+quantum workflows are being tested. The skill emphasizes both the opportunities and the practical limitations of current integration strategies.
+This skill explores how quantum computing is being integrated into high-performance computing environments.
+Learners will examine hybrid approaches that combine classical and quantum resources, focusing on quantum simulators, cloud-based access to quantum processors, and integration into HPC job schedulers.
+Case studies highlight applications in chemistry, optimization, and machine learning where HPC+quantum workflows are being tested.
+The skill emphasizes both the opportunities and the practical limitations of current integration strategies.
 
 ## Requirements
 
-External: Basics in linear algebra and quantum mechanics
+External:
+* Basics in linear algebra
+* Quantum mechanics
+
+Internal:
+* [[skill-tree:k:7:1:b]]
+* [[skill-tree:k:7:4:b]]
 
 ## Learning Outcomes
 

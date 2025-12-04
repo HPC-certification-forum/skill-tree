@@ -1,10 +1,18 @@
 # K7.4 Quantum Hardware and Architectures
 
-This skill introduces learners to the physical foundations and engineering challenges of quantum computing hardware. It surveys the major qubit technologies—including superconducting qubits, trapped ions, and photonic systems—while examining their respective advantages and limitations. Topics include sources of quantum error, coherence times, scalability bottlenecks, and architectural trade-offs. The skill also explores the emerging role of quantum processors as accelerators integrated into broader HPC systems.
+This skill introduces learners to the physical foundations and engineering challenges of quantum computing hardware.
+It surveys the major qubit technologies—including superconducting qubits, trapped ions, and photonic systems—while examining their respective advantages and limitations.
+Topics include sources of quantum error, coherence times, scalability bottlenecks, and architectural trade-offs.
+The skill also explores the emerging role of quantum processors as accelerators integrated into broader HPC systems.
 
 ## Requirements
 
-External: Basics in linear algebra and quantum mechanics
+External:
+* Basics in linear algebra
+* Quantum mechanics
+
+Internal:
+* [[skill-tree:k:7:1:b]]
 
 ## Learning Outcomes
 

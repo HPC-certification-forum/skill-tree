@@ -1,6 +1,8 @@
 # K7.1 Quantum Computing Principles
 
-This skill introduces the foundational principles of quantum mechanics as they apply to computing. Learners explore the nature of qubits, superposition, and entanglement, and understand how these properties enable new forms of computation. Emphasis is placed on contrasting classical and quantum information, highlighting the unique opportunities and challenges of quantum systems such as decoherence, noise, and error correction requirements.
+This skill introduces the foundational principles of quantum mechanics as they apply to computing.
+Learners explore the nature of qubits, superposition, and entanglement, and understand how these properties enable new forms of computation.
+Emphasis is placed on contrasting classical and quantum information, highlighting the unique opportunities and challenges of quantum systems such as decoherence, noise, and error correction requirements.
 
 ## Requirements
 

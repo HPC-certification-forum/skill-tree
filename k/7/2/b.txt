@@ -1,10 +1,18 @@
 # K7.2 Quantum Algorithms
 
-This skill focuses on the design and analysis of quantum algorithms, which exploit quantum mechanical phenomena to achieve computational advantages. Students will study landmark algorithms such as Grover’s search and Shor’s factoring algorithm, along with simpler introductory examples like Deutsch–Jozsa. The course covers algorithmic structures, problem classes suitable for quantum speedup, and limitations of current algorithmic approaches. Learners will gain the ability to evaluate when quantum algorithms are useful and how they compare to classical methods.
+This skill focuses on the design and analysis of quantum algorithms, which exploit quantum mechanical phenomena to achieve computational advantages.
+Students will study landmark algorithms such as Grover’s search and Shor’s factoring algorithm, along with simpler introductory examples like Deutsch–Jozsa.
+The course covers algorithmic structures, problem classes suitable for quantum speedup, and limitations of current algorithmic approaches.
+Learners will gain the ability to evaluate when quantum algorithms are useful and how they compare to classical methods.
 
 ## Requirements
 
-External: Basics in linear algebra and quantum mechanics
+External:
+* Basics in linear algebra
+* Quantum mechanics
+
+Internal:
+* [[skill-tree:k:7:1:b]]
 
 ## Learning Outcomes
 

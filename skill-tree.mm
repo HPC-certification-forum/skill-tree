@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Skill Tree" FOLDED="false" ID="ID_1292385230" CREATED="1701761058911" MODIFIED="1725379561723" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle" zoom="0.953">
+<hook NAME="MapStyle" zoom="2.094">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -176,15 +176,22 @@
 <node TEXT="1: Basic principles of Job Scheduling (K4.1)" ID="ID_1657376526" CREATED="1511363922420" MODIFIED="1725378751517" LINK="k/4/1/b.txt"/>
 <node TEXT="2: SLURM Workload Manager (K4.2)" ID="ID_1867356614" CREATED="1559473587245" MODIFIED="1725378756511" LINK="k/4/2/b.txt"/>
 <node TEXT="3: Scheduling strategies (K4.3)" ID="ID_128508491" CREATED="1559473603168" MODIFIED="1725378761905" LINK="k/4/3/b.txt"/>
+<node TEXT="4: Job Scheduling (K4)" FOLDED="true" ID="ID_1708280643" CREATED="1495116129609" MODIFIED="1744723326506" LINK="k/4/b.txt">
+<icon BUILTIN="emoji-1F4C1"/>
+<node TEXT="1: Basic principles of Job Scheduling (K4.1)" ID="ID_1460694629" CREATED="1511363922420" MODIFIED="1725378751517" LINK="k/4/1/b.txt"/>
+<node TEXT="2: SLURM Workload Manager (K4.2)" ID="ID_9030886" CREATED="1559473587245" MODIFIED="1725378756511" LINK="k/4/2/b.txt"/>
+<node TEXT="3: Scheduling strategies (K4.3)" ID="ID_276295175" CREATED="1559473603168" MODIFIED="1725378761905" LINK="k/4/3/b.txt"/>
+</node>
 </node>
 <node TEXT="5: Modeling Costs (K5)" ID="ID_367675449" CREATED="1495107294032" MODIFIED="1725378767593" LINK="k/5/b.txt"/>
 <node TEXT="6: Data Management Plan (K6)" LOCALIZED_STYLE_REF="default" ID="ID_1543984936" CREATED="1646396028907" MODIFIED="1725378772997" LINK="k/6/b.txt"/>
-<node TEXT="7: Quantum Computing (K7)" ID="ID_768353082" CREATED="1757604554290" MODIFIED="1758210413318" LINK="k/7/b.txt">
-<node TEXT="1: Quantum Computing Principles (K7.1)" ID="ID_291556798" CREATED="1757604582471" MODIFIED="1758210284321" LINK="k/7/1/b.txt"/>
-<node TEXT="2: Quantum Algorithms (K7.2)" ID="ID_427159650" CREATED="1757604593856" MODIFIED="1758210289384" LINK="k/7/2/b.txt"/>
-<node TEXT="3: Quantum Programming (K7.3)" ID="ID_209226678" CREATED="1757604605592" MODIFIED="1758210322741" LINK="k/7/3/b.txt"/>
-<node TEXT="4: Quantum Hardware and Architectures (K7.4)" ID="ID_901544351" CREATED="1757604619023" MODIFIED="1758210341168" LINK="k/7/4/b.txt"/>
-<node TEXT="5: Quantum-HPC Integration (K7.5)" ID="ID_940113113" CREATED="1757604627348" MODIFIED="1758210349032" LINK="k/7/5/b.txt"/>
+<node TEXT="7: Quantum Computing (K7)" FOLDED="true" ID="ID_136653882" CREATED="1495116129609" MODIFIED="1764860392122" LINK="k/7/b.txt">
+<icon BUILTIN="emoji-1F4C1"/>
+<node TEXT="1: Quantum Computing Principles (K7.1)" POSITION="bottom_or_right" ID="ID_291556798" CREATED="1757604582471" MODIFIED="1758210284321" LINK="k/7/1/b.txt"/>
+<node TEXT="2: Quantum Algorithms (K7.2)" POSITION="bottom_or_right" ID="ID_427159650" CREATED="1757604593856" MODIFIED="1758210289384" LINK="k/7/2/b.txt"/>
+<node TEXT="3: Quantum Programming (K7.3)" POSITION="bottom_or_right" ID="ID_209226678" CREATED="1757604605592" MODIFIED="1758210322741" LINK="k/7/3/b.txt"/>
+<node TEXT="4: Quantum Hardware and Architectures (K7.4)" POSITION="bottom_or_right" ID="ID_901544351" CREATED="1757604619023" MODIFIED="1758210341168" LINK="k/7/4/b.txt"/>
+<node TEXT="5: Quantum-HPC Integration (K7.5)" POSITION="bottom_or_right" ID="ID_940113113" CREATED="1757604627348" MODIFIED="1758210349032" LINK="k/7/5/b.txt"/>
 </node>
 </node>
 <node TEXT="BDA: Big Data Analytics" POSITION="top_or_left" ID="ID_146490119" CREATED="1549369246711" MODIFIED="1744724927633" LINK="bda/b.txt" HGAP_QUANTITY="50 pt" VSHIFT_QUANTITY="5.25 pt">

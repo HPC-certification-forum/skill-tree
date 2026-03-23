@@ -12,4 +12,4 @@ This node covers the foundational elements of deep learning, including the struc
 * [[skill-tree:bda:5:2:1:b]]
 * [[skill-tree:bda:5:2:2:b]]
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

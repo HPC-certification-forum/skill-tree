@@ -15,4 +15,4 @@ This skill introduces major neural network architectures used across domains suc
 * Compare trade-offs among architectures in terms of complexity, performance, and parallelism.
 * Select appropriate architectures based on task type and data modality.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

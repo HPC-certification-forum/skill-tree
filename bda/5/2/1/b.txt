@@ -15,4 +15,4 @@ This skill introduces the foundational building blocks of neural networks, inclu
 * Identify common loss functions for classification and regression tasks.
 * Outline the training loop and how it is implemented in modern frameworks.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

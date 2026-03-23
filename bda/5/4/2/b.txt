@@ -15,4 +15,4 @@ This skill introduces the use of mixed precision (FP16 + FP32) to accelerate tra
 * Monitor for numerical instability and apply scaling techniques as needed.
 * Benchmark training speed and accuracy trade-offs using mixed precision.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

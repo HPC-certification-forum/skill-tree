@@ -10,12 +10,12 @@ A typical cluster contains of these parts:
   * typical architecture of cluster systems consisting of nodes with different roles (e.g. so-called head, management, login, compute, interactive, visualization nodes, etc.)
 Which are functioning as: 
 
-**Login or gateway nodes** where you are on after logging into the cluster and where you can work interactively:
-    * **Compute nodes** that are the workhorses of a cluster
-    * **Admin or system nodes** that work in the background necessary for the operation of the cluster, e.g. for running the batch service, or starting and shutting down compute nodes
-    * **Disk nodes** that provide global file systems, i.e. file systems that can be used on all other kinds of nodes
-    * **Special nodes** e.g. for data movement, visualization, or pre- and post-processing of large data sets
-    * **Head nodes** which can mean login or admin nodes used for management either by a user or an administrator
+Login or gateway nodes where you are on after logging into the cluster and where you can work interactively:
+    * Compute nodes that are the workhorses of a cluster
+    * Admin or system nodes that work in the background necessary for the operation of the cluster, e.g. for running the batch service, or starting and shutting down compute nodes
+    * Disk nodes that provide global file systems, i.e. file systems that can be used on all other kinds of nodes
+    * Special nodes e.g. for data movement, visualization, or pre- and post-processing of large data sets
+    * Head nodes which can mean login or admin nodes used for management either by a user or an administrator
 
 ## Learning Outcomes
 

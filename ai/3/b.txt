@@ -26,4 +26,4 @@ This node introduces various types of AI model modalities and their applications
 * [[skill-tree:ai:3:7:b]]
 * [[skill-tree:ai:3:8:b]]
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

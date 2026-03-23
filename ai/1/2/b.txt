@@ -15,4 +15,4 @@ This skill covers tools, strategies, and principles for designing and managing A
 * Apply versioning and reproducibility best practices in AI workflow design.
 * Understand error handling, checkpointing, and dependency resolution in distributed AI pipelines.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

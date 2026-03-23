@@ -15,4 +15,4 @@ This skill introduces the foundational architectural components that support AI 
 * Recognize the impact of hardware-software co-design in AI system performance.
 * Describe how different architectural features affect scalability and throughput of AI training and inference tasks.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

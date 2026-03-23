@@ -15,4 +15,4 @@ This skill explores techniques for scaling AI inference across HPC systems and o
 * Evaluate the impact of batch size, I/O overhead, and memory footprint on inference performance.
 * Use profiling tools to locate bottlenecks and improve inference efficiency in HPC workflows.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

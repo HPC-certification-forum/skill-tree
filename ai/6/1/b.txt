@@ -15,4 +15,4 @@ This skill covers how to incorporate third-party AI services—such as foundatio
 * Apply methods for data formatting and streaming between HPC systems and external APIs.
 * Evaluate trade-offs between in-house models and external service integration.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

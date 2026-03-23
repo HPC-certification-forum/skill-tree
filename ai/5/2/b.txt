@@ -15,4 +15,4 @@ This skill introduces the concept of Retrieval-Augmented Generation (RAG), where
 * Integrate retrieval results into prompt templates or model input streams.
 * Evaluate RAG systems based on latency, accuracy, and grounding quality.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

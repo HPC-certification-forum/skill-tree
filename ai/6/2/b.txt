@@ -15,4 +15,4 @@ This skill focuses on exposing AI models as APIs to support integration, automat
 * Deploy APIs in scalable environments using orchestration tools (e.g., Kubernetes, Slurm).
 * Monitor, log, and benchmark API performance in production.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

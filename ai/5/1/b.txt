@@ -15,4 +15,4 @@ This skill focuses on designing and optimizing inputs (prompts) to guide the beh
 * Evaluate prompt effectiveness using criteria such as output quality, consistency, and efficiency.
 * Apply prompt optimization techniques for performance on large-scale inference systems.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

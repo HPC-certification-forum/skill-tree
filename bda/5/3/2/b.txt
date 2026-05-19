@@ -15,4 +15,4 @@ This skill introduces TensorFlow for building and training machine learning mode
 * Implement model checkpoints and callbacks for training control.
 * Apply GPU acceleration, distribution strategies, and TensorBoard for visualization.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

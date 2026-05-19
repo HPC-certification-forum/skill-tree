@@ -15,4 +15,4 @@ This skill introduces key concepts and architectures for image-based AI models, 
 * Explain GPU/TPU acceleration strategies for image model training and inference.
 * Evaluate performance trade-offs between model size, accuracy, and runtime efficiency.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

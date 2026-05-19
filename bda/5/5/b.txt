@@ -14,4 +14,4 @@ This node focuses on methods and tools for optimizing hyperparameters to improve
 * [[skill-tree:bda:5:5:3:b]]
 * [[skill-tree:bda:5:5:4:b]]
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

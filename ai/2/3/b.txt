@@ -15,4 +15,4 @@ This skill focuses on deploying AI workloads in a manner that accounts for the l
 * Apply strategies to reduce energy consumption during training and inference.
 * Explain the trade-offs between performance, resource use, and scheduling constraints.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

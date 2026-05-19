@@ -16,4 +16,4 @@ This skill focuses on evaluating AI and ML models at scale in HPC environments. 
 * Ensure fair evaluation through consistent preprocessing, baselining, and version control.
 
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

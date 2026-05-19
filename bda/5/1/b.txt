@@ -12,5 +12,5 @@ This node introduces core machine learning concepts and techniques used in HPC e
 * [[skill-tree:bda:5:1:1:b]]
 * [[skill-tree:bda:5:1:2:b]]
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated
 

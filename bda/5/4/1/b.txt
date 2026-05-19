@@ -15,4 +15,4 @@ This skill focuses on tuning batch sizes and applying data parallelism to accele
 * Use gradient accumulation to simulate large batch sizes under memory constraints.
 * Evaluate performance trade-offs using throughput and loss convergence metrics.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

@@ -15,4 +15,4 @@ This skill introduces the PyTorch framework for developing and training machine 
 * Apply GPU acceleration and mixed precision with PyTorch utilities.
 * Debug models interactively using PyTorch’s dynamic computation graph.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

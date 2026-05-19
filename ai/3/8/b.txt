@@ -15,4 +15,4 @@ This skill introduces methods and frameworks that enable interpretability of AI 
 * Describe use cases for explainability in scientific research, safety-critical systems, and compliance.
 * Evaluate trade-offs between model complexity and interpretability.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

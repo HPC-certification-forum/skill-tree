@@ -15,4 +15,4 @@ This skill covers techniques for saving and restoring training state to ensure f
 * Manage checkpoint file size, compression, and storage placement.
 * Integrate checkpointing with job resubmission and monitoring tools in HPC environments.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

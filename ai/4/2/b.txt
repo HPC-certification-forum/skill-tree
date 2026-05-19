@@ -15,4 +15,4 @@ This skill focuses on the legal and technical aspects of handling sensitive data
 * Explain how compliance requirements influence dataset selection, storage, and retention policies.
 * Evaluate tools and frameworks that support compliance monitoring and reporting.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

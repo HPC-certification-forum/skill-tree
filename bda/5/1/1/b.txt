@@ -15,4 +15,4 @@ This skill introduces the fundamental principles of supervised and unsupervised 
 * Describe typical workflows and applications of each paradigm in scientific and industrial settings.
 * Understand data partitioning, overfitting, and model generalization in supervised learning.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

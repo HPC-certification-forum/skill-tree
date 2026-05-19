@@ -15,4 +15,4 @@ This skill focuses on hyperparameter tuning strategies that account for resource
 * Integrate resource metrics into scheduling or pruning decisions.
 * Evaluate tuning success with respect to both model performance and resource efficiency.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

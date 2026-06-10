@@ -15,4 +15,4 @@ This skill introduces widely used AI frameworks that support model development, 
 * Demonstrate how to port models between frameworks for deployment or optimization.
 * Select appropriate frameworks based on model architecture, team skills, and resource constraints.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

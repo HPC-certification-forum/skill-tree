@@ -10,13 +10,13 @@ Dask is an open-source Python library for parallel computing, Dask scales Python
 
 ## Learning Outcomes
 
-* **Understands what Dask is** and when to use it
-* **Understands the purpose of Dask** and its benefits in parallelizing workflows
-* **Distinguishes between Dask collections** (arrays, dataframes, bags)
-* **Converts existing NumPy/pandas code** to use Dask
-* **Run Dask workloads locally** using the default scheduler
-* **Writes a small Dask script** that uses dask.delayed
-* **Uses the Dask dashboard** to monitor Dask computations and visualize task executions
-* **Compares the runtime** of equivalent Dask and NumPy/pandas computations on large data
+* Understands what Dask is and when to use it
+* Understands the purpose of Dask and its benefits in parallelizing workflows
+* Distinguishes between Dask collections (arrays, dataframes, bags)
+* Converts existing NumPy/pandas code to use Dask
+* Run Dask workloads locally using the default scheduler
+* Writes a small Dask script that uses dask.delayed
+* Uses the Dask dashboard to monitor Dask computations and visualize task executions
+* Compares the runtime of equivalent Dask and NumPy/pandas computations on large data
 
 AI generated content

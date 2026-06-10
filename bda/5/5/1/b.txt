@@ -15,4 +15,4 @@ This skill introduces core approaches to searching hyperparameter spaces, includ
 * Evaluate search efficiency and effectiveness across multiple performance metrics.
 * Apply reproducible tuning experiments using configuration management tools or frameworks.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

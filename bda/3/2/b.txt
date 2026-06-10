@@ -15,4 +15,4 @@ This skill introduces object storage systems designed for scalability, durabilit
 * Evaluate performance considerations such as consistency, latency, and throughput.
 * Integrate object storage into HPC data pipelines using connectors or abstraction layers.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

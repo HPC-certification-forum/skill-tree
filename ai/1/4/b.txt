@@ -15,4 +15,4 @@ This skill focuses on techniques and strategies for fine-tuning pre-trained AI m
 * Describe how fine-tuning strategies differ for large-scale models on HPC infrastructure.
 * Recognize potential pitfalls such as overfitting, catastrophic forgetting, and data leakage.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

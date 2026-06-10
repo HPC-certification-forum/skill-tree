@@ -22,4 +22,4 @@ This node encompasses foundational and advanced skills for building, training, e
 * [[skill-tree:bda:5:4:b]]
 * [[skill-tree:bda:5:5:b]]
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

@@ -15,4 +15,4 @@ This skill explores AI systems designed to act as agents—capable of multi-step
 * Identify strategies for agent evaluation, feedback integration, and task adaptation.
 * Apply best practices for integrating agents into interactive or multi-agent HPC workflows.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

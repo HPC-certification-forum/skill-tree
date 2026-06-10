@@ -12,4 +12,4 @@ This node introduces technologies used to support large-scale data workflows in 
 * [[skill-tree:bda:3:1:b]]
 * [[skill-tree:bda:3:2:b]]
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

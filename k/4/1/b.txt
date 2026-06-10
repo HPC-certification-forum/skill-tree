@@ -18,7 +18,7 @@ A workload manager of a cluster system typically deals with:
 * Comprehend accounting principles.
 * Explain the generic steps to run and monitor a single job.
 * Comprehend scheduling principles (first come first served, shortest job first, backfilling) to achieve objectives like minimizing the averaged elapsed program runtimes, and maximizing the utilization of the available HPC resources.
-* Comprehend the differences between **Batch Systems** and **Time-Sharing Systems**.
+* Comprehend the differences between Batch Systems and Time-Sharing Systems.
 * Explain the concepts and procedures for resource allocation and job execution in an HPC environment.
 * Run interactive jobs and batch jobs.
 * Comprehend and describe the expected behavior of job scripts.

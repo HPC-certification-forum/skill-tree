@@ -14,4 +14,4 @@ This node focuses on the development, integration, and delivery of AI capabiliti
 * [[skill-tree:ai:6:2:b]]
 * [[skill-tree:ai:6:3:b]]
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

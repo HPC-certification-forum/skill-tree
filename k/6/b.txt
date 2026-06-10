@@ -18,5 +18,5 @@ Participants should be aware about the risk of dark data and the benefits of dat
 
 ## Maintainer
 
-* Christian Löschen @ TU Dresden**
+* Christian Löschen @ TU Dresden
 

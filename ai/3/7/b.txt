@@ -15,4 +15,4 @@ This skill focuses on AI models tailored for scientific domains, such as physics
 * Discuss the integration of scientific models with HPC job scheduling and simulation pipelines.
 * Evaluate the accuracy, efficiency, and generalizability of scientific AI models.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

@@ -15,4 +15,4 @@ This skill introduces models designed to process audio signals and voice data, i
 * Evaluate model performance across metrics like accuracy, latency, and noise robustness.
 * Demonstrate how to optimize audio inference on HPC systems using batching and compression.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

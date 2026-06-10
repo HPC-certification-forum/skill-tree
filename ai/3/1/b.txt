@@ -15,4 +15,4 @@ This skill covers the structure, training, and deployment of large language mode
 * Compare distributed training strategies used for scaling LLMs across HPC resources.
 * Evaluate the performance and limitations of LLMs on different HPC configurations.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

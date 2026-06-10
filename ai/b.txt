@@ -23,4 +23,4 @@ This is also true for deploying models in an HPC system and offering it as a ser
 * [[skill-tree:ai:5:b]]
 * [[skill-tree:ai:6:b]]
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

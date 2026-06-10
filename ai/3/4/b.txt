@@ -15,4 +15,4 @@ This skill focuses on AI models that generate or synthesize video content, addre
 * Apply strategies to manage large-scale video datasets in distributed environments.
 * Evaluate performance and quality trade-offs in video synthesis models.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

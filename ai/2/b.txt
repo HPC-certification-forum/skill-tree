@@ -14,4 +14,4 @@ This node encompasses the core infrastructure and engineering principles require
 * [[skill-tree:ai:2:2:b]]
 * [[skill-tree:ai:2:3:b]]
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

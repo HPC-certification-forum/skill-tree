@@ -14,5 +14,5 @@ This node explores techniques for enhancing AI model interactions with users and
 * [[skill-tree:ai:5:2:b]]
 * [[skill-tree:ai:5:3:b]]
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated
 

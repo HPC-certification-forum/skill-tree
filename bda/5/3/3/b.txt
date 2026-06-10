@@ -15,4 +15,4 @@ This skill introduces techniques for training machine learning and deep learning
 * Monitor and debug performance bottlenecks in distributed training setups.
 * Apply best practices for checkpointing, fault tolerance, and reproducibility at scale.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

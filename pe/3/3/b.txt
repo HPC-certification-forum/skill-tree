@@ -7,18 +7,18 @@ Understanding the concepts of strong and weak scaling is crucial for evaluating 
 ## Learning Outcomes
 
 * Differentiate types of scaling:
-    * **Weak scaling**: problem size increases proportionally to the number of parallel processes to analyze how big may the problems be that I can solve.
-    * **Strong scaling**: problem size remains the same for an increasing number of processes to analyze how fast can I solve a problem of a given size.
+    * Weak scaling: problem size increases proportionally to the number of parallel processes to analyze how big may the problems be that I can solve.
+    * Strong scaling: problem size remains the same for an increasing number of processes to analyze how fast can I solve a problem of a given size.
 * Interpret typical weak and strong scaling plots.
 * Avoid typical pitfalls:
-    * **Break-even considerations regarding the benchmark effort**:
+    * Break-even considerations regarding the benchmark effort:
         * Benchmarking also represents a certain effort, namely for providing the HPC resources and human time explicitly used for that purpose.
-    * **Presenting fair speedups**:
+    * Presenting fair speedups:
         * For conventional speedup calculations the same version of an algorithm (the same program) is used to measure runtimes T(sequential) and T(parallel) but for fair speedup calculations, the best known sequential algorithm to measure T(sequential) should be used.
-    * **Special features of current CPU architectures**:
+    * Special features of current CPU architectures:
         * Features like turbo boost and hyper-threading may influence benchmark results.
-    * **Shared nodes**:
+    * Shared nodes:
         * If the same cores are potentially shared at times on a node by different programs, the value of the benchmark results may be significantly reduced or even made uselessly.
-    * **Reproducibility**:
+    * Reproducibility:
         * There are parallel algorithms which may produce non-deterministic results, due to inherent effects of concurrency which in turn may lead to different (but generally equivalent) results but also to strongly differing runtimes of repeated runs.
 

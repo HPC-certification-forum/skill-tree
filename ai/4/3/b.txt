@@ -10,5 +10,5 @@ This skill addresses the tracking and documentation of data origins, transformat
 * Implement strategies to ensure reproducibility of AI experiments, including versioning of data and models.
 * Evaluate systems that integrate provenance tracking with workflow engines or data lakes.
 
-** Caution: All text is AI generateIntelligent Interactions and Retrieval Systems
+Caution: All text is AI generateIntelligent Interactions and Retrieval Systems
 

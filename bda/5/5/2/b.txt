@@ -15,4 +15,4 @@ This skill focuses on running hyperparameter tuning jobs in parallel across mult
 * Monitor, resume, and manage many concurrent tuning jobs.
 * Optimize compute resource usage to balance speed, cost, and coverage.
 
-** Caution: All text is AI generated **
+Caution: All text is AI generated

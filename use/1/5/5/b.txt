@@ -1,6 +1,9 @@
 # USE1.5.5 European Environment for Scientific Software Installations (EESSI)
 
-EESSI provides a shared, portable software stack for HPC and research computing systems. Software is installed once and distributed through CVMFS, allowing users to access a consistent collection of scientific applications across different infrastructures.
+EESSI provides a shared, portable software stack for HPC and research computing systems. Software is installed once and distributed through CernVM-FS, allowing users to access a consistent collection of scientific applications across different infrastructures.
+
+(CernVM-FS (CVMFS) is a scalable, read-only distributed file system designed to efficiently deliver scientific software and data across large computing infrastructures.
+It uses HTTP and aggressive caching to provide fast, consistent access to centrally managed software repositories on clusters, grids, and cloud environments.)
 
 ## Requirements
 

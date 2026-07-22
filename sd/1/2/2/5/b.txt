@@ -1,0 +1,20 @@
+# SD1.2.2.5 Parallisms with Language extension
+
+Deploy different programming models and language extensions in order to parallelize algorithms.
+This includes SYCL, and OpenACC, and they should be compared other concepts like processes, vectorization, and threading.
+
+## Requirements
+
+## Learning Outcomes
+
+* Assess the applicability of parallel language extensions like CUDA as well as their interoperability (e.g. combining OpenACC and CUDA).
+* Understand Language Extensions and remember 
+    * SYCL
+    * OpenACC
+* Compare the language extension to other concepts, such as processes, vectorizations, and Threading with OpenMP and Pthreads
+
+## Subskills
+
+* [[skill-tree:sd:1:2:2:5:1:b]]
+* [[skill-tree:sd:1:2:2:5:2:b]]
+

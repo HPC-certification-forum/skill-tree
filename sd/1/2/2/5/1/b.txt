@@ -1,0 +1,15 @@
+# SD1.2.2.5.1 SYCL
+
+Use the SYCL language extension to parallelize a program.
+Do this for several Shared Memory concepts and also compare SYCL to other language extension.
+
+## Requirements
+
+## Learning Outcomes
+
+* Use SYCL kernels, parallel_for constructs, and hierarchical parallelism to parallelize computation.
+* Differentiate between host, device, and unified shared memory (USM) models and select the appropriate one for a given application.
+* Implement synchronization and dependency management using events, fences, and command group dependencies.
+* Debug SYCL applications and diagnose kernel failures, memory errors, or unexpected fallbacks.
+* Compare SYCL with other parallelism approaches (OpenMP target, CUDA, OpenACC) to determine suitability for specific workloads.
+

@@ -1,0 +1,16 @@
+# SD1.2.2.3 Parallelism with hardware instructions
+
+Modern hardware comes with optimizations that can be directly used in instructions.
+This allows for a high level parallelism, which basically comes for free if these instructions are used.
+This includes vectorizations and mathematical instruction which can be run in parallel on one CPU on a larger dataset.
+
+## Requirements
+
+* [[skill-tree:sd:1:2:2:1:1:b]]
+
+## Learning Outcomes
+
+* Apply compiler optimizations to particular applications/benchmarks
+* Combine automatic parallelization by the compiler with manual parallelization
+* Combine vectorization and parallelization
+

@@ -1,0 +1,23 @@
+# SD1.2.2.1.6 Shared Memory coding principles
+
+Shared memory programming does not only rely on the languages, but there are some universal coding principles to be observed that already allow for optimizations.
+This included making use of vectorizations, special loop patterns and memory alignment.
+
+## Requirements
+
+* [[skill-tree:sd:1:2:2:1:1:b]]
+* [[skill-tree:sd:1:2:2:1:2:b]]
+* [[skill-tree:sd:1:2:2:1:3:b]]
+* [[skill-tree:sd:1:2:2:1:4:b]]
+* [[skill-tree:sd:1:2:2:1:5:b]]
+
+## Learning Outcomes
+
+* Apply compiler optimizations to particular applications/benchmarks
+* Combine automatic parallelization by the compiler with manual parallelization
+* Combine vectorization and parallelization
+* Solve debugging of parallel applications in shared-memory environments
+* Explain the interactions between compiler vectorizations, loop transformations, and memory constraints.
+* Evaluate the trade-offs between auto-parallelization, manual parallelization, and hybrid strategies for complex computational kernels.
+* Optimize memory access patterns to improve the effectiveness of compiler vectorizes and autoparallelizers.
+

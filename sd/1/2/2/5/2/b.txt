@@ -1,0 +1,17 @@
+# SD1.2.2.5.2 OpenACC
+
+Use the OpenACC programming model to program parallel algorithms and deploy several strategies.
+Take specific care of data movement and localities. 
+Compare OpenACC to other programming models.
+
+## Requirements
+
+## Learning Outcomes
+
+* Explain the OpenACC programming model, including directives, compute regions, data regions, and the interaction between host and accelerator devices.
+* Apply OpenACC loop scheduling, gang/worker/vector hierarchies, and reductions to expose parallelism and improve performance.
+* Differentiate between OpenACC data management strategies (implicit data movement, explicit copy, copyin, copyout, create, present) and select appropriate clauses for a given application.
+* Implement asynchronous execution and synchronization using OpenACC async clauses, wait directives, and dependency management.
+* Debug OpenACC applications by identifying common issues such as incorrect data scoping, race conditions, and unintended host execution fallbacks.
+* Compare OpenACC with other accelerator programming models (SYCL, OpenMP target, CUDA) to evaluate portability, productivity, and performance trade-offs for specific workloads.
+

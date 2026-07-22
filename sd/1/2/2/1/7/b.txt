@@ -1,0 +1,15 @@
+# SD1.2.2.1.7 Sample implementations of POSIX Threads and OpenMP
+
+Applying studied principle is a major requirement, especially for the two most common use cases of shared memory programming, meaning threads and the OpenMP standard. These are so heavily incorporated into many modules, that it is of great importance to specifically understand these two.
+
+## Requirements
+
+* [[skill-tree:sd:1:2:2:1:1:b]]
+* [[skill-tree:sd:1:2:2:1:2:b]]
+* [[skill-tree:sd:1:2:2:1:3:b]]
+* [[skill-tree:sd:1:2:2:1:4:b]]
+
+## Learning Outcomes
+
+* Use POSIX Threads and OpenMP to program sample applications
+

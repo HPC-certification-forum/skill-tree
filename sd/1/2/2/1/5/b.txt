@@ -1,0 +1,17 @@
+# SD1.2.2.1.5 Data handling
+
+One of the main application of shared memory programming is running the same instruction over different data points.
+This allows a program to quickly process a large chunk of data, by using all available compute units.
+Doing this comes with restrictions on the data type and structure, as well as how the data is accessed fast by multiple threads.
+
+## Requirements
+
+* [[skill-tree:k:1:3:4:b]]
+
+## Learning Outcomes
+
+* Apply the concept of functional parallelism, i.e. executing a set of distinct functions possibly using the same data.
+* Understand Single Instruction Multiple Data (SIMD)
+* Use data parallelism, e.g. applying parallel streams of identical instructions to different elements of appropriate data structures such as arrays.
+* Assess parallel concepts typically used for shared memory systems, e.g. to exploit temporal locality by data reuse with efficient utilization of the memory hierarchy.
+

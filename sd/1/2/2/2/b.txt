@@ -1,0 +1,22 @@
+# SD1.2.2.2 Parallelism with threading
+
+One of the main way of creating shared memory application is using threads.
+POSIX threads is one of the major implementation, but many more exists.
+The concepts included in this skill can be applied to many implementations.
+This includes thread safety and concurrency, as well as data handling and bugs such as deadlocks and race conditions.
+
+## Requirements
+
+* [[skill-tree:sd:1:2:2:1:1:b]]
+* [[skill-tree:sd:1:2:2:1:2:b]]
+* [[skill-tree:sd:1:2:2:1:4:b]]
+* [[skill-tree:sd:1:2:2:1:5:b]]
+
+## Learning Outcomes
+
+* Explain the threading model, including thread creation, management, and termination, in shared-memory environments.
+* Identify common sources of concurrency bugs such as race conditions, deadlocks, and false sharing in threaded applications.
+* Apply work-sharing and task-based strategies to improve performance and scalability in multithreaded programs.
+* Implement thread-safe data structures or modify existing ones to ensure correct parallel execution.
+* Compare alternative synchronization mechanisms (mutexes, condition variables, barriers, atomics) to determine the most efficient choice for a given computation.
+

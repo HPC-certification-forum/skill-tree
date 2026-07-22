@@ -1,6 +1,6 @@
 <map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Skill Tree" FOLDED="false" ID="ID_1292385230" CREATED="1701761058911" MODIFIED="1754462689645" STYLE="oval">
+<node TEXT="Skill Tree" FOLDED="false" ID="ID_1292385230" CREATED="1701761058911" MODIFIED="1784730372954" STYLE="oval">
 <font SIZE="18"/>
 <hook NAME="MapStyle" zoom="0.733">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
@@ -158,12 +158,11 @@
 <node TEXT="4: Operation of an HPC System (K1.4)" ID="ID_1581102238" CREATED="1495117049064" MODIFIED="1725378577703" LINK="k/1/4/b.txt">
 <hook NAME="AlwaysUnfoldedNode"/>
 </node>
-</node>
-<node TEXT="2: Performance Modeling (K2)" FOLDED="true" ID="ID_919155519" CREATED="1495114939024" MODIFIED="1744723208394" LINK="k/2/b.txt">
+<node TEXT="5: Accelerators (K1.5)" ID="ID_1848290845" CREATED="1577912203569" MODIFIED="1784730342825" LINK="k/1/5/b.txt">
 <icon BUILTIN="emoji-1F4C1"/>
-<node TEXT="1: Performance Frontiers (K2.1)" ID="ID_1635207747" CREATED="1511257253931" MODIFIED="1725378594399" LINK="k/2/1/b.txt"/>
-<node TEXT="2: Bounds for a Parallel Program (K2.2)" ID="ID_75349177" CREATED="1511257271722" MODIFIED="1725378599229" LINK="k/2/2/b.txt"/>
-<node TEXT="3: Performance Characteristics (K2.3)" ID="ID_1213283900" CREATED="1495204125617" MODIFIED="1725378604674" LINK="k/2/3/b.txt"/>
+<node TEXT="1: Graphics Processing Units (GPU) (K1.5.1)" ID="ID_598485964" CREATED="1784730279998" MODIFIED="1784730347682" LINK="k/1/5/1/b.txt"/>
+<node TEXT="2: SpinCloud SpiNNaker (K1.5.2)" ID="ID_1496156114" CREATED="1784730315198" MODIFIED="1784730353813" LINK="k/1/5/2/b.txt"/>
+</node>
 </node>
 <node TEXT="3: Program Parallelization (K3)" FOLDED="true" ID="ID_1296411125" CREATED="1495122279153" MODIFIED="1744723300930" LINK="k/3/b.txt">
 <icon BUILTIN="emoji-1F4C1"/>
@@ -252,7 +251,7 @@
 <node TEXT="2: Scalable Model Evaluation (BDA7.2)" ID="ID_336491355" CREATED="1745927045160" MODIFIED="1745927379717"/>
 </node>
 </node>
-<node TEXT="SD: Software Development" POSITION="top_or_left" ID="ID_551310687" CREATED="1283093380553" MODIFIED="1744724669840" LINK="sd/b.txt" HGAP_QUANTITY="41.75 pt" VSHIFT_QUANTITY="-89.25 pt">
+<node TEXT="SD: Software Development" POSITION="top_or_left" ID="ID_551310687" CREATED="1283093380553" MODIFIED="1784730372949" LINK="sd/b.txt" HGAP_QUANTITY="41.75 pt" VSHIFT_QUANTITY="-3 pt">
 <icon BUILTIN="emoji-1F4C1"/>
 <edge COLOR="#0000ff"/>
 <cloud COLOR="#f0f0f0" SHAPE="ARC"/>
@@ -290,6 +289,7 @@
 <node TEXT="7: Accelerators (SD1.2.7)" ID="ID_314493254" CREATED="1645008452658" MODIFIED="1725379344470" LINK="sd/1/2/7/b.txt"/>
 </node>
 <node TEXT="3: Efficient Algorithms and Data Structures (SD1.3)" LOCALIZED_STYLE_REF="default" ID="ID_1481634549" CREATED="1495117501892" MODIFIED="1725379355597" LINK="sd/1/3/b.txt"/>
+<node TEXT="4: Containerization (SD1.4)" ID="ID_207755653" CREATED="1784730382621" MODIFIED="1784730403483" LINK="sd/1/4/b.txt"/>
 </node>
 <node TEXT="2: Programming Best Practices (SD2)" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_895694541" CREATED="1559477861565" MODIFIED="1744724748912" LINK="sd/2/b.txt">
 <icon BUILTIN="emoji-1F4C1"/>

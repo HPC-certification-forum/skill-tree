@@ -1,0 +1,14 @@
+# K1.5.2 SpinCloud SpiNNaker
+
+The hardware called SpiNNaker from the company SpinCloud is designed to efficiently calculate Neuromorphic problems.
+This Skill goes into detail how this is achieved in hardware and how this can be  used with a demo program.
+
+## Learning Outcomes
+
+* Understand what neuromorphic computing is, and what sort of problems it can solve
+* Differentiate to know different hardware systems used in neuromorphic computing
+* Operate the novel neuromorphic computing platform SpiNNaker-2, and learn how to perform basic neuromorphic simulations with it
+
+## Author
+
+EVITA project evitahpc.eu

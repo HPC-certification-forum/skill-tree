@@ -1,0 +1,21 @@
+# K1.5 Accelerators
+
+An HPC environment is often expanded using accelerators, which can cards like PCIE or directly integrated into a host system.
+Some systems even have special accelerators baked into the Dye of the CPU which allows for very fast communication.
+Here we explore the hardware concepts and deploy simple programs to demonstrate their use as well as compare performance to general purpose hardware like a CPU.
+
+## Learning Outcomes
+
+* Understand how a GPU manages threads and how the memory model works
+* Indicate the differences between a CPU core and a GPU multiprocessor
+* Understand what neuromorphic computing is, and what sort of problems it can solve
+* Differentiate to know different hardware systems used in neuromorphic computing and operate the SpiNNaker-2 hardware
+
+## Subskills
+
+* [[skill-tree:k:1:5:1:b]]
+* [[skill-tree:k:1:5:2:b]]
+
+## Author
+
+EVITA project evitahpc.eu

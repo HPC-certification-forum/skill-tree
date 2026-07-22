@@ -14,7 +14,7 @@ Most common editors will all be included here, meaning one should be taught and 
 * [[skill-tree:use:1:1:b]]
 * [[skill-tree:use:1:3:b]]
 
-## Learning Objectives
+## Learning Outcomes
 
 * Define the abilities of a CLI based file editor
 * Discuss what a CLI file editor needs to be able to do and how it should behave

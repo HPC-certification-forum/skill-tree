@@ -6,8 +6,7 @@
 * [[skill-tree:use:4:b]]
 * optionally: [[skill-tree:sd:3:1:b]]
 
-## Learning Objectivs
-
+## Learning Outcomes
 
 * Identify HPC job scheduling systems (e.g. SLURM, LSF, HT-Torque) and describe their role in managing and executing workflows.
 * Submit workflows to HPC systems, applying the appropriate Snakemake plugins.

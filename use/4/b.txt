@@ -4,7 +4,7 @@ In HPC parallelization brings huge performance benefits and is omnipresent. That
 
 ## Requirements
 
-## Outcomes
+## Learning Outcomes
 
 * Develop parallel software.
 * Code parallel programs.

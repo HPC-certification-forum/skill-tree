@@ -17,3 +17,6 @@ Technically, GPU are also considers a shared memory system, since its global mem
 * Describe the security issues related to shared-memory environments, especially in memory access.
 * Describe structured parallelism models (e.g., fork-join, worksharing) and their benefits for code clarity and scalability.
 
+## Author
+
+EVITA project evitahpc.eu

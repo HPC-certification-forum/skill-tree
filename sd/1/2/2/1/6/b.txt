@@ -21,3 +21,6 @@ This included making use of vectorizations, special loop patterns and memory ali
 * Evaluate the trade-offs between auto-parallelization, manual parallelization, and hybrid strategies for complex computational kernels.
 * Optimize memory access patterns to improve the effectiveness of compiler vectorizes and autoparallelizers.
 
+## Author
+
+EVITA project evitahpc.eu

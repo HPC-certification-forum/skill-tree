@@ -13,3 +13,6 @@ Applying studied principle is a major requirement, especially for the two most c
 
 * Use POSIX Threads and OpenMP to program sample applications
 
+## Author
+
+EVITA project evitahpc.eu

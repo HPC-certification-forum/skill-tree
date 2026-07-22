@@ -27,3 +27,6 @@ Additionally, investigate threading implementations using different methods and 
 * [[skill-tree:sd:1:2:2:4:b]]
 * [[skill-tree:sd:1:2:2:5:b]]
 
+## Author
+
+EVITA project evitahpc.eu

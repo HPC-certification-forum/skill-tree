@@ -17,3 +17,6 @@ This has synchronizations implications, but in order to fully resolve and optimi
 * Assess the influence of control dependencies by jumps, branches, and function calls, e.g. on pipeline filling.
 * Assess data dependency situations, i.e. an instruction reading the data written by a preceding instruction in the source code, and anti dependencies, i.e. an instruction having to read data before a succeeding instruction overwrites it, and output dependencies, i.e. instructions writing to the same memory location.
 
+## Author
+
+EVITA project evitahpc.eu

@@ -15,3 +15,6 @@ These include handling of loops parallelism and general instructions and memory 
 * Explain unstructured parallelism concepts such as task-based concurrency and dynamic scheduling.
 * Define vectorization and its role in data-level parallelism.
 
+## Author
+
+EVITA project evitahpc.eu

@@ -14,3 +14,6 @@ This includes vectorizations and mathematical instruction which can be run in pa
 * Combine automatic parallelization by the compiler with manual parallelization
 * Combine vectorization and parallelization
 
+## Author
+
+EVITA project evitahpc.eu

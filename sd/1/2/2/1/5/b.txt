@@ -15,3 +15,6 @@ Doing this comes with restrictions on the data type and structure, as well as ho
 * Use data parallelism, e.g. applying parallel streams of identical instructions to different elements of appropriate data structures such as arrays.
 * Assess parallel concepts typically used for shared memory systems, e.g. to exploit temporal locality by data reuse with efficient utilization of the memory hierarchy.
 
+## Author
+
+EVITA project evitahpc.eu

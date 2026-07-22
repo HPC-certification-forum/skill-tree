@@ -15,3 +15,6 @@ This brings its own problems and performance penalties and these are to be inves
 * Explain the relationship between synchronization and consistency models (e.g., memory fences, visibility).
 * Discuss the trade-offs between coarse-grained and fine-grained locking strategies.
 
+## Author
+
+EVITA project evitahpc.eu

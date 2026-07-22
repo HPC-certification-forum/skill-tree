@@ -31,3 +31,6 @@ This includes an understanding of synchronizations between processes, structurin
 * [[skill-tree:sd:1:2:2:1:6:b]]
 * [[skill-tree:sd:1:2:2:1:7:b]]
 
+## Author
+
+EVITA project evitahpc.eu

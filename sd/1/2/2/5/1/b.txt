@@ -13,3 +13,6 @@ Do this for several Shared Memory concepts and also compare SYCL to other langua
 * Debug SYCL applications and diagnose kernel failures, memory errors, or unexpected fallbacks.
 * Compare SYCL with other parallelism approaches (OpenMP target, CUDA, OpenACC) to determine suitability for specific workloads.
 
+## Author
+
+EVITA project evitahpc.eu

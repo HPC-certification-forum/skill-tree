@@ -20,3 +20,6 @@ This includes thread safety and concurrency, as well as data handling and bugs s
 * Implement thread-safe data structures or modify existing ones to ensure correct parallel execution.
 * Compare alternative synchronization mechanisms (mutexes, condition variables, barriers, atomics) to determine the most efficient choice for a given computation.
 
+## Author
+
+EVITA project evitahpc.eu

@@ -15,3 +15,6 @@ Compare OpenACC to other programming models.
 * Debug OpenACC applications by identifying common issues such as incorrect data scoping, race conditions, and unintended host execution fallbacks.
 * Compare OpenACC with other accelerator programming models (SYCL, OpenMP target, CUDA) to evaluate portability, productivity, and performance trade-offs for specific workloads.
 
+## Author
+
+EVITA project evitahpc.eu

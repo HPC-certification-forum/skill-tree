@@ -1,0 +1,16 @@
+# SD1.4 Containerization
+
+Containers are a very good at consistently setting up software and being able to deploy it to any system that provides a container manager.
+These are also very often used in GitLab runners and offer a very broad ability to deploy any software even if it has a conflict with the host operating system.
+Additionally, in HPC containers are often used to deploy very specific and version safe software packages.
+
+## Learning Outcomes
+
+* Understand when to use containers for HPC
+* Be able to convert a local workflow on workstation/laptop into a container suitable for HPC systems
+* Getting data in and out of containers, getting MPI and CUDA to work, etc.
+* Use GitLab for building containers, using containers for testing, and storing containers
+
+## Author
+
+EVITA project evitahpc.eu

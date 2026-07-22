@@ -13,4 +13,4 @@ HPC computer architectures are parallel computer architectures. A parallel compu
 ## Subskills
 
 * [[skill-tree:k:1:2:1:b]]
-* [[skill-tree:k:1:2:1:b]]
+* [[skill-tree:k:1:2:2:b]]

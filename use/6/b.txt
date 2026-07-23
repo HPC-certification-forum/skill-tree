@@ -6,7 +6,7 @@ Workflow Management Systems cover all data analysis from A to Z, e.g. data prepr
 
 There are some Workflow Management Systems, such as Nextflow or Snakemake, which are designed to automate this process on HPC Clusters.
 
-## Learning objectives
+## Learning Outcomes
 
 * Explain the purpose and benefits of a Workflow Management System.
 * Identify and select an appropriate workflow from a workflow catalogue.

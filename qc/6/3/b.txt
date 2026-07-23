@@ -1,0 +1,17 @@
+# QC6.3 Applications and Use Cases for Quantum–HPC Workflows
+
+This skill surveys real-world application domains where hybrid quantum–HPC workflows are being explored. Learners examine representative use cases in quantum chemistry, combinatorial optimisation, and machine learning, focusing on how quantum subroutines are integrated into larger HPC pipelines. Emphasis is placed on workflow structure, resource requirements, and practical limitations rather than on algorithmic derivation or physics details.
+
+## Requirements
+
+* [[skill-tree:qc:2:b]]
+* [[skill-tree:qc:3:b]]
+* [[skill-tree:qc:6:2:b]]
+
+## Learning Outcomes
+
+* Identify application domains where quantum–HPC workflows are being investigated, including chemistry, optimisation, and machine learning.  
+* Describe how quantum subroutines are embedded within larger classical workflows in these domains.  
+* Explain the role of repeated classical–quantum interaction and measurement aggregation in practical applications.  
+* Discuss the practical limitations and trade-offs of current quantum–HPC workflows, including qubit count, circuit depth, execution latency, and simulation constraints.  
+* Evaluate, at a high level, the potential performance benefits and bottlenecks when integrating quantum accelerators into HPC pipelines.  

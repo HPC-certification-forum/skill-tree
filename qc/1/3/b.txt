@@ -1,0 +1,18 @@
+# QC1.3 Multi-Qubit Systems and the Gate Model of Quantum Computation
+
+This skill extends quantum computation to systems composed of multiple qubits. Learners examine how multi-qubit states are represented, how quantum operations scale beyond single-qubit systems, and how entanglement enables computational behaviours that have no classical analogue. The gate model of quantum computation is introduced as a framework for describing quantum algorithms.
+
+## Requirements
+
+* [[skill-tree:qc:1:1:b]]
+* [[skill-tree:qc:1:2:b]]
+
+## Learning Outcomes
+
+* Explain how multi-qubit quantum states are represented using tensor products.
+* Differentiate between sequential and parallel applications of single-qubit gates in multi-qubit systems.
+* Describe the function of common multi-qubit gates, including CNOT and SWAP.
+* Explain the concept of entanglement and describe Bell states as canonical examples.
+* Summarise the impact of entanglement on the classical simulability of quantum systems.
+* Describe how measurement operates in multi-qubit systems.
+* Explain the gate model of quantum computation and the notion of universal gate sets.

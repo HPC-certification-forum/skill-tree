@@ -1,0 +1,17 @@
+# QC6.1.1 State-Vector Quantum Simulation
+
+This skill introduces state-vector simulation as the most direct method for simulating quantum computations on classical HPC systems. Learners examine how the full quantum state of an n-qubit system is represented explicitly as a vector of complex amplitudes, and how quantum gates are applied as linear transformations.
+
+Emphasis is placed on understanding memory requirements, computational scaling, and practical limits, providing a baseline for comparing more advanced simulation techniques.
+
+## Requirements
+
+* [[skill-tree:qc:1:3:b]]
+
+## Learning Outcomes
+
+* Explain how an n-qubit quantum state is represented in state-vector simulation.
+* Describe how memory usage and computational cost scale with the number of qubits.
+* Explain why memory becomes the primary bottleneck in state-vector simulation.
+* Describe how parallelism can extend, but not eliminate, scalability limits.
+* Explain why state-vector simulation motivates the use of alternative simulation strategies.

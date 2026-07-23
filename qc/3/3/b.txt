@@ -1,0 +1,15 @@
+# QC3.3 Quantum Approximate Optimisation Algorithm (QAOA)
+
+This skill introduces the Quantum Approximate Optimisation Algorithm (QAOA) as a hybrid quantum-classical algorithm for finding approximate solutions to combinatorial optimisation problems. Learners are provided with a conceptual explanation of the problem Hamiltonian as a cost function that encodes the optimisation objective. Emphasis is placed on executing the algorithm on small examples and interpreting the results without requiring prior physics knowledge.
+
+## Requirements
+
+* [[skill-tree:qc:3:0:b]]
+
+## Learning Outcomes
+
+* Describe the purpose of QAOA and its hybrid quantum-classical workflow.
+* Explain, in conceptual terms, how the problem Hamiltonian encodes an optimisation objective.
+* Explain how parameterised quantum circuits explore candidate solutions.
+* Execute the QAOA algorithm step by step for a small example.
+* Calculate and interpret the output to identify approximate optimal solutions.

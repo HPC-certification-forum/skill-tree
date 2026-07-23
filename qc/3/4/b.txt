@@ -1,0 +1,22 @@
+# QC3.4 Quantum-Inspired Methods for Classical HPC
+
+This skill introduces quantum-inspired methods, that is algorithms and heuristics that execute on conventional computing systems, while drawing on concepts, mathematical structures or problem formulations originating in quantum computing and quantum physics.
+
+Learners develop a structured overview of major families of quantum-inspired approaches, including tensor-network techniques exploiting limited entanglement or low-rank structure, dequantised classical counterparts of selected quantum linear-algebra and sampling primitives, and Ising/QUBO-based optimisation heuristics motivated by annealing-style formulations. Emphasis is placed on understanding why such methods can be effective on classical hardware, the structural assumptions they rely upon, and how to evaluate them rigorously against strong classical baselines in realistic HPC environments.
+
+The focus is on conceptual understanding, structural analysis and critical performance evaluation rather than detailed mathematical derivation or low-level optimisation.
+
+## Requirements
+
+External: Basic linear algebra
+
+* [[skill-tree:qc:1:b]]
+* [[skill-tree:qc:2:b]]
+
+## Learning Outcomes
+
+* Define quantum-inspired methods and distinguish them from quantum algorithms and classical quantum-circuit simulation.
+* Identify the main families of quantum-inspired methods and the types of problems they address.
+* Explain the key structural assumptions these methods rely on, such as limited entanglement or low-rank structure.
+* Compare a quantum-inspired method with a strong classical baseline and interpret performance claims critically.
+

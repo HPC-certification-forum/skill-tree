@@ -1,0 +1,16 @@
+# QC4 Quantum Programming
+
+This skill group introduces quantum programming from a practical and applied perspective. Learners explore how quantum algorithms are expressed as executable programs using contemporary quantum software frameworks, and how abstract circuit models are translated into code that can be executed on simulators or quantum hardware.
+
+Emphasis is placed on understanding common programming patterns, the structure of the quantum software stack, and the practical workflow of developing, executing, and interpreting quantum programs. The focus is on operational competence and conceptual understanding rather than framework-specific expertise.
+
+## Requirements
+
+Internal:
+* [[skill-tree:qc:2:3:b]]
+
+## Subskills
+
+* [[skill-tree:qc:4:1:b]]
+* [[skill-tree:qc:4:2:b]]
+* [[skill-tree:qc:4:3:b]]

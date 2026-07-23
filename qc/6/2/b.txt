@@ -1,0 +1,21 @@
+# QC6.2 Hybrid Quantum–HPC Workflows and Orchestration
+
+This skill introduces the orchestration and integration of quantum workloads into classical high-performance computing (HPC) environments. Learners examine hybrid workflows in which classical computation controls, schedules, and post-processes quantum subroutines. Emphasis is placed on the practical challenges that make quantum workflows distinct from typical HPC jobs, including short-duration quantum executions, frequent classical–quantum interactions, transpilation overhead, probabilistic measurement outcomes, and error-correction requirements such as syndrome decoding.
+
+The skill focuses on workflow design, scheduling considerations, and resource management for hybrid quantum–classical pipelines.
+
+## Requirements
+
+* [[skill-tree:qc:4:b]]
+* [[skill-tree:qc:5:3:b]]
+* [[skill-tree:qc:6:1:b]]
+
+## Learning Outcomes
+
+* Explain how hybrid quantum–classical workflows differ from standard HPC workflows, emphasizing short-duration quantum executions and frequent interaction with classical control.  
+* Describe the impact of quantum transpilation and compilation on workflow timing and scheduling.  
+* Explain how probabilistic measurement outcomes influence iterative or hybrid algorithm execution, including repeated evaluations.  
+* Describe the role of on-the-fly classical computations for error mitigation and syndrome decoding in error-corrected workflows.  
+* Discuss resource management challenges in hybrid workflows, including latency, throughput, and co-location of quantum and classical resources.  
+* Explain architectural considerations for orchestrating hybrid quantum–HPC pipelines, including batch submission, queueing, and feedback loops.  
+* Evaluate practical trade-offs when embedding quantum subroutines in HPC pipelines, such as job overhead versus algorithmic gain.

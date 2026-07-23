@@ -1,0 +1,19 @@
+# QC1 Quantum Computing Principles
+
+This skill group introduces learners to the practical and mathematical foundations of quantum computing. Starting with the representation of quantum information, learners explore how a single qubit is described mathematically and visualised using the Bloch sphere. They then study how single qubits are manipulated with quantum gates, including measurement, the no-cloning theorem, and basic single-qubit circuits. Finally, learners extend these concepts to multi-qubit systems, learning how qubits combine through tensor products, how multi-qubit gates operate, and how entanglement arises and influences computation, culminating in an understanding of the gate model and universal gate sets.
+
+## Requirements
+
+External: Basic linear algebra  
+External: Introductory quantum mechanics (helpful but not required)
+
+## Learning Outcomes
+
+## Subskills
+
+* [[skill-tree:qc:1:1:b]]
+* [[skill-tree:qc:1:2:b]]
+* [[skill-tree:qc:1:3:b]]
+* [[skill-tree:qc:1:4:b]]
+* [[skill-tree:qc:1:5:b]]
+

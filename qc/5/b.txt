@@ -1,0 +1,10 @@
+# QC5 Quantum Hardware and Architectures
+
+This skill group introduces the physical and architectural foundations of quantum computing systems. Learners examine how quantum processors are built, how abstract quantum circuits are mapped onto real hardware, and why noise and error fundamentally constrain quantum computation. Emphasis is placed on architectural trade-offs, system-level constraints, and the role of quantum processors as accelerators integrated into broader HPC environments.
+
+
+## Subskills
+
+* [[skill-tree:qc:5:1:b]]
+* [[skill-tree:qc:5:2:b]]
+* [[skill-tree:qc:5:3:b]]

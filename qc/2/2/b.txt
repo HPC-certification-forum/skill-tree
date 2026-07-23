@@ -1,0 +1,16 @@
+# QC2.2 Quantum Teleportation
+
+This skill introduces the quantum teleportation protocol as a concrete example of how entanglement and measurement enable the transfer of quantum states without physically transmitting the underlying qubit. Learners examine the structure of the teleportation circuit and the roles of entanglement, measurement and classical communication in achieving faithful state transfer.
+
+## Requirements
+
+* [[skill-tree:qc:1:3:b]]
+* [[skill-tree:qc:2:1:b]]
+
+## Learning Outcomes
+
+* Describe the goal and high-level structure of the quantum teleportation protocol.
+* Explain the role of entanglement in enabling quantum teleportation.
+* Interpret the quantum circuit used to implement quantum teleportation.
+* Explain how measurement outcomes and classical communication are used to recover the original quantum state.
+* Distinguish quantum teleportation from classical communication and from physical transmission of a qubit.

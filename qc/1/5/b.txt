@@ -1,0 +1,16 @@
+# QC1.5 Quantum Measurement
+
+This skill introduces quantum measurement from a computational and algorithmic perspective. Learners examine how information is extracted from quantum states through measurement, why measurement outcomes are inherently probabilistic, and how repeated measurements are used to estimate quantities of interest. The skill also introduces high-level concepts for assessing the quality and reliability of results obtained from quantum computations.
+
+## Requirements
+
+* [[skill-tree:qc:1:2:b]]
+* [[skill-tree:qc:1:3:b]]
+
+## Learning Outcomes
+
+* Explain quantum measurement as a probabilistic process.
+* Describe how measurement bases determine which information can be extracted from a quantum state.
+* Explain how expectation values are estimated using repeated measurements.
+* Describe the concept of fidelity as a high-level measure of how close two quantum states or results are.
+* Explain what quantum state tomography is and why full state reconstruction becomes impractical for larger systems.

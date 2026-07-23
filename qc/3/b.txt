@@ -1,0 +1,28 @@
+# QC3 Variational and Hybrid Quantum Algorithms
+
+This parent node provides a high-level overview of the Variational Algorithms branch. Learners are introduced to the conceptual framework of hybrid quantum-classical algorithms, which use parameterised quantum circuits and classical optimisation loops to solve problems such as optimisation and simulation on near-term quantum devices (NISQ). The parent node contextualises the branch, highlighting the strengths, limitations, and workflow of these algorithms before learners progress to specific skills such as VQE and QAOA.
+
+## Requirements
+
+External:
+* Basic linear algebra  
+* Introductory quantum mechanics (helpful but not required)
+
+Internal:
+* [[skill-tree:qc:1:3:b]]
+
+## Learning Outcomes
+
+* Describe the general workflow of variational and hybrid quantum-classical algorithms.
+* Explain how parameterised quantum circuits and classical optimisation routines interact in this framework.
+* Identify the advantages of variational algorithms for near-term quantum devices (NISQ).
+* Recognise the limitations of these algorithms, including slow convergence, barren plateaus, and the absence of guaranteed quantum advantage.
+* Understand the purpose and conceptual differences of representative variational algorithms e.g., VQE and QAOA.
+
+
+## Subskills
+
+* [[skill-tree:qc:3:1:b]]
+* [[skill-tree:qc:3:2:b]]
+* [[skill-tree:qc:3:3:b]]
+* [[skill-tree:qc:3:4:b]]

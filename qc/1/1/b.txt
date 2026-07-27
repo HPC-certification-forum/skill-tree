@@ -11,6 +11,6 @@ External: Introductory quantum mechanics (helpful but not required)
 
 * Describe the high-level goals and distinguishing characteristics of quantum computing.
 * Interpret quantum states using Dirac (bra–ket) notation.
-* Explain how a single qubit is represented mathematically using state vectors and computational bases.
+* Explain how a single qubit is represented mathematically using state vectors and the computational basis.
 * Describe the principle of superposition for a single qubit.
 * Illustrate the geometric representation of a single-qubit state using the Bloch sphere.

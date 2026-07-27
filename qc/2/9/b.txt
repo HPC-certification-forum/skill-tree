@@ -11,7 +11,6 @@ This skill introduces Shor's algorithm as a landmark quantum algorithm for integ
 
 * Describe the problem addressed by Shor's algorithm and its significance in quantum computation.
 * Explain the high-level structure of Shor's algorithm, including the use of Quantum Phase Estimation and modular arithmetic.
-* Outline the role of quantum subroutines in achieving factorisation.
-* Interpret the conceptual steps of Shor's algorithm and the expected quantum speedup, without performing full calculations.
+* Compare the expected computational complexity of Shor's algorithm with classical factorisation approaches at a high level.
 
 

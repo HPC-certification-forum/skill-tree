@@ -12,5 +12,8 @@ This skill introduces quantum measurement from a computational and algorithmic p
 * Explain quantum measurement as a probabilistic process.
 * Describe how measurement bases determine which information can be extracted from a quantum state.
 * Explain how expectation values are estimated using repeated measurements.
-* Describe the concept of fidelity as a high-level measure of how close two quantum states or results are.
+* Describe fidelity as a measure of similarity between quantum states.
 * Explain what quantum state tomography is and why full state reconstruction becomes impractical for larger systems.
+* Calculate expectation values of simple observables from measurement results.
+* Calculate fidelity between simple quantum states.
+* Reconstruct simple quantum states from measurement data.

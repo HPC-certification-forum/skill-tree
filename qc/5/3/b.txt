@@ -7,6 +7,7 @@ The skill then introduces the motivation for quantum error correction, the disti
 ## Requirements
 
 * [[skill-tree:qc:1:3:b]]
+* [[skill-tree:qc:1:5:b]]
 * [[skill-tree:qc:5:1:b]]
 
 ## Learning Outcomes
@@ -17,4 +18,4 @@ The skill then introduces the motivation for quantum error correction, the disti
 * Explain the purpose of quantum error correction in terms of physical versus logical qubits and repeated syndrome measurement.
 * Describe the threshold theorem idea at a high level and its implications for fault-tolerant computation.
 * Explain the basic intuition behind surface-code-style protection and how increased protection leads to higher resource overhead.
-* Reason qualitatively about qubit and time overhead and how this shapes expectations for near-term versus fault-tolerant quantum computing.
+* Assess qualitatively how qubit and time overhead shape expectations for near-term and fault-tolerant quantum computing.

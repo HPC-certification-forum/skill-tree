@@ -1,8 +1,8 @@
 # QC2 Quantum Algorithms
 
 This skill focuses on the design and analysis of quantum algorithms, which exploit quantum mechanical phenomena to achieve computational advantages.
-Students will study landmark algorithms such as Grover’s search and Shor’s factoring algorithm, along with simpler introductory examples like Deutsch–Jozsa.
-The course covers algorithmic structures, problem classes suitable for quantum speedup, and limitations of current algorithmic approaches.
+Students will study landmark algorithms such as Grover's search and Shor's factoring algorithm, along with simpler introductory examples such as the Deutsch's algorithm.
+The skill covers algorithmic structures, problem classes suitable for quantum speedup, and limitations of current algorithmic approaches.
 Learners will gain the ability to evaluate when quantum algorithms are useful and how they compare to classical methods.
 
 ## Requirements
@@ -16,11 +16,12 @@ Internal:
 
 ## Learning Outcomes
 
-* Describe the structure and purpose of core algorithms (e.g., Grover’s search, Shor’s factoring).
-* Compare the efficiency of classical vs. quantum approaches for specific problems.
-* Demonstrate how quantum speedup arises from superposition and interference.
-* Identify problem domains where quantum algorithms provide advantages.
-* Evaluate limitations of current quantum algorithms in practical applications.
+* Explain how controlled operations, phase kickback, superposition, and interference are used in quantum algorithms.
+* Describe the structure and purpose of quantum teleportation and core quantum algorithms.
+* Execute simple instances of Deutsch's, Bernstein–Vazirani, Simon's, Grover's, QFT, and QPE algorithms.
+* Calculate and interpret phases, amplitudes, and measurement outcomes for simple algorithmic examples.
+* Compare classical and quantum query complexity for the problems addressed by selected quantum algorithms.
+* Explain how the Quantum Fourier Transform and Quantum Phase Estimation are used as building blocks in Shor's algorithm.
 
 
 ## Subskills

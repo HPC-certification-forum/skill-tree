@@ -12,6 +12,6 @@ Emphasis is placed on understanding memory requirements, computational scaling, 
 
 * Explain how an n-qubit quantum state is represented in state-vector simulation.
 * Describe how memory usage and computational cost scale with the number of qubits.
-* Explain why memory becomes the primary bottleneck in state-vector simulation.
+* Explain why memory becomes a major bottleneck in state-vector simulation.
 * Describe how parallelism can extend, but not eliminate, scalability limits.
 * Explain why state-vector simulation motivates the use of alternative simulation strategies.

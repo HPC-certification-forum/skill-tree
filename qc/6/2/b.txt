@@ -6,7 +6,8 @@ The skill focuses on workflow design, scheduling considerations, and resource ma
 
 ## Requirements
 
-* [[skill-tree:qc:4:b]]
+* [[skill-tree:qc:4:1:b]]
+* [[skill-tree:qc:5:2:b]]
 * [[skill-tree:qc:5:3:b]]
 * [[skill-tree:qc:6:1:b]]
 
@@ -16,6 +17,6 @@ The skill focuses on workflow design, scheduling considerations, and resource ma
 * Describe the impact of quantum transpilation and compilation on workflow timing and scheduling.  
 * Explain how probabilistic measurement outcomes influence iterative or hybrid algorithm execution, including repeated evaluations.  
 * Describe the role of on-the-fly classical computations for error mitigation and syndrome decoding in error-corrected workflows.  
-* Discuss resource management challenges in hybrid workflows, including latency, throughput, and co-location of quantum and classical resources.  
+* Analyse resource management challenges in hybrid workflows, including latency, throughput, and co-location of quantum and classical resources.
 * Explain architectural considerations for orchestrating hybrid quantum–HPC pipelines, including batch submission, queueing, and feedback loops.  
 * Evaluate practical trade-offs when embedding quantum subroutines in HPC pipelines, such as job overhead versus algorithmic gain.

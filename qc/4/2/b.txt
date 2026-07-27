@@ -6,7 +6,7 @@ The skill reinforces the connection between abstract circuit diagrams and concre
 
 ## Requirements
 
-* [[skill-tree:qc:2:b]]
+* [[skill-tree:qc:2:3:b]]
 * [[skill-tree:qc:4:1:b]]
 
 ## Learning Outcomes

@@ -7,13 +7,14 @@ The focus is on understanding memory requirements, parallelisation strategies, a
 ## Requirements
 
 * [[skill-tree:qc:1:3:b]]
-* [[skill-tree:qc:4:b]]
 
 ## Learning Outcomes
 
-* Describe the purpose of quantum simulation in algorithm development and benchmarking.
-* Compare different simulation approaches in terms of accuracy, scalability, and resource requirements.
-* Explain why classical simulation becomes infeasible as quantum system size increases.
+* Describe the purpose of classical quantum simulation in algorithm development and benchmarking.
+* Explain how the memory and computational requirements of state-vector simulation scale with the number of qubits.
+* Explain how entanglement, network topology, and contraction order affect the efficiency of tensor-network simulation.
+* Compare state-vector, tensor-network, and approximate simulation methods in terms of accuracy, scalability, and resource requirements.
+* Identify classes of quantum circuits and problems for which the different simulation approaches are suitable.
 
 
 ## Subskills

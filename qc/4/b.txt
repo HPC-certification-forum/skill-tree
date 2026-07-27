@@ -7,7 +7,18 @@ Emphasis is placed on understanding common programming patterns, the structure o
 ## Requirements
 
 Internal:
-* [[skill-tree:qc:2:3:b]]
+* [[skill-tree:qc:1:3:b]]
+
+## Learning Outcomes
+
+* Describe the circuit-based programming model and the common components of a quantum software stack.
+* Compare quantum programming frameworks based on their shared abstractions and execution workflows.
+* Translate gate-model quantum algorithms into executable quantum programs.
+* Construct and execute quantum circuits on simulator backends and interpret their measurement results.
+* Identify and correct basic errors in quantum circuit construction and execution.
+* Implement parameterised quantum circuits and hybrid quantum-classical optimisation loops.
+* Compute and interpret expectation values used in variational algorithms.
+* Distinguish the practical execution workflows of gate-model and variational quantum algorithms.
 
 ## Subskills
 

@@ -6,7 +6,7 @@ The focus is on workflow comprehension and practical execution rather than mathe
 
 ## Requirements
 
-* [[skill-tree:qc:3:b]]
+* [[skill-tree:qc:3:1:b]]
 * [[skill-tree:qc:4:1:b]]
 
 ## Learning Outcomes
@@ -15,4 +15,4 @@ The focus is on workflow comprehension and practical execution rather than mathe
 * Implement a parameterised quantum circuit using a quantum programming framework.
 * Execute a hybrid quantum-classical loop involving circuit execution and classical optimisation.
 * Compute and interpret expectation values used to guide parameter updates.
-* Explain how variational algorithm execution differs from gate-model algorithm execution in practice.
+* Distinguish the practical execution workflow of a variational algorithm from that of a gate-model algorithm.

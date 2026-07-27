@@ -1,6 +1,6 @@
 # QC1 Quantum Computing Principles
 
-This skill group introduces learners to the practical and mathematical foundations of quantum computing. Starting with the representation of quantum information, learners explore how a single qubit is described mathematically and visualised using the Bloch sphere. They then study how single qubits are manipulated with quantum gates, including measurement, the no-cloning theorem, and basic single-qubit circuits. Finally, learners extend these concepts to multi-qubit systems, learning how qubits combine through tensor products, how multi-qubit gates operate, and how entanglement arises and influences computation, culminating in an understanding of the gate model and universal gate sets.
+This skill group introduces learners to the practical and mathematical foundations of quantum computing. Starting with the representation of quantum information, learners explore how a single qubit is described mathematically and visualised using the Bloch sphere. They then study how single qubits are manipulated with quantum gates and represented in basic single-qubit circuits, together with measurement and the no-cloning theorem. Finally, learners extend these concepts to multi-qubit systems, learning how qubits combine through tensor products, how multi-qubit gates operate, and how entanglement arises and influences computation, culminating in an understanding of the gate model and universal gate sets. They also examine quantum state preparation and measurement, including expectation values, fidelity, and quantum state tomography.
 
 ## Requirements
 
@@ -8,6 +8,15 @@ External: Basic linear algebra
 External: Introductory quantum mechanics (helpful but not required)
 
 ## Learning Outcomes
+
+* Describe how single- and multi-qubit quantum states are represented.
+* Explain how common single- and multi-qubit gates operate.
+* Explain the principles of superposition, measurement, the no-cloning theorem, and entanglement.
+* Interpret simple quantum circuits using the gate model of quantum computation and explain the notion of universal gate sets.
+* Describe basic approaches to quantum state preparation and explain how preparation complexity affects quantum circuits.
+* Explain how measurement bases and repeated measurements are used to extract information and estimate expectation values.
+* Explain how quantum state tomography is used to reconstruct quantum states and why full state reconstruction becomes impractical for larger systems.
+* Calculate expectation values of simple observables and fidelity between simple quantum states, and reconstruct simple quantum states from measurement data.
 
 ## Subskills
 

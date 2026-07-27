@@ -10,8 +10,10 @@ The focus is on conceptual understanding, structural analysis and critical perfo
 
 External: Basic linear algebra
 
+Internal:
 * [[skill-tree:qc:1:b]]
 * [[skill-tree:qc:2:b]]
+* [[skill-tree:qc:3:1:b]]
 
 ## Learning Outcomes
 

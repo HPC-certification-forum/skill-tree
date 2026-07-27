@@ -1,6 +1,6 @@
-# QC3 Variational and Hybrid Quantum Algorithms
+# QC3 Variational, Hybrid, and Quantum-Inspired Methods
 
-This parent node provides a high-level overview of the Variational Algorithms branch. Learners are introduced to the conceptual framework of hybrid quantum-classical algorithms, which use parameterised quantum circuits and classical optimisation loops to solve problems such as optimisation and simulation on near-term quantum devices (NISQ). The parent node contextualises the branch, highlighting the strengths, limitations, and workflow of these algorithms before learners progress to specific skills such as VQE and QAOA.
+This skill group provides a high-level overview of variational, hybrid, and quantum-inspired methods. Learners are introduced to the conceptual framework of hybrid quantum-classical algorithms, which use parameterised quantum circuits and classical optimisation loops to solve problems such as optimisation and simulation on near-term quantum devices (NISQ). The parent node contextualises the branch, highlighting the strengths, limitations, and workflow of these algorithms before learners progress to specific skills such as VQE and QAOA. The branch also introduces quantum-inspired methods that apply concepts and structures originating in quantum computing to algorithms executed on classical HPC systems.
 
 ## Requirements
 
@@ -16,9 +16,11 @@ Internal:
 * Describe the general workflow of variational and hybrid quantum-classical algorithms.
 * Explain how parameterised quantum circuits and classical optimisation routines interact in this framework.
 * Identify the advantages of variational algorithms for near-term quantum devices (NISQ).
-* Recognise the limitations of these algorithms, including slow convergence, barren plateaus, and the absence of guaranteed quantum advantage.
-* Understand the purpose and conceptual differences of representative variational algorithms e.g., VQE and QAOA.
-
+* Explain limitations including slow convergence, barren plateaus, and the absence of guaranteed quantum advantage.
+* Distinguish the purposes and conceptual workflows of VQE and QAOA.
+* Execute simple instances of VQE and QAOA and interpret their outputs.
+* Define quantum-inspired methods and identify their main families and structural assumptions.
+* Evaluate performance claims for quantum-inspired methods by comparing them with strong classical baselines.
 
 ## Subskills
 

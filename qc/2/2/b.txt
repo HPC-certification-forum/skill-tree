@@ -12,4 +12,4 @@ This skill introduces the quantum teleportation protocol as a concrete example o
 * Explain the role of entanglement in enabling quantum teleportation.
 * Interpret the quantum circuit used to implement quantum teleportation.
 * Explain how measurement outcomes and classical communication are used to recover the original quantum state.
-* Distinguish quantum teleportation from classical communication and from physical transmission of a qubit.
+* Explain the distinction between quantum teleportation, classical communication, and physical transmission of a qubit.

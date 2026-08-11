@@ -1,6 +1,6 @@
 # QC2.8 Quantum Phase Estimation
 
-This skill introduces Quantum Phase Estimation (QPE) as a fundamental quantum algorithm for determining eigenvalues of unitary operators. Learners study how the Quantum Fourier Transform (QFT) is combined with controlled unitary operations and phase kickback to estimate the phase associated with an eigenstate. Emphasis is placed on executing the algorithm for small examples and interpreting the measured output.
+This skill introduces Quantum Phase Estimation (QPE) as a fundamental quantum algorithm for estimating the phase associated with an eigenvalue of a unitary operator. Learners study how the Quantum Fourier Transform (QFT) is combined with controlled unitary operations and phase kickback to estimate the phase associated with an eigenstate. Emphasis is placed on executing the algorithm for small examples and interpreting the measured output.
 
 ## Requirements
 

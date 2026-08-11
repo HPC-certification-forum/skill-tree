@@ -1,7 +1,7 @@
 # QC2 Quantum Algorithms
 
 This skill focuses on the design and analysis of quantum algorithms, which exploit quantum mechanical phenomena to achieve computational advantages.
-Students will study landmark algorithms such as Grover's search and Shor's factoring algorithm, along with simpler introductory examples such as the Deutsch's algorithm.
+Students will study landmark algorithms such as Grover's search and Shor's factoring algorithm, along with simpler introductory examples such as Deutsch's algorithm.
 The skill covers algorithmic structures, problem classes suitable for quantum speedup, and limitations of current algorithmic approaches.
 Learners will gain the ability to evaluate when quantum algorithms are useful and how they compare to classical methods.
 
@@ -16,12 +16,15 @@ Internal:
 
 ## Learning Outcomes
 
-* Explain how controlled operations, phase kickback, superposition, and interference are used in quantum algorithms.
-* Describe the structure and purpose of quantum teleportation and core quantum algorithms.
-* Execute simple instances of Deutsch's, Bernstein–Vazirani, Simon's, Grover's, QFT, and QPE algorithms.
-* Calculate and interpret phases, amplitudes, and measurement outcomes for simple algorithmic examples.
-* Compare classical and quantum query complexity for the problems addressed by selected quantum algorithms.
-* Explain how the Quantum Fourier Transform and Quantum Phase Estimation are used as building blocks in Shor's algorithm.
+* Examine the role of controlled operations and phase kickback in the encoding and manipulation of phase information in quantum circuits.
+* Examine the role of entanglement, measurement, and classical communication in the transfer of a quantum state in quantum teleportation.
+* Compare Deutsch's algorithm with classical approaches in terms of how information is obtained and query complexity.
+* Compare the Bernstein–Vazirani algorithm with classical approaches in terms of how the hidden information is recovered and its query complexity.
+* Compare Simon's algorithm with classical approaches in terms of how the hidden information is recovered and its query complexity.
+* Assess the computational advantage of Grover's algorithm over classical unstructured search.
+* Assess the role of the Quantum Fourier Transform as a transformation and as a building block in quantum algorithms.
+* Assess the role of Quantum Phase Estimation in estimating eigenphases and supporting other quantum algorithms.
+* Evaluate the structure and computational advantage of Shor's algorithm relative to classical factorisation approaches.
 
 
 ## Subskills

@@ -15,12 +15,12 @@ Internal:
 
 ## Learning Outcomes
 
-* Describe the role of quantum processors as accelerators in hybrid quantum–classical workflows in HPC settings.
-* Differentiate between classical simulation of quantum circuits and execution on quantum hardware, and explain why each is used in HPC workflows.
-* Describe, at a practical level, how hybrid workflows iterate between circuit execution, sampling, and classical post-processing (including parameter updates when relevant).
-* Analyse end-to-end performance considerations for quantum–HPC workflows, including latency, throughput, sampling cost, and repetitions due to noise, and explain how they affect time-to-solution.
-* Identify representative HPC-relevant application areas where quantum workflows are being explored and compare their expected benefits with appropriate classical baselines.
-* Compare state-vector, tensor-network, and approximate quantum simulation approaches in terms of scalability and resource requirements.
+* Evaluate classical quantum simulation approaches in terms of their suitability, scalability, accuracy, and HPC resource requirements.
+* Analyse the orchestration of hybrid quantum–HPC workflows and the coordination of quantum and classical resources.
+* Evaluate the performance trade-offs of hybrid quantum–HPC workflows, including latency, throughput, and end-to-end time-to-solution.
+* Analyse how quantum subroutines are integrated into larger HPC workflows across representative application domains.
+* Assess the effectiveness, potential benefits, and practical limitations of quantum–HPC workflows relative to appropriate classical methods.
+
 
 ## Subskills
 

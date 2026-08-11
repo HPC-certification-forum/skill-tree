@@ -9,14 +9,14 @@ External: Introductory quantum mechanics (helpful but not required)
 
 ## Learning Outcomes
 
-* Describe how single- and multi-qubit quantum states are represented.
-* Explain how common single- and multi-qubit gates operate.
-* Explain the principles of superposition, measurement, the no-cloning theorem, and entanglement.
-* Interpret simple quantum circuits using the gate model of quantum computation and explain the notion of universal gate sets.
-* Describe basic approaches to quantum state preparation and explain how preparation complexity affects quantum circuits.
-* Explain how measurement bases and repeated measurements are used to extract information and estimate expectation values.
-* Explain how quantum state tomography is used to reconstruct quantum states and why full state reconstruction becomes impractical for larger systems.
-* Calculate expectation values of simple observables and fidelity between simple quantum states, and reconstruct simple quantum states from measurement data.
+* Examine mathematical and geometric representations of single-qubit states and superpositions.
+* Analyse how single-qubit gates transform quantum states and how reversibility and unitarity distinguish quantum gates from classical logic.
+* Examine how measurement and the no-cloning theorem constrain the manipulation and extraction of quantum information.
+* Analyse how multi-qubit states, gates, and entanglement extend the principles of single-qubit computation.
+* Examine how the gate model and universal gate sets provide a general framework for quantum computation.
+* Analyse how state-preparation choices and complexity affect the structure of quantum circuits.
+* Analyse how measurement bases and repeated measurements determine the information that can be extracted from quantum states.
+* Analyse how expectation values, fidelity, and quantum state tomography are used to characterise quantum states and the limitations of full state reconstruction.
 
 ## Subskills
 

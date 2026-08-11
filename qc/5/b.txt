@@ -8,14 +8,11 @@ This skill group introduces the physical and architectural foundations of quantu
 
 ## Learning Outcomes
 
-* Identify and compare major physical implementations of qubits and their engineering requirements.
-* Explain how hardware characteristics influence quantum-system architecture and algorithm suitability.
-* Explain how quantum compilation maps logical circuits and gates onto physical qubits and native gate sets.
-* Analyse how connectivity constraints and compilation objectives affect circuit depth, gate count, and practical performance.
-* Identify major sources of noise and explain how coherence times constrain quantum computations.
-* Distinguish error mitigation, quantum error correction, and fault-tolerant computation.
-* Explain the roles of physical and logical qubits, syndrome measurement, error thresholds, and surface-code-style protection.
-* Assess qualitatively the resource overhead required for fault-tolerant quantum computation.
+* Assess the trade-offs among major qubit technologies in terms of their physical requirements and performance characteristics.
+* Evaluate how the characteristics of different qubit technologies influence system architecture and algorithm suitability.
+* Evaluate how quantum compilation adapts logical circuits to hardware constraints and how compilation choices affect practical execution and performance.
+* Analyse how noise and coherence limitations affect quantum computations and the roles of error mitigation, quantum error correction, and fault tolerance.
+* Evaluate the resource implications of fault-tolerant logical computation.
 
 ## Subskills
 

@@ -11,7 +11,7 @@ The skill reinforces the connection between abstract circuit diagrams and concre
 
 ## Learning Outcomes
 
-* Translate a gate-model quantum algorithm into a programmatic circuit implementation.
+* Translate a gate-model quantum algorithm into a quantum circuit.
 * Construct quantum circuits using a quantum programming framework.
 * Execute a simple quantum algorithm on a simulator backend.
 * Interpret measurement results and relate them back to the expected algorithmic outcome.

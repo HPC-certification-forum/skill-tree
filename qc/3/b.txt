@@ -13,14 +13,13 @@ Internal:
 
 ## Learning Outcomes
 
-* Describe the general workflow of variational and hybrid quantum-classical algorithms.
-* Explain how parameterised quantum circuits and classical optimisation routines interact in this framework.
-* Identify the advantages of variational algorithms for near-term quantum devices (NISQ).
-* Explain limitations including slow convergence, barren plateaus, and the absence of guaranteed quantum advantage.
-* Distinguish the purposes and conceptual workflows of VQE and QAOA.
-* Execute simple instances of VQE and QAOA and interpret their outputs.
-* Define quantum-inspired methods and identify their main families and structural assumptions.
-* Evaluate performance claims for quantum-inspired methods by comparing them with strong classical baselines.
+* Analyse how parameterised quantum circuits and classical optimisation interact in variational and hybrid quantum-classical algorithms.
+* Evaluate the strengths and limitations of variational algorithms for near-term quantum computing.
+* Analyse how VQE combines parameterised quantum circuits and expectation-value estimation to approximate the lowest eigenvalue of a Hamiltonian.
+* Analyse how QAOA combines parameterised quantum circuits and encoded optimisation objectives to obtain approximate solutions to combinatorial optimisation problems.
+* Compare VQE and QAOA in terms of their objectives and variational workflows.
+* Analyse the main families of quantum-inspired methods and the structural assumptions that determine their applicability on classical HPC systems.
+* Evaluate performance claims for quantum-inspired methods relative to strong classical baselines.
 
 ## Subskills
 

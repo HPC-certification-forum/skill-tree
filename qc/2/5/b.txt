@@ -11,5 +11,5 @@ This skill introduces Simon's algorithm, which demonstrates an exponential separ
 * Describe the problem solved by Simon's algorithm and its classical query complexity.
 * Explain how superposition and interference are used to obtain constraints on the hidden bit string.
 * Execute Simon's algorithm step by step for a given oracle.
-* Derive constraints from repeated measurement outcomes and solve them to determine the secret string.
+* Use repeated measurement outcomes to derive constraints and determine the secret string.
 

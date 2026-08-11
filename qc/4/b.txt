@@ -11,14 +11,12 @@ Internal:
 
 ## Learning Outcomes
 
-* Describe the circuit-based programming model and the common components of a quantum software stack.
-* Compare quantum programming frameworks based on their shared abstractions and execution workflows.
-* Translate gate-model quantum algorithms into executable quantum programs.
-* Construct and execute quantum circuits on simulator backends and interpret their measurement results.
-* Identify and correct basic errors in quantum circuit construction and execution.
-* Implement parameterised quantum circuits and hybrid quantum-classical optimisation loops.
-* Compute and interpret expectation values used in variational algorithms.
-* Distinguish the practical execution workflows of gate-model and variational quantum algorithms.
+* Assess quantum programming frameworks based on their shared abstractions, software-stack components, and execution workflows.
+* Evaluate whether a gate-model quantum program correctly translates an algorithm into an executable circuit.
+* Evaluate the execution and measurement results of gate-model quantum programs against their expected behaviour and identify basic issues in circuit construction or execution.
+* Analyse the interaction between parameterised quantum circuits, expectation-value estimation, and classical optimisation in a variational algorithm.
+* Compare the execution workflows of variational and gate-model quantum algorithms, including the role of repeated circuit evaluation and parameter updates.
+
 
 ## Subskills
 

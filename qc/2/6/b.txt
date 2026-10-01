@@ -12,5 +12,5 @@ This skill introduces Grover's algorithm, which provides a quadratic speedup for
 * Describe the problem addressed by Grover's algorithm and its classical query complexity.
 * Explain how amplitude amplification and interference are used to increase the probability of the marked state.
 * Execute Grover's algorithm step by step for a simple oracle and search space.
-* Calculate and interpret the measurement outcomes to identify the marked state.
+* Calculate the probability of measuring the marked state and interpret the measurement outcomes.
 

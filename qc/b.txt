@@ -1,14 +1,25 @@
 # QC Quantum Computing
 
-Quantum computing is an emerging paradigm that leverages principles of quantum mechanics to solve problems that are intractable for classical computers.
-This node skill introduces learners to the foundations of quantum information, quantum programming, and the integration of quantum resources into high-performance computing (HPC) workflows.
-By covering theory, algorithms, hardware, and hybrid approaches, this branch prepares learners for both conceptual understanding and practical experimentation.
+Quantum computing is an emerging paradigm that leverages principles of quantum mechanics to provide known computational speedups for certain classes of problems and may offer advantages for others.
+This node introduces learners to the foundations of quantum information, quantum programming, and the integration of quantum resources into high-performance computing (HPC) workflows.
+By covering foundational principles, algorithms, programming, hardware, simulation, and hybrid and alternative computational models, this branch prepares learners for both conceptual understanding and practical experimentation.
 
 ## Requirements
 
 External:
 * Basic linear algebra  
 * Introductory quantum mechanics (helpful but not required)
+
+## Learning Outcomes
+
+* Analyse how quantum information is represented, manipulated, and measured within the gate-based model of quantum computation.
+* Evaluate representative quantum algorithms and protocols in terms of their computational principles and advantages relative to classical approaches.
+* Compare variational, hybrid quantum-classical, and quantum-inspired methods in terms of their workflows, applicability, strengths, and limitations.
+* Assess quantum programming frameworks and workflows for implementing and executing gate-model and variational algorithms.
+* Assess how hardware characteristics, compilation, noise, and fault-tolerance requirements constrain the practical execution of quantum computations.
+* Assess the capabilities and practical limitations of classical quantum simulation on HPC systems.
+* Assess the integration and effectiveness of quantum resources within HPC workflows relative to appropriate classical baselines.
+* Assess quantum annealing and adiabatic approaches in terms of their computational model, problem suitability, and practical constraints.
 
 ## Subskills
 

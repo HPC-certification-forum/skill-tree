@@ -1,6 +1,6 @@
 # QC5.2 Quantum Compilation and Transpilation
 
-This skill introduces quantum compilation as the process of translating abstract quantum circuits into hardware-executable instructions. Learners examine how logical circuits are mapped onto physical qubits, how gate sets and connectivity constraints affect compilation, and how optimisation techniques are used to reduce circuit depth and error accumulation. The focus is on understanding compilation as a critical systems layer between algorithms and hardware.
+This skill introduces quantum compilation as the process of translating abstract quantum circuits into executable instructions on the hardware. Learners examine how logical circuits are mapped onto physical qubits, how gate sets and connectivity constraints affect compilation, and how optimisation techniques are used to reduce circuit depth and error accumulation. The focus is on understanding compilation as a critical systems layer between algorithms and hardware.
 
 ## Requirements
 
@@ -14,3 +14,4 @@ This skill introduces quantum compilation as the process of translating abstract
 * Explain the impact of qubit connectivity and hardware constraints on compiled circuits.
 * Describe common compilation objectives, such as reducing circuit depth and gate count.
 * Explain why compilation quality has a significant impact on practical algorithm performance.
+* Analyse a simple quantum circuit to identify changes required by a restricted native gate set or qubit-connectivity graph.

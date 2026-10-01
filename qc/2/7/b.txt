@@ -12,5 +12,5 @@ This skill introduces the Quantum Fourier Transform (QFT) as a key quantum algor
 * Describe the purpose and mathematical action of the Quantum Fourier Transform.
 * Explain how the QFT maps computational basis states to phase-encoded superpositions.
 * Execute the QFT circuit step by step for a small number of qubits.
-* Calculate and interpret the output amplitudes to understand the transformed state.
+* Calculate and interpret the output amplitudes of the transformed state.
 

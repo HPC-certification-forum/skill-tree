@@ -11,4 +11,4 @@ This skill provides a conceptual introduction to variational and hybrid quantum-
 * Describe the general workflow of variational and hybrid quantum-classical algorithms.
 * Explain the use of parameterised quantum circuits and classical optimisation loops.
 * Identify the advantages of variational algorithms for near-term quantum devices (NISQ).
-* Recognise limitations such as slow convergence, barren plateaus, and the lack of guaranteed quantum advantage.
+* Explain limitations such as slow convergence, barren plateaus, and the lack of guaranteed quantum advantage.

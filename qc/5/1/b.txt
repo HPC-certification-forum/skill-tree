@@ -1,6 +1,6 @@
 # QC5.1 Qubit Technologies and Physical Platforms
 
-This skill introduces the main physical implementations of qubits and the engineering infrastructure required to operate them. Learners survey leading qubit technologies—including superconducting qubits, trapped ions, neutral atoms, and photonic systems—and compare their key characteristics. Emphasis is placed on physical requirements such as cooling, isolation, control hardware, and scalability constraints, rather than device-level physics.
+This skill introduces the main physical implementations of qubits and the engineering infrastructure required to operate them. Learners survey leading qubit technologies, such as superconducting qubits, trapped ions, neutral atoms, and photonic systems, and compare their key characteristics. Emphasis is placed on physical requirements such as cooling, isolation, control hardware, and scalability constraints, rather than the physics of the device.
 
 ## Requirements
 

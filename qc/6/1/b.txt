@@ -1,20 +1,19 @@
 # QC6.1 Quantum Simulation on Classical HPC Systems
 
-This skill introduces methods for simulating quantum computation on classical high-performance computing systems. Learners examine different quantum simulation strategies, including state-vector simulation, tensor-network approaches, and sampling-based methods, and how their computational cost scales with system size.
+This skill introduces methods for simulating quantum computation on classical high-performance computing systems. Learners examine different quantum simulation strategies, including state-vector simulation, tensor-network approaches, and sampling-based and approximate methods, and how their computational cost scales with system size.
 
 The focus is on understanding memory requirements, parallelisation strategies, and practical limits, rather than on simulator implementation details.
 
 ## Requirements
 
 * [[skill-tree:qc:1:3:b]]
-* [[skill-tree:qc:4:b]]
 
 ## Learning Outcomes
 
-* Describe the purpose of quantum simulation in algorithm development and benchmarking.
-* Compare different simulation approaches in terms of accuracy, scalability, and resource requirements.
-* Explain why classical simulation becomes infeasible as quantum system size increases.
-
+* Evaluate state-vector simulation in terms of computational scaling, memory requirements, and practical HPC limits.
+* Assess the suitability of tensor-network simulation based on circuit structure, entanglement, and computational cost.
+* Evaluate sampling-based and approximate simulation methods in terms of the trade-offs between accuracy, scalability, and resource requirements.
+* Assess when sampling-based and approximate simulation methods are suitable relative to exact state-vector simulation.
 
 ## Subskills
 

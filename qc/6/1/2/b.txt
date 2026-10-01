@@ -12,7 +12,7 @@ Emphasis is placed on understanding the role of entanglement, contraction order,
 ## Learning Outcomes
 
 * Explain the basic concept of representing quantum states and operations as tensor networks.
-* Describe how tensor-network representations reduce memory and computation requirements compared to state-vector simulation.
+* Describe how tensor-network representations can reduce memory and computational requirements for suitable quantum circuits.
 * Explain how entanglement and network topology affect the effectiveness of tensor-network simulation.
 * Describe how contraction order influences computational cost.
 * Identify classes of quantum circuits where tensor-network simulation is advantageous.

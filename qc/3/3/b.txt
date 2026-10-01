@@ -4,7 +4,7 @@ This skill introduces the Quantum Approximate Optimisation Algorithm (QAOA) as a
 
 ## Requirements
 
-* [[skill-tree:qc:3:0:b]]
+* [[skill-tree:qc:3:1:b]]
 
 ## Learning Outcomes
 
@@ -12,4 +12,4 @@ This skill introduces the Quantum Approximate Optimisation Algorithm (QAOA) as a
 * Explain, in conceptual terms, how the problem Hamiltonian encodes an optimisation objective.
 * Explain how parameterised quantum circuits explore candidate solutions.
 * Execute the QAOA algorithm step by step for a small example.
-* Calculate and interpret the output to identify approximate optimal solutions.
+* Calculate and interpret objective values and measurement probabilities to identify approximate solutions.

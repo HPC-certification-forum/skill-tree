@@ -1,29 +1,25 @@
 # QC6 Quantum–HPC Integration
 
 This skill explores how quantum computing can be integrated into high-performance computing (HPC) environments and workflows.
-Learners examine hybrid quantum–classical approaches in which classical HPC resources prepare circuits, execute them on simulators or quantum processors, and post-process measurement results.
+Learners examine hybrid quantum–classical approaches in which classical HPC resources prepare circuits, submit them for execution on simulators or quantum processors, and post-process measurement results.
 The skill focuses on integration patterns and constraints that matter in HPC settings, including co-locating quantum workloads with classical pre-/post-processing, managing latency and throughput, and assessing end-to-end time-to-solution.
-Representative examples (e.g., chemistry/materials, optimization, and machine learning) are used to illustrate both opportunities and practical limitations such as noise, limited throughput, and the impact of sampling on runtime.
+Representative examples (e.g., chemistry/materials, optimisation, and machine learning) are used to illustrate both opportunities and practical limitations such as noise, limited throughput, and the impact of sampling on runtime.
 
 ## Requirements
 
 External:
-* Basics in linear algebra
-* Quantum mechanics helpful but not required
+* Basic linear algebra
 
 Internal:
 * [[skill-tree:qc:1:3:b]]
-* [[skill-tree:qc:1:b]]
-* [[skill-tree:qc:4:b]]
-* [[skill-tree:qc:5:b]]
 
 ## Learning Outcomes
 
-* Describe the role of quantum processors as accelerators in hybrid quantum–classical workflows in HPC settings.
-* Differentiate between classical simulation of quantum circuits and execution on quantum hardware, and explain why each is used in HPC workflows.
-* Describe, at a practical level, how hybrid workflows iterate between circuit execution, sampling, and classical post-processing (including parameter updates when relevant).
-* Analyze end-to-end performance considerations for quantum–HPC workflows (latency, throughput, sampling cost, and repetition due to noise) and how they affect time-to-solution.
-* Discuss representative HPC-relevant application areas where quantum workflows are being explored (e.g., chemistry/materials, optimization, and machine learning) and what “success” would look like compared to classical baselines.
+* Evaluate classical quantum simulation approaches in terms of their suitability, scalability, accuracy, and HPC resource requirements.
+* Analyse the orchestration of hybrid quantum–HPC workflows and the coordination of quantum and classical resources.
+* Evaluate the performance trade-offs of hybrid quantum–HPC workflows, including latency, throughput, and end-to-end time-to-solution.
+* Analyse how quantum subroutines are integrated into larger HPC workflows across representative application domains.
+* Assess the effectiveness, potential benefits, and practical limitations of quantum–HPC workflows relative to appropriate classical methods.
 
 
 ## Subskills

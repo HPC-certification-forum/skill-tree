@@ -1,6 +1,6 @@
 # QC6.1.3 Sampling-Based and Approximate Quantum Simulation
 
-This skill introduces sampling-based and approximate simulation strategies for classical HPC systems. Learners examine techniques that estimate quantum measurement outcomes without representing the full quantum state, trading exactness for scalability.
+This skill introduces sampling-based and approximate simulation strategies for classical HPC systems. Learners examine techniques that estimate quantum measurement outcomes without explicitly representing the exact full quantum state, trading exactness for scalability.
 
 Emphasis is placed on understanding when approximate simulation is useful, how accuracy and resource requirements scale, and the types of problems that benefit from sampling-based approaches.
 
@@ -12,7 +12,7 @@ Emphasis is placed on understanding when approximate simulation is useful, how a
 ## Learning Outcomes
 
 * Describe the purpose of sampling-based or approximate quantum simulation.
-* Explain how measurement outcomes can be estimated without simulating the full quantum state.
+* Explain how measurement outcomes can be estimated without explicitly simulating the exact full quantum state.
 * Compare the trade-offs between accuracy, resource usage, and scalability for approximate simulation.
 * Identify scenarios where sampling-based simulation is preferred over exact state-vector simulation.
-* Explain how these methods enable simulation of larger quantum systems that are intractable for exact methods.
+* Explain how approximate methods can extend simulation to larger quantum systems for suitable problems, at the cost of reduced accuracy or additional assumptions.

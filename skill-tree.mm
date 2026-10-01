@@ -497,7 +497,7 @@
 <node TEXT="8: Quantum Phase Estimation (QC2.8)" ID="ID_1760593432" CREATED="1770322776931" MODIFIED="1784794380526" LINK="qc/2/8/b.txt"/>
 <node TEXT="9: Shor&apos;s Algorithm (QC2.9)" ID="ID_859966123" CREATED="1770322998260" MODIFIED="1784794378685" LINK="qc/2/9/b.txt"/>
 </node>
-<node TEXT="3: Variational and Hybrid Quantum Algorithms (QC3)" FOLDED="true" POSITION="bottom_or_right" ID="ID_18425153" CREATED="1651503258947" MODIFIED="1784799807534" LINK="qc/3/b.txt">
+<node TEXT="3: Variational, Hybrid, and Quantum-Inspired Methods (QC3)" FOLDED="true" POSITION="bottom_or_right" ID="ID_18425153" CREATED="1651503258947" MODIFIED="1785145394566" LINK="qc/3/b.txt">
 <icon BUILTIN="emoji-1F4C1"/>
 <node TEXT="1: Conceptual Overview of Variational Algorithms (QC3.1)" ID="ID_259572731" CREATED="1770323993679" MODIFIED="1784794416074" LINK="qc/3/1/b.txt" HGAP_QUANTITY="14.75 pt"/>
 <node TEXT="2: Variational Quantum Eigensolver (QC3.2)" ID="ID_1332000053" CREATED="1770323550647" MODIFIED="1784794421872" LINK="qc/3/2/b.txt"/>

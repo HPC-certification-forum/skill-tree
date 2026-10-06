@@ -1,0 +1,25 @@
+# QC4 Quantum Programming
+
+This skill group introduces quantum programming from a practical and applied perspective. Learners explore how quantum algorithms are expressed as executable programs using contemporary quantum software frameworks, and how abstract circuit models are translated into code that can be executed on simulators or quantum hardware.
+
+Emphasis is placed on understanding common programming patterns, the structure of the quantum software stack, and the practical workflow of developing, executing, and interpreting quantum programs. The focus is on operational competence and conceptual understanding rather than framework-specific expertise.
+
+## Requirements
+
+Internal:
+* [[skill-tree:qc:1:3:b]]
+
+## Learning Outcomes
+
+* Assess quantum programming frameworks based on their shared abstractions, software-stack components, and execution workflows.
+* Evaluate whether a gate-model quantum program correctly translates an algorithm into an executable circuit.
+* Evaluate the execution and measurement results of gate-model quantum programs against their expected behaviour and identify basic issues in circuit construction or execution.
+* Analyse the interaction between parameterised quantum circuits, expectation-value estimation, and classical optimisation in a variational algorithm.
+* Compare the execution workflows of variational and gate-model quantum algorithms, including the role of repeated circuit evaluation and parameter updates.
+
+
+## Subskills
+
+* [[skill-tree:qc:4:1:b]]
+* [[skill-tree:qc:4:2:b]]
+* [[skill-tree:qc:4:3:b]]

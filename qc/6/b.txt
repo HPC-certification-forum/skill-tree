@@ -1,0 +1,29 @@
+# QC6 Quantum–HPC Integration
+
+This skill explores how quantum computing can be integrated into high-performance computing (HPC) environments and workflows.
+Learners examine hybrid quantum–classical approaches in which classical HPC resources prepare circuits, submit them for execution on simulators or quantum processors, and post-process measurement results.
+The skill focuses on integration patterns and constraints that matter in HPC settings, including co-locating quantum workloads with classical pre-/post-processing, managing latency and throughput, and assessing end-to-end time-to-solution.
+Representative examples (e.g., chemistry/materials, optimisation, and machine learning) are used to illustrate both opportunities and practical limitations such as noise, limited throughput, and the impact of sampling on runtime.
+
+## Requirements
+
+External:
+* Basic linear algebra
+
+Internal:
+* [[skill-tree:qc:1:3:b]]
+
+## Learning Outcomes
+
+* Evaluate classical quantum simulation approaches in terms of their suitability, scalability, accuracy, and HPC resource requirements.
+* Analyse the orchestration of hybrid quantum–HPC workflows and the coordination of quantum and classical resources.
+* Evaluate the performance trade-offs of hybrid quantum–HPC workflows, including latency, throughput, and end-to-end time-to-solution.
+* Analyse how quantum subroutines are integrated into larger HPC workflows across representative application domains.
+* Assess the effectiveness, potential benefits, and practical limitations of quantum–HPC workflows relative to appropriate classical methods.
+
+
+## Subskills
+
+* [[skill-tree:qc:6:1:b]]
+* [[skill-tree:qc:6:2:b]]
+* [[skill-tree:qc:6:3:b]]

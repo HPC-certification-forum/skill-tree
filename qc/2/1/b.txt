@@ -1,0 +1,13 @@
+# QC2.1 Phase Kickback and Controlled Operations
+
+This skill introduces phase kickback as a fundamental mechanism used in many quantum algorithms. Learners examine how controlled operations transfer phase information onto control qubits and how this effect can be exploited to encode global properties of a function into measurable quantum states. 
+
+## Requirements
+
+* [[skill-tree:qc:1:3:b]]
+
+## Learning Outcomes
+
+* Describe the concept of phase kickback in controlled quantum operations.
+* Interpret simple quantum circuits that demonstrate phase kickback.
+* Calculate the phase acquired by a control qubit in basic phase kickback examples.

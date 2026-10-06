@@ -1,0 +1,15 @@
+# QC1.4 State Preparation in Quantum Circuits
+
+This skill introduces state preparation as a practical prerequisite for quantum algorithms in the circuit model. Learners examine what it means to prepare an input quantum state using quantum gates, and why the choice of initial state matters for algorithm behaviour and performance. The skill focuses on how state preparation is expressed as a quantum circuit and how preparation complexity influences overall algorithm structure.
+
+## Requirements
+
+* [[skill-tree:qc:1:2:b]]
+* [[skill-tree:qc:1:3:b]]
+
+## Learning Outcomes
+
+* Explain what state preparation means in the quantum circuit model.
+* Describe common state preparation patterns, including initialisation, basis changes, and parameterised (ansatz-based) preparation.
+* Explain why some quantum states require more complex circuits to prepare than others.
+* Describe how state preparation complexity affects the depth and structure of quantum circuits.

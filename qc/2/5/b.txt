@@ -1,0 +1,15 @@
+# QC2.5 Simon's Algorithm
+
+This skill introduces Simon's algorithm, which demonstrates an exponential separation between quantum and classical query complexity for a specific type of hidden function. Learners study how quantum superposition and interference are combined to identify a secret bit string encoded in a black-box function. Emphasis is placed on executing the algorithm and interpreting the outcome.
+
+## Requirements
+
+* [[skill-tree:qc:1:3:b]]
+
+## Learning Outcomes
+
+* Describe the problem solved by Simon's algorithm and its classical query complexity.
+* Explain how superposition and interference are used to obtain constraints on the hidden bit string.
+* Execute Simon's algorithm step by step for a given oracle.
+* Use repeated measurement outcomes to derive constraints and determine the secret string.
+

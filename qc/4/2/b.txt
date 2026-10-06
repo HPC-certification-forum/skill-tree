@@ -1,0 +1,18 @@
+# QC4.2 Implementing Gate-Model Algorithms in Practice
+
+This skill focuses on implementing gate-model quantum algorithms using a quantum programming framework. Learners translate previously studied algorithms into executable programs, construct quantum circuits programmatically, and run them on simulators. Emphasis is placed on understanding the practical workflow of quantum program development, including basic debugging and interpretation of results.
+
+The skill reinforces the connection between abstract circuit diagrams and concrete software implementations.
+
+## Requirements
+
+* [[skill-tree:qc:2:3:b]]
+* [[skill-tree:qc:4:1:b]]
+
+## Learning Outcomes
+
+* Translate a gate-model quantum algorithm into a quantum circuit.
+* Construct quantum circuits using a quantum programming framework.
+* Execute a simple quantum algorithm on a simulator backend.
+* Interpret measurement results and relate them back to the expected algorithmic outcome.
+* Identify and correct basic issues in circuit construction and execution.

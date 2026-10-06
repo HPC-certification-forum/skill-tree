@@ -1,0 +1,16 @@
+# QC2.6 Grover's Algorithm
+
+This skill introduces Grover's algorithm, which provides a quadratic speedup for unstructured search problems compared with classical approaches. Learners examine how amplitude amplification and interference are combined to increase the probability of measuring a marked state. Emphasis is placed on executing the algorithm step by step and interpreting the measurement outcomes.
+
+## Requirements
+
+* [[skill-tree:qc:1:3:b]]
+* [[skill-tree:qc:2:1:b]]
+
+## Learning Outcomes
+
+* Describe the problem addressed by Grover's algorithm and its classical query complexity.
+* Explain how amplitude amplification and interference are used to increase the probability of the marked state.
+* Execute Grover's algorithm step by step for a simple oracle and search space.
+* Calculate the probability of measuring the marked state and interpret the measurement outcomes.
+

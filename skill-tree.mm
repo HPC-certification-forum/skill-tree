@@ -1,9 +1,12 @@
 <map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
+<bookmarks>
+    <bookmark nodeId="ID_1292385230" name="Nodo radice" opensAsRoot="true"/>
+</bookmarks>
 <node TEXT="Skill Tree" FOLDED="false" ID="ID_1292385230" CREATED="1701761058911" MODIFIED="1754462689645" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle" zoom="0.733">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
+<hook NAME="MapStyle" zoom="1.179">
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_tags="UNDER_NODES" show_note_icons="true" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -14,6 +17,9 @@
 <font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false"/>
 </stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.details"/>
+<stylenode LOCALIZED_TEXT="defaultstyle.tags">
+<font SIZE="10"/>
+</stylenode>
 <stylenode LOCALIZED_TEXT="defaultstyle.attributes">
 <font SIZE="9"/>
 </stylenode>
@@ -65,7 +71,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="5" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="15" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="PE: Performance Engineering" POSITION="top_or_left" ID="ID_1493885149" CREATED="1283093380553" MODIFIED="1744725036513" LINK="pe/b.txt" HGAP_QUANTITY="35.75 pt" VSHIFT_QUANTITY="66.75 pt">
 <icon BUILTIN="emoji-1F4C1"/>
 <edge COLOR="#ff0000"/>
@@ -104,7 +110,7 @@
 </node>
 <node TEXT="5: Optimization principals (PE5)" LOCALIZED_STYLE_REF="default" ID="ID_516118022" CREATED="1495117961736" MODIFIED="1725378947997" LINK="pe/5/b.txt"/>
 </node>
-<node TEXT="K: HPC Knowledge" POSITION="bottom_or_right" ID="ID_934952477" CREATED="1495107713753" MODIFIED="1744723221977" LINK="k/b.txt" HGAP_QUANTITY="39.5 pt">
+<node TEXT="K: HPC Knowledge" POSITION="bottom_or_right" ID="ID_934952477" CREATED="1495107713753" MODIFIED="1784800004184" LINK="k/b.txt" HGAP_QUANTITY="39.5 pt" VSHIFT_QUANTITY="54.75 pt">
 <icon BUILTIN="emoji-1F4C1"/>
 <edge COLOR="#007c00"/>
 <cloud COLOR="#ccffcc" SHAPE="ARC"/>
@@ -252,7 +258,7 @@
 <node TEXT="2: Scalable Model Evaluation (BDA7.2)" ID="ID_336491355" CREATED="1745927045160" MODIFIED="1745927379717"/>
 </node>
 </node>
-<node TEXT="SD: Software Development" POSITION="top_or_left" ID="ID_551310687" CREATED="1283093380553" MODIFIED="1744724669840" LINK="sd/b.txt" HGAP_QUANTITY="41.75 pt" VSHIFT_QUANTITY="-89.25 pt">
+<node TEXT="SD: Software Development" POSITION="top_or_left" ID="ID_551310687" CREATED="1283093380553" MODIFIED="1784793317958" LINK="sd/b.txt" HGAP_QUANTITY="48.5 pt" VSHIFT_QUANTITY="11.25 pt">
 <icon BUILTIN="emoji-1F4C1"/>
 <edge COLOR="#0000ff"/>
 <cloud COLOR="#f0f0f0" SHAPE="ARC"/>
@@ -341,7 +347,7 @@
 <node TEXT="2: Shell Scripts (USE1.2)" ID="ID_1985138650" CREATED="1495115383882" MODIFIED="1725378285043" LINK="use/1/2/b.txt"/>
 <node TEXT="3: Unix file system (USE1.3)" ID="ID_1247705415" CREATED="1495121405408" MODIFIED="1725378290954" LINK="use/1/3/b.txt"/>
 <node TEXT="4: Remote Access (USE1.4)" ID="ID_140339595" CREATED="1577731525829" MODIFIED="1725378296684" LINK="use/1/4/b.txt"/>
-<node TEXT="5: Software Environment (USE1.5)" FOLDED="true" ID="ID_791965209" CREATED="1495115409673" MODIFIED="1744723982157" LINK="use/1/5/b.txt">
+<node TEXT="5: Software Environment (USE1.5)" ID="ID_791965209" CREATED="1495115409673" MODIFIED="1744723982157" LINK="use/1/5/b.txt">
 <icon BUILTIN="emoji-1F4C1"/>
 <node TEXT="1: Environment Modules (USE1.5.1)" ID="ID_867808287" CREATED="1495115463009" MODIFIED="1725378317843" LINK="use/1/5/1/b.txt"/>
 <node TEXT="2: Spack (USE1.5.2)" ID="ID_564286239" CREATED="1705399834204" MODIFIED="1725378323760" LINK="use/1/5/2/b.txt"/>
@@ -375,7 +381,7 @@
 <node TEXT="AI Infrastructure" POSITION="bottom_or_right" ID="ID_1431017907" CREATED="1745478400741" MODIFIED="1754402531915" LINK="use/8/2/b.txt"/>
 </node>
 </node>
-<node TEXT="ADM: Administration" POSITION="bottom_or_right" ID="ID_819912596" CREATED="1549369259074" MODIFIED="1744724094526" LINK="adm/b.txt" HGAP_QUANTITY="51.5 pt" VSHIFT_QUANTITY="1.5 pt">
+<node TEXT="ADM: Administration" POSITION="bottom_or_right" ID="ID_819912596" CREATED="1549369259074" MODIFIED="1784799996367" LINK="adm/b.txt" HGAP_QUANTITY="52.25 pt" VSHIFT_QUANTITY="1.5 pt">
 <icon BUILTIN="emoji-1F4C1"/>
 <edge COLOR="#808080"/>
 <cloud COLOR="#cccc00" SHAPE="ARC"/>
@@ -426,11 +432,11 @@
 <icon BUILTIN="emoji-1F4C1"/>
 <edge COLOR="#808080"/>
 <cloud COLOR="#eab364" SHAPE="ARC"/>
-<node TEXT="1: AI System Design and Deployment (AI1)" FOLDED="true" POSITION="top_or_left" ID="ID_1722117279" CREATED="1745477877922" MODIFIED="1754402849603" LINK="ai/1/b.txt">
+<node TEXT="1: AI System Design and Deployment (AI1)" FOLDED="true" POSITION="top_or_left" ID="ID_1722117279" CREATED="1745477877922" MODIFIED="1784793307963" LINK="ai/1/b.txt">
 <icon BUILTIN="emoji-1F4C1"/>
 <node TEXT="1: HPC AI Architectures (AI1.1)" ID="ID_1825166599" CREATED="1745927404171" MODIFIED="1754402989308" LINK="ai/1/1/b.txt"/>
 <node TEXT="2: AI Workflow Management (AI1.2)" ID="ID_1029910379" CREATED="1745927443638" MODIFIED="1754403008075" LINK="ai/1/2/b.txt"/>
-<node TEXT="3: Agents (AI1.3)" ID="ID_566637453" CREATED="1745927466809" MODIFIED="1754403039892" LINK="ai/1/3/b.txt"/>
+<node TEXT="3: Agents (AI1.3)" ID="ID_566637453" CREATED="1745927466809" MODIFIED="1784793307963" LINK="ai/1/3/b.txt"/>
 <node TEXT="4: Fine Tuning (AI1.4)" ID="ID_1027333726" CREATED="1745927630853" MODIFIED="1754403107154" LINK="ai/1/4/b.txt"/>
 </node>
 <node TEXT="2: Engineering and Infrastructure (AI2)" FOLDED="true" POSITION="top_or_left" ID="ID_1448774805" CREATED="1745477856501" MODIFIED="1754402865201" LINK="ai/2/b.txt">
@@ -468,6 +474,62 @@
 <node TEXT="2: Building AI APIs (AI6.2)" ID="ID_677374" CREATED="1745928850973" MODIFIED="1754403489861" LINK="ai/6/2/b.txt"/>
 <node TEXT="3: AI Frameworks (AI6.3)" ID="ID_65429975" CREATED="1745928885408" MODIFIED="1754403499316" LINK="ai/6/3/b.txt"/>
 </node>
+</node>
+<node TEXT="QC: Quantum Computing" POSITION="bottom_or_right" ID="ID_175291660" CREATED="1495107713753" MODIFIED="1784799998402" LINK="qc/b.txt" HGAP_QUANTITY="39.5 pt" VSHIFT_QUANTITY="0.75 pt">
+<icon BUILTIN="emoji-1F4C1"/>
+<edge COLOR="#007c00"/>
+<cloud COLOR="#ffff99" SHAPE="ARC"/>
+<node TEXT="1: Quantum Computing Principles (QC1)" FOLDED="true" ID="ID_1856631692" CREATED="1651503258947" MODIFIED="1784799678763" LINK="qc/1/b.txt">
+<icon BUILTIN="emoji-1F4C1"/>
+<node TEXT="1: Foundations of Quantum Computing and Qubits (QC1.1)" ID="ID_844620566" CREATED="1770215649561" MODIFIED="1784794289214" LINK="qc/1/1/b.txt"/>
+<node TEXT="2: Single-Qubit Systems (QC1.2)" ID="ID_452866885" CREATED="1770216704703" MODIFIED="1784794293542" LINK="qc/1/2/b.txt"/>
+<node TEXT="3: Multi-Qubit Systems and the Gate Model of Quantum Computation (QC1.3)" ID="ID_1017717898" CREATED="1770222201286" MODIFIED="1784794301994" LINK="qc/1/3/b.txt"/>
+<node TEXT="4: State Preparation in Quantum Circuits (QC1.4)" ID="ID_317091641" CREATED="1770378557733" MODIFIED="1784794311010" LINK="qc/1/4/b.txt"/>
+<node TEXT="5: Quantum Measurement (QC1.5)" ID="ID_291702473" CREATED="1770378822806" MODIFIED="1784794316103" LINK="qc/1/5/b.txt"/>
+</node>
+<node TEXT="2: Quantum Algorithms (QC2)" FOLDED="true" POSITION="bottom_or_right" ID="ID_836232446" CREATED="1651503258947" MODIFIED="1784799722607" LINK="qc/2/b.txt">
+<icon BUILTIN="emoji-1F4C1"/>
+<node TEXT="1: Phase Kickback and Controlled Operations (QC2.1)" ID="ID_1472506108" CREATED="1770321201746" MODIFIED="1784794392488" LINK="qc/2/1/b.txt"/>
+<node TEXT="2: Quantum Teleportation (QC2.2)" ID="ID_1397286500" CREATED="1770321222889" MODIFIED="1784794390883" LINK="qc/2/2/b.txt"/>
+<node TEXT="3: Deutsch&apos;s Algorithm (QC2.3)" ID="ID_167606211" CREATED="1770321232258" MODIFIED="1784794388899" LINK="qc/2/3/b.txt"/>
+<node TEXT="4: Bernstein-Vazirani Algorithm (QC2.4)" ID="ID_1190376343" CREATED="1770321239241" MODIFIED="1784794387202" LINK="qc/2/4/b.txt"/>
+<node TEXT="5: Simon&apos;s Algorithm (QC2.5)" ID="ID_1404231739" CREATED="1770321245971" MODIFIED="1784794385412" LINK="qc/2/5/b.txt"/>
+<node TEXT="6: Grover&apos;s Algorithm (QC2.6)" ID="ID_290255858" CREATED="1770321252899" MODIFIED="1784794383805" LINK="qc/2/6/b.txt"/>
+<node TEXT="7: Quantum Fourier Transform (QC2.7)" ID="ID_46524569" CREATED="1770321260674" MODIFIED="1784794382163" LINK="qc/2/7/b.txt"/>
+<node TEXT="8: Quantum Phase Estimation (QC2.8)" ID="ID_1760593432" CREATED="1770322776931" MODIFIED="1784794380526" LINK="qc/2/8/b.txt"/>
+<node TEXT="9: Shor&apos;s Algorithm (QC2.9)" ID="ID_859966123" CREATED="1770322998260" MODIFIED="1784794378685" LINK="qc/2/9/b.txt"/>
+</node>
+<node TEXT="3: Variational, Hybrid, and Quantum-Inspired Methods (QC3)" FOLDED="true" POSITION="bottom_or_right" ID="ID_18425153" CREATED="1651503258947" MODIFIED="1785145394566" LINK="qc/3/b.txt">
+<icon BUILTIN="emoji-1F4C1"/>
+<node TEXT="1: Conceptual Overview of Variational Algorithms (QC3.1)" ID="ID_259572731" CREATED="1770323993679" MODIFIED="1784794416074" LINK="qc/3/1/b.txt" HGAP_QUANTITY="14.75 pt"/>
+<node TEXT="2: Variational Quantum Eigensolver (QC3.2)" ID="ID_1332000053" CREATED="1770323550647" MODIFIED="1784794421872" LINK="qc/3/2/b.txt"/>
+<node TEXT="3: Quantum Approximate Optimisation Algorithm (QC3.3)" ID="ID_540733812" CREATED="1770323573152" MODIFIED="1784794426816" LINK="qc/3/3/b.txt"/>
+<node TEXT="4: Quantum-Inspired Methods for Classical HPC (QC3.4)" ID="ID_925756415" CREATED="1770997425968" MODIFIED="1784794431186" LINK="qc/3/3/b.txt"/>
+</node>
+<node TEXT="4: Quantum Programming (QC4)" FOLDED="true" POSITION="bottom_or_right" ID="ID_5406097" CREATED="1651503258947" MODIFIED="1784799814318" LINK="qc/4/b.txt">
+<icon BUILTIN="emoji-1F4C1"/>
+<node TEXT="1: Quantum Programming Toolchains (QC4.1)" ID="ID_1449633851" CREATED="1770380756270" MODIFIED="1784794455470" LINK="qc/4/1/b.txt"/>
+<node TEXT="2: Implementing Gate-Model Algorithms in Practice (QC4.2)" ID="ID_1300296746" CREATED="1770380892188" MODIFIED="1784794459481" LINK="qc/4/2/b.txt"/>
+<node TEXT="3: Implementing Variational Algorithms End-to-End (QC4.3)" ID="ID_742933344" CREATED="1770380942900" MODIFIED="1784794464329" LINK="qc/4/3/b.txt"/>
+</node>
+<node TEXT="5: Quantum Hardware and Architectures (QC5)" FOLDED="true" POSITION="bottom_or_right" ID="ID_977101451" CREATED="1651503258947" MODIFIED="1784799821261" LINK="qc/5/b.txt">
+<icon BUILTIN="emoji-1F4C1"/>
+<node TEXT="1: Qubit Technologies and Physical Platforms (QC5.1)" ID="ID_1431758923" CREATED="1770379919373" MODIFIED="1784794473443" LINK="qc/5/1/b.txt"/>
+<node TEXT="2: Quantum Compilation and Transpilation (QC5.2)" ID="ID_914864680" CREATED="1770380016141" MODIFIED="1784794477325" LINK="qc/5/2/b.txt"/>
+<node TEXT="3: Noise, Error Correction, and Fault Tolerance (QC5.3)" ID="ID_1529827268" CREATED="1770380211644" MODIFIED="1784794484016" LINK="qc/5/3/b.txt"/>
+</node>
+<node TEXT="6: Quantum-HPC Integration (QC6)" FOLDED="true" POSITION="bottom_or_right" ID="ID_1427632261" CREATED="1651503258947" MODIFIED="1784799828281" LINK="qc/6/b.txt">
+<icon BUILTIN="emoji-1F4C1"/>
+<node TEXT="1: Quantum Simulation on Classical HPC Systems (QC6.1)" ID="ID_1634895472" CREATED="1651503258947" MODIFIED="1784799865485" LINK="qc/6/1/b.txt">
+<icon BUILTIN="emoji-1F4C1"/>
+<node TEXT="1: State-Vector Quantum Simulation (QC6.1.1)" ID="ID_448566706" CREATED="1770384981411" MODIFIED="1784794520749" LINK="qc/6/1/1/b.txt"/>
+<node TEXT="2: Tensor-Network-Based Quantum Simulation (QC6.1.2)" ID="ID_574039765" CREATED="1770385093284" MODIFIED="1784794524748" LINK="qc/6/1/2/b.txt"/>
+<node TEXT="3: Sampling-Based and Approximate Quantum Simulation (QC6.1.3)" ID="ID_896163172" CREATED="1770385156084" MODIFIED="1784794530251" LINK="qc/6/1/3/b.txt"/>
+</node>
+<node TEXT="2: Hybrid Quantum–HPC Workflows and Orchestration (QC6.2)" ID="ID_1499403224" CREATED="1770386079227" MODIFIED="1784794538382" LINK="qc/6/2/b.txt"/>
+<node TEXT="3: Applications and Use Cases for Quantum–HPC Workflows (QC6.3)" ID="ID_1200211633" CREATED="1770387412659" MODIFIED="1784794542453" LINK="qc/6/3/b.txt"/>
+</node>
+<node TEXT="7: Quantum Annealing and Adiabatic Computing (QC7)" ID="ID_1827716958" CREATED="1770394671929" MODIFIED="1784794548829" LINK="qc/7/b.txt"/>
 </node>
 </node>
 </map>

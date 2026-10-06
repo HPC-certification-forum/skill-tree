@@ -1,0 +1,14 @@
+# QC3.1 Conceptual Overview of Variational Algorithms
+
+This skill provides a conceptual introduction to variational and hybrid quantum-classical algorithms. Learners explore the general workflow of parameterised quantum circuits combined with classical optimisation loops, and understand how these algorithms are applied to solve optimisation and simulation problems on near-term quantum devices (NISQ). The skill also highlights the main advantages and limitations of the approach, providing a foundation for subsequent skills on specific algorithms such as VQE and QAOA.
+
+## Requirements
+
+* [[skill-tree:qc:1:3:b]]
+
+## Learning Outcomes
+
+* Describe the general workflow of variational and hybrid quantum-classical algorithms.
+* Explain the use of parameterised quantum circuits and classical optimisation loops.
+* Identify the advantages of variational algorithms for near-term quantum devices (NISQ).
+* Explain limitations such as slow convergence, barren plateaus, and the lack of guaranteed quantum advantage.

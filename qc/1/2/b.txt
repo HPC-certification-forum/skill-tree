@@ -1,0 +1,16 @@
+# QC1.2 Single-Qubit Systems
+
+This skill focuses on the behaviour of single-qubit systems under quantum operations. Learners examine how quantum gates act on a qubit, how these operations differ from classical logic, and how computation is represented using simple quantum circuits. Measurement and fundamental constraints on quantum information are introduced to highlight the distinctive properties of quantum computation.
+
+## Requirements
+
+* [[skill-tree:qc:1:1:b]]
+
+## Learning Outcomes
+
+* Explain the role of quantum gates as operations on single-qubit states.
+* Differentiate between classical logic gates and quantum gates, including the concepts of reversibility and unitarity.
+* Describe the effect of measurement on a single-qubit state.
+* Explain the no-cloning theorem and its implications for quantum information.
+* Identify and describe common single-qubit gates, including the identity, Pauli, Hadamard and rotation gates.
+* Interpret simple quantum circuits operating on a single qubit.

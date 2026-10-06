@@ -9,3 +9,4 @@
 * [[skill-tree:sd:b]]
 * [[skill-tree:use:b]]
 * [[skill-tree:ai:b]]
+* [[skill-tree:qc:b]]

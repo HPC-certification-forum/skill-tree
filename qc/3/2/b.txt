@@ -1,0 +1,17 @@
+# QC3.2 Variational Quantum Eigensolver (VQE)
+
+This skill introduces the Variational Quantum Eigensolver (VQE) as a hybrid quantum-classical algorithm for approximating the lowest eigenvalue of a Hamiltonian. Learners are provided with a simple conceptual explanation of a Hamiltonian as an operator whose expectation value defines the cost function minimised by VQE, with the minimum corresponding to an approximation of its lowest eigenvalue. The skill emphasises how parameterised quantum circuits are used to prepare candidate solutions and combined with classical optimisation routines to minimise this cost function.
+ Focus is placed on executing the algorithm on small examples and interpreting the results, without requiring prior physics knowledge.
+
+## Requirements
+
+* [[skill-tree:qc:3:1:b]]
+
+## Learning Outcomes
+
+* Describe the purpose of the VQE algorithm and its hybrid quantum-classical workflow.
+* Explain, in conceptual terms, how the expectation value of a Hamiltonian defines the cost function minimised in VQE.
+* Explain how parameterised quantum circuits generate candidate solutions.
+* Execute the VQE algorithm step by step for a small example.
+* Calculate and interpret expectation values for a small example to estimate the lowest eigenvalue.
+

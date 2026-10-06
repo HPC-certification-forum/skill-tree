@@ -1,0 +1,21 @@
+# QC5.3 Noise, Error Correction, and Fault Tolerance
+
+This skill introduces the main sources of error in quantum hardware and explains, at a high level, how error mitigation, quantum error correction, and fault tolerance address them. Learners examine how decoherence, control imperfections, and measurement errors affect quantum computations, and why these effects fundamentally limit circuit depth and algorithm feasibility.
+
+The skill then introduces the motivation for quantum error correction, the distinction between physical and logical qubits, and the role of repeated syndrome measurement. Finally, learners explore core fault-tolerance concepts, including threshold behaviour and surface-code-style approaches, with emphasis on the resource overhead required to achieve reliable computation.
+
+## Requirements
+
+* [[skill-tree:qc:1:3:b]]
+* [[skill-tree:qc:1:5:b]]
+* [[skill-tree:qc:5:1:b]]
+
+## Learning Outcomes
+
+* Identify major sources of error in quantum hardware, including decoherence, control errors, crosstalk, leakage, and readout errors.
+* Explain T1 and T2 times at a conceptual level and how they relate to gate duration, circuit depth, and achievable accuracy.
+* Describe the distinction between error mitigation and quantum error correction, and when each is applicable.
+* Explain the purpose of quantum error correction in terms of physical versus logical qubits and repeated syndrome measurement.
+* Describe the threshold theorem idea at a high level and its implications for fault-tolerant computation.
+* Explain the basic intuition behind surface-code-style protection and how increased protection leads to higher resource overhead.
+* Assess qualitatively how qubit and time overhead shape expectations for near-term and fault-tolerant quantum computing.

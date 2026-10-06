@@ -1,0 +1,29 @@
+# QC3 Variational, Hybrid, and Quantum-Inspired Methods
+
+This skill group provides a high-level overview of variational, hybrid, and quantum-inspired methods. Learners are introduced to the conceptual framework of hybrid quantum-classical algorithms, which use parameterised quantum circuits and classical optimisation loops to solve problems such as optimisation and simulation on near-term quantum devices (NISQ). The parent node contextualises the branch, highlighting the strengths, limitations, and workflow of these algorithms before learners progress to specific skills such as VQE and QAOA. The branch also introduces quantum-inspired methods that apply concepts and structures originating in quantum computing to algorithms executed on classical HPC systems.
+
+## Requirements
+
+External:
+* Basic linear algebra  
+* Introductory quantum mechanics (helpful but not required)
+
+Internal:
+* [[skill-tree:qc:1:3:b]]
+
+## Learning Outcomes
+
+* Analyse how parameterised quantum circuits and classical optimisation interact in variational and hybrid quantum-classical algorithms.
+* Evaluate the strengths and limitations of variational algorithms for near-term quantum computing.
+* Analyse how VQE combines parameterised quantum circuits and expectation-value estimation to approximate the lowest eigenvalue of a Hamiltonian.
+* Analyse how QAOA combines parameterised quantum circuits and encoded optimisation objectives to obtain approximate solutions to combinatorial optimisation problems.
+* Compare VQE and QAOA in terms of their objectives and variational workflows.
+* Analyse the main families of quantum-inspired methods and the structural assumptions that determine their applicability on classical HPC systems.
+* Evaluate performance claims for quantum-inspired methods relative to strong classical baselines.
+
+## Subskills
+
+* [[skill-tree:qc:3:1:b]]
+* [[skill-tree:qc:3:2:b]]
+* [[skill-tree:qc:3:3:b]]
+* [[skill-tree:qc:3:4:b]]

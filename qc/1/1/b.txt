@@ -1,0 +1,16 @@
+# QC1.1 Foundations of Quantum Computing and Qubits
+
+This skill introduces the conceptual and mathematical foundations of quantum computing. Learners gain an overview of the quantum computing paradigm and develop fluency in the notation and representations used to describe quantum states. The focus is on understanding how a single qubit is modelled mathematically and how this differs fundamentally from classical information.
+
+## Requirements
+
+External: Basic linear algebra  
+External: Introductory quantum mechanics (helpful but not required)
+
+## Learning Outcomes
+
+* Describe the high-level goals and distinguishing characteristics of quantum computing.
+* Interpret quantum states using Dirac (bra–ket) notation.
+* Explain how a single qubit is represented mathematically using state vectors and the computational basis.
+* Describe the principle of superposition for a single qubit.
+* Illustrate the geometric representation of a single-qubit state using the Bloch sphere.

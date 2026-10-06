@@ -1,0 +1,20 @@
+# QC7 Quantum Annealing and Adiabatic Computing
+
+This skill introduces quantum annealing and adiabatic quantum computing as alternative computational models to the gate-based (circuit) approach. Learners develop an intuitive understanding of computation expressed as energy minimisation, where solutions correspond to low-energy configurations of a system. The skill differentiates idealised adiabatic quantum computing as a theoretical model from practical quantum annealers inspired by related physical principles, and situates both within the broader landscape of quantum computation.
+
+## Requirements
+
+External:
+* Basic linear algebra
+
+Internal:
+* [[skill-tree:qc:1:3:b]]
+
+## Learning Outcomes
+
+* Distinguish between gate-based quantum computing and annealing or adiabatic computational models at a conceptual level.
+* Explain how optimisation problems can be represented as energy minimisation problems and addressed through adiabatic evolution.
+* Identify problem classes commonly associated with quantum annealing, including combinatorial optimisation and sampling problems.
+* Describe, at a high level, the distinction between ideal adiabatic quantum computing models and practical quantum annealing implementations.
+* Explain how practical constraints, such as noise, limited control, restricted connectivity, and embedding overheads, influence the capabilities and interpretation of results from quantum annealers.
+* Represent a simple binary optimisation problem using a QUBO or Ising formulation.

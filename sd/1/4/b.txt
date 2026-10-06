@@ -1,6 +1,6 @@
 # SD1.4 Containerization
 
-Containers are a very good at consistently setting up software and being able to deploy it to any system that provides a container manager.
+Containers are very good for consistently setting up software and being able to deploy it to any system that provides a container manager.
 These are also very often used in GitLab runners and offer a very broad ability to deploy any software even if it has a conflict with the host operating system.
 Additionally, in HPC containers are often used to deploy very specific and version safe software packages.
 

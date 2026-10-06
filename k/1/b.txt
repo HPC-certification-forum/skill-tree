@@ -8,6 +8,7 @@ Supercomputers are computers that led the world in terms of processing capacity,
 * Discuss different hardware architectures.
 * Experiment with IO operations on different storage media and also on parallel file systems.
 * Outline typical operation of data and computing centers.
+* Outline the use of accelerator hardware and differentiate between multiple architectures and their uses.
 
 ## Subskills
 
@@ -15,3 +16,4 @@ Supercomputers are computers that led the world in terms of processing capacity,
 * [[skill-tree:k:1:2:b]]
 * [[skill-tree:k:1:3:b]]
 * [[skill-tree:k:1:4:b]]
+* [[skill-tree:k:1:5:b]]

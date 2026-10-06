@@ -1,0 +1,27 @@
+# K1.5.1 Graphics Processing Units (GPU)
+
+Graphics Processing Units (GPU) were originally designed to render graphics as the name implies and are still used today, but the highly parallel nature of the hardware has attracted much attention to HPC programmers.
+These cards are often very power efficient and have a large compute capability by using a very large number of algorithmic units and have all of them work together through code.
+All of them can operate on different memory locations and perform the same operation.
+This is called Single Instruction, multiple Data/Threads (SIMD/T).
+
+Programming these are not easy, but CUDA for example is very efficient.
+The learning outcomes in this skill only cover how the hardware works since programming them is different in each language and covered in the skill category SD.
+
+
+## Requirements
+
+* [[skill-tree:k:1:2:1:b]]
+* [[skill-tree:k:1:2:2:b]]
+
+## Learning Outcomes
+
+* Understand how a GPU manages threads
+* Explain how the data is communicated between the GPU and the CPU
+* Explain the memory model of a GPU
+* Indicate the differences between a CPU core and a GPU multiprocessor
+* Summarize the advantages and disadvantages of GPU vs. CPU
+
+## Author
+
+EVITA project evitahpc.eu

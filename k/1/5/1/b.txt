@@ -2,7 +2,7 @@
 
 Graphics Processing Units (GPU) were originally designed to render graphics as the name implies and are still used today, but the highly parallel nature of the hardware has attracted much attention to HPC programmers.
 These cards are often very power efficient and have a large compute capability by using a very large number of algorithmic units and have all of them work together through code.
-All of them can operate on different memory location and perform the same operation.
+All of them can operate on different memory locations and perform the same operation.
 This is called Single Instruction, multiple Data/Threads (SIMD/T).
 
 Programming these are not easy, but CUDA for example is very efficient.

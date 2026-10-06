@@ -6,7 +6,8 @@ All of them can operate on different memory locations and perform the same opera
 This is called Single Instruction, multiple Data/Threads (SIMD/T).
 
 Programming these are not easy, but CUDA for example is very efficient.
-This skill only shows how the hardware works since programming them is different in each language and covered in SD.
+The learning outcomes in this skill only cover how the hardware works since programming them is different in each language and covered in the skill category SD.
+
 
 ## Requirements
 

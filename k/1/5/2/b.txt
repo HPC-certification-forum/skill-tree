@@ -1,7 +1,7 @@
 # K1.5.2 SpinCloud SpiNNaker
 
 The hardware called SpiNNaker from the company SpinCloud is designed to efficiently calculate Neuromorphic problems.
-This Skill goes into detail how this is achieved in hardware and how this can be  used with a demo program.
+The learning outcomes in this skill go into detail of how neuromorphic problems can be solved in hardware and it can be used with a demo program.
 
 ## Learning Outcomes
 

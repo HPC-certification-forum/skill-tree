@@ -4,10 +4,12 @@ HPC systems have generally installed multiple versions of several essential soft
 Package management tools provide access to this wide variety of software.
 A user has to load the software for the current shell session to make commands available.
 
-The widely available software tools are:
+Some widely available software tools include:
     * Environment modules
     * SPACK
     * Conda
+    * EasyBuild
+    * European Environment for Scientific Software Installations (EESSI)
 
 ## Learning Outcomes
 
@@ -15,9 +17,13 @@ The widely available software tools are:
 * Describe the MODULEPATH variable and understand shell variables relevant for executing and building software
 * Query information about packages using SPACK and install as well as load and unload software modules
 * Understand what conda environments are for and how a user can install their own environments
+* Understand how EasyBuild is used to automate the building, installation, and management of scientific software stacks on HPC systems.
+* Describe the purpose of EESSI and use its software stack to access portable, optimised scientific applications across different HPC infrastructures.
 
 ## Subskills
 
 * [[skill-tree:use:1:5:1:b]]
 * [[skill-tree:use:1:5:2:b]]
 * [[skill-tree:use:1:5:3:b]]
+* [[skill-tree:use:1:5:4:b]]
+* [[skill-tree:use:1:5:5:b]]

@@ -1,0 +1,15 @@
+# USE1.5.4 EasyBuild
+
+EasyBuild is a framework for building, installing, and managing scientific software on HPC systems. It uses *easyconfig* files to describe software builds and can automatically resolve and install dependencies through predefined software toolchains.
+
+## Requirements
+
+* [[skill-tree:use:1:5:1:b]]
+
+## Learning Outcomes
+
+* Understand the role of EasyBuild in automating software installation and software stack management on HPC systems.
+* Search for available easyconfig files and identify appropriate software versions and toolchains using `eb --search`.
+* Analyse software dependencies and installation plans using EasyBuild dry-run functionality before performing installations.
+* Install software from easyconfig files and use the robot dependency resolution mechanism to automatically build required dependencies.
+* Understand the structure and purpose of easyconfig files, including software version, toolchain, and dependency specifications.

@@ -1,0 +1,22 @@
+# SD1.2.2.1.4 Dependencies
+
+A program executing parallel code will eventually run into dependencies, meaning on part of the code is waiting for another part or on thread requires data that needs to be written by another one.
+This has synchronizations implications, but in order to fully resolve and optimize the code, it is required to understand the reasons behind the dependencies and being able to identify them.
+
+## Requirements
+
+* [[skill-tree:sd:1:2:2:1:2:b]]
+* [[skill-tree:sd:1:2:2:1:3:b]]
+
+## Learning Outcomes
+
+* Understand Dependency Pattern and remember 
+    * Data Dependencies
+    * Control Dependencies
+* Understand Memory Hierarchy and Data Reuse
+* Assess the influence of control dependencies by jumps, branches, and function calls, e.g. on pipeline filling.
+* Assess data dependency situations, i.e. an instruction reading the data written by a preceding instruction in the source code, and anti dependencies, i.e. an instruction having to read data before a succeeding instruction overwrites it, and output dependencies, i.e. instructions writing to the same memory location.
+
+## Author
+
+EVITA project evitahpc.eu

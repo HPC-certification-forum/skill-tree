@@ -1,0 +1,20 @@
+# SD1.2.2.1.3 Pipelining
+
+The concept of pipelining can be applied to both software and hardware optimizations.
+These include handling of loops parallelism and general instructions and memory fetching operations.
+
+## Requirements
+
+* [[skill-tree:sd:1:2:2:1:1:b]]
+
+## Learning Outcomes
+
+* Understand Software Pipelining.
+* Assess concepts like software pipelining, e.g. to optimize loops by out-of-order execution.
+* Assess concepts like software pipelining and vectorization principles.
+* Explain unstructured parallelism concepts such as task-based concurrency and dynamic scheduling.
+* Define vectorization and its role in data-level parallelism.
+
+## Author
+
+EVITA project evitahpc.eu

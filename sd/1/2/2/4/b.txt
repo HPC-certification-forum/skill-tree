@@ -1,0 +1,22 @@
+# SD1.2.2.4 Parallelism with compiler options - OpenMP
+
+Compiler instructions or directive based parallel programming is a very common approach to move serial code into a  parallel operation. This can be done by decorators or compiler instructions. This includes loops unroll and thread mapping, as well as sections and task management. These concepts are analyzed and some example for their application are given.
+
+## Requirements
+
+* [[skill-tree:sd:1:2:2:1:6:b]]
+* [[skill-tree:sd:1:2:2:1:7:b]]
+
+## Learning Outcomes
+
+* Explain the execution model of directive-based parallel programming (e.g., OpenMP), including threads, work-sharing constructs, and synchronization semantics.
+* Apply parallel loop constructs, sections, and tasks to improve application performance.
+* Use data-sharing clauses (e.g., private, shared, reduction, firstprivate) to ensure correctness and performance.
+* Analyze performance bottlenecks arising from poor scheduling, synchronization, or inappropriate data scoping.
+* Select appropriate scheduling strategies (static, dynamic, guided) to optimize workload distribution.
+* Debug common issues in directive-based parallel programs such as data races, deadlocks, and unintended serialization.
+* Evaluate the trade-offs between directive-based parallelization and manual threading approaches (e.g., Pthreads).
+
+## Author
+
+EVITA project evitahpc.eu

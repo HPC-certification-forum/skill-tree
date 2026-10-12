@@ -1,6 +1,6 @@
 # QC6.1.2 Tensor-Network-Based Quantum Simulation
 
-This skill introduces tensor-network simulation methods for classical HPC systems. Learners examine how quantum states and circuits can be represented as interconnected tensors to reduce memory and computational requirements for certain classes of quantum problems.
+This skill introduces tensor-network simulation methods for classical High-Performance Computing systems. Learners examine how quantum states and circuits can be represented as interconnected tensors to reduce memory and computational requirements for certain classes of quantum problems.
 
 Emphasis is placed on understanding the role of entanglement, contraction order, and network topology in determining computational efficiency, as well as the types of circuits where tensor-network simulation is most effective.
 

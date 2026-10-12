@@ -493,16 +493,16 @@
 <node TEXT="4: Bernstein-Vazirani Algorithm (QC2.4)" ID="ID_1190376343" CREATED="1770321239241" MODIFIED="1784794387202" LINK="qc/2/4/b.txt"/>
 <node TEXT="5: Simon&apos;s Algorithm (QC2.5)" ID="ID_1404231739" CREATED="1770321245971" MODIFIED="1784794385412" LINK="qc/2/5/b.txt"/>
 <node TEXT="6: Grover&apos;s Algorithm (QC2.6)" ID="ID_290255858" CREATED="1770321252899" MODIFIED="1784794383805" LINK="qc/2/6/b.txt"/>
-<node TEXT="7: Quantum Fourier Transform (QC2.7)" ID="ID_46524569" CREATED="1770321260674" MODIFIED="1784794382163" LINK="qc/2/7/b.txt"/>
+<node TEXT="7: Quantum Fourier Transform (QFT) (QC2.7)" ID="ID_46524569" CREATED="1770321260674" MODIFIED="1784794382163" LINK="qc/2/7/b.txt"/>
 <node TEXT="8: Quantum Phase Estimation (QC2.8)" ID="ID_1760593432" CREATED="1770322776931" MODIFIED="1784794380526" LINK="qc/2/8/b.txt"/>
-<node TEXT="9: Shor&apos;s Algorithm (QC2.9)" ID="ID_859966123" CREATED="1770322998260" MODIFIED="1784794378685" LINK="qc/2/9/b.txt"/>
+<node TEXT="9: Shor&apos;s Algorithm (Overview) (QC2.9)" ID="ID_859966123" CREATED="1770322998260" MODIFIED="1784794378685" LINK="qc/2/9/b.txt"/>
 </node>
 <node TEXT="3: Variational, Hybrid, and Quantum-Inspired Methods (QC3)" FOLDED="true" POSITION="bottom_or_right" ID="ID_18425153" CREATED="1651503258947" MODIFIED="1785145394566" LINK="qc/3/b.txt">
 <icon BUILTIN="emoji-1F4C1"/>
 <node TEXT="1: Conceptual Overview of Variational Algorithms (QC3.1)" ID="ID_259572731" CREATED="1770323993679" MODIFIED="1784794416074" LINK="qc/3/1/b.txt" HGAP_QUANTITY="14.75 pt"/>
-<node TEXT="2: Variational Quantum Eigensolver (QC3.2)" ID="ID_1332000053" CREATED="1770323550647" MODIFIED="1784794421872" LINK="qc/3/2/b.txt"/>
-<node TEXT="3: Quantum Approximate Optimisation Algorithm (QC3.3)" ID="ID_540733812" CREATED="1770323573152" MODIFIED="1784794426816" LINK="qc/3/3/b.txt"/>
-<node TEXT="4: Quantum-Inspired Methods for Classical HPC (QC3.4)" ID="ID_925756415" CREATED="1770997425968" MODIFIED="1784794431186" LINK="qc/3/3/b.txt"/>
+<node TEXT="2: Variational Quantum Eigensolver (VQE) (QC3.2)" ID="ID_1332000053" CREATED="1770323550647" MODIFIED="1784794421872" LINK="qc/3/2/b.txt"/>
+<node TEXT="3: Quantum Approximate Optimisation Algorithm (QAOA) (QC3.3)" ID="ID_540733812" CREATED="1770323573152" MODIFIED="1784794426816" LINK="qc/3/3/b.txt"/>
+<node TEXT="4: Quantum-Inspired Methods for Classical High-Performance Computing (QC3.4)" ID="ID_925756415" CREATED="1770997425968" MODIFIED="1784794431186" LINK="qc/3/4/b.txt"/>
 </node>
 <node TEXT="4: Quantum Programming (QC4)" FOLDED="true" POSITION="bottom_or_right" ID="ID_5406097" CREATED="1651503258947" MODIFIED="1784799814318" LINK="qc/4/b.txt">
 <icon BUILTIN="emoji-1F4C1"/>
@@ -516,16 +516,16 @@
 <node TEXT="2: Quantum Compilation and Transpilation (QC5.2)" ID="ID_914864680" CREATED="1770380016141" MODIFIED="1784794477325" LINK="qc/5/2/b.txt"/>
 <node TEXT="3: Noise, Error Correction, and Fault Tolerance (QC5.3)" ID="ID_1529827268" CREATED="1770380211644" MODIFIED="1784794484016" LINK="qc/5/3/b.txt"/>
 </node>
-<node TEXT="6: Quantum-HPC Integration (QC6)" FOLDED="true" POSITION="bottom_or_right" ID="ID_1427632261" CREATED="1651503258947" MODIFIED="1784799828281" LINK="qc/6/b.txt">
+<node TEXT="6: Integration of Quantum and High-Performance Computing (QC6)" FOLDED="true" POSITION="bottom_or_right" ID="ID_1427632261" CREATED="1651503258947" MODIFIED="1784799828281" LINK="qc/6/b.txt">
 <icon BUILTIN="emoji-1F4C1"/>
-<node TEXT="1: Quantum Simulation on Classical HPC Systems (QC6.1)" ID="ID_1634895472" CREATED="1651503258947" MODIFIED="1784799865485" LINK="qc/6/1/b.txt">
+<node TEXT="1: Quantum Simulation on Classical High-Performance Computing Systems (QC6.1)" ID="ID_1634895472" CREATED="1651503258947" MODIFIED="1784799865485" LINK="qc/6/1/b.txt">
 <icon BUILTIN="emoji-1F4C1"/>
 <node TEXT="1: State-Vector Quantum Simulation (QC6.1.1)" ID="ID_448566706" CREATED="1770384981411" MODIFIED="1784794520749" LINK="qc/6/1/1/b.txt"/>
 <node TEXT="2: Tensor-Network-Based Quantum Simulation (QC6.1.2)" ID="ID_574039765" CREATED="1770385093284" MODIFIED="1784794524748" LINK="qc/6/1/2/b.txt"/>
 <node TEXT="3: Sampling-Based and Approximate Quantum Simulation (QC6.1.3)" ID="ID_896163172" CREATED="1770385156084" MODIFIED="1784794530251" LINK="qc/6/1/3/b.txt"/>
 </node>
-<node TEXT="2: Hybrid Quantum–HPC Workflows and Orchestration (QC6.2)" ID="ID_1499403224" CREATED="1770386079227" MODIFIED="1784794538382" LINK="qc/6/2/b.txt"/>
-<node TEXT="3: Applications and Use Cases for Quantum–HPC Workflows (QC6.3)" ID="ID_1200211633" CREATED="1770387412659" MODIFIED="1784794542453" LINK="qc/6/3/b.txt"/>
+<node TEXT="2: Hybrid Quantum–Classical Workflows for High-Performance Computing (QC6.2)" ID="ID_1499403224" CREATED="1770386079227" MODIFIED="1784794538382" LINK="qc/6/2/b.txt"/>
+<node TEXT="3: Applications and Use Cases for Quantum Workflows in High-Performance Computing (QC6.3)" ID="ID_1200211633" CREATED="1770387412659" MODIFIED="1784794542453" LINK="qc/6/3/b.txt"/>
 </node>
 <node TEXT="7: Quantum Annealing and Adiabatic Computing (QC7)" ID="ID_1827716958" CREATED="1770394671929" MODIFIED="1784794548829" LINK="qc/7/b.txt"/>
 </node>

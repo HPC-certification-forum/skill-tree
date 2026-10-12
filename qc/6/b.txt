@@ -1,6 +1,6 @@
-# QC6 Quantum–HPC Integration
+# QC6 Integration of Quantum and High-Performance Computing
 
-This skill explores how quantum computing can be integrated into high-performance computing (HPC) environments and workflows.
+This skill explores how quantum computing can be integrated into High-Performance Computing (HPC) environments and workflows.
 Learners examine hybrid quantum–classical approaches in which classical HPC resources prepare circuits, submit them for execution on simulators or quantum processors, and post-process measurement results.
 The skill focuses on integration patterns and constraints that matter in HPC settings, including co-locating quantum workloads with classical pre-/post-processing, managing latency and throughput, and assessing end-to-end time-to-solution.
 Representative examples (e.g., chemistry/materials, optimisation, and machine learning) are used to illustrate both opportunities and practical limitations such as noise, limited throughput, and the impact of sampling on runtime.

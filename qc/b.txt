@@ -1,7 +1,7 @@
 # QC Quantum Computing
 
 Quantum computing is an emerging paradigm that leverages principles of quantum mechanics to provide known computational speedups for certain classes of problems and may offer advantages for others.
-This node introduces learners to the foundations of quantum information, quantum programming, and the integration of quantum resources into high-performance computing (HPC) workflows.
+This node introduces learners to the foundations of quantum information, quantum programming, and the integration of quantum resources into High-Performance Computing (HPC) workflows.
 By covering foundational principles, algorithms, programming, hardware, simulation, and hybrid and alternative computational models, this branch prepares learners for both conceptual understanding and practical experimentation.
 
 ## Requirements

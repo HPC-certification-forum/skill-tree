@@ -10,6 +10,6 @@ This skill introduces state preparation as a practical prerequisite for quantum 
 ## Learning Outcomes
 
 * Explain what state preparation means in the quantum circuit model.
-* Describe common state preparation patterns, including initialisation, basis changes, and parameterised (ansatz-based) preparation.
+* Describe common state preparation patterns, including initialisation, basis changes, and parameterised quantum circuits (i.e., ansatz) for state preparation.
 * Explain why some quantum states require more complex circuits to prepare than others.
 * Describe how state preparation complexity affects the depth and structure of quantum circuits.

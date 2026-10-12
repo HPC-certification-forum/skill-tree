@@ -13,7 +13,7 @@ The skill then introduces the motivation for quantum error correction, the disti
 ## Learning Outcomes
 
 * Identify major sources of error in quantum hardware, including decoherence, control errors, crosstalk, leakage, and readout errors.
-* Explain T1 and T2 times at a conceptual level and how they relate to gate duration, circuit depth, and achievable accuracy.
+* Explain the relaxation time T1, which characterises energy decay, and the coherence time T2, which characterises loss of phase coherence, and how they relate to gate duration, circuit depth, and achievable accuracy.
 * Describe the distinction between error mitigation and quantum error correction, and when each is applicable.
 * Explain the purpose of quantum error correction in terms of physical versus logical qubits and repeated syndrome measurement.
 * Describe the threshold theorem idea at a high level and its implications for fault-tolerant computation.

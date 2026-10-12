@@ -1,6 +1,6 @@
 # QC7 Quantum Annealing and Adiabatic Computing
 
-This skill introduces quantum annealing and adiabatic quantum computing as alternative computational models to the gate-based (circuit) approach. Learners develop an intuitive understanding of computation expressed as energy minimisation, where solutions correspond to low-energy configurations of a system. The skill differentiates idealised adiabatic quantum computing as a theoretical model from practical quantum annealers inspired by related physical principles, and situates both within the broader landscape of quantum computation.
+This skill introduces quantum annealing and adiabatic quantum computing as alternative computational models to the gate-based (circuit) approach. Adiabatic quantum computing is an idealised model in which a system changes slowly enough to remain in its lowest-energy state. Quantum annealing is a related metaheuristic that operates in a real, error-prone environment and seeks low-energy solutions without the same guarantee. Learners develop an intuitive understanding of computation expressed as energy minimisation, where solutions correspond to low-energy configurations of a system. The skill differentiates idealised adiabatic quantum computing as a theoretical model from practical quantum annealers inspired by related physical principles, and situates both within the broader landscape of quantum computation.
 
 ## Requirements
 
@@ -17,4 +17,4 @@ Internal:
 * Identify problem classes commonly associated with quantum annealing, including combinatorial optimisation and sampling problems.
 * Describe, at a high level, the distinction between ideal adiabatic quantum computing models and practical quantum annealing implementations.
 * Explain how practical constraints, such as noise, limited control, restricted connectivity, and embedding overheads, influence the capabilities and interpretation of results from quantum annealers.
-* Represent a simple binary optimisation problem using a QUBO or Ising formulation.
+* Represent a simple binary optimisation problem using a Quadratic Unconstrained Binary Optimisation (QUBO) or Ising formulation.

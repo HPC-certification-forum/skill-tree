@@ -1,6 +1,6 @@
 # QC6.1.1 State-Vector Quantum Simulation
 
-This skill introduces state-vector simulation as the most direct method for simulating quantum computations on classical HPC systems. Learners examine how the full quantum state of an n-qubit system is represented explicitly as a vector of complex amplitudes, and how quantum gates are applied as linear transformations.
+This skill introduces state-vector simulation as the most direct method for simulating quantum computations on classical High-Performance Computing systems. Learners examine how the full quantum state of an n-qubit system is represented explicitly as a vector of complex amplitudes, and how quantum gates are applied as linear transformations.
 
 Emphasis is placed on understanding memory requirements, computational scaling, and practical limits, providing a baseline for comparing more advanced simulation techniques.
 

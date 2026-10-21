@@ -11,7 +11,7 @@ This skill extends quantum computation to systems composed of multiple qubits. L
 
 * Explain how multi-qubit quantum states are represented using tensor products.
 * Differentiate between sequential and parallel applications of single-qubit gates in multi-qubit systems.
-* Describe the function of common multi-qubit gates, including CNOT and SWAP.
+* Describe the function of common multi-qubit gates, including controlled-NOT (CNOT) gates and SWAP gates, which exchange the states of two qubits.
 * Explain the concept of entanglement and describe Bell states as canonical examples.
 * Summarise the impact of entanglement on the classical simulability of quantum systems.
 * Describe how measurement operates in multi-qubit systems.

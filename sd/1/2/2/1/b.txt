@@ -1,0 +1,36 @@
+# SD1.2.2.1 Shared Memory concepts
+
+The concepts of shared memory programming reach beyond knowing what the hardware is capable of performing.
+This includes an understanding of synchronizations between processes, structuring of instruction and data pipelines, dependencies within an application, data management, and accessing the shared memory block efficiently, as well as some coding principles and the two major implementations and use cases.
+
+## Requirements
+
+## Learning Outcomes
+
+* Describe the architecture and operation of shared-memory multiprocessor systems and explain how files and file systems are structured and accessed.
+* Describe the security issues related to shared-memory environments, especially in memory access.
+* Describe the purpose of synchronization in shared-memory parallel programs and distinguish between different synchronization constructs (spin-locks, mutexes, semaphores, condition variables, barriers).
+* Explain the relationship between synchronization and consistency models (e.g., memory fences, visibility).
+* Understand Software Pipelining and assess concepts such as software pipelining, e.g., to optimize loops using out-of-order execution.
+* Explain unstructured parallelism concepts such as task-based concurrency and dynamic scheduling.
+* Understand Dependency Pattern and remember Data Dependencies and Control Dependencies as well as understand Memory Hierarchy and Data Reuse.
+* Assess data dependency situations, i.e., an instruction reading the data written by a preceding instruction in the source code, and anti dependencies, i.e., an instruction having to read data before a succeeding instruction overwrites it, and output dependencies, i.e., instructions writing to the same memory location.
+* Apply the concept of functional parallelism, i.e., executing a set of distinct functions possibly using the same data, and understand Single Instruction Multiple Data (SIMD)
+* Use data parallelism, e.g., applying parallel streams of identical instructions to different elements of appropriate data structures such as arrays.
+* Combine automatic parallelization by the compiler with manual parallelization, vectorization, and parallelization
+* Explain the interactions between compiler vectorizations, loop transformations, and memory constraints.
+* Use POSIX Threads and OpenMP to program sample applications
+
+## Subskills
+
+* [[skill-tree:sd:1:2:2:1:1:b]]
+* [[skill-tree:sd:1:2:2:1:2:b]]
+* [[skill-tree:sd:1:2:2:1:3:b]]
+* [[skill-tree:sd:1:2:2:1:4:b]]
+* [[skill-tree:sd:1:2:2:1:5:b]]
+* [[skill-tree:sd:1:2:2:1:6:b]]
+* [[skill-tree:sd:1:2:2:1:7:b]]
+
+## Author
+
+EVITA project evitahpc.eu

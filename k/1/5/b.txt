@@ -1,7 +1,7 @@
 # K1.5 Accelerators
 
-An HPC environment is often expanded using accelerators, which can cards like PCIE or directly integrated into a host system.
-Some systems even have special accelerators baked into the Dye of the CPU which allows for very fast communication.
+An HPC environment is often expanded using accelerators, which can cards like PCIe or directly integrated into a host system.
+Some systems even have special accelerators baked into the dye of the CPU which allows for very fast communication.
 Here we explore the hardware concepts and deploy simple programs to demonstrate their use as well as compare performance to general purpose hardware like a CPU.
 
 ## Learning Outcomes

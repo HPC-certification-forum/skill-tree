@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Skill Tree" FOLDED="false" ID="ID_1292385230" CREATED="1701761058911" MODIFIED="1784730372954" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle" zoom="0.733">
+<hook NAME="MapStyle" zoom="0.564">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -258,10 +258,30 @@
 <node TEXT="1: Programming Concepts for HPC (SD1)" FOLDED="true" ID="ID_1040681873" CREATED="1559477684579" MODIFIED="1744724755960" LINK="sd/1/b.txt">
 <icon BUILTIN="emoji-1F4C1"/>
 <node TEXT="1: Programming Languages (SD1.1)" ID="ID_1502178790" CREATED="1504023992437" MODIFIED="1725379186024" LINK="sd/1/1/b.txt"/>
-<node TEXT="2: Parallel Programming (SD1.2)" FOLDED="true" ID="ID_673885563" CREATED="1495106881034" MODIFIED="1744724716080" LINK="sd/1/2/b.txt">
+<node TEXT="2: Parallel Programming (SD1.2)" ID="ID_673885563" CREATED="1495106881034" MODIFIED="1744724716080" LINK="sd/1/2/b.txt">
 <icon BUILTIN="emoji-1F4C1"/>
 <node TEXT="1: Parallel Algorithms (SD1.2.1)" ID="ID_1223389664" CREATED="1495122645549" MODIFIED="1725379208900" LINK="sd/1/2/1/b.txt"/>
-<node TEXT="2: Shared Memory Systems (SD1.2.2)" ID="ID_1721047596" CREATED="1495194986622" MODIFIED="1725379213914" LINK="sd/1/2/2/b.txt"/>
+<node TEXT="2: Shared Memory Systems (SD1.2.2)" FOLDED="true" ID="ID_658806939" CREATED="1496146842807" MODIFIED="1784727491432" LINK="sd/1/2/2/b.txt">
+<icon BUILTIN="emoji-1F4C1"/>
+<node TEXT="1: Shared Memory concepts (SD1.2.2.1)" ID="ID_128814509" CREATED="1496146842807" MODIFIED="1784727377407" LINK="sd/1/2/2/1/b.txt">
+<icon BUILTIN="emoji-1F4C1"/>
+<node TEXT="1: Shared Memory architecture (SD1.2.2.1.1)" POSITION="top_or_left" ID="ID_1746928569" CREATED="1784726985692" MODIFIED="1784727411749" LINK="sd/1/2/2/1/1/b.txt"/>
+<node TEXT="2: Synchronizations (SD1.2.2.1.2)" POSITION="top_or_left" ID="ID_1915460426" CREATED="1784727002976" MODIFIED="1784727415858" LINK="sd/1/2/2/1/2/b.txt"/>
+<node TEXT="3: Pipelining (SD1.2.2.1.3)" POSITION="top_or_left" ID="ID_1209153468" CREATED="1784727020151" MODIFIED="1784727420952" LINK="sd/1/2/2/1/3/b.txt"/>
+<node TEXT="4: Dependencies (SD1.2.2.1.4)" POSITION="top_or_left" ID="ID_1392071765" CREATED="1784727044901" MODIFIED="1784727425631" LINK="sd/1/2/2/1/4/b.txt"/>
+<node TEXT="5: Data handling (SD1.2.2.1.5)" POSITION="top_or_left" ID="ID_834758173" CREATED="1784727057285" MODIFIED="1784727430272" LINK="sd/1/2/2/1/5/b.txt"/>
+<node TEXT="6: Shared Memory coding principles (SD1.2.2.1.6)" POSITION="top_or_left" ID="ID_1985982275" CREATED="1784727079651" MODIFIED="1784727435850" LINK="sd/1/2/2/1/6/b.txt"/>
+<node TEXT="7: Sample implementations of POSIX Threads and OpenMP (SD1.2.2.1.7)" POSITION="top_or_left" ID="ID_628149833" CREATED="1784727099575" MODIFIED="1784727440281" LINK="sd/1/2/2/1/7/b.txt"/>
+</node>
+<node TEXT="2: Parallelism with threading (SD1.2.2.2)" ID="ID_494746600" CREATED="1784727112401" MODIFIED="1784727259437" LINK="sd/1/2/2/2/b.txt"/>
+<node TEXT="3: Parallelism with hardware instructions (SD1.2.2.3)" ID="ID_197676410" CREATED="1784727136508" MODIFIED="1784727268093" LINK="sd/1/2/2/3/b.txt"/>
+<node TEXT="4: Parallelism with compiler options - OpenMP (SD1.2.2.4)" ID="ID_1694631887" CREATED="1784727153915" MODIFIED="1784727371749" LINK="sd/1/2/2/4/b.txt"/>
+<node TEXT="5: Parallisms with Language extension (SD1.2.2.5)" ID="ID_165807912" CREATED="1496146842807" MODIFIED="1784727445541" LINK="sd/1/2/2/5/b.txt">
+<icon BUILTIN="emoji-1F4C1"/>
+<node TEXT="1: SYCL (SD1.2.2.5.1)" POSITION="top_or_left" ID="ID_1039038814" CREATED="1784727178448" MODIFIED="1784727459582" LINK="sd/1/2/2/5/1/b.txt"/>
+<node TEXT="2: OpenACC (SD1.2.2.5.2)" POSITION="top_or_left" ID="ID_1687214875" CREATED="1784727197418" MODIFIED="1784727463452" LINK="sd/1/2/2/5/2/b.txt"/>
+</node>
+</node>
 <node TEXT="3: Message Passing Systems (SD1.2.3)" ID="ID_1400322639" CREATED="1495194997366" MODIFIED="1725379218992" LINK="sd/1/2/3/b.txt"/>
 <node TEXT="4: Load Balancing (SD1.2.4)" ID="ID_501999805" CREATED="1495207942128" MODIFIED="1725379225012" LINK="sd/1/2/4/b.txt"/>
 <node TEXT="5: I/O Programming Middleware (SD1.2.5)" FOLDED="true" ID="ID_1837924068" CREATED="1496146842807" MODIFIED="1744724765448" LINK="sd/1/2/5/b.txt">
@@ -346,6 +366,8 @@
 <node TEXT="1: Environment Modules (USE1.5.1)" ID="ID_867808287" CREATED="1495115463009" MODIFIED="1725378317843" LINK="use/1/5/1/b.txt"/>
 <node TEXT="2: Spack (USE1.5.2)" ID="ID_564286239" CREATED="1705399834204" MODIFIED="1725378323760" LINK="use/1/5/2/b.txt"/>
 <node TEXT="3: Conda environments (USE1.5.3)" ID="ID_1383141956" CREATED="1725614268627" MODIFIED="1725614418118" LINK="use/1/5/3/b.txt"/>
+<node TEXT="4: EasyBuild (USE1.5.4)" ID="ID_1235281015" CREATED="1781082315850" MODIFIED="1781082315850" LINK="use/1/5/4/b.txt"/>
+<node TEXT="5: EESSI (USE1.5.5)" ID="ID_1192589359" CREATED="1781082315850" MODIFIED="1781082315850" LINK="use/1/5/5/b.txt"/>
 </node>
 <node TEXT="6: CLI File editors (USE1.6)" ID="ID_249777418" CREATED="1740738976370" MODIFIED="1740739004709" LINK="use/1/6/b.txt"/>
 <node TEXT="7: Terminal Multiplexers (USE1.7)" ID="ID_1253558070" CREATED="1744634779685" MODIFIED="1744634807187" LINK="use/1/7/b.txt"/>

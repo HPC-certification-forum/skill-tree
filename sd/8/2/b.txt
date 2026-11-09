@@ -5,7 +5,7 @@
 * [[skill-tree:sd:8:1:b]]
 * [[skill-tree:sd:3:1:b]]
 
-## Learning Objectives 
+## Learning Outcomes 
 
 * Implement a Continuous Integration (CI) workflow on GitHub by adapting the CI workflow of the Snakemake Catalogue Template to ensure automated testing, linting, and formatting control for reliable build and release cycles.
 * Modularise existing Snakemake workflow code into semantic units to enhance maintainability and enable efficient sub-component testing.

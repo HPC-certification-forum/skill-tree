@@ -3,7 +3,7 @@
 IDL (Interactive Data Language) is a commercial scientific computing environment that combines mathematics, advanced data visualization, scientific graphics, and a graphical user interface toolkit to analyze and visualize scientific data.
 IDL supports data in NetCDF format.
 
-## Learning objecives
+## Learning Outcomes
 
 * Write a two-dimensional array of sample data and read data from this file.
 * Write some variables with units attributes and coordinate dimensions and read data variables and attributes from this file.

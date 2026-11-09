@@ -7,3 +7,4 @@
 * Understand Parallel Nature of Algorithms
 * Understand Computational Complexity
 
+* Author: EVITA evitahpc.eu

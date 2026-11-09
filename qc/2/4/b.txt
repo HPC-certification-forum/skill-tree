@@ -1,0 +1,15 @@
+# QC2.4 Bernstein-Vazirani Algorithm
+
+This skill introduces the Bernstein–Vazirani algorithm as a quantum algorithm that identifies a hidden bit string encoded in a linear Boolean function using a single oracle query. Learners examine how phase kickback and interference enable the extraction of global information that would require multiple queries in the classical setting. Emphasis is placed on executing the algorithm and interpreting its computational outcome.
+
+## Requirements
+
+* [[skill-tree:qc:1:3:b]]
+* [[skill-tree:qc:2:1:b]]
+
+## Learning Outcomes
+
+* Describe the problem solved by the Bernstein-Vazirani algorithm and its classical query complexity.
+* Explain how phase kickback and interference enable the extraction of a hidden bit string from the oracle.
+* Execute the Bernstein–Vazirani algorithm step by step for a given oracle.
+* Calculate and interpret the measurement outcomes to determine the encoded bit string.

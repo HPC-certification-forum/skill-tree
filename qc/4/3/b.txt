@@ -1,0 +1,18 @@
+# QC4.3 Implementing Variational Algorithms End-to-End
+
+This skill introduces the practical implementation of variational quantum algorithms as hybrid quantum-classical workflows. Learners implement a simple variational algorithm, combining parameterised quantum circuits with a classical optimisation loop. Emphasis is placed on understanding the end-to-end execution pattern, including repeated circuit evaluation, expectation value estimation, and parameter updates.
+
+The focus is on workflow comprehension and practical execution rather than mathematical derivation or performance tuning.
+
+## Requirements
+
+* [[skill-tree:qc:3:1:b]]
+* [[skill-tree:qc:4:1:b]]
+
+## Learning Outcomes
+
+* Describe the end-to-end workflow of a variational quantum algorithm.
+* Implement a parameterised quantum circuit using a quantum programming framework.
+* Execute a hybrid quantum-classical loop involving circuit execution and classical optimisation.
+* Compute and interpret expectation values used to guide parameter updates.
+* Distinguish the practical execution workflow of a variational algorithm from that of a gate-model algorithm.

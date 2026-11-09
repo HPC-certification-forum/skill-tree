@@ -1,0 +1,16 @@
+# QC2.3 Deutsch's Algorithm
+
+This skill introduces Deutsch's algorithm as the simplest quantum algorithm that demonstrates a separation between classical and quantum computation. Learners study how superposition, interference and phase kickback are combined to determine a global property of a Boolean function using a single oracle query. Emphasis is placed on executing the algorithm step by step and interpreting the computational result.
+
+## Requirements
+
+* [[skill-tree:qc:1:3:b]]
+* [[skill-tree:qc:2:1:b]]
+
+## Learning Outcomes
+
+* Describe the problem solved by Deutsch's algorithm and its classical query complexity.
+* Explain how superposition, interference and phase kickback enable the classification of the oracle.
+* Execute Deutsch's algorithm step by step for a given oracle.
+* Calculate and interpret the measurement outcome to determine whether the function is constant or balanced.
+

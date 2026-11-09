@@ -21,6 +21,6 @@ However, it bears the potential to increase productivity by providing scaffoldin
 * [[skill-tree:sd:3:b]]
 * [[skill-tree:sd:4:b]]
 * [[skill-tree:sd:5:b]]
-* [[skill-tree:sd:5:b]]
+* [[skill-tree:sd:6:b]]
 * [[skill-tree:sd:7:b]]
 * [[skill-tree:sd:8:b]]

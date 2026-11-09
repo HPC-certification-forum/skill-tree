@@ -1,0 +1,20 @@
+# SD1.2.2.1.2 Synchronizations
+
+Using Shared Memory principles allows one to run with multiple threads and either run different instructions or the same instructions on the same or different data.
+At any point in the program execution it may be required to synchronize all or parts of the threads.
+This brings its own problems and performance penalties and these are to be investigated and understood in this skill.
+
+## Requirements
+
+## Learning Outcomes
+
+* Describe the purpose of synchronization in shared-memory parallel programs.
+* Detect race conditions and use synchronization mechanisms to avoid them.
+* Estimate the problems that may result from erroneous use of synchronization mechanisms (e.g. deadlocks).
+* Distinguish between different synchronization constructs (spin-locks, mutexes, semaphores, condition variables, barriers).
+* Explain the relationship between synchronization and consistency models (e.g., memory fences, visibility).
+* Discuss the trade-offs between coarse-grained and fine-grained locking strategies.
+
+## Author
+
+EVITA project evitahpc.eu

@@ -6,9 +6,11 @@
 * Develop parallel programs for shared memory systems as well as for message passing systems.
 * Develop efficient algorithms and data structures.
 * Assess the efficiency and suitability of algorithms and data structures for the respective application.
+* Understand when to use containers for HPC and be able to set up containers and workflows with data in and output
 
 ## Subskills
 
 * [[skill-tree:sd:1:1:b]]
 * [[skill-tree:sd:1:2:b]]
 * [[skill-tree:sd:1:3:b]]
+* [[skill-tree:sd:1:4:b]]
